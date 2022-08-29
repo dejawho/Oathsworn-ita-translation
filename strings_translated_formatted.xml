@@ -6767,7 +6767,7 @@ L\'ultima guardia di Bastone vi ha salvato. Non avete tempo da perdere. Scendend
 \"Sei venuto anche tu a saccheggiare? Perché se vuoi prendere qualcosa, te la farò pagare in un modo o nell\'altro\", dice, impugnando il suo martello.
 Gli dici che non sei qui per saccheggiare e lui si siede di nuovo.
 \"Non avrebbe comunque importanza. Ho perso mio figlio. Cos\'altro importa?\""</string>
-	<string name="chp3a_19_4__a">Quando arrivate all'officina del Fabbro, il locale è stato chiaramente svaligiato. Non tutto è stato portato via dai saccheggiatori, tuttavia, e ci sono diverse armi e armature sparse in giro.</string>
+	<string name="chp3a_19_4__a">Quando arrivate all\'officina del Fabbro, il locale è stato chiaramente svaligiato. Non tutto è stato portato via dai saccheggiatori, tuttavia, e ci sono diverse armi e armature sparse in giro.</string>
 	<string name="chp3a_19_5__a">"Da fuori, osservate la strada. In lontananza si vede la Quercia Spezzata per un brevissimo momento, prima che esploda in una pioggia di legname e pietre. La testa della bestia emerge dai rottami e si volta in strada verso di voi.
 La Porta Principale non è lontana e si sente un gran vociare da quella direzione."</string>
 	<string name="chp3a_19_6__a">Vi avvicinate all\'uomo e gli offrite la possibilità di combattere il Bosco Profondo.</string>
@@ -6785,7 +6785,7 @@ Cercate rapidamente nella sala delle guardie e trovate un\'armeria consistente."
 A passo di corsa, svoltate l\'angolo della strada che conduce alla Porta Principale e vi scontrate con una massa di corpi. Un mare di persone si estende davanti a voi verso la Porta Principale, molte delle quali stringono le loro cose, urlando e gridando. C\'è gente che viene calpestata, mentre ondate di panico si abbattono sulla folla.
 Dietro di voi, la Rovina di Bastone si schianta contro un edificio. I corpi vengono scagliati con noncuranza, sballottati dalle contrazioni del collo della bestia. Lo strano fumo arricciato che fuoriesce dal suo collo riempie la strada affollata, mentre voi cercate una qualsiasi direzione in cui muovervi."</string>
 	<string name="chp3a_24_1__a">Posizione 24 - I Burrows</string>
-	<string name="chp3a_24_1__c">Le famiglie si rannicchiano nelle porte buie dei Burrows mentre si sente l'officina del Fabbro frantumarsi in una cacofonia di ferro e pietra. La cosa si dirigerà presto da questa parte.</string>
+	<string name="chp3a_24_1__c">Le famiglie si rannicchiano nelle porte buie dei Burrows mentre si sente l\'officina del Fabbro frantumarsi in una cacofonia di ferro e pietra. La cosa si dirigerà presto da questa parte.</string>
 	<string name="chp3a_24_4__a">Tra di voi, scartate il legno caduto e la gente esce dall\'ingresso.</string>
 	<string name="chp3a_24_4__c">"Una nuvola di polvere e detriti si alza nelle vicinanze.
 \"Dobbiamo muoverci,\" ansima Midge. \"Subito! C\'è una porta secondaria attraverso le mura a sud di qui per i rifornimenti durante l\'assedio. Non ci sarà nessuno, solo pochi di noi lo sanno. Fidatevi di me.\""</string>
@@ -11926,7 +11926,7 @@ L\'OATHSWORN SCELTO EFFETTUA UNA PROVA DI INSEGUIMENTO (CHASE CHECK, DIFFICOLTÀ
 2. IMPEDITE ALLE FIGURE AMMANTATE ALL\'INGRESSO DI ENTRARE NELLA STANZA
 3. SALTATE DALLA FINESTRA E INSEGUITE LA FIGURA CON LA BARRA DI CONTROLLO.
 GLI OATHSWORN PRESI DI MIRA DAL GOLEM DEVONO SCEGLIERE DI PROVARE A FERMARE IL GOLEM."</string>
-	<string name="pop9_14_4__b">ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 10). AGGIUNGERE 3 AL RISULTATO PER OGNI OATHSWORN CHE STA CERCANDO DI FERMARE IL GOLEM. AGGIUNGERE 1 AL RISULTATO SE È COINVOLTO UN URSUS. SE FALLITE, L'OATHSWORN BERSAGLIATO DEL GOLEM PERDE 1 PUNTO FERITA.</string>
+	<string name="pop9_14_4__b">ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 10). AGGIUNGERE 3 AL RISULTATO PER OGNI OATHSWORN CHE STA CERCANDO DI FERMARE IL GOLEM. AGGIUNGERE 1 AL RISULTATO SE È COINVOLTO UN URSUS. SE FALLITE, L\'OATHSWORN BERSAGLIATO DEL GOLEM PERDE 1 PUNTO FERITA.</string>
 	<string name="pop9_14_7__b">DUE OATHSWORN A CASO PERDONO 1 PUNTO FERITA.</string>
 	<string name="pop9_14_8__b">"OGNI OATHSWORN CHE HA SCELTO DI "FERMARE LE FIGURE AMMANTATE NELLA PORTA" ESEGUE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9 (AGGIUNGERE 2 AL RISULTATO PER OGNI OATHSWORN CHE HA SCELTO DI "FERMARE LE FIGURE AMMANTATE NELLA PORTA")."</string>
 	<string name="pop9_14_9__b">"ESEGUIRE UNA PROVA DI INSEGUIMENTO (CHASE CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE SI È UN CUR O UN RANGER, AGGIUNGERE 1 AL RISULTATO PER OGNI OATHSWORN CHE HA SCELTO DI "SALTARE DALLA FINESTRA E INSEGUIRE LA FIGURA CON L\'ASTA DI COMANDO")."</string>
