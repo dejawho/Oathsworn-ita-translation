@@ -386,8 +386,8 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn11b_17_1__a">Se peschi 5 o più e si ha SUCCESSO</string>
 	<string name="btn11b_17_1__b">Se peschi il 3 o il 4 e si ha SUCCESSO</string>
 	<string name="btn11b_17_1__c">Se si fallisce</string>
-	<string name="btn11b_17_4__a">Spendere tempo e fatica per decifrare i murales</string>
-	<string name="btn11b_17_4__b">Lasciate stare i murales. Avete già trascorso abbastanza tempo qui</string>
+	<string name="btn11b_17_4__a">Spendere tempo e fatica per decifrare gli affreschi</string>
+	<string name="btn11b_17_4__b">Lasciate stare gli affreschi. Avete già trascorso abbastanza tempo qui</string>
 	<string name="btn11b_18_14__a">Cercare di aiutare il cane da caccia</string>
 	<string name="btn11b_18_14__b">Lasciate il cane da caccia e tornate indietro</string>
 	<string name="btn11b_18_1__a">Fate il pieno d\'acqua qui</string>
@@ -1548,7 +1548,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn1_17_8__b">2. Dare l\'uomo per morto e gettare un braciere di ambra esplosiva dal muro su entrambi</string>
 	<string name="btn1_17_9__a">Se la guardia muore</string>
 	<string name="btn1_17_9__b">Se la guardia sopravvive</string>
-	<string name="btn1_20_1__a">1. Randle libero</string>
+	<string name="btn1_20_1__a">1. Libera Randle</string>
 	<string name="btn1_20_1__b">2. Lasciate Randle alla sua punizione</string>
 	<string name="btn1_20_2a__a">Cercare di trovare l\'informatore per vedere cosa sa</string>
 	<string name="btn1_20_2a__b">Cercate in città altri indizi sugli omicidi.</string>
@@ -1741,8 +1741,8 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn2b_51_9__c">Se si è cercato di salvarla perché si poteva ottenere un gettone</string>
 	<string name="btn3_14_1__a">1. Intervenire e liberarla</string>
 	<string name="btn3_14_1__b">2. Guarda il procedimento</string>
-	<string name="btn3_14_4__a">1. Opponiti al rogo</string>
-	<string name="btn3_14_4__b">2. Lasciali cercare giustizia</string>
+	<string name="btn3_14_4__a">1. Opponetevi al rogo</string>
+	<string name="btn3_14_4__b">2. Lasciate che si facciano giustizia</string>
 	<string name="btn3_14_7__a">1. Liberatela</string>
 	<string name="btn3_14_7__b">2. Lasciatela bruciare</string>
 	<string name="btn3_30_1__a">Se possedete la Carta Alleato Greycane</string>
@@ -1977,7 +1977,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn7_24_2__b">Lasciare il ragazzo</string>
 	<string name="btn7_2_17__a">Aiutate a salvare il mendicante</string>
 	<string name="btn7_2_17__b">Continuare a cercare il Veneratore</string>
-	<string name="btn7_2_1__a">Combattere un Venerator in gruppo</string>
+	<string name="btn7_2_1__a">Combattere un Veneratore in gruppo</string>
 	<string name="btn7_2_1__b">Scegliere una singola persona per affrontare un Veneratore</string>
 	<string name="btn7_6_1__a">Ricordategli la vostra autorità ed il suo dovere nei confronti di Verum e del patto</string>
 	<string name="btn7_6_1__b">Ditegli che potreste essere disposti ad aiutarlo, al giusto prezzo</string>
@@ -2023,7 +2023,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn7b_19_10__a">Se siete pronti a iniziare la fuga dalla prigione</string>
 	<string name="btn7b_19_1__a">"Dille che il sangue di padre Pyren sarà sulle sue mani se non agisce.."</string>
 	<string name="btn7b_19_1__b">Assicuratele che nessuno scoprirà che è stata lei a fornire le informazioni</string>
-	<string name="btn7b_19_1__c">Minacciare di consegnarla all\'Inquisizione se si rifiuta di aiutarla</string>
+	<string name="btn7b_19_1__c">Minacciare di consegnarla all\'Inquisizione se si rifiuta di aiutarvi</string>
 	<string name="btn7b_19_2__a">Se siete pronti a iniziare la fuga dalla prigione</string>
 	<string name="btn7b_19_3__a">Se siete pronti a iniziare la fuga dalla prigione</string>
 	<string name="btn7b_19_7__a">Se siete pronti a iniziare la fuga dalla prigione</string>
@@ -2331,7 +2331,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn_any_fail">Se si ha un QUALSIASI FALLIMENTO</string>
 	<string name="btn_any_succeed">Se si ha un QUALSIASI SUCCESSO</string>
 	<string name="btn_both_succeed">Se entrambi i controlli hanno esito positivo</string>
-	<string name="btn_broodmother">Incontrate la Nutrice!</string>
+	<string name="btn_broodmother">Incontro con la Nutrice!</string>
 	<string name="btn_cancel">Annullamento</string>
 	<string name="btn_chapter1encounter">Capitolo 1 Incontro</string>
 	<string name="btn_chapter2encounter">Capitolo 2 Incontro</string>
@@ -2351,7 +2351,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn_end_chapter3">Fine del capitolo 3</string>
 	<string name="btn_epilogue">Epilogo</string>
 	<string name="btn_everyone_read">Se ogni Oathsworn ha letto una scena</string>
-	<string name="btn_exile">Se avete l\'Esule nella vostra Libera Compagnia</string>
+	<string name="btn_exile">Se avete l\'Esule (Scar Tribe Exile) nella vostra Libera Compagnia</string>
 	<string name="btn_fail">Se si fallisce</string>
 	<string name="btn_finnian">Se hai FINNIANA come alleato</string>
 	<string name="btn_go_back">Torna indietro</string>
@@ -2365,7 +2365,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn_neither">NON COMMERCIARE CON NESSUNO</string>
 	<string name="btn_no">No</string>
 	<string name="btn_no_banksmith_yes_apothecary">AVVIA UN COMMERCIO SOLO CON LO SPEZIALE</string>
-	<string name="btn_no_priest">Se un sacerdote non fa parte della vostra Libera Compagnia</string>
+	<string name="btn_no_priest">Se un sacerdote (Priest) non fa parte della vostra Libera Compagnia</string>
 	<string name="btn_north">Nord</string>
 	<string name="btn_not_dane">Se non possedete la carta alleato Dane</string>
 	<string name="btn_not_mute_boy">Se non si dispone dell\'alleato MUTE BOY</string>
@@ -2373,19 +2373,19 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn_otherwise">Altrimenti</string>
 	<string name="btn_path_left">Prendere il sentiero a sinistra</string>
 	<string name="btn_path_right">Prendere il sentiero a destra</string>
-	<string name="btn_priest">Se un sacerdote è in libera uscita</string>
+	<string name="btn_priest">Se un sacerdote (Priest) è nella Libera Compagnia</string>
 	<string name="btn_restart_chapter">Capitolo Riavvio</string>
 	<string name="btn_return">Ritorno</string>
 	<string name="btn_return_to_beginning">Ritorno all\'inizio</string>
-	<string name="btn_satyr">Incontrare un Satiro!</string>
+	<string name="btn_satyr">Incontro con un Satiro!</string>
 	<string name="btn_south">Sud</string>
 	<string name="btn_spider">Affrontare il ragno</string>
 	<string name="btn_succeed">Se hai successo</string>
 	<string name="btn_the_end">Prossimamente ne arriveranno altri..</string>
-	<string name="btn_tribe">Incontrare la Tribù delle Cicatrici!</string>
+	<string name="btn_tribe">Incontro con la Tribù della Cicatrice!</string>
 	<string name="btn_warden">Se avete un direttore</string>
 	<string name="btn_west">Ovest</string>
-	<string name="btn_wyrm">Incontro con Wyrm!</string>
+	<string name="btn_wyrm">Incontro con il Wyrm!</string>
 	<string name="btn_yes">Sì</string>
 	<string name="btn_yes_banksmith">AVVIARE UN COMMERCIO CON IL FABBRO E, FACOLTATIVAMENTE, CON LO SPEZIALE</string>
 	<string name="chapter1">Capitolo 1</string>
@@ -3023,16 +3023,16 @@ Sceglietene uno:"</string>
 	<string name="chp11b_17_13__a">Lasciate questa parte antica del Wychwood e tornate sui vostri passi verso gli alberi del palazzo.</string>
 	<string name="chp11b_17_1__a">"Lasciate gli alberi del palazzo per esplorare l\'area circostante, dove vi imbattete in un\'antica struttura cresciuta. Entrando, si ha quasi l\'impressione di attraversare una grande sala ombrosa, con giganteschi pilastri rotondi che sostengono il tetto verde. \"Qui ci sono alberi molto vecchi,\" Guide Knocks. Per dimensioni e splendore, un tempo poteva rivaleggiare con le cattedrali sacre di Cistercia, ma ora sembra abbandonata. La Guida la guarda con un sentimento sia di orgoglio che di tristezza. La sua bussata si traduce in: \"Molto tempo fa, gli A\'Dendri liberi costruivano. Eravamo in molti. Non avevamo paura. Avevamo la Madre. Non abbiamo la Matriarca.\"
 Un masso attira la vostra attenzione, di colore diverso dagli altri che avete visto in questo bosco. Vi avvicinate per osservarlo e vedete che la sua forma è troppo liscia per essere naturale. Finora, però, non avete mai visto nulla fatto di pietra dagli A\'Dendri. Soprattutto, nessuna pietra con immagini. Togliete lo sporco e le foglie per scoprire che l\'intero masso ne è ricoperto, dipinti murali che devono essere vecchi di secoli. Pensate a Edith, e a ciò che avrebbe potuto capire da queste pitture."</string>
-	<string name="chp11b_17_2__a">"Anche con l\'aiuto della Guida, la traduzione dei grandi murales richiede tempo."</string>
+	<string name="chp11b_17_2__a">"Anche con l\'aiuto della Guida, la traduzione dei grandi affreschi richiede tempo."</string>
 	<string name="chp11b_17_2__c">Alla fine si pensa di aver messo insieme la memoria che memorizza.</string>
-	<string name="chp11b_17_3__a">"Studiate i murales, indicandovi l\'un l\'altro figure e simboli diversi, cercando di capirne il significato. Figure con teste simili ad alberi e archi sembrano rappresentare gli A\'Dendri. Ma sono raffigurati anche esseri umani. Le immagini raccontano storie molto diverse. In una, gli umani sono raffigurati accanto a un albero in fiamme. Indicando verso di esso, la Guida dice: \"Treekillers.\" In un\'altra, gli umani combattono contro gli A\'Dendri, che la Guida spiega come: \"Gli A\'Dendri combattono per la terra.\" Un\'immagine è la più inquietante. Mostra una pozza di oscurità con mani che si protendono verso l\'alto per consumare umani e A\'Dendri. La Guida continua, ma è confusa: \"Ombre,\" seguito da una serie di colpetti frastagliati di un dito sul palmo della mano. Ombre in movimento? Scivolano? No... ombre striscianti."</string>
+	<string name="chp11b_17_3__a">"Studiate gli affreschi, indicandovi l\'un l\'altro figure e simboli diversi, cercando di capirne il significato. Figure con teste simili ad alberi e archi sembrano rappresentare gli A\'Dendri. Ma sono raffigurati anche esseri umani. Le immagini raccontano storie molto diverse. In una, gli umani sono raffigurati accanto a un albero in fiamme. Indicando verso di esso, la Guida dice: \"Treekillers.\" In un\'altra, gli umani combattono contro gli A\'Dendri, che la Guida spiega come: \"Gli A\'Dendri combattono per la terra.\" Un\'immagine è la più inquietante. Mostra una pozza di oscurità con mani che si protendono verso l\'alto per consumare umani e A\'Dendri. La Guida continua, ma è confusa: \"Ombre,\" seguito da una serie di colpetti frastagliati di un dito sul palmo della mano. Ombre in movimento? Scivolano? No... ombre striscianti."</string>
 	<string name="chp11b_17_4__a">"Il murale sembra decifrabile, ma vi costerà tempo e fatica discernerlo. Tuttavia, potrebbe contenere alcune informazioni chiave. Non lo saprete finché non ci proverete.
 Sceglietene uno:"</string>
-	<string name="chp11b_17_5__c">Dopo un po\' di tempo, pensate di aver finalmente capito cosa i murales stanno cercando di dirvi.</string>
+	<string name="chp11b_17_5__c">Dopo un po\' di tempo, pensate di aver finalmente capito cosa gli affreschi stanno cercando di dirvi.</string>
 	<string name="chp11b_18_10__a">Trovate un buon punto per attraversare il torrente e passare dall\'altra parte. Ma quando andate nel luogo in cui avete visto il cane da caccia, questo non c\'è più. Tuttavia, attraverso le impronte e i rami spezzati si possono seguire le sue tracce.</string>
 	<string name="chp11b_18_11__a">Chiedete a Guida di provare a calmare il cane e lei rilascia alcune spore verso di lui, in modo che possiate avvicinarvi ed esaminare meglio la gamba rotta. La zampa ricorda molto da vicino quella di un animale, ma senza carne e sangue: solo rami intrecciati e piante che in qualche modo funzionano insieme in questo strano organismo. Vi rendete conto di non avere idea di come aiutare una forma di vita vegetale a guarire.</string>
 	<string name="chp11b_18_12__a">Tornate al ruscello e seguitelo fino agli alberi del palazzo.</string>
-	<string name="chp11b_18_13__a">"Si seguono le sue tracce per un breve periodo, ma a un certo punto si perdono. L\'abitudine vi porterebbe a cercare escrementi, peli e così via, ma ovviamente questi indizi mancano. Una creatura fatta di materia vegetale è quasi invisibile in una foresta.
+	<string name="chp11b_18_13__a">"Seguite le sue tracce per un breve periodo, ma a un certo punto spariscono. L\'abitudine vi porterebbe a cercare escrementi, peli e così via, ma ovviamente questi indizi mancano. Una creatura fatta di materia vegetale è quasi invisibile in una foresta.
 Quindi tornate indietro e seguite il ruscello fino agli alberi del palazzo."</string>
 	<string name="chp11b_18_1__a">"Attraverso un\'apertura naturale nella roccia, l\'acqua limpida confluisce in uno stagno, alimentando così il fiume che porta agli alberi del palazzo. Guardate nello stagno, l\'acqua è così pulita che è facile vederne il fondo. Sembra il posto perfetto per riempire le vostre borracce. Mentre li prendete dalla cintura, la Guida chiede la vostra attenzione: \"L\'acqua della sorgente deve rimanere pura per non disturbare il ciclo. Il ciclo dell\'acqua è essenziale per ogni forma di vita.\"
 Sceglietene uno:"</string>
@@ -3278,11 +3278,11 @@ Sceglietene uno:"</string>
 Rabbrividisce, stringendosi il petto e ansimando un\'ultima volta prima di crollare a terra."</string>
 	<string name="chp12_1_4__a">"Cerchi di costringere l\'uomo a parlare, ma lui non ne vuole sapere. \"Cosa mi farai più di quello che hanno fatto loro?\" L\'uomo ridacchia. \"È te che vogliono. Farai la stessa fine.\" Cerca di ridere, ma non esce alcun suono. Si muove e giace floscio, con la mano che si contrae anche dopo la morte."</string>
 	<string name="chp12_1_5__a">\"Hanno ucciso quasi tutti per attirarvi qui. Hanno preso gli altri.\" Cercate di estorcergli altri dettagli, ma le sue parole diventano confuse. La vita gli sfugge a ogni sillaba.</string>
-	<string name="chp12_1_6__a">"\"Tribù delle cicatrici,\" ansima, cercando di prendere abbastanza aria per parlare. \"Vogliono... vendicarsi.\"
+	<string name="chp12_1_6__a">"\"Tribù della cicatrice,\" ansima, cercando di prendere abbastanza aria per parlare. \"Vogliono... vendicarsi.\"
 Con l\'ultimo sforzo, crolla."</string>
 	<string name="chp12_1_7__a">"Prima che possiate capire qualcosa, le sue parole si affievoliscono e scompaiono. Il corpo dell\'uomo si accascia su un lato con un tonfo."</string>
 	<string name="chp12_1_8__a">Beve avidamente l\'acqua che gli offrite mentre gli togliete il sangue dagli occhi. \"Hanno ucciso quasi tutti per attirarvi qui. Hanno preso gli altri.\" Cercate di estorcergli altri dettagli, ma le sue parole sono sempre più confuse. La vita gli sfugge a ogni sillaba.</string>
-	<string name="chp12_1_9__a">"\"Tribù delle cicatrici,\" ansima, cercando di prendere abbastanza aria per parlare. \"Vogliono... vendicarsi.\"
+	<string name="chp12_1_9__a">"\"Tribù della cicatrice,\" ansima, cercando di prendere abbastanza aria per parlare. \"Vogliono... vendicarsi.\"
 Con l\'ultimo sforzo, crolla."</string>
 	<string name="chp12_2_1__a">Vi lanciate nel sottobosco, seguendo la grottesca segnaletica lasciata per voi. Sentite le urla straziate degli innocenti che muggiscono davanti a voi, mentre la Tribù della Cicatrice vi deride con la sua crudeltà. Troppo tardi, vi accorgete del suono delle liane e dei rami insegnati che si liberano mentre lo spuntone in tensione oscilla verso di voi all\'altezza della vita.</string>
 	<string name="chp12_2_2__a">"Continuate ad avanzare, attenti a ciò che vi circonda, ma facendo del vostro meglio per bloccare l\'orrore della barbarie della Tribù della Cicatrice dai vostri pensieri. Da un corpo all\'altro, vi fate strada verso quella che sapete essere chiaramente una trappola, spinti dal suono delle grida di tortura che non riuscite a ignorare, per quanto vi sforziate. Troppo tardi, notate il suono delle viti e dei rami insegnati che si liberano mentre lo spuntone in tensione oscilla verso di voi all\'altezza della vita."</string>
@@ -3399,7 +3399,7 @@ Il codice della Libera Compagnia è chiaro. Avete l\'obbligo di proteggere i vos
 	<string name="chp12_epi_4__c">"La famiglia rimane senza parole di fronte alla vostra offerta. Ringraziandovi abbondantemente, l\'uomo si presenta come Emram, poi fa un cenno alla donna, Tia. Emram assicura di sapere cosa significa lavorare onestamente e promette di contribuire alla causa. Tia, invece, è un po\' apprensiva per il vostro invito, ma si rende conto di avere poca scelta."</string>
 	<string name="chp12_epi_5__a">Senza dire altro, raccogliete gli oggetti di valore che riuscite a trovare tra i rottami e vi dirigete verso Verum, dove vi aspetta ancora un altro tipo di nemico.</string>
 	<string name="chp12m_1_1__a">"Storia a Tempo
-Vi bloccate quando una voce roboante vi chiama nell\'aria fredda e umida: \"Marchiati! Io vi conosco! Ora conoscete me! Tarsus Doka Kundi! Vi ho aspettato!\" La voce è potente e autoritaria e riecheggia tra gli alberi. Gli uomini delle tribù delle cicatrici di solito non parlano la lingua comune, ma questo parla con una certa chiarezza
+Vi bloccate quando una voce roboante vi chiama nell\'aria fredda e umida: \"Marchiati! Io vi conosco! Ora conoscete me! Tarsus Doka Kundi! Vi ho aspettato!\" La voce è potente e autoritaria e riecheggia tra gli alberi. Gli uomini delle tribù della cicatrice di solito non parlano la lingua comune, ma questo parla con una certa chiarezza
 \"Vieni fuori dall\'oscurità! Vieni! La tua carne non morirà più!\" Segue il silenzio, in attesa della vostra risposta.
 Sceglietene una:"</string>
 	<string name="chp12m_1_2__a">"Storia a Tempo
@@ -3481,7 +3481,7 @@ Sceglietene uno:"</string>
 La voce prosegue parlando di una strega che il guardiano aveva arrestato, di nome Marcella. A quanto pare, al momento di questo evento, era l\'unica strega in custodia sotto la Roccia Nera."</string>
 	<string name="chp13_22_1__a">"Una minacciosa foschia blu aleggia nell\'aria intorno alla Guglia del Corvo. Le torce e i bracieri color ambra che punteggiano l\'esterno in pietra aggiungono un\'atmosfera malefica che diventa sempre più inquietante man mano che vi avvicinate ai cancelli della torre. Un paio di golem di ferro scuro stanno di guardia ai lati della saracinesca chiusa, con occhi senza vita che spuntano da dietro le loro protezioni dal volto scuro. La scena qui è tutt\'altro che intaccata dall\'epidemia che sta devastando la città.
 Davanti ai cancelli, si viene accolti da una specie di servo della gleba, con la testa calva e la pelle bianca sbiancata. L\'uomo sembra avere già un piede nella fossa. Dopo aver spiegato il vostro scopo, vi viene negato l\'ingresso, ma il servo accetta di trasmettere la vostra richiesta ai suoi padroni. Poco dopo, il servo ritorna e vi consegna una pergamena aperta con un sigillo del giuramento.
-\"Ai miei padroni è stata presentata questa petizione da un guardiano dell\'Inquisizione. È una richiesta di assegnazione di una Libera Compagnia. I Cani di Pietra. Non sono stati forniti altri dettagli. Sembra che i dettagli debbano essere forniti ai Giurati solo dal Direttore della petizione stessa.\""</string>
+\"Ai miei padroni è stata presentata questa petizione da un guardiano dell\'Inquisizione. È una richiesta di assegnazione di una Libera Compagnia. I Cani di Pietra. Non sono stati forniti altri dettagli. Sembra che i dettagli debbano essere forniti agli Oathsworn solo dal Direttore della petizione stessa.\""</string>
 	<string name="chp13_22_2__a">Mettendo insieme quello che sapete, sembra che i Cani di Pietra siano stati ingaggiati da questo guardiano per aiutare a ricatturare la strega. Ulteriori domande alle guardie fuori dalla Roccia Nera rivelano che l\'ultima volta sono stati visti dirigersi verso nord-ovest. Una strega potrebbe nascondersi in molti luoghi di Verum, ma avete qualche idea su dove cercare per prima cosa. Qualunque cosa sia accaduta, c\'è una Libera Compagnia scomparsa e una Strega fuggita che devono essere trovate rapidamente.</string>
 	<string name="chp13_28_10__c">"Il vostro Direttore si fa avanti, prendendo la vostra strega per il collare, e la offre come volontaria per il compito
 \"Grazie, Oathsworn,\" loda il Re. \"Il tuo sacrificio è molto onorevole. Ma non posso permettere che una risorsa così preziosa venga sprecata così facilmente. Mi hanno detto che c\'è ancora tempo per trovare altre persone e, se quello che dici è vero, avremo bisogno di molto più di una sola strega. Solo se non avremo successo nel tentativo di trovare altre anime maledette, ti chiederò di fare questo sacrificio.\""</string>
@@ -3918,7 +3918,7 @@ Sceglietene una:"</string>
 Naturalmente, in mezzo a tutte queste attività c\'è Nydia, impegnata a organizzare e offrire indicazioni
 \"Buongiorno,\", vi sorride quando vi avvicinate. \"Spero che abbiate dormito bene. Vi siete uniti a noi in un momento importante qui al Rifugio. La sera dopo la prossima terremo una festa per celebrare la protezione dell\'Unico su tutti noi. Abbiamo molto di cui essere grati. A proposito, ho chiesto a Sarah di preparare qualcosa di speciale per voi oggi, per sollevare il vostro spirito.\"
 Nydia estrae da una cassa un piccolo vaso ricoperto di stoffa e ve lo porge. \"Fa dei funghi all\'aglio meravigliosi, mi sono assicurata di tenerne un po\' da parte. Temo che sia tutto ciò che posso offrirti come razione.\"
-La sua scarsa offerta di razioni non basterà a sostenere la vostra Compagnia per molto tempo e pensate di far valere la vostra autorità di Giurati chiedendole di fornirvi più cibo. Tuttavia, osservando i volti smunti e i corpi denutriti degli abitanti del villaggio, vi rendete conto che vivono già con meno del necessario. Forse si stanno preparando per un banchetto, ma tali celebrazioni nel Bosco Profondo sono spesso magre e forniscono più nutrimento all\'anima che al corpo.
+La sua scarsa offerta di razioni non basterà a sostenere la vostra Compagnia per molto tempo e pensate di far valere la vostra autorità di Oathsworn chiedendole di fornirvi più cibo. Tuttavia, osservando i volti smunti e i corpi denutriti degli abitanti del villaggio, vi rendete conto che vivono già con meno del necessario. Forse si stanno preparando per un banchetto, ma tali celebrazioni nel Bosco Profondo sono spesso magre e forniscono più nutrimento all\'anima che al corpo.
 Accettando il dono, la ringraziate per la gentilezza."</string>
 	<string name="chp14_55_36__a">"\"Sono felice che siamo riusciti a parlare questa mattina presto, continua\" Nydia. \"Mi sono ricordata di una cosa che potrebbe esservi utile. Non molto tempo fa, è passata una carovana che commerciava ferro e altre merci. Sono stati loro a dirci che il Filo era andato perduto. Alla fine, i mercanti hanno deciso di sfidare il Bosco Profondo, piuttosto che restare con noi. Sono partiti con una scorta di cibo, ambra e seta, diretti a nord, ma non credo che siano riusciti ad andare lontano. Quella notte abbiamo sentito delle urla in lontananza e un gran trambusto non molto tempo dopo. Forse se rintracciaste i resti della loro carovana, trovereste delle razioni per il vostro viaggio, forse anche la stessa Strada del Filo?
 Con un\'intera giornata a disposizione, valutate le vostre opzioni. Sarebbe meglio cercare la carovana perduta a nord e forse risolvere il problema delle razioni? O dovreste scegliere un\'altra direzione per concentrare le vostre ricerche?"</string>
@@ -4077,7 +4077,7 @@ Sparita la maschera, tutto ciò che rimane è un semplice uomo senza volto. Nien
 	<string name="chp15_epi_3__a">"Rubeo giace a terra ai vostri piedi, con la maschera insanguinata e incrinata. Davanti ai vostri occhi la maschera si dissolve in polvere per rivelare l\'uomo che conoscevate come Nacosta. Senza dubbio si tratta di un ultimo atto di sfida da parte dell\'assassino. Un modo per ostacolare i cinque che provano la sua morte, mostrando il suo noto volto
 Sparita la maschera, tutto ciò che rimane è un semplice uomo senza volto. Niente di speciale, solo un altro corpo tra i morti. Accanto a lui, con uno dei pugnali di Rubeo conficcato nella cassa toracica, c\'è il nobile mascherato che accompagnavi. I due ora sono uguali nella morte. Ogni possibilità di ottenere la vostra strega è morta con loro. Raccogliendo gli oggetti che ti possono essere utili, ti metti lo zaino sulle spalle e ricominci la ricerca."</string>
 	<string name="chp15a_10_1__a">"Posizione 10 - Terreno di Carnedine
-Tre cani di pietra corrucciati sono appollaiati sull\'unico arco di accesso alla tenuta, con le loro zanne come monito e i loro occhi come amaro benvenuto. Il cortile è popolato da più statue che persone: statue di lupi, leoni e creature massicce con grandi zanne. I Senza Volto si occupano di varie Maschere e due palanchini, portati ciascuno da sei Senza Volto, vi passano accanto. Mentre si percorre il terreno, vi rendete conto di quanti piccoli passaggi e stanze nascoste ci siano, perfetti per i politici traci
+Tre cani di pietra corrucciati sono appollaiati sull\'unico arco di accesso alla tenuta, con le loro zanne come monito e i loro occhi come amaro benvenuto. Il cortile è popolato da più statue che persone: statue di lupi, leoni e creature massicce con grandi zanne. I Senza Volto si occupano di varie Maschere e due palanchini, portati ciascuno da sei Senza Volto, vi passano accanto. Mentre ispezionate il terreno, vi rendete conto di quanti piccoli passaggi e stanze nascoste ci siano, perfetti per i politici traci
 Pochi dei Mascherati sul terreno vi danno molto da lavorare, ma cosa vi aspettavate in una città costruita sulla menzogna? Questo fino a quando una pergamena non sigillata non cade a terra davanti a voi. Raccogliendo la pergamena da terra, alzate lo sguardo e riuscite appena a scorgere una maschera da cane striata di grigio e una testa di capelli neri che fuggono al secondo piano.
 Sceglietene uno:"</string>
 	<string name="chp15a_10_3__a">"Leggendo la lettera, si scopre che si tratta di un messaggio interno del capo della famiglia Volpe a un altro membro di alto rango che descrive una relazione tra la figlia maggiore dei Carnedine e Mordren, il figlio assassinato dell\'Amiese. Il messaggio esprime grave preoccupazione per l\'esito della relazione, poiché se i due si sposassero, le leggi patrilineari della Tracia spoglierebbero i Carnedine di gran parte delle cosiddette "scorte" - i Senza Volto che costituiscono il fondamento della ricchezza dei Carnedine in Tracia. Questo minaccerebbe sicuramente la loro posizione tra le Cinque Famiglie. Mettendo da parte l\'informazione, tornate nelle strade trafficate di Tracia.
@@ -4336,7 +4336,7 @@ Se questa era la terza porta su cui avete indagato, scegliete l\'opzione superio
 	<string name="chp15a_9_9__a">"La figura mascherata attraversa le pareti più velocemente di quanto la lama o l\'arco possano fare e scompare nell\'ombra. \"I Cinque sono padroni crudeli e capricciosi, eppure tu li assecondi a ogni passo,\" dice la voce. \"Consideralo un avvertimento. Li vedo tirare i tuoi fili. Fatti da parte prima che mi costringano a tagliarli.\" C\'è silenzio e vi rendete conto che Rubeo non c\'è più.
 Scegliete un luogo dove andare:"</string>
 	<string name="chp15b_13_1__a">"Posizione 13 - Quartiere basso
-Nelle strade acciottolate del Quartiere Basso si aggirano maschere raffiguranti gufi, gatti, falchi, lumache e topi. Tra loro si vedono poche formiche, lupi, volpi, calamari o serpenti. Le centinaia di volti pallidi dei Senza Volto si fondono in un unico luogo, dove le maschere spiccano per la loro ornata raffinatezza. Qui cipolle e spezie, santuari di marmo verde e sete nere si scambiano le mani. Per un attimo si perdono di vista gli orrori della Tracia.
+Nelle strade acciottolate del Quartiere Basso si aggirano maschere raffiguranti gufi, gatti, falchi, lumache e topi. Tra loro si vedono poche formiche, lupi, volpi, calamari o serpenti. Le centinaia di volti pallidi dei Senza Volto si fondono in un unico luogo, dove le maschere spiccano per la loro ornata raffinatezza. Qui cipolle e spezie, santuari di marmo verde e sete nere si scambiano le mani. Per un attimo perdete di vista gli orrori della Tracia.
 Sceglietene uno:"</string>
 	<string name="chp15b_13_2__a">Vedete il disprezzo negli occhi dell\'individuo mascherato da falco mentre vi avvicinate, ma il Marchio dell\'Oath sul vostro polso li tiene ancorati al posto. I Mascherati non amano gli estranei, ma forse riuscirete a convincerli a rivelarvi le informazioni di cui avete bisogno. La Tracia è una scala dove le schiene degli sconfitti diventano i pioli su cui gli altri salgono. Se riuscite a convincere i Mascherati che è nel loro interesse collaborare, potreste scoprire ciò che vi serve.</string>
 	<string name="chp15b_13_3__a">"Molti dei Senza Volto vengono trascinati per le strade dallo schiocco delle fruste dei loro padroni, ma alcuni non lo sono. Ovviamente sono stati incaricati di svolgere compiti in città, ma i pochi Senza Volto che non hanno un accompagnatore possono essere difficili da ottenere. È probabile che la fiducia derivi solo da un lungo servizio o dalla fiducia nella volontà infranta del Senza Volto. In entrambi i casi, non è di buon auspicio per le vostre possibilità. Scegliendo il Senza Volto dall\'aspetto più malleabile, metti alle strette un vecchio e lo conduci fuori dalla strada principale
@@ -4863,7 +4863,7 @@ Sceglietene uno:"</string>
 Sovrastando i contadini malnutriti, ne afferrate uno per la collottola e lo tenete sopra il piccolo fuoco. Senza mezzi termini, ordinate loro di consegnare le provviste.
 Con un improvviso cambiamento d\'opinione, acconsentono."</string>
 	<string name="chp17_22_15__c">Raccogliendo le tue cose, dici ai sopravvissuti che la strada per il Rifugio dovrebbe essere libera una volta che avrai portato a termine la tua missione. Con un ultimo sguardo al fuoco, tornate sotto la pioggia.</string>
-	<string name="chp17_22_1__c">Le rocce fetide e le radici del Bosco Profondo lasciano infine spazio a un\'antica città, crollata in rovina. Avevate appreso dell\'esistenza di questa città dimenticata durante il vostro soggiorno al Rifugio. Un luogo distrutto i cui abitanti veneravano la Regina Errante. Per fortuna, questa città maledetta è ormai condannata alla storia, ma mentre camminate per le strade vuote di pietra consumata, tenete una mano vicino alla vostra arma, pronti a qualsiasi cosa possa tentare di tendervi un\'imboscata. Rovine come queste spesso diventano tane per le creature che si aggirano nell\'ombra. Muovendosi con un\'attenta coordinazione, si coprono gli angoli dei vicoli e degli edifici, mantenendo sempre una formazione stretta mentre si percorrono le strade strette.</string>
+	<string name="chp17_22_1__c">Le rocce fetide e le radici del Bosco Profondo lasciano infine spazio a un\'antica città, crollata in rovina. Avevate appreso dell\'esistenza di questa città dimenticata durante il vostro soggiorno al Rifugio. Un luogo distrutto i cui abitanti veneravano la Regina Errante. Per fortuna, questa città maledetta è ormai condannata alla storia, ma mentre camminate per le strade vuote di pietra consumata, tenete una mano vicino alla vostra arma, pronti a qualsiasi cosa possa tentare di tendervi un\'imboscata. Rovine come queste spesso diventano tane per le creature che si aggirano nell\'ombra. Muovendosi con un\'attenta coordinazione, si coprono gli angoli dei vicoli e degli edifici, mantenendo sempre una formazione stretta mentre percorrete le strade strette.</string>
 	<string name="chp17_22_2__a">Percorrendo lentamente un vicolo fiancheggiato da alte mura, percepite un movimento e sentite il lieve raschiare di uno stivale sulla pietra. Prima che abbiate la possibilità di voltarvi, una valanga di pietre vi cade addosso.</string>
 	<string name="chp17_22_2__c">"Dall\'alto piovono rocce grandi come pugni e piccoli massi. Tuffandovi di lato, sollevate lo zaino sopra la testa e riuscite a deviare la parte peggiore della valanga. Un grido di sorpresa riecheggia dall\'alto quando il vostro assalitore si rende conto che la trappola non è riuscita a uccidervi. Saltando in piedi, il vostro gruppo si muove all\'unisono verso l\'edificio vicino per convergere verso il vostro obiettivo
 Salendo all\'ultimo piano, trovate un gruppo di umani rannicchiati con paura contro la parete di fondo di una stanza, con pugnali e archi puntati sulla porta. Vedete il panico nei loro occhi mentre si rendono conto di aver mancato l\'unico colpo che avevano per eliminarvi. Uno degli assalitori lancia una freccia che rimbalza sul bordo della vostra lama in attesa e si conficca innocuamente nel muro. Non siete dell\'umore adatto. Mentre avanzate nella stanza, gli altri gettano le armi e alzano le mani in segno di sottomissione. Una volta che li osservate meglio, vi rendete conto che devono essere dei sopravvissuti del Rifugio, forse un gruppo di cacciatori che non era presente durante la vostra epurazione del villaggio. Devono essere fuggiti dalla tua ira e si sono nascosti qui.
@@ -5878,7 +5878,7 @@ Percorrete le strade fangose e trovate il Fabbro. L\'edificio è interamente cos
 \"Se avete bisogno di forgiare, posso farlo. Se volete scambiare merci, di solito se ne occupa mio figlio Tam, anche se oggi non l\'ho visto. Ha più dita per fare i conti,\" dice il Fabbro, alzando una mano con solo tre dita."</string>
 	<string name="chp1_19_1__c">Il Fabbro vuole parlare di affari e niente di più. Non appena si usano parole come \"omicidio\", decide improvvisamente che un altro cliente è più importante, così tornate a malincuore sotto la pioggia.
 Scegliete un luogo dove andare:"</string>
-	<string name="chp1_20_1__a">"Posizione 20 - La Palizzata
+	<string name="chp1_20_1__a">"Posizione 20 - Le Gabbie (The Stockade)
 Nel circolo ci sono cinque gabbie. Solo una è attualmente occupata. Un giovane fradicio con folti capelli rossi ricci siede sconsolato sotto la pioggia. Una guardia solitaria si appoggia sotto un arco poco distante, prestando poca attenzione.
 Alla tua vista l\'uomo si illumina, \"Psst! Ehi. Puoi aiutarmi? Davvero, non ho fatto niente. Sono le guardie: corrotte come la stregoneria. Per loro l'Iron è più importante del sangue. Siete della Libera Compagnia, giusto? Puoi fare quello che vuoi. Suvvia... Solleva quel chiavistello e farò qualsiasi cosa.\"
 Hai il potere di requisire quest\'uomo se ha quello che ti serve.
@@ -6160,7 +6160,7 @@ La prima cosa che si sente è uno stridore di orecchie, seguito da un ruggito gu
 	<string name="chp20_5_7__a">Ondata 5: Assalto 3</string>
 	<string name="chp20_5_8__a">Ondata 5: Assalto 4</string>
 	<string name="chp20_5_9__a">"Un terribile suono di cracking scuote l\'aria mentre un\'orda di mostri fa breccia nelle vostre difese e si dirige verso la pira. Solo poche guardie si frappongono tra l\'avanzata della sventura e l\'ultima speranza di Verum."</string>
-	<string name="chp20_6_10__a">Vi avvicinate alle figure sulla pira, con la torcia d\'ambra in mano. L\'unico crimine che hanno commesso è quello di essere nati con poteri malefici. Eppure, siete qui a dover emettere la sentenza definitiva. Siete Giurati per proteggere l\'umanità, non carnefici. Eppure oggi siete chiamati ad esserlo, vi viene chiesto di sacrificare i pochi per i molti.</string>
+	<string name="chp20_6_10__a">Vi avvicinate alle figure sulla pira, con la torcia d\'ambra in mano. L\'unico crimine che hanno commesso è quello di essere nati con poteri malefici. Eppure, siete qui a dover emettere la sentenza definitiva. Siete Oathsworn per proteggere l\'umanità, non carnefici. Eppure oggi siete chiamati ad esserlo, vi viene chiesto di sacrificare i pochi per i molti.</string>
 	<string name="chp20_6_12__a">"Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe dal corpo del trace. Aurelia lancia un urlo di rabbia e la pira si squarcia. Le fiamme si spengono immediatamente e i resti delle altre streghe accanto a lei vengono dispersi sulle pareti dalle onde della forza. Aurelia si alza dalle rovine della pira e potete vedere la pioggia che colpisce un nimbo di aria scintillante che le rotola intorno in una sfera di protezione telecinetica. Avete già affrontato streghe potenti in passato, ma questa donna potrebbe essere la più potente mai registrata. Librandovi al di sopra del suolo all\'interno della sua bolla cinetica, vedete l\'ira scritta a chiare lettere sul suo volto. È stata drogata e trascinata nel Bosco Profondo e non sa cosa stia succedendo. Gridate per cercare di farla ragionare, ma non sortisce alcun effetto. L\'unica cosa che sa è che per la prima volta è libera dal delirio e intende vendicarsi.
 Nel disperato tentativo di riguadagnare il vantaggio, i soldati rimasti caricano la strega all\'unisono. Cercate di fermarli, ma è troppo tardi. Aurelia li guarda con odio e, con entrambe le mani alzate, fa levitare le squadre rimanenti per una dozzina di metri in aria e le sbatte di nuovo a terra. Si sente il rumore delle ossa che si rompono mentre vengono schiacciate sulle lastre di pietra. Quando Aurelia alza le mani una seconda volta, ciò che si solleva in aria sono solo cadaveri che iniziano a orbitare intorno a lei
 Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Dallo sguardo si capisce che Aurelia non cede e che se non completerete presto l\'Esaltazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se uccidere la strega causerà il Risveglio, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
@@ -6417,7 +6417,7 @@ Se desiderate giocare una partita di Charl, scegliete l\'opzione superiore. Altr
 Gamel, il Fabbro annuisce a malincuore quando entrate.
 \"Brutte giornate,\" Gamel sbuffa, pulendosi le mani dall\'olio su un asciugamano di pelle. \"Notti peggiori,\" continua, senza parlare con nessuno.
 \"Hai visto mio figlio? Tam?\" chiede, mentre gesticola stancamente verso le sue merci in esposizione. \"Vieni a dirmelo appena lo vedi, vero? È... fuori di sé. Urla nella notte come se l\'avesse preso una strega. Comunque... andiamo avanti. Fai i tuoi affari.\""</string>
-	<string name="chp2a_20_1__a">"Posizione 20 - La Palizzata
+	<string name="chp2a_20_1__a">"Posizione 20 - Le Gabbie (The Stockade)
 La prigioni sono vuote e una guardia solitaria si appoggia a una di esse, guardando con sospetto tutti i passanti mentre impugna la sua lancia. Quando vi vede, si alza un po\' più dritto.
 \"Miei signori, come posso servirvi?\" Dite di non essere il signore di nessuno e continuate a chiedergli della banda e dei circoli. \"Che io sia dannato se lo so, mio signore,\" risponde, incurante della vostra correzione. \"Diavolo, non so più cosa pensare. Non riesco nemmeno a proteggerli da loro stessi. Neanche dieci giorni fa, hanno portato qui questi due ladri. Li conosco. Non è una città così grande, sai? E li hanno messi in magazzino e in catene per il fine settimana. Vado a mangiare qualcosa a mezzogiorno e quando torno sono morti. Entrambi. Si sono strappati la lingua a morsi. Si sono sputati proprio lì e hanno cercato di tagliarsi i polsi con le cinghie. Che stregoneria è questa?\""</string>
 	<string name="chp2a_24_1__a">"Posizione 24 - I Burrows
@@ -6497,7 +6497,7 @@ Avvicinatevi a una guardia che sta per cambiare turno e salite al suo posto sull
 La piazza del Mercato ha uno strano tono sommesso e la gente si guarda alle spalle. È evidente che qui la gente ha fatto brutti sogni. C\'è una pressione palpabile nell\'aria, che sta diventando qualcosa. Uomini arrabbiati che lavorano a lungo tirano i carri per la strada. Le donne anziane scuotono la testa e spettegolano in piccoli gruppi mentre si fermano a commerciare. L\'atmosfera è tesa, ma qualunque sia la pressione, non si vede ancora nulla."</string>
 	<string name="chp2b_14_1__a">"Posizione 14 - La piazza della città
 Le persone evitano il vostro sguardo e sono restie a rivolgervi la parola. Quelli che lo fanno, sussurrano di una "strega" sottovoce e sputano davanti a loro per proteggersi. Non si sente parlare di sogni, anche se alcuni accennano alla strana natura delle guardie negli ultimi tempi.
-Guardate al centro della piazza e vedete i minacciosi pali di ferro infissi nella pavimentazione. Samil è lì, appoggiato a uno di essi, con il sorriso ironico che era solito avere sul volto. Sbatti le palpebre e non c\'è più.
+Guardate al centro della piazza e vedete i minacciosi pali di ferro infissi nella pavimentazione. Samil è lì, appoggiato a uno di essi, con il sorriso ironico che era solito avere sul volto. Sbattete le palpebre e non c\'è più.
 Scegliete un luogo dove andare:"</string>
 	<string name="chp2b_16_1a__a">"Posizione 16 - Il Watering Hole
 Entrate nel Watering Hole e più della metà degli avventori si riunisce attorno a un tavolo d\'angolo, impegnata in qualche gioco. Presto si sente un grido di angoscia, un uomo colpisce un altro con un pugno alla mascella ed entrambi vengono rapidamente scortati in strada.
@@ -6510,7 +6510,7 @@ Scegliete un luogo dove andare:"</string>
 Il Fabbro annuisce a malincuore quando entrate.
 \"Brutte giornate,\" Gamel sbuffa, pulendosi le mani dall\'olio su un asciugamano di pelle. \"Notti peggiori,\" continua, senza parlare con nessuno.
 \"Hai visto mio figlio? Tam?\" chiede mentre gesticola stancamente verso le sue merci in esposizione. \"Vieni a dirmelo appena lo vedi, vero? È... fuori di sé. Urla nella notte come se lo avesse preso una strega. Sai cosa sogno? Un dannato coltello da macellaio. Non uno forgiato da me, però. Non c\'è nessuna lavorazione. Questa cosa è crudele. Forse ne ho fatti un po\' troppi di recente, ma è tutto ciò che vedo. Comunque... andiamo avanti. Fatti gli affari tuoi.\""</string>
-	<string name="chp2b_20_1__a">Posizione 20 - La Palizzata</string>
+	<string name="chp2b_20_1__a">Posizione 20 - Le Gabbie (The Stockade)</string>
 	<string name="chp2b_20_2__a">"Le prigioni sono vuote e una guardia solitaria si appoggia a una di esse, guardando con sospetto tutti i passanti mentre impugna la sua lancia. Quando vi vede, si alza un po\' più dritto.
 \"Miei signori, come posso servirvi?\" Dite di non essere il signore di nessuno e chiedete degli strani sogni. \"Che io sappia, mio signore,\" risponde, incurante della vostra correzione. \"Però stanno accadendo cose strane. Non più tardi di dieci giorni fa, hanno portato qui questi due ladri. Li conosco. Non è una città così grande, sai? Li mettono in magazzino e li incatenano per il fine settimana. Vado a prendere una ciotola di patate a mezzogiorno e quando torno... morti. Entrambi. Si sono strappati la lingua a morsi. Si sono sputati proprio lì e hanno cercato di tagliarsi i polsi con le cinghie. Quale stregoneria lo fa?\"
 \"Oh. Ora che ci penso, mio signore, un ragazzo di una delle altre squadre ha parlato di sogni. Credo che oggi stiano osservando il muro.\""</string>
@@ -6606,9 +6606,9 @@ La pace che avete provato al risveglio si trasforma in inquietudine quando osser
 Il cantastorie Greycane siede in un angolo, scuotendo stancamente la testa. Vi vede e vi fa cenno di sedervi con lui.
 Fa un gesto alla gente e vi versa il tè amaro del mattino. \"Ignoranza,\" dichiara.
 Dalle sue mosse e dai suoi discorsi è chiaro che il narratore ha bevuto, forse non è nemmeno andato a letto da ieri sera.
-Accigliato, ti guarda negli occhi, \"Lyceen. Lo speziale. L\'hanno presa ieri sera per interrogarla. Dicono che è lei la strega dietro i sogni e gli omicidi. Non capiscono. Non hanno visto quello che hai visto tu. Oggi morirà a causa della loro... ignoranza. Vieni. Vediamo cosa ha fatto la tua potente vittoria per curare questa città.\"
+Accigliato, vi guarda negli occhi, \"Lyceen. Lo speziale. L\'hanno presa ieri sera per interrogarla. Dicono che è lei la strega dietro i sogni e gli omicidi. Non capiscono. Non hanno visto quello che hai visto tu. Oggi morirà a causa della loro... ignoranza. Venite. Vediamo cosa ha fatto la vostra potente vittoria per curare questa città.\"
 Vacilla ed esce barcollando dalla porta d\'ingresso della Quercia Spezzata tra la folla accalcata della strada."</string>
-	<string name="chp3_14_10__c">"Qualcosa di tremendo sta attraversando la città. Gli edifici cadono come canne sotto i piedi mentre un\'ondata di distruzione si dirige verso di voi. Il fumo che sale forma una scia verso la piazza.
+	<string name="chp3_14_10__c">"Qualcosa di tremendo sta attraversando la città. Gli edifici cadono come steli calpestati mentre un\'ondata di distruzione si dirige verso di voi. Il fumo che sale forma una scia verso la piazza.
 Con un\'ultima convulsione che spezza la spina dorsale, la strega muore. Il lamento cessa. Rimangono solo il crepitio del fuoco ed il basso mormorio dei cittadini. Il silenzio è rotto da urla e da un edificio che viene spinto a terra.
 In fondo alla strada si vede una forma massiccia che spezza in due un edificio. Si sta dirigendo verso la piazza."</string>
 	<string name="chp3_14_1__a">"Posizione 14 - La piazza della città
@@ -6618,13 +6618,13 @@ Lyceen, la speziale, si guarda intorno impaurita mentre le tirano i polsi legati
 Sceglietene una:"</string>
 	<string name="chp3_14_20__a">"\"Hanno fatto breccia\", mormora Greycane, con gli occhi bassi. Scuote la testa e si avvia di corsa verso la Quercia Spezzata. Dietro le sue spalle grida: \"Per favore, salvate quelli che potete!\"
 Sapete bene quanto Greycane cosa significa. Nessuna città può sopravvivere a una breccia come questa. Quella bestia non può essere abbattuta. Il Bosco Profondo si riverserà nella città e tutti moriranno nel giro di pochi giorni. C\'è solo una speranza: sfuggire alla Rovina di Bastone e raggiungere Verum."</string>
-	<string name="chp3_14_21__a">"Sfrecciando verso la piazza della città, la bestia scansa gli edifici e inghiotte gli uomini. Si ferma a un incrocio e sbuffa, scalpita per la strada con l\'artiglio anteriore e strappa facilmente la pietra come un toro su un sentiero sterrato. Dal collo della creatura fuoriesce un fumo oleoso che la avvolge in una nube scura, il fumo ribolle come inchiostro nell\'acqua. Coloro che sono abbastanza sfortunati da trovarsi nelle vicinanze della creatura sono colti da violente convulsioni.
-Dietro di voi, Lord Davenish urla dalla sua tribuna rialzata, circondato da una compagnia di guardie domestiche. \"Alle armi, uomini! Per il vostro Signore e per Bastone! Uccidete la bestia!\" Molti uomini iniziano a caricare, ma molti altri esitano alla vista della cosa.
+	<string name="chp3_14_21__a">"Sfrecciando verso la piazza della città, la bestia scansa gli edifici e inghiotte gli uomini. Si ferma a un incrocio e sbuffa, raschia la strada con l\'artiglio anteriore e strappa facilmente la pietra come un toro su un sentiero sterrato. Dal collo della creatura fuoriesce un fumo oleoso che la avvolge in una nube scura, il fumo ribolle come inchiostro nell\'acqua. Coloro che sono abbastanza sfortunati da trovarsi nelle vicinanze della creatura sono colti da violente convulsioni.
+Dietro di voi, Lord Davenish urla dalla sua tribuna rialzata, circondato da una compagnia di guardie personali. \"Alle armi, uomini! Per il vostro Signore e per Bastone! Uccidete la bestia!\" Molti uomini iniziano a caricare, ma molti altri esitano alla vista della cosa.
 Qualcosa si accende nei suoi tremendi occhi. Le massicce zampe posteriori spingono in avanti il mostro corazzato grigio tempesta. In pochi respiri è nella piazza. Davenish si blocca incredulo mentre il sole sopra di lui viene oscurato e un artiglio grande come il carro di un mercante scende su di lui. Il luogo in cui si trovava è ora solo una sottile nebbia cremisi. Senza rallentare, il Terrore di Bastone avanza."</string>
 	<string name="chp3_14_21__c">"La bestia sta attraversando la piazza della città. È arrivata da est, sfondando il muro esterno di Bastone, e ora curva alla sua destra. Per poter fuggire, è necessario allontanarsi da essa. Siete posizionati in modo da avere tre strade aperte."</string>
 	<string name="chp3_14_2__c">"Due guardie si fanno subito avanti e incrociano le loro lance davanti a voi, bloccandovi il cammino.
 \"Forse ci hai reso un grande servizio con i topi,\" dice il funzionario, interrompendo la sua lista di offese, \"ma questa strega deve essere bruciata da Bastone. Sangue per sangue, diritto per diritto. Il vostro lavoro è finito. Questo è nostro.\""</string>
-	<string name="chp3_14_4__a">"Le guardie puntano le loro lance sulla folla per farla indietreggiare. Più di una lancia è puntata per tenervi fermi.
+	<string name="chp3_14_4__a">"Le guardie puntano le loro lance sulla folla per farla indietreggiare. Più di una lancia è puntata verso di voi per tenervi fermi.
 Lyceen trasale e guarda la folla con rabbia, \"Non vi ho aiutato? Ho curato le vostre ferite e voi mi pagate con il fuoco?\"
 Esortando la folla al silenzio, l\'ufficiale annuncia: \"Questa... creatura ha vissuto tra noi, come uno di noi, ma non più. Oggi Bastone protegge tutti voi e rende sicuro il suo popolo.\"
 Un altro funzionario arriva da un vicolo laterale, portando con sé una torcia fiameggiante. La spinge verso il cielo e la città applaude in attesa.
@@ -6694,7 +6694,7 @@ Vi precipitate a Palazzo. La creatura allarga facilmente la strada e si infila c
 Un\'ombra incombe sulle vostre teste, bloccando il sole mentre sbatte contro i gradini del Palazzo. Dondola la testa, scagliando i pochi sfortunati che si sono bloccati per la paura. Un corno arricciato cattura un guardiano, che cade a terra accanto a voi come una marionetta rotta. La creatura emette un ruggito assordante e solleva la sua massiccia mole."</string>
 	<string name="chp3a_10_1__c">L\'Ombra vi passa accanto mentre la Rovina di Bastone schiaccia un seguito di guardie, dandovi giusto il tempo di fuggire.</string>
 	<string name="chp3a_12_1__a">"Posizione 12 - Il mercato
-Il Mercato è pieno di saccheggiatori che rovesciano carrelli e bancarelle, si arrampicano l\'uno sull\'altro mentre arraffano il cibo e le armi che possono prima di fuggire verso la Porta Principale.
+Il Mercato è pieno di saccheggiatori che rovesciano carrelli e bancarelle, si arrampicano l\'uno sull\'altro mentre arraffano il cibo e le armi che possono prima di fuggire verso il Cancello Principale.
 Sapete che avrete bisogno di razioni anche nel Bosco Profondo. Vedete un carrello della spesa rovesciato con una dozzina di persone che vi si accalcano. Vedete anche una bancarella di uno stagnino con un uomo sotto di essa. Sopra c\'è ancora qualche oggetto di ferro.
 Sceglietene uno:"</string>
 	<string name="chp3a_12_2__a">"Vi immergete nella massa di umanità per recuperare le razioni che potete.
@@ -6732,7 +6732,7 @@ Il terreno trema ed il vicolo davanti a noi si interrompe bruscamente."</string>
 	<string name="chp3a_15_1__c">"Salendo sulle rovine di vecchi edifici si vede passare il grande fianco della bestia.
 Scegliete un luogo dove andare:"</string>
 	<string name="chp3a_16_1__a">"Posizione 16 - Il Watering Hole
-Dove un tempo si trovava il Watering Hole c\'è un cumulo di macerie. Pezzi di corpi spuntano tra le pareti sbriciolate. La palizzata a sud si riempie di urla e fumo. Sotto le macerie sono sepolte delle provviste, se solo riuscite a indovinare la posizione della dispensa."</string>
+Dove un tempo si trovava il Watering Hole c\'è un cumulo di macerie. Pezzi di corpi spuntano tra le pareti sbriciolate. Le Gabbie a sud si riempiono di urla e fumo. Sotto le macerie sono sepolte delle provviste, se solo riuscite a indovinare la posizione della dispensa."</string>
 	<string name="chp3a_17_1__a">"Posizione 17 - La Torre Orientale
 Mentre vi avvicinate alla grande breccia nelle mura di Bastone, dove la bestia ha indubbiamente guadagnato l\'ingresso, trovate un drappello di guardie che sta facendo un\'ultima disperata resistenza, cercando di tenere a bada una marea di creature che cercano di accedere alla città.
 \"Harlbeck! Gli Oathsworn! Li vedo!\" una guardia grida dalla cima della torre.
@@ -6773,7 +6773,7 @@ La Porta Principale non è lontana e si sente un gran vociare da quella direzion
 	<string name="chp3a_19_6__a">Vi avvicinate all\'uomo e gli offrite la possibilità di combattere il Bosco Profondo.</string>
 	<string name="chp3a_19_7__a">"I rumori provenienti dal cancello principale sono molto diversi dal solito. È panico quello che si sente. Troppi abitanti della città stanno cercando di uscire dal piccolo cancello e la situazione si sta trasformando in una calca. Non pensate di riuscire a fuggire in quel modo."</string>
 	<string name="chp3a_19_8__a">Dovete muovervi velocemente.</string>
-	<string name="chp3a_20_1__a">"Posizione 20 - La Palizzata
+	<string name="chp3a_20_1__a">"Posizione 20 - Le Gabbie (The Stockade)
 Diverse donne nelle prigioni battono sui lucchetti che tengono rinchiusi alcuni uomini, mentre i bambini piangono sulle loro gonne. Le guardie sono fuggite, abbandonando le loro cariche. Una delle donne vi vede entrare nel crocevia.
 \"Per favore! I nostri mariti! Avranno anche sbagliato, ma non meritano di morire qui!\"
 Sceglietene uno:"</string>
@@ -6782,7 +6782,7 @@ Sceglietene uno:"</string>
 	<string name="chp3a_20_3__a">"\"La loro sorte era già decisa,\" rispondete.
 Cercate rapidamente nella sala delle guardie e trovate un\'armeria consistente."</string>
 	<string name="chp3a_22_1__a">"Posizione 22 - Le porte e le strade di Bastone
-A passo di corsa, svoltate l\'angolo della strada che conduce alla Porta Principale e vi scontrate con una massa di corpi. Un mare di persone si estende davanti a voi verso la Porta Principale, molte delle quali stringono le loro cose, urlando e gridando. C\'è gente che viene calpestata, mentre ondate di panico si abbattono sulla folla.
+A passo di corsa, svoltate l\'angolo della strada che conduce al Cancello Principale e vi scontrate con una massa di corpi. Un mare di persone si estende davanti a voi verso il Cancello Principale, molte delle quali stringono le loro cose, urlando e gridando. C\'è gente che viene calpestata, mentre ondate di panico si abbattono sulla folla.
 Dietro di voi, la Rovina di Bastone si schianta contro un edificio. I corpi vengono scagliati con noncuranza, sballottati dalle contrazioni del collo della bestia. Lo strano fumo arricciato che fuoriesce dal suo collo riempie la strada affollata, mentre voi cercate una qualsiasi direzione in cui muovervi."</string>
 	<string name="chp3a_24_1__a">Posizione 24 - I Burrows</string>
 	<string name="chp3a_24_1__c">Le famiglie si rannicchiano nelle porte buie dei Burrows mentre si sente l\'officina del Fabbro frantumarsi in una cacofonia di ferro e pietra. La cosa si dirigerà presto da questa parte.</string>
@@ -6799,7 +6799,7 @@ Se volete aiutare Midge, scegliete l\'opzione superiore. Altrimenti, scegliete u
 Sceglietene uno:
 Se volete aiutare Midge, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
 	<string name="chp3a_25_1__a">"Posizione 25 - Torre A
-Chiunque sia rimasto nella palizzata di Bastone non può sopravvivere al calpestio della bestia. La bestia si dirige verso la sua sinistra."</string>
+Chiunque sia rimasto nella gabbie di Bastone non può sopravvivere al calpestio della bestia. La bestia si dirige verso la sua sinistra."</string>
 	<string name="chp3a_27_10__a">"La bestia avanza a passi da gigante, con il fumo che esce dalle narici. Vi girate per correre e vedete Midge, con la faccia truce, che la fissa con la torcia in mano. \"Scommetto che è stupido come un topo. Possiamo ingannarlo,\" dice.
 Alza la torcia sopra la testa e la carica. \"Voglio che il rischio sia pagato per questo!\" grida sopra le sue spalle.
 La bestia, vedendo la fiamma che si dirigeva verso di lei, si ritrae per un attimo ed è tutto ciò che serve a Midge per tuffarsi nel vicolo laterale. La possente creatura si rialza e schiaccia una terrazza di case, prima di avventarsi sul giovane."</string>
@@ -6841,11 +6841,11 @@ Un vicolo cieco.
 Correte nel tentativo di ripercorrere la strada da cui siete venuti, solo per vedere la massiccia armatura scura della bestia che attraversa una strada vicina. I muri intorno a voi crollano."</string>
 	<string name="chp3b_15_1__c">Salendo sulle rovine di vecchi edifici si vede passare il grande fianco della bestia.</string>
 	<string name="chp3b_16_1__a">"Posizione 16 - Il Watering Hole
-Dove un tempo si trovava il Watering Hole c\'è solo un cumulo di macerie. Pezzi di corpi spuntano tra le pareti sbriciolate. La palizzata a sud si riempie di urla e fumo. Ci sono provviste sepolte sotto le macerie, se solo si riuscisse a indovinare la posizione della dispensa."</string>
+Dove un tempo si trovava il Watering Hole c\'è solo un cumulo di macerie. Pezzi di corpi spuntano tra le pareti sbriciolate. Le Gabbie a sud si riempiono di urla e fumo. Ci sono provviste sepolte sotto le macerie, se solo si riuscisse a indovinare la posizione della dispensa."</string>
 	<string name="chp3b_19_1__a">"Posizione 19 - Il Fabbro
 Vi affrettate a raggiungere il BanchiFabbroere, ma prima di arrivarci la bottega di Gamel si frantuma sotto gli zoccoli della bestia tonante. I saccheggiatori che avevano messo a soqquadro il locale si voltano per passare davanti a voi, ma il fumo vertiginoso che fuoriesce dalla bestia li fa crollare."</string>
 	<string name="chp3b_19_1__c">Girando sui tacchi, vi tuffate indietro per la strada che si è percorsa.</string>
-	<string name="chp3b_20_1__a">"Posizione 20 - La Palizzata
+	<string name="chp3b_20_1__a">"Posizione 20 - Le Gabbie (The Stockade)
 Diverse donne battono sui lucchetti delle prigioni che tengono rinchiusi alcuni uomini, mentre i bambini piangono sulle loro gonne. Le guardie sono fuggite, abbandonando le loro cariche. Una delle donne vi vede entrare nel crocevia.
 \"Per favore, i nostri mariti, avranno anche sbagliato, ma non meritano di morire qui!\"
 Sceglietene uno:"</string>
@@ -6895,7 +6895,7 @@ Intatta, forte, pulita.
 Sceglietene una:"</string>
 	<string name="chp4_35_2__a">"Qui c\'è una storia che si è persa nel tempo. Si vorrebbe pensare che sia successo qualcosa di grande. L\'erba è verde e pura accanto all\'albero. Qui è stato riposto un deposito di armi e armature. Non si sa per quanto tempo siano state protette dal Bosco Profondo."</string>
 	<string name="chp4_35_3__a">"Nella strana follia del Bosco Profondo, c\'è qualcosa di profondamente inquietante nella pulizia di questo posto. Qualunque cosa sia, non vi dovete fidare. Il Bosco Profondo ha molti modi per uccidere un uomo, non ultime le sue bugie."</string>
-	<string name="chp4_45_1__c">"Sei vivo... perso, ma vivo. Tra la fuga dalla caduta di Bastone e l\'attacco dei Wyrm, siete stati costretti a tornare indietro. Per fortuna avete la vostra ancora di salvezza, la vostra bussola. Verum si trova a sud-est di Bastone, ma senza la guida della Strada del Filo, potreste essere lontani di parecchie leghe e non accorgervi di averla superata. Dovete trovarla. Le Strade del Filo furono tracciate centinaia di anni fa, durante le prime crociate, per riunire l\'umanità e reclamare la loro patria dal Bosco Profondo. Inevitabilmente furono costretti a rientrare nelle loro città e ora i fili sono tutto ciò che rimane in piedi di quelle sanguinose campagne. Costruiti sulle vecchie strade, si sa che corrono dritti quanto il Bosco Profondo permetteva.
+	<string name="chp4_45_1__c">"Siete vivi... persi, ma vivi. Tra la fuga dalla caduta di Bastone e l\'attacco dei Wyrm, siete stati costretti a tornare indietro. Per fortuna avete la vostra ancora di salvezza, la vostra bussola. Verum si trova a sud-est di Bastone, ma senza la guida della Strada del Filo, potreste essere lontani di parecchie leghe e non accorgervi di averla superata. Dovete trovarla. Le Strade del Filo furono tracciate centinaia di anni fa, durante le prime crociate, per riunire l\'umanità e reclamare la loro patria dal Bosco Profondo. Inevitabilmente furono costretti a rientrare nelle loro città e ora i fili sono tutto ciò che rimane in piedi di quelle sanguinose campagne. Costruiti sulle vecchie strade, si sa che corrono dritti quanto il Bosco Profondo permetteva.
 Mentre riflettete, Greycane fruga nella sua borsa e scopre una pila di fogli che ha salvato dal crollo di Bastone. Molti sembrano essere poesie e racconti, ma molti sono mappe. \"Ho pensato che queste sarebbero state utili,\" dice. \"Date un\'occhiata a questa. Non ho idea di dove ci troviamo, ma se riusciamo a scoprirlo, forse riusciremo a trovare la strada per tornare al filo.\""</string>
 	<string name="chp4_46_1__c">Davanti a voi c\'è una pietra miliare di un\'epoca precedente. Scostate il muschio e la melma dalla sua superficie per rivelare l\'iscrizione sottostante. Il tempo ha assottigliato le scritte e si riescono a scorgere solo delle piccole rientranze sulla sua superficie. Greycane si avvicina al vostro fianco offrendovi la mappa. Sembra che ci siano due posizioni sulla pietra. Controllando la bussola, quella in alto punta a sud-ovest, mentre l\'iscrizione in basso punta a sud. Sapete che Verum è a sud-est di Bastone.</string>
 	<string name="chp4_48_1a__c">"Si sente odore di fumo. Il fuoco non arriva a caso nel Bosco Profondo. Il legno è difficile da accendere, anche con una buona pietra focaia e un acciaio asciutto.
@@ -6903,7 +6903,7 @@ Sceglietene uno:
 Se volete indagare sul fuoco, scegliete l\'opzione superiore. Altrimenti, scegliete la direzione da seguire."</string>
 	<string name="chp4_48_2__a">"Sotto gli archi di alcuni grandi alberi, si trovano i resti di un accampamento. Le braci del fuoco sono scure, ma ancora calde. Una baracca di coperte e qualche bastone di sostegno giace calpestata sul terreno e una scia di sangue si perde nel bosco, come se qualcosa fosse stato trascinato via dall\'accampamento. Chiunque sia stato, è sicuramente morto. È successo di recente.
 Cercate frettolosamente nell\'accampamento."</string>
-	<string name="chp4_64_1__c">"Davanti a voi si ergono i resti malandati di un ponte, anche se il fiume che un tempo copriva è scomparso da tempo. I grandi sostegni in pietra sporgono ad angolo, coinvolti in una lenta caduta secolare mentre il Bosco Profondo trascina la struttura.
+	<string name="chp4_64_1__c">"Davanti a voi si ergono i resti malandati di un ponte, anche se il fiume che un tempo copriva è scomparso da tempo. I grandi sostegni in pietra sporgono ad angolo, catturati da una lenta caduta secolare mentre il Bosco Profondo li trascina al suo interno.
 Una guardia di Bastone è in piedi sul ponte. Ha sentito il vostro arrivo. In una mano tiene una spada sguainata. Nell\'altra, stretto in una morsa, c\'è un talismano della chiesa. La sua posizione è traballante ed il suo volto è sporco di fango e sangue. Diverse altre guardie giacciono in giro, ma non ci sono segni di vita nei loro resti sparsi.
 \"State indietro,\" grida puntando la spada tremante verso di voi.
 Quando emergete dal bosco, vede chi siete. Abbassa la spada sul fianco e si appoggia pesantemente a uno dei sostegni di pietra.
@@ -6912,7 +6912,7 @@ Quando emergete dal bosco, vede chi siete. Abbassa la spada sul fianco e si appo
 Il vostro Esule si avvicina all\'uomo, alto una testa più di lui, e lo raggiunge. L\'uomo tende il talismano per respingerlo, ma l\'Esule glielo strappa semplicemente di mano e, con una rapida rotazione, lo spezza in due, gettando i pezzi ai lati del ponte. \"Se fossi un demone saresti già morto. Chiamami ancora così e scoprirai cosa sono veramente.\" La guardia smette di pregare, ma è ancora visibilmente scossa. \"Avete già visto queste cicatrici?\" L\'Esule continua, battendo un pugno sul proprio petto. La guardia annuisce. Voltandosi, l\'Esule vi guarda. \"La tribù è qui.\""</string>
 	<string name="chp4_64_4__c">"Ci vuole un po\' di tempo, ma senza lo sguardo dell\'Esule e con qualche rassicurazione, la guardia si ricompone."</string>
 	<string name="chp4_64_5__a">Respira pesantemente mentre vi avvicinate, con le mani tese per dimostrare che non volete fargli del male. Le guardie cadute sotto il ponte sono state selvaggiamente fatte a pezzi. Le loro ferite sono causate da armi primitive: corna e lame arrugginite. Sono state inferte da colpi selvaggi con forza bruta e precisione.</string>
-	<string name="chp4_64_8__a">Questa era l\'opera di una Tribù della Cicatrice. Barbari che si guadagnano da vivere tra gli alberi predando tutto ciò che è abbastanza debole da cadere sotto le loro lame. Astuti e spietati, non è un nemico da combattere in questo momento. Tuttavia, se hanno il vostro odore, potreste non avere scelta.</string>
+	<string name="chp4_64_8__a">Questa era l\'opera di una Tribù della Cicatrice. Barbari che si guadagnano da vivere tra gli alberi predando tutto ciò che è abbastanza debole da cadere sotto le loro lame. Astuti e spietati, non sono nemici da combattere in questo momento. Tuttavia, se hanno il vostro odore, potreste non avere scelta.</string>
 	<string name="chp4_64_9__a">"\"Cos\'è successo, soldato?\" chiedete.
 Ricordando il suo addestramento, la guardia si alza in piedi più dritta. Inizia a dire qualcosa, poi si ferma. \"Fortuna, signore,\" dice. \"Io e la mia squadra eravamo sul muro. Quella bestia l\'ha rovesciato e siamo stati scaraventati tra gli alberi. Il cielo sa come sono sopravvissuto, ma sono caduto attraverso un ramo e sono arrivato a terra. Il resto della mia squadra era morto. Ho vagato e mi sono imbattuto in un\'altra squadra che usciva dalla città. Mi unii a loro e arrivai qui. In quel momento arrivarono. I ganci uscirono dagli alberi e strapparono via il sergente. Lui urlò. Poi ci hanno attaccato. Abbiamo preso questo ponte per guadagnare terreno. Ma quelle cose, che potevano anche camminare su due gambe, non erano come nessun uomo che avessi mai visto. Erano come animali che facevano a pezzi i ragazzi. Uno mi ha colpito e sono caduto dal ponte. Ho perso i sensi e lui deve avermi creduto morto. Quando mi sono ripreso, ho sentito un corno suonare e poco dopo sono scappati nel bosco, diretti da quella parte.\" Lui indica il ponte. \"Sono fortunato, credo,\" dice, in piedi tra le rovine dei suoi compagni.
 Andate dai corpi delle guardie e trovate alcuni oggetti utilizzabili."</string>
@@ -6923,7 +6923,7 @@ Se volete addentrarvi nelle spine di sangue, scegliete l\'opzione superiore. Alt
 Man mano che vi avvicinate al cuore della città, si immaginano le tante vite che un tempo si svolgevano qui. Camminare nel villaggio morto è come guardare un uomo morto. La stessa sensazione pervade il luogo. Il silenzio e l\'immobilità sono stranamente sbagliati.
 Sentite un debole pianto.
 Estraete le armi e vi riparate dietro un muro vicino.
-Scrutando intorno ad esso, vedete una massa di persone accalcate nella piazza del villaggio, molte delle quali guardano verso il bosco. Altri sopravvissuti di Bastone. Brandiscono pale e scope per difendersi male. Sembra che stiano anticipando un attacco da parte di qualcosa o qualcuno."</string>
+Scrutando intorno ad esso, vedete una massa di persone accalcate nella piazza del villaggio, molte delle quali guardano verso il bosco. Altri sopravvissuti di Bastone. Brandiscono pale e scope con scarsa difesa. Sembra che stiano anticipando un attacco da parte di qualcosa o qualcuno."</string>
 	<string name="chp4_72_1a__a">Storia a Tempo</string>
 	<string name="chp4_72_2__a">"Vedete gli uomini della tribù, masse di pelliccia e muscoli appallottolati pronti a balzare. Le armi di fortuna dei rifugiati non possono tenere a bada la Tribù della Cicatrice. Sarà un massacro. Rimani nascosto.
 Se lasciate la gente, morirà e la tribù vi darà presto la caccia. Questa è la vostra occasione per prenderli per primi. Con gesti pratici fatti con le mani in silenzio create il vostro piano d\'attacco e vi mettete in posizione. Addobbato con corna e pellicce giganti, il brutale capo della Tribù della Cicatrice suona un corno. Ruggendo, i membri della tribù balzano dagli alberi e atterrano tra i rifugiati. Grida di terrore riempiono l\'aria. Cogliete il momento per attaccare."</string>
@@ -6941,8 +6941,8 @@ Thrum.
 Lo seguite attraverso gli alberi.
 Samil è in piedi e stacca la Strada del Filo.
 Thrum.
-Sbatti le palpebre e non c\'è più.
-Ti guardi indietro. Nessuno dei sopravvissuti ha visto questo. Non siete sicuri di averlo visto voi stessi. È l\'eco del tocco del Satiro o è un fantasma che insegue i vostri passi? Non lo sapete, ma siete sicuri di aver trovato la via d\'uscita. Guidando la compagnia verso di essa, allungate la mano verso il filo e sentite una scintilla calda. Toccando il metallo, sentite la speranza."</string>
+Sbattete le palpebre e non c\'è più.
+Vi guardate indietro. Nessuno dei sopravvissuti ha visto questo. Non siete sicuri di averlo visto voi stessi. È l\'eco del tocco del Satiro o è un fantasma che insegue i vostri passi? Non lo sapete, ma siete sicuri di aver trovato la via d\'uscita. Guidando la compagnia verso di essa, allungate la mano verso il filo e sentite una scintilla calda. Toccando il metallo, sentite la speranza."</string>
 	<string name="chp4m_10_1__a">"Storia a Tempo
 Avete rimandato il più possibile, avete bisogno di mangiare."</string>
 	<string name="chp4m_11_1__a">"Storia a Tempo
@@ -6954,7 +6954,7 @@ La vostra attenzione è attratta da Lyceen. Sta affrontando con difficoltà il v
 \"Devo spiegarmi,\" dice, leggermente imbarazzata. \"È il minimo che ti meriti dopo quello che hai fatto per me. La mia vita è già nelle tue mani. Questo non può peggiorare le cose. Le persone che condividono storie di fantasmi mi chiamerebbero "strega del sangue". Ma non posso fare quello che pensano. Posso torcere il sangue quando è fuori dal corpo, ma non posso trasformare gli uomini in marionette o far bollire il sangue nelle vostre vene. Non so come funziona. Posso solo sentire il sangue...\" Si interrompe. \"Voglio che tu sappia che non ho mai fatto del male a una persona di proposito.\"
 Provi a chiederle qualcosa di più, ma lei è restia a parlare dell\'argomento."</string>
 	<string name="chp4m_1_1__a">"Storia a Tempo
-Il vostro primo giorno nel Bosco Profondo è stato fortunatamente lungo. La maggior parte di coloro che entrano non dura più di una manciata di ore sotto la tettoia, ma il vostro gruppo ce l\'ha fatta. Le ombre si allungano e dovete trovare riparo da ciò che si aggira nella notte.
+Il vostro primo giorno nel Bosco Profondo è stato fortunatamente lungo. La maggior parte di coloro che entrano non dura più di una manciata di ore sotto la chioma del bosco, ma il vostro gruppo ce l\'ha fatta. Le ombre si allungano e dovete trovare riparo da ciò che si aggira nella notte.
 Chiedete una sosta per la giornata. Esausti per la marcia e per il peso del terrore che hanno portato con sé, i civili si accasciano alla base degli alberi e alcuni iniziano ad accendere un fuoco.
 Sceglietene uno:"</string>
 	<string name="chp4m_1_2__a">"Storia a Tempo
@@ -6978,7 +6978,7 @@ Guardate la vostra compagnia, i cui volti sono ormai stanchi sotto la sporcizia 
 Proseguite a passo spedito, mentre la donna segue il resto dei civili. Dopo un po\' la tosse cessa e, anche se afflitta dal dolore, sembra in grado di continuare. Forse non farà la stessa fine del marito, anche se la vita da vedova a Verum potrebbe non essere molto migliore."</string>
 	<string name="chp4m_4_1__a">"Storia a Tempo
 Vi addentrate sempre di più nel Bosco Profondo. I rifugiati formano una linea spezzata dietro di voi, cercando di camminare al vostro passo. Li avete avvertiti di non toccare nulla qui. Ora però sono stanchi, la stanchezza si fa sentire e si commettono errori. Il Bosco Profondo reagisce alle incursioni nel suo dominio e ancor più ai gruppi concentrati. Vi chiedete se sia stata una buona idea portare con voi questi rifugiati. Le Compagnie Libere da centinaia di anni sanno che viaggiano nel bosco in piccole squadre per minimizzare la reazione alla loro presenza, questo potrebbe..
-Qualcuno si lamenta ad alta voce da dietro la fila. Voltandosi, si vede un uomo piegato in due sulle ginocchia. \"È caduto,\" grida una donna, \"e gli ha spruzzato addosso quella roba.\" La gente si allontana dall\'uomo mentre voi camminate lungo la fila verso di lui. Ai piedi dell\'uomo c\'è una cisti. Il monticello rosa freme dopo aver sboccato il suo contenuto. Continua a vomitare mentre cerca di rimuovere i piccoli ammassi di spore nere dal viso e dal collo."</string>
+Qualcuno si lamenta ad alta voce da dietro la fila. Voltandosi, si vede un uomo piegato in due sulle ginocchia. \"È caduto,\" grida una donna, \"e gli ha spruzzato addosso quella roba.\" La gente si allontana dall\'uomo mentre voi camminate lungo la fila verso di lui. Ai piedi dell\'uomo c\'è una cisti. Il bozzolo rosa freme dopo aver vomitato il suo contenuto. Continua a vomitare mentre cerca di rimuovere i piccoli ammassi di spore nere dal viso e dal collo."</string>
 	<string name="chp4m_4_2__a">"Storia a Tempo
 Una donna, ovviamente la moglie dell\'uomo, va ad aiutare il marito. Prima che possa toccarlo, uno di voi la prende per un braccio e la tira via. La donna si ribella alla costrizione.
 \"Lasciate che lo aiuti!\" dice con rabbia.
@@ -7003,11 +7003,11 @@ Paura e terrore attraversano il volto della donna mentre le spiegate che non pu�
 	<string name="chp4m_5_1__a">"Storia a Tempo
 Le giornate sono lunghe ed il gruppo mostra segni di stanchezza emotiva oltre che fisica. Essere terrorizzati tutto il giorno è un grande fardello per i civili. \"Prendete posto per una storia\", dice sorridendo Greycane.
 Il gruppo si è fermato per riposare ed il cantastorie si sdraia contro un albero, con le gambe distese davanti a sé. Sa che queste persone non possono spendere Iron per un racconto, come si usa di solito per i cantastorie. \"Visto che forse siete il mio ultimo pubblico, ve lo racconterò comunque.\" Si mette a sedere e si china, attirando la piccola folla vicino a lui.
-\"La Città Eterna, la chiamano. Verum. Un milione di persone che vivono, muoiono, amano e piangono in un unico luogo. È la più grande fortezza che l\'umanità abbia mai costruito. Mura così alte che non se ne vede la cima. Non è mai stata violata, nemmeno una volta. È uno dei pochi luoghi veramente sicuri rimasti. Sotto la città ci sono centinaia di chilometri di labirinti, le prime vie sotterranee mai costruite. Sono così profondi che si dice arrivino fino a un mare senza sole dove si aggirano i Grandi. A Verum c\'è così tanto cibo che il bestiame deve sfilare in fila per le strade, dai sotterranei fino ai mercati della Città Vecchia.\"
+\"La Città Eterna, la chiamano. Verum. Un milione di persone che vivono, muoiono, amano e piangono in un unico luogo. È la più grande fortezza che l\'umanità abbia mai costruito. Mura così alte che non se ne vede la cima. Non è mai stata violata, nemmeno una volta. È uno dei pochi luoghi veramente sicuri rimasti. Sotto la città ci sono centinaia di chilometri di labirinti, le prime vie sotterranee mai costruite. Sono così profonde che si dice arrivino fino a un mare senza sole dove si aggirano i Grandi. A Verum c\'è così tanto cibo che il bestiame deve sfilare in fila per le strade, dai sotterranei fino ai mercati della Città Vecchia.\"
 Sentendo parlare di cibo, il gruppo si rallegra. Greycane lo nota e sorride.
 \"I nobili potano frutteti di prugne e fichi e anche la gente comune aromatizza l\'acqua con lo zenzero. Una volta un ragazzo è caduto da una finestra di tre piani per poi atterrare, completamente salvo, in un mucchio di budini.\" Ora il resto del gruppo sorride.
 \"Al di sopra di tutto questo si erge Re Favian, un potente guerriero e soprattutto... un uomo buono. Uno che si assicura che sia fatta giustizia sia per gli alti che per i bassi. È il figlio del Grande Re Mandran, che ha schiacciato i capibanda del Sottosuolo. Finalmente, dopo cento anni di siccità, l\'acqua è tornata a scorrere liberamente in superficie..\"
-Le orecchie del gruppo sono stuzzicate mentre Greycane continua a tessere la storia di Verum. Con affascinante maestria dipinge il quadro di una terra piena di speranza e la promessa di una buona vita a venire, se solo riusciranno a uscire dal Bosco Profondo. Si capisce l\'importanza di ciò che sta facendo e lo si lascia continuare. Vorresti quasi crederci anche tu, ma una cosa ti ferma... Ci sei passato."</string>
+Le orecchie del gruppo sono stuzzicate mentre Greycane continua a tessere la storia di Verum. Con affascinante maestria dipinge il quadro di una terra piena di speranza e la promessa di una buona vita a venire, se solo riusciranno a uscire dal Bosco Profondo. Si capisce l\'importanza di ciò che sta facendo e lo si lascia continuare. Anche voi vorreste quasi crederci, ma una cosa vi ferma... Ci siete già passati."</string>
 	<string name="chp4m_6_1__a">"Storia a Tempo
 Avete rimandato il più possibile, avete bisogno di mangiare."</string>
 	<string name="chp4m_7_1__a">"Storia a Tempo
@@ -7233,7 +7233,7 @@ Se avete il gettone indizio 2 scegliete l\'opzione superiore. Altrimenti, potete
 	<string name="chp5b_1_4a__a">"Sapete cos\'è questo. Un Bloatfly. È una delle bestie descritte nel Libre Monstrum, la cronaca di caccia della Chiesa. Si sa che depongono le uova in ospiti vivi, causando una morte quasi immediata. Si narra persino che sorvolino le mura delle città per predare i deboli, ritirandosi nel Bosco Profondo quando sono minacciati. Sono terribilmente veloci e agili."</string>
 	<string name="chp5b_1_4a__c">Poi vi coricate e attendete la partenza della spedizione.</string>
 	<string name="chp5b_26_1__a">Posizione 26 - Le Tenute</string>
-	<string name="chp5b_26_1__c">"Si percorrono le strade pulite del quartiere nobile sul lato opposto del ponte. Anche se ancora sovrappopolate, queste strade sono meno affollate di quelle a cui siete abituati nella Città Vecchia. La gente qui annuisce leggermente con gli occhi chiusi quando vede i vostri segni. Molti si inchinano. Gli edifici sono notevolmente ben tenuti. Non ci sono crepe sui muri, né finestre rotte. I volti sono meno smunti e una gamma di colori riempie la vista invece del marrone che ci si aspetterebbe dalla parte settentrionale del fiume.
+	<string name="chp5b_26_1__c">"Percorrete le strade pulite del quartiere nobile sul lato opposto del ponte. Anche se ancora sovrappopolate, queste strade sono meno affollate di quelle a cui siete abituati nella Città Vecchia. La gente qui annuisce leggermente con gli occhi chiusi quando vede i vostri segni. Molti si inchinano. Gli edifici sono notevolmente ben tenuti. Non ci sono crepe sui muri, né finestre rotte. I volti sono meno smunti e una gamma di colori riempie la vista invece del marrone che ci si aspetterebbe dalla parte settentrionale del fiume.
 Alla fine raggiungete un cancello di metallo scuro e, dopo aver portato i vostri segni, ottenete l\'accesso, passando attraverso un ampio cortile in una sala centrale con un grande tavolo di granito. Diversi uomini sono riuniti intorno al tavolo e chiacchierano preoccupati. Alzano lo sguardo quando entrate.
 \"Lord Rhiner,\" annuncia una guardia, \"La Libera Compagnia.\"
 Lord Rhiner, dalla corporatura robusta, sorride. \"Bene, bene, gli Eroi di Bastone. Venite, stavamo giusto discutendo della spedizione. Come sapete, qualche giorno fa una delle mie squadre di lavoro è stata uccisa nel Bosco Profondo. Nessun taglialegna è tornato vivo. È stato un duro colpo, la città aveva bisogno di quel legno. Sono uno dei pochi autorizzati a disboscare il Bosco Profondo e sono stato incaricato di un compito sacro: fare in modo che la città non perda le sue scorte. Domani devo inviare un altro gruppo per dimostrare al re che il rifornimento continua.\" Lord Rhiner si alza dal tavolo. \"Ho bisogno di voi per proteggere questa spedizione. Un giorno, entrata e uscita, e la tariffa è equa. Accetterete il contratto?\"
@@ -7355,7 +7355,7 @@ Sotto una leggera pioggia vi dirigete verso i ponti che separano la città. Una 
 \"Il marciume è il nostro diritto di nascita,\" grida un altro, con il volto coperto di rune che ha inciso nella sua stessa carne, alcune ancora fresche come il sangue sul suo coltello. \"Solo i giusti possono vincere la carne!\"
 Di fronte ai vari profeti di sventura, un uomo sta in piedi, con le braccia aperte come se stesse orchestrando la folla. L\'uomo si guarda alle spalle e vi sorride torvo.
 Samil."</string>
-	<string name="chp6_14_2__a">"Dietro Samil, in fondo al gruppo dei profeti, si vede un volto terrorizzato. L\'uomo sta fissando Samil. Samil lancia un\'occhiata all\'uomo e ai suoi piedi appare una pozza di urina sempre più grande. Il pazzo urla e corre tra la folla. Un odore di zolfo e di decomposizione, mentre Samil continua a sorridere. Sbatti le palpebre e lui non c\'è più. Gettate lo sguardo sulla folla, ma la vostra attenzione viene immediatamente distolta dal volto frenetico di un sacerdote che corre verso di voi."</string>
+	<string name="chp6_14_2__a">"Dietro Samil, in fondo al gruppo dei profeti, si vede un volto terrorizzato. L\'uomo sta fissando Samil. Samil lancia un\'occhiata all\'uomo e ai suoi piedi appare una pozza di urina sempre più grande. Il pazzo urla e corre tra la folla. Un odore di zolfo e di decomposizione, mentre Samil continua a sorridere. Sbattete le palpebre e lui non c\'è più. Gettate lo sguardo sulla folla, ma la vostra attenzione viene immediatamente distolta dal volto frenetico di un sacerdote che corre verso di voi."</string>
 	<string name="chp6_14_3__a">Un odore di zolfo e di decadenza, mentre Samil continua a sorridere. Sbattete le palpebre e lui non c\'è più. Gettate lo sguardo sulla folla, ma la vostra attenzione viene immediatamente distolta dal volto frenetico di un sacerdote che corre verso di voi.</string>
 	<string name="chp6_14_4__a">"La folla è sempre più incantata dal coro dei dei profeti di sventura. Diverse voci prestano presto la loro forza, ripetendo assurde profezie. \"Oathsworn!\" Un sacerdote vestito con semplici abiti si precipita al vostro fianco, cercando freneticamente di attirare la vostra attenzione. \"Tu sei un Oathsworn, vero? Vi prego, venite con me.\"
 Il sacerdote sembra sorpreso quando non vi muovete. \"Per favore!\" Il sacerdote vi supplica con un ringhio sussurrato, cercando di evitare l\'attenzione indesiderata degli altri presenti, \"È in gioco il destino della città.\"
@@ -7401,7 +7401,7 @@ Sceglietene uno:"</string>
 Sceglietene uno:"</string>
 	<string name="chp6a_28_12__a">"\"Non voglio altro che il bene della ragazza,\" Lord Tavender pronuncia, \"Ma è così giovane e non riesco a compiere l\'atto. Speravo... beh, ora non ha più importanza.\" Cercate di ottenere qualcosa di più da lui, ma non ve lo rivelerà.
 Sceglietene uno:"</string>
-	<string name="chp6a_28_13__a">"Le mani di Markena si stringono a pugno, \"L\'ho pregato di non consegnarmi, ma ha dovuto fare a modo suo. Mio padre si preoccupa più di me per quei tunnel. Contro ogni speranza, mio marito si è rivelato un brav\'uomo. Ora che ho una parvenza di felicità, si sarebbe preso anche quella, facendo montare sua figlia da un vecchio. Uno spettacolo da vedere per tutta Verum e per cosa? Per avere più Iron? Per più profitto?\"
+	<string name="chp6a_28_13__a">"Le mani di Markena si stringono a pugno, \"L\'ho pregato di non consegnarmi, ma ha dovuto fare a modo suo. Mio padre si preoccupa più di quei tunnel che di me. Contro ogni speranza, mio marito si è rivelato un brav\'uomo. Ora che ho una parvenza di felicità, si sarebbe preso anche quella, facendo montare sua figlia da un vecchio. Uno spettacolo da vedere per tutta Verum e per cosa? Per avere più Iron? Per più profitto?\"
 Bruer le lancia uno sguardo così cupo che la ragazza si ferma, rendendosi conto di ciò che ha detto. Si porta le mani alla bocca. La rabbia sul volto del padre.
 Sceglietene uno:"</string>
 	<string name="chp6a_28_14__a">"Con un misto di frustrazione e rabbia, guarda il padre con occhi pieni di lacrime, ma non parla oltre.
@@ -7565,7 +7565,7 @@ Sono passati anni da quando lei stesso era di guardia al cancello. Eppure, ancor
 Scegliete un luogo dove andare:"</string>
 	<string name="chp6b_22_1__a">"Posizione 22 - Guglia del corvo
 Sapete che vi state avvicinando al covo dei Sorveglianti quando cala un\'inquietante quiete e la folla si riduce a pochi corrieri frettolosi e spaventati. L\'imponente guglia sembra sfidare la gravità con la sua architettura arcana.
-Alla sua base ci sono due forme massicce che sapete essere i guardiani della cittadella, i Golem di Ferro. Grandi la metà di un uomo, le fiamme arancioni brillano al posto dei loro occhi. Non dubitate della consapevolezza di quegli occhi che seguono ogni vostra mossa. Nessun sacerdote potrebbe superare queste torve sentinelle.
+Alla sua base ci sono due forme massicce che sapete essere i guardiani della cittadella, i Golem di Ferro. Grandi il doppio di un uomo, le fiamme arancioni brillano al posto dei loro occhi. Non dubitate della consapevolezza di quegli occhi che seguono ogni vostra mossa. Nessun sacerdote potrebbe superare queste torve sentinelle.
 Scegliete un luogo dove andare:"</string>
 	<string name="chp6b_23_1__a">"Posizione 23 - L\'archivio
 Si entra nella sala centrale dell\'archivio di Verum. Si dice che sia il più grande deposito di informazioni conosciuto dall\'uomo, o almeno così dicono gli archivisti. Guardandosi intorno appare subito chiaro che qualcosa non va. Diversi archivisti sono riuniti, gridano e gesticolano contro un paio di guardie cittadine che cercano di tenerli calmi.
@@ -7664,20 +7664,20 @@ Mentre il padre morto si dissangua, si osserva il sangue che si raccoglie intorn
 Impugnate le vostre armi e preparatevi a un combattimento all\'ultimo sangue."</string>
 	<string name="chp7_21_12__a">Il Veneratore sbatte l\'uomo sulla lastra, tenendolo facilmente a terra con una mano. Alza la sua massiccia mazza verso il cielo. Rifiutando di stare a guardare mentre altri abitanti innocenti vengono sacrificati, il vostro gruppo carica il gigante placcato. Avvicinandovi al Veneratore, notate che anche gli abitanti del villaggio hanno iniziato a muoversi. All\'inizio pensavate che si stessero unendo alla vostra carica, ma poi avete capito. I loro occhi vitrei sono puntati su di voi e non vedete alcuna umanità in loro. Quando iniziano ad artigliarti, ti rendi conto che non dovrai affrontare solo il Veneratore, ma tutti quanti.</string>
 	<string name="chp7_24_1__a">"Passando per una strada asfaltata che attraversa i campi, vi trovate di fronte alle statue dei martiri. Non sorridono, e nemmeno gli altri. Non ci sono suoni di allegria. Non ci sono risate o grida di rabbia. Solo persone che svolgono il loro lavoro in silenzio
-Mentre proseguite, uno strano suono rompe la quiete, il suono del dolore e degli interruttori. Attirati da esso, trovate una folla radunata intorno a una zona circolare di terra battuta dove un ragazzo viene picchiato con dei bastoni da due uomini che indossano maschere demoniache. Avvertendo il vostro interesse, il sacerdote spiega: \"Il ragazzo è stato lì tutta la notte e ora sta attraversando "la valle" dove si trova la tentazione. Uscire dal cerchio significa cedere alla tentazione. Il ragazzo è segnato dai suoi peccati, in modo che possa ricordare le sue colpe. Risparmiare la verga significa viziare il bambino.\"
+Mentre proseguite, uno strano suono rompe la quiete, il suono del dolore e delle frustate. Attirati da esso, trovate una folla radunata intorno a una zona circolare di terra battuta dove un ragazzo viene picchiato con dei bastoni da due uomini che indossano maschere demoniache. Avvertendo il vostro interesse, il sacerdote spiega: \"Il ragazzo è stato lì tutta la notte e ora sta attraversando "la valle" dove si trova la tentazione. Uscire dal cerchio significa cedere alla tentazione. Il ragazzo è segnato dai suoi peccati, in modo che possa ricordare le sue colpe. Risparmiare la verga significa viziare il bambino.\"
 Sceglietene uno:"</string>
-	<string name="chp7_24_2__a">"Afferrate l\'interruttore e lo spezzate sul volto del demone. L\'uomo cade a terra e voi allungate una mano verso il ragazzo. Non si muove. Gli fate cenno che è tutto a posto, ma lui rifiuta, stringendo le mani a pugno.
+	<string name="chp7_24_2__a">"Afferrate la frusta e la spezzate sul volto del demone. L\'uomo cade a terra e voi allungate una mano verso il ragazzo. Non si muove. Gli fate cenno che è tutto a posto, ma lui rifiuta, stringendo le mani a pugno.
 Sceglietene uno:"</string>
 	<string name="chp7_24_4__a">Il ragazzo stringe i denti, ma non può fare a meno di emettere grida di dolore quando i segni rossi gli attraversano la schiena ed il petto. Una tale disciplina in un ragazzo così giovane è ammirevole. Alla fine un colpo spacca la pelle e un rivolo di sangue scende lungo la schiena. È difficile da guardare, ma è il loro modo e la loro fede. Con l\'incoraggiamento del sacerdote, proseguite.</string>
 	<string name="chp7_24_5__a">Non volete vedere un bambino picchiato oggi. Ci sono affari da sbrigare. Passate oltre senza fermarvi.</string>
 	<string name="chp7_24_6__a">"Afferrate il ragazzo per il polso e lo allontanate dal cerchio. Quando i suoi piedi rompono la linea, comincia a piangere e non vi guarda. \"Hai fatto un torto al bambino, Oathsworn,\" dice il sacerdote, \"Ha lasciato il cerchio e ora è un peccatore e deve ricominciare, per non essere marchiato per i suoi peccati.\"
 Guardate le altre persone, i più umili e i più poveri, che mostrano sulle braccia e sul collo i segni di marchi lontani. Guardate il segno sul vostro polso. Conosci il peso delle decisioni passate. Con un ultimo sguardo al ragazzo, ve ne andate."</string>
-	<string name="chp7_24_7__a">\"Uscire dal cerchio significa cedere alla tentazione, spiega il sacerdote\". \"Se se ne va, sarà punito più severamente e sarà marchiato per il suo peccato, in modo che tutti conoscano la sua colpa per sempre.\" Con un ultimo sguardo al ragazzo, ve ne andate mentre i colpi dell\'interruttore cominciano a suonare di nuovo.</string>
-	<string name="chp7_29_1__c">"L\'ultimo tratto del viaggio da Verum è privo di altre bestie mangia-uomini, tanto meno di creature con braccia spinate e simili a fruste. Da quando avete lasciato Verum, un acquazzone incessante ha ostacolato il vostro cammino. Non ha mai smesso di piovere e siete al terzo giorno consecutivo senza dormire. Il viaggio non è reso più facile dal fatto che non avete mai avuto scelta. I giurati non rifiutano un Re, non se Verum deve avere qualche possibilità di sopravvivere alla peste.
+	<string name="chp7_24_7__a">\"Uscire dal cerchio significa cedere alla tentazione, spiega il sacerdote\". \"Se se ne va, sarà punito più severamente e sarà marchiato per il suo peccato, in modo che tutti conoscano la sua colpa per sempre.\" Con un ultimo sguardo al ragazzo, ve ne andate mentre i colpi della frusta cominciano a suonare di nuovo.</string>
+	<string name="chp7_29_1__c">"L\'ultimo tratto del viaggio da Verum è privo di altre bestie mangia-uomini, tanto meno di creature con braccia spinate e simili a fruste. Da quando avete lasciato Verum, un acquazzone incessante ha ostacolato il vostro cammino. Non ha mai smesso di piovere e siete al terzo giorno consecutivo senza dormire. Il viaggio non è reso più facile dal fatto che non avete mai avuto scelta. Gli Oathsworn non rifiutano un Re, non se Verum deve avere qualche possibilità di sopravvivere alla peste.
 Uscendo dalle ombre del Bosco Profondo, le piogge cessano presto e un sole caldo si fa largo tra le nuvole. Alla luce del sole brillano le massicce mura di marmo bianco della città santa, Cistercia
 Fuori dalla porta della città, vedete una coppia di imponenti guerrieri, con i loro giganteschi scudi aquiloni e le armature lucenti schizzate con il sangue di un\'uccisione fresca. Ai loro piedi, un mucchio di carne mutilata che una volta era una bestia gigante di qualche tipo. Avete sentito parlare di una compagnia di cavalieri cistercensi, nota come Ordine delle Spine, che spesso addestra i suoi membri in questo modo: facendo sì che sia la mente che il corpo di un cavaliere vengano portati oltre le mura, fino a diventare entrambi duri come la roccia.
 Mentre vi avvicinate al cancello, le lance dei cavalieri si incrociano, impedendovi di avvicinarvi. Uno dei membri della Compagnia fa vedere il suo marchio del giuramento e le armi si separano, permettendovi di passare
-Una volta che il gruppo ha superato l\'area di ispezione della quarantena, la saracinesca si apre su uno spettacolo meraviglioso. Nella distesa di terra davanti a voi si trovano fattorie piene di lavoratori che raccolgono i raccolti e vi rendete conto che, per la prima volta, state vedendo un\'agricoltura in superficie. Al di là dei campi di grano dorato e delle colture appena piantate, si erge la città a gradoni, bianca e splendente, che si estende su una grande catena montuosa che va da un capo all\'altro dell\'orizzonte
+Una volta che il gruppo ha superato l\'area di ispezione della quarantena, la saracinesca si apre su uno spettacolo meraviglioso. Nella distesa di terra davanti a voi si trovano fattorie piene di lavoratori che mietono i raccolti e vi rendete conto che, per la prima volta, state vedendo un\'agricoltura in superficie. Al di là dei campi di grano dorato e delle colture appena piantate, si erge la città a gradoni, bianca e splendente, che si estende su una grande catena montuosa che va da un capo all\'altro dell\'orizzonte
 Una voce trafigge la vostra attuale distrazione. \"Pilastro e Sentiero, Oathsworn.\" Vestito con il familiare mantello viola della fede cistercense, un sacerdote sta stoicamente davanti a voi. \"Vi stavamo aspettando. Il Lord Marshall vi riceverà subito.\""</string>
 	<string name="chp7_2_10__a">"Accompagnati da Quintus, tornate alla grande cattedrale vicino ai primi gradini della Salita. Lì trovate un gruppo di pellegrini che iniziano il loro viaggio su per l\'imponente scalinata verso l\'alto della montagna. Ognuno di loro cammina con solenne soggezione di fronte alla maestosa architettura, oltrepassando il testo inciso sulle pareti e ogni gradino della scala sotto di loro.
 \"Sembra che oggi piova, non credi, Oathsworn?\" una voce sommessa mormora alle tue spalle. Voltandovi, vedete un uomo vestito con le vesti bianche dei mendicanti. \"Pilastro e Sentiero,\" dice, toccandosi una mano tremante sulla fronte e rilasciandola. Il suo sguardo si sofferma timoroso su Quintus, in piedi dietro di voi. Si china e parla in tono sommesso. \"Possiamo parlare in privato? Io... abbiamo bisogno del tuo aiuto.\""</string>
@@ -7688,7 +7688,7 @@ Riunendovi a Quintus, continuate la caccia al Veneratore scomparso. È difficile
 Non potendo raccogliere altro, decidete di proseguire."</string>
 	<string name="chp7_2_14__a">"L\'area intorno al santuario è stata pulita meticolosamente. Sembra che sia stata prestata molta attenzione per assicurarsi che non venissero lasciate tracce
 Non avendo più nulla da raccogliere qui, decidete di andare avanti."</string>
-	<string name="chp7_2_15__a">"Il saluto usato dal mendicante è un saluto che conoscete bene. Parlare della pioggia imminente è un riferimento segreto usato dai vostri fratelli e sorelle della Chiesa bassa per identificarsi l\'un l\'altro quando sono in presenza di estranei. Quest\'uomo, come voi, è un seguace della Via. Rischiare di esporsi, con l\'aiutante del Lord Marshall nelle vicinanze, deve essere di estrema importanza. Non è troppo difficile liberarsi di Quintus e scoprire di cosa ha bisogno il mendicante."</string>
+	<string name="chp7_2_15__a">"Il saluto usato dal mendicante è un saluto che conoscete bene. Parlare della pioggia imminente è un riferimento segreto usato dai vostri fratelli e sorelle della Chiesa bassa per identificarsi l\'un l\'altro quando sono in presenza di estranei. Quest\'uomo, come voi, è un seguace della Via. Per rischiare di esporsi, con l\'aiutante del Lord Marshall nelle vicinanze, deve essere di estrema importanza. Non è troppo difficile liberarsi di Quintus e scoprire di cosa ha bisogno il mendicante."</string>
 	<string name="chp7_2_16__a">"C\'è qualcosa di strano nel saluto dell\'uomo e l\'evidente timore nel suo atteggiamento invita a fare ulteriori domande. Non è troppo difficile liberarsi da Quintus e scoprire di cosa ha bisogno il mendicante."</string>
 	<string name="chp7_2_17__a">"Dite a Quintus che volete pregare prima di continuare l\'indagine e gli chiedete di aspettare qui mentre lo fate. Mescolandovi all\'enorme folla di pellegrini e supplicanti, vi sottraete alla vista e trovate un\'alcova tranquilla dove potete conversare con il mendicante
 \"Il mio nome è Finnian,\" sussurra. \"Rappresento un ordine di veri fedeli che sono pronti ad aiutarvi. Sappiamo che cercate mendicanti per aiutarvi con la peste di Verum e siamo in molti. Il mio ordine non è associato all\'Alta Chiesa o alla sua dottrina corrotta, e possiamo fornire i mendicanti di cui avete bisogno. Vi chiediamo solo di aiutarci a liberare il mio padrone che è stato ingiustamente condannato a morte.\"
@@ -7698,31 +7698,31 @@ Gli chiedete di quale crimine è accusato il suo padrone
 Sceglietene uno:"</string>
 	<string name="chp7_2_1__a">"Posizione 2: Sala dei Cento
 \"Si chiama l\'Ascesa\", vi dice Quintus mentre muove una mano guantata verso la cattedrale bianca e scintillante che troneggia davanti a voi. Costruita direttamente sul fianco della montagna, la sua struttura in pietra elegantemente scolpita riflette la luce del sole, accecando quasi tutti coloro che la guardano direttamente. \"Qui iniziano i primi gradini della grande scalinata che si snoda all\'interno della montagna, fino alla vetta stessa,\" e continua. \"È qui che si trova il luogo più sacro della nostra fede.\"
-Superate le massicce porte a due battenti, l\'imponenza del soffitto a volta e la maestria della lavorazione della pietra lasciano senza fiato. Si percorre un sentiero che attraversa direttamente il centro della cattedrale. Ai lati ci sono dodici grandi armature appollaiate su alti plinti di marmo. I supplicanti si inchinano in preghiera davanti a ciascuna di esse, dando l\'impressione che siano più simili a santuari che ad armi da guerra
+Superate le massicce porte a due battenti, l\'imponenza del soffitto a volta e la maestria della lavorazione della pietra lasciano senza fiato. Percorrete un sentiero che attraversa direttamente il centro della cattedrale. Ai lati ci sono dodici grandi armature appollaiate su alti plinti di marmo. I supplicanti si inchinano in preghiera davanti a ciascuna di esse, dando l\'impressione che siano più simili a santuari che ad armi da guerra
 Quintus nota il vostro interesse e spiega: \"Queste sono le armature sacre indossate dai Veneratori. Venite, da questa parte.\"
 Vi conduce in un\'altra zona della cattedrale, ben lontana dalle folle di pellegrini e suppliche. Qui l\'aria è pervasa da un forte profumo di olio per armi misto a incenso. Su autorizzazione di Quintus, entrate nella Sala dei Cento
-I giganteschi sacerdoti guerrieri noti come Veneratori sono inconfondibili. Uomini torreggianti di muscoli cesellati, ognuno è alto la metà di un qualsiasi umano. Ognuno di loro è vestito con abiti riccamente decorati e con veli tirati in testa, che nascondono sempre il volto. Alcuni dei sacerdoti guerrieri si allenano in arene di combattimento recintate, mentre altri si muovono nella sala studiando enormi tomi rilegati in pelle.
+I giganteschi sacerdoti guerrieri noti come Veneratori sono inconfondibili. Uomini torreggianti di muscoli cesellati, ognuno è alto il doppio di un qualsiasi umano. Ognuno di loro è vestito con abiti riccamente decorati e con veli tirati in testa, che nascondono sempre il volto. Alcuni dei sacerdoti guerrieri si allenano in arene di combattimento recintate, mentre altri si muovono nella sala studiando enormi tomi rilegati in pelle.
 La vostra presenza viene notata immediatamente quando uno dei loro custodi vi si avvicina. L\'uomo, vestito con abiti d\'argento con gemme verdi incastonate nel colletto, si rivolge al vostro gruppo. \"Immagino che voi siate l\'aiutante di campo?\" chiede. Quintus annuisce e, curiosamente, allontana il custode da un lato, in modo che possa parlare lontano dalle vostre orecchie. Un altro promemoria per ricordare che qui non ci si fida degli estranei.
 Dopo qualche istante, sembrano raggiungere un accordo ed il custode si rivolge al vostro gruppo, \"Molto bene, allora. Se volete conoscerci, dovete prima essere pesati. Con la lama o con il sangue, i nostri padroni esigono una prova di combattimento. Uno o tutti devono affrontare la prova. Il ferro affila il ferro. Il pilastro deve essere rafforzato.\"
 Guardando i giganti schierati davanti a voi, vi rendete conto che probabilmente vi farà male. Farsi male durante una caccia è una cosa seria e non va cercata. Si dice che i Veneratori abbiano la forza di dieci uomini, lo metterete alla prova, ma come procedere? Uno di voi potrebbe affrontare la prova da solo, oppure potreste tentare insieme e avere maggiori possibilità, anche se più persone partecipano a questa prova, più persone potrebbero subire un colpo.
 Scegliete uno:"</string>
-	<string name="chp7_2_3__a">"Il custode vi conduce in una sala adiacente con una grande piattaforma di pietra al centro. Bellissimi murales raffiguranti antiche battaglie di tempi lontani ricoprono ogni parete e massicce statue di marmo, disposte uniformemente intorno alla stanza, vigilano in silenzio
-Pochi istanti dopo, entra uno dei giganti in tunica, affiancato dai suoi assistenti. Quando gli uomini si tolgono le vesti del loro padrone, si vedono cicatrici e simboli religiosi che ricoprono la parte superiore del suo corpo nudo. I suoi attendenti, dopo aver consegnato al Veneratore una spada smussata, gli mettono in testa un nuovo cappuccio, nascondendo il suo volto, prima di inchinarsi in preghiera. Sembra che qui guerra e culto siano una cosa sola
+	<string name="chp7_2_3__a">"Il custode vi conduce in una sala adiacente con una grande piattaforma di pietra al centro. Bellissimi affreschi raffiguranti antiche battaglie di tempi lontani ricoprono ogni parete e massicce statue di marmo, disposte uniformemente intorno alla stanza, vigilano in silenzio
+Pochi istanti dopo, entra uno dei giganti in tunica, affiancato dai suoi assistenti. Quando gli uomini tolgono le vesti del loro padrone, si vedono cicatrici e simboli religiosi che ricoprono la parte superiore del suo corpo nudo. I suoi attendenti, dopo aver consegnato al Veneratore una spada smussata, gli mettono in testa un nuovo cappuccio, nascondendo il suo volto, prima di inchinarsi in preghiera. Sembra che qui guerra e culto siano una cosa sola
 Mentre il Veneratore sale i gradini che portano in cima alla piattaforma, il suo sguardo non vi abbandona mai
 \"Cadere significa fallire. Rimanete sul sentiero,\" spiega il custode mentre consegna a ciascuno di voi una spada smussata e vi fa cenno di salire sulla piattaforma."</string>
-	<string name="chp7_2_4__a">"Il custode vi conduce in una sala adiacente con una grande piattaforma di pietra al centro. Bellissimi murales raffiguranti antiche battaglie di tempi lontani ricoprono ogni parete e massicce statue di marmo, disposte uniformemente intorno alla stanza, vigilano in silenzio
-Pochi istanti dopo, entra uno dei giganti in tunica, affiancato dai suoi assistenti. Quando gli uomini si tolgono le vesti del loro padrone, si vedono cicatrici e simboli religiosi che ricoprono la parte superiore del suo corpo nudo. I suoi attendenti, dopo aver consegnato al Veneratore una spada smussata, gli mettono in testa un nuovo cappuccio, nascondendo il suo volto, prima di inchinarsi in preghiera. Sembra che qui guerra e culto siano una cosa sola
+	<string name="chp7_2_4__a">"Il custode vi conduce in una sala adiacente con una grande piattaforma di pietra al centro. Bellissimi affreschi raffiguranti antiche battaglie di tempi lontani ricoprono ogni parete e massicce statue di marmo, disposte uniformemente intorno alla stanza, vigilano in silenzio
+Pochi istanti dopo, entra uno dei giganti in tunica, affiancato dai suoi assistenti. Quando gli uomini tolgono le vesti del loro padrone, si vedono cicatrici e simboli religiosi che ricoprono la parte superiore del suo corpo nudo. I suoi attendenti, dopo aver consegnato al Veneratore una spada smussata, gli mettono in testa un nuovo cappuccio, nascondendo il suo volto, prima di inchinarsi in preghiera. Sembra che qui guerra e culto siano una cosa sola
 Mentre il Veneratore sale i gradini che portano in cima alla piattaforma, il suo sguardo non vi abbandona mai."</string>
 	<string name="chp7_2_4__c">\"Cadere significa fallire. Rimani sul sentiero,\" spiega il custode mentre ti porge una spada smussata e ti fa cenno di salire sulla piattaforma.</string>
 	<string name="chp7_2_5__a">"La danza della battaglia inizia con i vostri colpi in un vertiginoso turbinio di attacchi. Il Veneratore, incurante del vostro tentativo aggressivo, respinge i colpi con una pioggia di scintille. Il combattimento si protrae per diversi minuti e vi rendete conto di non avere la resistenza necessaria per continuare ancora a lungo. Utilizzando il cervello piuttosto che i muscoli, attirate il Veneratore. Mentre si prepara a sferrare il colpo di grazia, scivolate sul fianco e lo colpite sul retro della gamba. Il Veneratore perde momentaneamente l\'equilibrio, offrendo l\'opportunità di farlo cadere dal bordo della piattaforma. Le preghiere degli assistenti cessano all\'istante e la stanza tace.
 \"Il tuo pilastro è davvero forte, Oathsworn, osserva il custode\" mentre scendi dalla piattaforma."</string>
-	<string name="chp7_2_6__a">Siete di fronte al vostro avversario in cima alla piattaforma. Quando la danza della battaglia ha inizio, il Veneratore vi colpisce come un fulmine, scatenando una raffica di colpi martellanti. Grugnite quando subite un colpo al fianco, costretti a cedere il passo mentre il guerriero più grande vi spinge indietro verso il bordo. Le scintille volano finché le vostre spade non si agganciano. Tentate di rallentare la sua avanzata, ma non riuscite a sopraffare il Veneratore, che vi spedisce giù dalla piattaforma e si schianta sul freddo pavimento di pietra a una decina di metri di distanza.</string>
-	<string name="chp7_2_6__c">Il custode si china sul vostro corpo prono. \"Il processo è finito, Oathsworn. Ti sei annoiato bene e questo è sufficiente per ora,\" dice con decisione.</string>
+	<string name="chp7_2_6__a">Siete di fronte al vostro avversario in cima alla piattaforma. Quando la danza della battaglia ha inizio, il Veneratore vi colpisce come un fulmine, scatenando una raffica di colpi martellanti. Grugnite quando subite un colpo al fianco, costretti a cedere il passo mentre il guerriero più grande vi spinge indietro verso il bordo. Le scintille volano finché le vostre spade non si agganciano. Tentate di rallentare la sua avanzata, ma non riuscite a sopraffare il Veneratore, che vi spedisce giù dalla piattaforma e vi schiantate sul freddo pavimento di pietra a una decina di metri di distanza.</string>
+	<string name="chp7_2_6__c">Il custode si china sul vostro corpo prono. \"Il processo è finito, Oathsworn. Hai sopportato bene e questo è sufficiente per ora,\" dice con decisione.</string>
 	<string name="chp7_2_7__a">"Siete in piedi sulla piattaforma, spalla a spalla con il vostro avversario. Come un fulmine, il Veneratore attacca e la danza ha inizio. La battaglia dura diversi minuti, con ogni parte che cede e guadagna terreno in una gara di abilità marziali. Alla fine le vostre abilità ben affinate e la coordinazione del gruppo riescono a spingere il Veneratore fuori dalla piattaforma. Le preghiere degli assistenti cessano all\'istante e la stanza tace.
 \"Il tuo pilastro è davvero forte, Oathsworn, osserva il custode\" mentre scendi dalla piattaforma."</string>
 	<string name="chp7_2_8__a">"Siete in piedi sulla piattaforma, spalla a spalla con il vostro avversario. Come un fulmine, il Veneratore attacca e la danza ha inizio. La battaglia dura diversi minuti: ogni parte cede e guadagna terreno in una gara di abilità marziale
 Nonostante le vostre abilità ben affinate e la coordinazione del gruppo, non riuscite a tenere il passo con l\'impressionante potenza del Veneratore. Egli individua uno del vostro gruppo e lo spinge fuori dal bordo. Uno dopo l\'altro, gli altri cadono come domini, finché non rimane solo lui in cima alla piattaforma."</string>
-	<string name="chp7_2_8__c">Il custode si rivolge al vostro gruppo. \"Il processo è finito, Oathsworn. Vi siete annoiati bene e questo è sufficiente per ora,\" dice in modo deciso.</string>
+	<string name="chp7_2_8__c">Il custode si rivolge al vostro gruppo. \"Il processo è finito, Oathsworn. Avete sopportato bene e questo è sufficiente per ora,\" dice in modo deciso.</string>
 	<string name="chp7_2_9__a">"Il vostro gruppo, insieme a Quintus, viene ricondotto nella sala buia dove le restanti armature dei Veneratori sono racchiuse in pilastri di pietra. Passando accanto a ciascuna delle reliquie, le trovate riccamente adornate con candele, rotoli di testo e piccole offerte. La fede spinge ogni cistercense alla perfezione e lo si può vedere qui
 La vostra scorta di custodi si ferma infine accanto a un pilastro vuoto, con diverse candele accese e una pila di pesanti tomi seduti in cima al posto dell\'armatura. Un paio di custodi si inginocchiano in preghiera davanti ad esso, ignari della vostra presenza
 \"Logos, l\'armatura del Verbo,\" vi informa la vostra scorta di custodi. \"Non lo si vede da tre giorni, e nemmeno i suoi assistenti. Come sapete, questo ci preoccupa molto. I nostri maestri sono l\'incarnazione della nostra fede e la perdita anche di uno solo di loro porta vergogna a tutti noi. Ora anche tu porti questa vergogna, Oathsworn. Preghiamo che tu sia abbastanza forte da portarla.\"
@@ -7733,21 +7733,21 @@ Il sacerdote vi guida attraverso una serie di corridoi, fino ad arrivare alla ca
 Sceglietene una:"</string>
 	<string name="chp7_6_5__a">"Il volto del Lord Marshall si indurisce. Non gli piace che gli si parli in questo modo. \"Ne sono consapevole. Ma non posso dare ciò che non è disponibile in questo momento. Vi chiedo un favore nel frattempo. Naturalmente sarete ricompensati per il disturbo.\" Non è una richiesta.
 Getta un sacco di monete sul tavolo davanti a voi."</string>
-	<string name="chp7_6_5__c">Il patto non prevede l\'obbligo di stipulare un contratto con una Libera Compagnia, solo la Guglia del Corvo può farlo. Tuttavia, se il Lord Maresciallo di Cistercia decide di schierarsi contro di voi, ciò causerà seri problemi ai vostri obiettivi qui. Non vedendo una via d\'uscita senza mettere in pericolo il vostro scopo, acconsentite.</string>
+	<string name="chp7_6_5__c">Il patto non prevede l\'obbligo di stipulare un contratto con una Libera Compagnia, solo la Guglia del Corvo può farlo. Tuttavia, se il Lord Marshall di Cistercia decide di schierarsi contro di voi, ciò causerà seri problemi ai vostri obiettivi qui. Non vedendo una via d\'uscita senza mettere in pericolo il vostro scopo, acconsentite.</string>
 	<string name="chp7_6_6__a">"Lo sguardo del Lord Marshall diventa mortalmente freddo. \"Mi minacciate? Pur essendo a conoscenza del nostro patto con la vostra corona, fareste bene a non recare offesa mentre siete ospiti della mia città. E... considerando che avete del tempo a disposizione, mi aiuterete.\"
 Il patto non prevede l\'obbligo di stipulare un contratto con una Libera Compagnia, solo la Guglia del Corvo può farlo. Tuttavia, se il Lord Marshall di Cistercia decide di schierarsi contro di voi, ciò causerà seri problemi ai vostri obiettivi qui. Non vedendo una via d\'uscita senza mettere in pericolo il vostro scopo, acconsentite."</string>
 	<string name="chp7_6_7__a">Il Lord Marshall abbassa lo sguardo con un sorriso, scuotendo la testa in segno di disappunto, \"Sembra che il marchio non sia tanto un simbolo d\'onore, quanto una merce di scambio. Molto bene.\" Dice, gettando un sacco di monete sul tavolo.</string>
 	<string name="chp7_6_7__c">\"Vi guadagnerete questo Iron,\" dichiara. Tu fai un leggerissimo cenno di assenso. Le cicatrici sotto l\'armatura testimoniano che lo fai sempre.</string>
 	<string name="chp7_6_8__a">"\"Niente di tutto questo,\" dice il Lord Marshall, scartando rapidamente il vostro tentativo di negoziazione con un gesto della mano. \"Non mi farò scuotere da un gruppo di mercenari per qualche Iron. I mendicanti sono vostri non appena torneranno. Nel frattempo, vi renderete utili adempiendo a un contratto con noi. Ognuno di voi ha prestato giuramento e io esigo che lo onoriate.\"
-Il patto non prevede l\'obbligo di stipulare un contratto con una Libera Compagnia, solo la Guglia del Corvo può farlo. Tuttavia, se il Lord Maresciallo di Cistercia sceglierà di opporsi a voi, ciò causerà seri problemi ai vostri obiettivi qui. Non vedendo una via d\'uscita senza mettere in pericolo il vostro scopo, acconsentite."</string>
-	<string name="chp7_6_9__a">"\"Molto bene, allora. Ora che abbiamo un\'intesa, discutiamo della questione in questione,\" dice il Lord Marshall, facendo un cenno a qualcuno dietro di voi
+Il patto non prevede l\'obbligo di stipulare un contratto con una Libera Compagnia, solo la Guglia del Corvo può farlo. Tuttavia, se il Lord Marshall di Cistercia sceglierà di opporsi a voi, ciò causerà seri problemi ai vostri obiettivi qui. Non vedendo una via d\'uscita senza mettere in pericolo il vostro scopo, acconsentite."</string>
+	<string name="chp7_6_9__a">"\"Molto bene, allora. Ora che abbiamo un\'intesa, discutiamo dell'argomento in questione,\" dice il Lord Marshall, facendo un cenno a qualcuno dietro di voi
 Vi voltate e vedete una guardia dalla mascella squadrata, vestita di una lucida armatura d\'acciaio, chiudere l\'unica porta della camera e prendere posizione al vostro fianco. Si mette sull\'attenti con lo sguardo fisso davanti a voi. A quanto pare questa discussione non è destinata a nessuno al di fuori di questa stanza.
 \"Si tratta di una questione molto delicata. Il vostro silenzio e la vostra discrezione non sono facoltativi,\" insiste il Lord Marshall, guardando ognuno di voi a turno.
 \"Uno dei nostri più sacri sacerdoti guerrieri è scomparso. Un Veneratore dei Cento. Nessuno è mai venuto meno al proprio incarico prima d\'ora e solo con la morte il loro dovere termina. Sono una luce che guida i nostri fedeli e la scomparsa di uno di loro è motivo di grave preoccupazione. Dovete trovare questo guerriero e restituircelo. Se non dovesse essere trovato vivo, recupererete la sua armatura e le sue armi. Sono reliquie della nostra fede.\"
-Il Lord Maresciallo fa cenno al guerriero corazzato in piedi accanto a voi. \"Quintus, il mio aiutante, vi assisterà. Porta con sé la mia autorità e farà in modo che abbiate tutto ciò di cui avete bisogno mentre conducete la vostra... indagine.\"
+Il Lord Marshall fa cenno al guerriero corazzato in piedi accanto a voi. \"Quintus, il mio aiutante, vi assisterà. Porta con sé la mia autorità e farà in modo che abbiate tutto ciò di cui avete bisogno mentre conducete la vostra... indagine.\"
 Quintus ha l\'aspetto di un soldato doveroso e senza dubbio porta anche gli occhi e le orecchie del Lord Marshall ovunque vada."</string>
 	<string name="chp7_6_9__c">"\"Vi suggerisco di iniziare dalla Sala dei Cento. Quintus vi indicherà la strada,\" dice il Lord Marshall, mentre rivolge nuovamente la sua attenzione ai documenti disposti sul tavolo davanti a lui. \"Potete andare.\"
-Mentre vi avviate verso la porta, il Lord Maresciallo vi dà un ultimo consiglio. \"Non dire una parola di tutto questo a nessuno, Oathsworn, o i mendicanti saranno l\'ultima delle tue preoccupazioni.\""</string>
+Mentre vi avviate verso la porta, il Lord Marshall vi dà un ultimo consiglio. \"Non dire una parola di tutto questo a nessuno, Oathsworn, o i mendicanti saranno l\'ultima delle tue preoccupazioni.\""</string>
 	<string name="chp7_epi_1__a">"Il corpo senza vita del Veneratore giace in una pozza del suo stesso sangue, che fortunatamente rimane immobile in pozze irregolari sul terreno. Sollevato dalle forze magiche che gli hanno permesso di manipolare il sangue, guardi verso le gabbie e vedi gli abitanti del villaggio che piangono e si consolano a vicenda.
 Non riuscite a togliervi dalla testa la sensazione che ci sia ancora qualcosa che non va. Tutti gli abitanti del villaggio fuori dalle gabbie rimangono affascinati e ondeggiano catatonicamente sui loro piedi. Qualunque sia l\'incantesimo di cui sono vittime non è stato sciolto."</string>
 	<string name="chp7_epi_3__a">"Trovate Finnian in una zona ben lontana dalla carneficina, a consolare una madre e le sue due figlie. Senza dubbio la famiglia di Padre Pyren. Per fortuna, devono essere state nelle gabbie e hanno risparmiato il destino di molti altri. Nonostante la terribile notizia, sembrano illese
@@ -7789,11 +7789,11 @@ La vostra descrizione dell\'incontro con gli orrori armati di frusta fa sì che 
 	<string name="chp7a_17_6__a">"\"È strano,\" ammette l\'uomo. \"Ci sono poche cose che non abbiamo ancora ucciso là fuori e questa sembra essere una di quelle. C\'è anche dell\'altro nell\'enigma.\" Pone il campione su un tavolo d\'esame e prepara un dispositivo con bracci metallici che ospitano una serie di lenti di vetro. Regola le lenti nel modo giusto e studia il campione
 \"Guardate qui. Vede come queste due aree di pelle sono completamente diverse? È come se provenissero da due creature diverse. E questi piccoli fori qui, che corrono lungo questa cresta, sembrano essere stati cuciti. Qualunque cosa sia, è stata fatta..\"
 Scegliere un luogo in cui andare:"</string>
-	<string name="chp7a_19_1__a">"Posizione 19 - Fattoria comune
+	<string name="chp7a_19_1__a">"Posizione 19 - Fattoria Comune
 I braccianti curano i campi circondati da alte mura di pietra. Chiedete in giro se ci sono eventi insoliti e sentite le storie di un\'ombra che si aggira nella notte negli ultimi giorni e di alcuni braccianti scomparsi. Ricordando con tristezza i resti umani trovati nelle tombe, non dite nulla. Una cosa diventa chiara: non è successo qui, ma nelle fattorie a est.
 Scegliete un luogo dove andare:"</string>
-	<string name="chp7a_20_1__a">"Posizione 20 - Fattoria comunale
-I campi si estendono davanti a voi. Non siete abituati a vedere questo tipo di distesa senza che alberi o muri del Bosco Profondo che vi blocchino la vista. L\'effetto è strano, quasi rilassante. Ma sapete bene che non è il caso di farlo. Come Cistercia sia arrivata a questo terreno è una domanda che rimane senza risposta. Non sembra avere la stessa sovrappopolazione di cui soffrono città simili. Tutto in questo posto vi mette un po\' a disagio. Quando le cose sembrano troppo belle per essere vere, di solito lo sono
+	<string name="chp7a_20_1__a">"Posizione 20 - Fattoria Comune
+I campi si estendono davanti a voi. Non siete abituati a vedere questo tipo di distesa senza che alberi o muri del Bosco Profondo che vi blocchino la vista. L\'effetto è strano, quasi rilassante. Ma sapete bene che non è il caso di farlo. Come Cistercia sia arrivata a questo terreno è una domanda che rimane senza risposta. Non sembra avere la stessa sovrappopolazione di cui soffrono città simili. Tutto in questo posto vi mette un po\' a disagio. Quando le cose sembrano troppo belle per essere vere, di solito non sono vere
 Le storie che si sentono raccontare dai contadini qui sono quelle di un\'ombra che si aggira nella notte e di contadini scomparsi la mattina dopo. Senza una descrizione accurata da cui partire, decidete di perlustrare la zona alla ricerca di altri indizi."</string>
 	<string name="chp7a_20_2__a">"In un campo vicino, accanto a un ponte che attraversa un piccolo ruscello, scoprite una serie di impronte ancora visibili nel terreno fangoso. Sono grandi il doppio di quelle di un uomo medio e provengono chiaramente da piedi corazzati. Seguendole, sembrano condurre verso est."</string>
 	<string name="chp7a_20_3__a">"Si esamina la zona, ma non si trova nulla di interessante. Probabilmente i contadini erano solo spaventati dal buio pesto delle notti senza luna e dalla loro immaginazione iperattiva.
@@ -7805,7 +7805,7 @@ C\'è qualcosa che non va. Fate segno ai vostri compagni di estrarre silenziosam
 Ogni viaggio nel Bosco Profondo è pericoloso, e questo viaggio non è diverso: un paio di bestie vi affrontano mentre cercate di orientarvi verso il villaggio. Sembrano essere parenti delle bestie che avete visto morte ai piedi dei cavalieri al vostro arrivo. Sperate di essere all\'altezza del compito."</string>
 	<string name="chp7a_22_1__c">"Strappando le lame dalle spesse pelli, proseguite. Quando arrivate al villaggio, la gente sta semplicemente svolgendo le proprie attività come al solito. Nessuno ha visto nulla di strano.
 Scegliete un luogo dove andare:"</string>
-	<string name="chp7a_23_1__a">"Posizione 23 - Fattoria comune
+	<string name="chp7a_23_1__a">"Posizione 23 - Fattoria Comune
 La vostra presenza alla fattoria comune da questa parte della città crea scalpore e siete accolti con sospetto. È raro che i contadini vedano degli estranei da queste parti, tanto meno una Libera Compagnia. La maggior parte esita a parlare con voi, ma i pochi che lo fanno fanno del loro meglio per rispondere alle vostre domande. Nessuno ha visto nulla di insolito.
 Scegliete un luogo dove andare:"</string>
 	<string name="chp7a_26_1__a">"Posizione 26 - Villaggio
@@ -7853,7 +7853,7 @@ Sceglietene uno:"</string>
 	<string name="chp7a_7_5__a">Ruotando la leva in senso antiorario, gli ingranaggi del meccanismo scricchiolano e stridono. Più si gira la leva, più diventa difficile. Improvvisamente si sente un rumore di scatto seguito da un sibilo d\'aria. L\'esperienza vi dice che è scattata una trappola e vi allontanate istintivamente dalla porta. Un getto di fiamme inghiotte l\'area davanti alla porta. Troppo lenti per reagire, i resti carbonizzati del bibliotecario si sbriciolano sul pavimento.</string>
 	<string name="chp7a_7_5__c">\"Aspetteremo l\'artefice\", dice Quintus, completamente privo di emozioni.</string>
 	<string name="chp7a_7_5__e">Alla fine, con l\'aiuto degli artificieri, la pesante porta si apre.</string>
-	<string name="chp7a_7_6__a">"Con le torce d\'ambra per illuminare il cammino, si percorre il corridoio che alla fine si apre in una grande sala. File di piedistalli di pietra si estendono da un capo all\'altro. Su ogni piedistallo c\'è un singolo tomo o un rotolo di pergamena di diverso disegno ed estetica, bloccato al suo posto da catene di ferro
+	<string name="chp7a_7_6__a">"Con le torce d\'ambra per illuminare il cammino, percorrete il corridoio che alla fine si apre in una grande sala. File di piedistalli di pietra si estendono da un capo all\'altro. Su ogni piedistallo c\'è un singolo tomo o un rotolo di pergamena di diverso disegno ed estetica, bloccato al suo posto da catene di ferro
 \"Testi eretici,\" Quintus offre, \"Il prodotto della stregoneria e dei culti,\" muovendo la torcia in un ampio arco per illuminare l\'intera camera. Uno dei tomi che passate sembra avere il volto scorticato di un uomo cucito sulla copertina. Potete solo immaginare il tipo di potere contenuto in questi libri e starne alla larga. Infine, vi imbattete in un piedistallo vuoto, le cui catene di ferro penzolano senza tanti complimenti. A quanto pare, il Veneratore ne ha preso uno."</string>
 	<string name="chp7a_7_6__c">"
 Sceglietene uno:
@@ -7894,14 +7894,14 @@ Prima che riusciate a liberare la stanza, la guardia vi scorge. \"Alt! Cosa ci f
 	<string name="chp7b_12_2__a">"Mescolandovi a un gruppo più numeroso di cittadini, riuscite ad ascoltare una conversazione tra un paio di guardie di pattuglia di passaggio. Dicono che il loro Proctor ha riorganizzato gli incarichi delle guardie in modo da poter partecipare alla messa di oggi, preferendola a quella di domani con i popolani. È probabile che il Proctor sia in possesso di ulteriori informazioni sugli orari e i percorsi delle guardie. Forse potreste trovarlo alla messa pomeridiana che si tiene nella Cattedrale?
 Sceglietene uno:
 Se siete pronti a iniziare l\'evasione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
-	<string name="chp7b_12_31__a">"Una nicchia nell\'alcova dell\'ingresso offre un nascondiglio perfetto per ascoltare il percorso di ronda della guardia nella stanza successiva. In questa parte del dungeon ci sono molte ombre, ma dovrete comunque fare attenzione.
+	<string name="chp7b_12_31__a">"Una nicchia nell\'alcova dell\'ingresso offre un nascondiglio perfetto per ascoltare il percorso di ronda della guardia nella stanza successiva. In questa parte del sotterraneo ci sono molte ombre, ma dovrete comunque fare attenzione.
 Quando la guardia vi passa accanto, la sua torcia illumina una porta proprio davanti alla vostra posizione. Una volta che si è allontanato dalla vista, ascoltate di nuovo attentamente i suoi passi e cercate di decifrare il suo schema di movimento.
 Sentite il rumore di una porta che si apre e si chiude, seguito da passi su una serie di scale. Poi, il suono familiare del campanello dell\'orologio. I suoi passi si fanno più distanti e si sente una seconda porta aprirsi e chiudersi. Infine, passi veloci lo portano su un\'altra serie di scale. Pochi istanti dopo, la sua torcia si avvicina ancora una volta.
 Sceglietene una:"</string>
 	<string name="chp7b_12_32__a">"Quando la seconda porta si chiude, vi muovete, passando con cautela attraverso la porta che avete davanti. Arrivate a una seconda porta, la aprite di uno spiraglio e sbirciate per assicurarvi che il percorso sia libero
-Confidando che la guardia sia ben lontana dalla vista, vi muovete rapidamente oltre i barili di ambra ardente, scrutando costantemente l\'ambiente circostante. Notate un paio di occhi senza vita che fissano il vuoto da una cella alla vostra sinistra mentre attraversate l\'ultima porta e finalmente arrivate all\'estremità opposta della stanza senza incidenti. Completata un\'altra sfida, vi inoltrate nel dungeon."</string>
+Confidando che la guardia sia ben lontana dalla vista, vi muovete rapidamente oltre i barili di ambra ardente, scrutando costantemente l\'ambiente circostante. Notate un paio di occhi senza vita che fissano il vuoto da una cella alla vostra sinistra mentre attraversate l\'ultima porta e finalmente arrivate all\'estremità opposta della stanza senza incidenti. Completata un\'altra sfida, vi inoltrate nel sotterraneo."</string>
 	<string name="chp7b_12_33__a">"Mentre la guardia vi passa accanto e gira l\'angolo, voi fate la vostra mossa, passando con cautela attraverso la porta che avete davanti. Arrivate a una seconda porta, la aprite e sbirciate per assicurarvi che il percorso sia libero.
-Fiduciosi che la guardia sia ben lontana dalla vista, vi muovete rapidamente oltre i barili di ambra ardente, scrutando costantemente l\'ambiente circostante. Notate un paio di occhi senza vita che fissano il vuoto da una cella alla vostra sinistra mentre attraversate l\'ultima porta e finalmente arrivate all\'estremità opposta della stanza senza incidenti. Completata un\'altra sfida, vi inoltrate nel dungeon."</string>
+Fiduciosi che la guardia sia ben lontana dalla vista, vi muovete rapidamente oltre i barili di ambra ardente, scrutando costantemente l\'ambiente circostante. Notate un paio di occhi senza vita che fissano il vuoto da una cella alla vostra sinistra mentre attraversate l\'ultima porta e finalmente arrivate all\'estremità opposta della stanza senza incidenti. Completata un\'altra sfida, vi inoltrate nel sotterraneo."</string>
 	<string name="chp7b_12_34__a">"Quando la prima porta si apre, vi muovete, salendo rapidamente il corridoio a destra e girando l\'angolo. Sbirciando dalla porta aperta, aspettate che la guardia salga la scala di legno e girate a sinistra dietro un altro angolo. Il suono familiare della campana dell\'orologio riecheggia nella stanza
 Una volta liberata la strada, si entra nell\'area delle celle della prigione, dove i barili di ambra ardente proiettano una tonalità arancione sulla pietra fredda e umida. Cercando di ignorare gli occhi senza vita che fissano il vuoto dalle sbarre arrugginite della cella, salite silenziosamente la scala di legno davanti a voi e raggiungete senza essere scoperti l\'estremità opposta della stanza. Tirando un sospiro di sollievo, vi addentrate nel sotterraneo."</string>
 	<string name="chp7b_12_35__a">Dopo lo scricchiolio della prima porta, vi spostate. Andando dritti, si attraversano due porte e si sale una serie di scale. Aprite una terza porta e vi trovate faccia a faccia con la guardia di pattuglia. La luce della torcia illumina i suoi occhi spalancati mentre indietreggia terrorizzato. Prima che possa gridare, gli sferrate un colpo al lato della testa e appoggiate il suo corpo svenuto contro il muro.</string>
@@ -7920,7 +7920,7 @@ Sceglietene uno:"</string>
 Sceglietene una:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
 	<string name="chp7b_12_50__a">Prison Break</string>
-	<string name="chp7b_12_50__c">"L\'uomo che trovate nella cella è vecchio e distrutto, ma vivo. Padre Pyren solleva lentamente la testa e sta per parlare, quando voi gli fate cenno di tacere. Anche nell\'oscurità, i segni rivelatori della tortura sono impossibili da notare. L\'uomo spettinato trema, riuscendo a malapena a reggersi in piedi da solo. Non ce la farà ad uscire di qui senza aiuto. Due di voi affiancano Pyren, gli gettano rapidamente le braccia sulle spalle e lo accompagnano fuori dalla cella
+	<string name="chp7b_12_50__c">"L\'uomo che trovate nella cella è vecchio e distrutto, ma vivo. Padre Pyren solleva lentamente la testa e sta per parlare, quando voi gli fate cenno di tacere. Anche nell\'oscurità, i segni rivelatori della tortura sono impossibili da non notare. L\'uomo spettinato trema, riuscendo a malapena a reggersi in piedi da solo. Non ce la farà ad uscire di qui senza aiuto. Due di voi affiancano Pyren, gli gettano rapidamente le braccia sulle spalle e lo accompagnano fuori dalla cella
 Ostacolati dalle cattive condizioni fisiche di Pyren, siete costretti a fare movimenti lenti e metodici mentre cercate una via di fuga. Alla fine, fortunatamente, si presenta un\'apertura e sfruttate la distrazione di un cambio di guardia per uscire dalla prigione senza essere scoperti. Ora dovete raggiungere il punto d\'incontro alla periferia della città."</string>
 	<string name="chp7b_12_51__a">"È solo questione di tempo prima che qualcuno scopra una guardia svenuta. Se verrete catturati qui sotto, si aprirà una crisi diplomatica tra Cistercia e Verum. Dovete fuggire dal sotterraneo senza essere scoperti e in fretta
 Rompendo le catene di alcune porte delle celle, non dovrete esortare i prigionieri a fuggire. Nel caos che ne consegue, siete in grado di sgattaiolare discretamente fuori dalla prigione senza essere notati. Mentre attraversate la città, sentite in lontananza le campane d\'allarme delle Sale del Tribunale. Il destino di Padre Pyren è praticamente segnato. Sapevate che le probabilità erano scarse, ma è comunque una situazione difficile da digerire. Vi resta solo la consolazione di poter ancora raggiungere il vostro obiettivo originario e di scortare i mendicanti di Cistercia a Verum."</string>
@@ -7989,7 +7989,7 @@ La vostra descrizione dell\'incontro con gli orrori armati di frusta fa sì che 
 \"Guardate qui. Vede come queste due aree di pelle sono completamente diverse? È come se provenissero da due creature diverse. E questi piccoli fori qui, che corrono lungo questa cresta, sembrano essere stati cuciti. Qualunque cosa sia, è stata fatta..\"
 Sceglietene uno:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
-	<string name="chp7b_18_10__a">"Ubriache come sono, le guardie forniscono inavvertitamente dettagli specifici sull\'area del dungeon a cui sono assegnate. Prestando molta attenzione, si ottiene un quadro chiaro della struttura del dungeon. Sebbene siano a conoscenza solo dei dettagli di una delle tre stanze del dungeon, è sempre meglio di niente.
+	<string name="chp7b_18_10__a">"Ubriache come sono, le guardie forniscono inavvertitamente dettagli specifici sull\'area del sotterraneo a cui sono assegnate. Prestando molta attenzione, si ottiene un quadro chiaro della struttura del sotterraneo. Sebbene siano a conoscenza solo dei dettagli di una delle tre stanze del sotterraneo, è sempre meglio di niente.
 Finito di bere, li salutate. Una volta fuori dalla taverna, trovate un pezzo di pergamena per registrare le informazioni che siete riusciti a raccogliere."</string>
 	<string name="chp7b_18_10__c">"
 Sceglietene uno:
@@ -8036,13 +8036,13 @@ Nel corso delle due ore successive, li deliziate con i racconti delle vostre cac
 Sceglietene uno:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
 	<string name="chp7b_19_1__a">"Posizione 19 - Fattoria comune
-I campi si estendono davanti a voi. Non siete abituati a vedere questo tipo di distanza senza che gli alberi o i muri del Bosco Profondo che vi blocchino la vista. L\'effetto è... strano, quasi rilassante. Ma sapete bene che non è il caso di farlo. Come Cistercia abbia ottenuto questo terreno è una domanda che rimane senza risposta. Non sembra avere la stessa sovrappopolazione di cui soffrono città simili. Tutto in questo posto vi mette un po\' a disagio. Quando le cose sembrano troppo belle per essere vere, di solito lo sono
+I campi si estendono davanti a voi. Non siete abituati a vedere questo tipo di distanza senza che gli alberi o i muri del Bosco Profondo che vi blocchino la vista. L\'effetto è... strano, quasi rilassante. Ma sapete che rilassarivi non è un lusso che vi potete permettere. Come Cistercia abbia ottenuto questo terreno è una domanda che rimane senza risposta. Non sembra avere la stessa sovrappopolazione di cui soffrono città simili. Tutto in questo posto vi mette un po\' a disagio. Quando le cose sembrano troppo belle per essere vere, di solito lo sono
 Fermandovi vicino a un campo di grano, chiedete a un contadino di mezza età se conosce Cecillia, la donna di cui vi ha parlato Finnian. Seguendo le sue istruzioni, trovate la donna a casa sua che si occupa di un campo di ortaggi. Vi avvicinate alla giovane e robusta donna e la salutate con il codice: \"Sembra che oggi piova, amica.\"
 Chiaramente sorpresa, la donna risponde: \"Per lavare i nostri peccati.\"
-Dopo esservi presentati come Oathsworn, le raccontate della grave situazione di Padre Pyren e di come Finnian le abbia suggerito di fornire informazioni per aiutarlo a liberarsi. In particolare, le chiedete di descrivere i percorsi e le postazioni di guardia all\'interno del dungeon per trovare un percorso per superarli.
+Dopo esservi presentati come Oathsworn, le raccontate della grave situazione di Padre Pyren e di come Finnian le abbia suggerito di fornire informazioni per aiutarlo a liberarsi. In particolare, le chiedete di descrivere i percorsi e le postazioni di guardia all\'interno del sotterraneo per trovare un percorso per superarli.
 \"Mi dispiace, non posso,\" risponde. \"Se mi prendono, mi giustizieranno di sicuro. I miei figli hanno già perso il padre, non li renderò orfani.\"
 Ne scelga uno:"</string>
-	<string name="chp7b_19_2__a">"\"Minacciare una madre e i suoi figli? Non siete seguaci della Via!\" impreca. Di fronte all\'impossibilità di scegliere, cede e procede a descrivere con dovizia di particolari la disposizione della stanza del dungeon a cui è stata assegnata."</string>
+	<string name="chp7b_19_2__a">"\"Minacciare una madre e i suoi figli? Non siete seguaci della Via!\" impreca. Di fronte all\'impossibilità di scegliere, cede e procede a descrivere con dovizia di particolari la disposizione della stanza del sotterraneo a cui è stata assegnata."</string>
 	<string name="chp7b_19_2__c">"
 Sceglietene uno:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
@@ -8050,7 +8050,7 @@ Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superior
 Sceglietene uno:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
 	<string name="chp7b_19_4__a">"L\'espressione del suo viso vi dice che non le piace il vostro approccio. Sapete che se non avrete successo qui, non avrete un\'altra possibilità di ottenere quell\'informazione."</string>
-	<string name="chp7b_19_5__a">"Lei sembra ammorbidirsi, ma lei sa che se non avrà successo qui, non avrà un\'altra possibilità di ottenere quelle informazioni."</string>
+	<string name="chp7b_19_5__a">"Sembra cedere, ma sai che se non avrai successo ora, non ci sarà un\'altra possibilità per ottenere quelle informazioni."</string>
 	<string name="chp7b_19_6__a">"Sapete che se non avrete successo qui, non avrete un\'altra possibilità di ottenere quelle informazioni."</string>
 	<string name="chp7b_19_7__a">"Cecillia abbassa gli occhi verso la terra ai suoi piedi. \"Queste mani hanno già abbastanza sangue. La Beata Madre sa che non ne ho bisogno di altro,\" aggiunge, con rammarico nella voce. La rassicurate e alla fine accetta di aiutarvi. Descrive dettagliatamente la disposizione della stanza del sotterraneo a cui è stata assegnata."</string>
 	<string name="chp7b_19_7__c">"
@@ -8059,11 +8059,11 @@ Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superior
 	<string name="chp7b_19_8__a">"Uno sguardo di vergogna attraversa il volto di Cecillia. \"Queste mani sono già macchiate da una vita di rimpianti, Oathsworn,\" dice, rivolgendo lo sguardo a terra. \"Ma non metterò in pericolo i miei figli più di quanto non abbia già fatto parlando con te ora. Mi dispiace, ma non posso aiutarvi. Pilastro e Sentiero, amici.\" Con questo, Cecillia entra in casa sua e chiude la porta.
 Sceglietene uno:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
-	<string name="chp7b_19_9__a">"Cecillia all\'inizio esita, ma alla fine cede, \"Se ti prendono, sono come morta, Oathsworn. Ricordatelo.\" La rassicuri, lei finalmente accetta e procede a descrivere nei minimi dettagli la disposizione della stanza del dungeon a cui è stata assegnata."</string>
+	<string name="chp7b_19_9__a">"Cecillia all\'inizio esita, ma alla fine cede, \"Se ti prendono, sono come morta, Oathsworn. Ricordatelo.\" La rassicuri, lei finalmente accetta e procede a descrivere nei minimi dettagli la disposizione della stanza del sotterraneo a cui è stata assegnata."</string>
 	<string name="chp7b_19_9__c">"
 Sceglietene uno:
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
-	<string name="chp7b_20_1__a">"Posizione 20 - Fattoria comunale
+	<string name="chp7b_20_1__a">"Posizione 20 - Fattoria comune
 Arrivate al punto d\'incontro e consegnate Padre Pyren a un piccolo gruppo di mendicanti della Via che attende il vostro arrivo. Il loro sollievo e la loro gioia vengono condivisi in silenzio per non attirare l\'attenzione. I mendicanti, profondamente grati per il vostro aiuto, si impegnano formalmente a sostenere Verum. Vi dicono che saranno pronti a partire in giornata
 Prima di partire, Padre Pyren desidera parlare con voi. \"Oathsworn,\" ansima, raccogliendo le forze che gli sono rimaste. \"Ti devo la vita, ma vorrei chiederti un\'ultima gentilezza, se posso. C\'è un piccolo villaggio a sud-est. Mia moglie e le mie figlie sono lì.\"
 A questo punto interviene Finnian, \"Abbiamo mandato un corriere a recuperarle non appena abbiamo saputo che eri stato imprigionato, ma non sono mai tornate.\" L\'inquietudine controlla i lineamenti di Padre Pyren che cerca di alzarsi in piedi. Con una mano decisa, Finnian spinge facilmente padre Pyren in posizione seduta. \"Non siete in condizione di partire, se dovete viaggiare domani, dovete riposare, padre.\"
@@ -8504,7 +8504,7 @@ Vi avvicinate alla Città Cadente, le cui mura, un tempo possenti, sono state di
 Siete nella Quercia Spezzata di Verum. La taverna è vuota, i tavoli sono impolverati ed il fuoco si è spento da tempo, dando alla stanza un freddo glaciale. Fate per alzarvi dalla sedia su cui siete seduti, ma trovate resistenza. Le ossa dolgono e scricchiolano. Vi guardate le mani, le macchie di fegato ricoprono la vostra carne rugosa. Siete vecchi
 Cercate di ricordare perché vi siete alzati, ma la vostra mente è annebbiata. Eravate da qualche altra parte? No, sei sempre stato qui, sempre in questa sala circondato dai ricordi del passato. Glorie da non rivivere mai. La tua forza è sparita e con essa il tuo scopo. Senza utilità, senza valore, senza.."</string>
 	<string name="chp8_5_2__a">"La tua forza non è mai stata nel tuo braccio, ma nel tuo Giuramento, e l\'età non può togliertelo. Afferrate l\'elsa della vostra arma e sentite la vostra determinazione tornare a galla. Forse non avete più la forza fisica per combattere, ma potete certamente addestrare gli altri a farlo. Le battaglie da combattere ora sono altre, e voi siete pieni di un rinnovato senso di determinazione
-Siete Giurati fino alla morte e combatterete fino alla fine.
+Siete Oathsworn fino alla morte e combatterete fino alla fine.
 Con un forte suono di lacerazione, la Città in rovina scompare e vi rimane solo il grande abisso davanti a voi, mentre il cavo di seta della ragnatela si spezza e cade nell\'abisso."</string>
 	<string name="chp8_5_2__c">"
 Sceglietene uno:
@@ -8552,7 +8552,7 @@ Il vostro lavoro qui è finalmente finito."</string>
 	<string name="chp8_epi_7__a">Ogni armatura indossata da un Veneratore è una reliquia sacra di Cistercia. Per quanto vorresti conservare un\'armatura così bella, non c\'è modo di tenerla, la Chiesa prima o poi verrebbe a prenderla. Avvolgendola con cura in un telo di iuta, lasciate l\'armatura davanti alle mura della città perché venga trovata dai fedeli.</string>
 	<string name="chp8_epi_7__c">Tornate all\'edificio dove avete incontrato i membri della Via e trovate i Mendicanti pronti per la partenza.</string>
 	<string name="chp8_epi_8__a">Con estrema discrezione, consegnate il sacro set di armature del Veneratore al Lord Marshall. Un gesto per il quale è molto grato.</string>
-	<string name="chp8_epi_8__c">Come promesso, i Mendicanti sono pronti per la missione di ritorno a Verum e, come ulteriore simbolo della sua gratitudine, il Lord Maresciallo si offre di inviare Quintus con voi. L\'aiutante è un guerriero capace ed il Maresciallo vuole garantire la sicurezza dei Mendicanti durante il loro pericoloso viaggio.</string>
+	<string name="chp8_epi_8__c">Come promesso, i Mendicanti sono pronti per la missione di ritorno a Verum e, come ulteriore simbolo della sua gratitudine, il Lord Marshall si offre di inviare Quintus con voi. L\'aiutante è un guerriero capace ed il Lord Marshall vuole garantire la sicurezza dei Mendicanti durante il loro pericoloso viaggio.</string>
 	<string name="chp8_epi_9__a">Con estrema discrezione, consegnate il sacro set di armature del Veneratore al Lord Marshall. Un gesto per il quale è molto grato.</string>
 	<string name="chp8_epi_9__c">È addolorato per la perdita di Quintus, ma è fedele alla sua parola e ha preparato i Mendicanti per la vostra partenza.</string>
 	<string name="chp9_14_10__a">"Caricati dalla pioggia battente, superate la figura occultata e la mettete rapidamente a terra. I pugni volano e le dita graffiano gli occhi mentre siete alle prese con il ladro. I vostri riflessi ben allenati entrano in azione quando un pugnale emerge all\'improvviso da sotto il mantello e voi rotolate su un lato, fuori dalla portata della mischia. Con le braccia alzate in posizione difensiva, vi preparate a ricevere un colpo di coltello, ma vedete invece la lama che inspiegabilmente taglia il collo dell\'assalitore, ponendo fine alla lotta
@@ -9094,7 +9094,7 @@ AGGIUNGERE LE CARTE EVENTO DEEPWOOD 16, 17, 18 E 19 AL PROPRIO MAZZO EVENTI DEEP
 	<string name="pop10_3_1__b">"PERDERE 2 RAZIONI.
 TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW."</string>
 	<string name="pop10_3_1__d">ARCHIVIARE LA MAPPA DELLA CITTÀ DI VERUM. LASCIARE IL TRACCIATO DEL TEMPO DOV\'È.</string>
-	<string name="pop10_3_3__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 6. INVECE DI PERDERE PUNTI FERITA QUANDO SI FALLISCE, PERDETE UN GETTONE DI COMBATTIMENTO CASUALE.</string>
+	<string name="pop10_3_3__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 6. INVECE DI PERDERE PUNTI FERITA QUANDO SI FALLISCE, PERDETE UN GETTONE COMBATTIMENTO CASUALE.</string>
 	<string name="pop10_3_3__d">ARCHIVIARE LA MAPPA DELLA CITTÀ DI VERUM.</string>
 	<string name="pop10_3_4__b">"DUE OATHSWORN A CASO PERDONO CIASCUNO UN GETTONE ANIMUS +2 SE NE HANNO UNO, O UN GETTONE A SCELTA SE NON NE HANNO."</string>
 	<string name="pop10_3_4__d">ARCHIVIARE LA MAPPA DELLA CITTÀ DI VERUM.</string>
@@ -9139,7 +9139,7 @@ PUOI INIZIARE UN COMMERCIO CON LO SPEZIALE."</string>
 	<string name="pop10_77_4__b">PERDERE 1 RAZIONE.</string>
 	<string name="pop10_77_4__d">ARCHIVIARE LA CARTA ALLEATO DI MERILLA.</string>
 	<string name="pop10_77_6__b">"UN OATHSWORN A CASO EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).
-Se riesce, guadagna un gettone di difesa.
+Se ha successo, guadagna un gettone difesa.
 Se fallisce - perde 1 punto ferita."</string>
 	<string name="pop10_77_8__b">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).</string>
 	<string name="pop10_77_9__b">POSIZIONARE UN GETTONE TEMPO SULLA CARTA ALLEATO DI MERILLA.</string>
@@ -9193,8 +9193,8 @@ METTERE UN GETTONE TEMPO SULLA CARTA ALLEATO DI CYPRIAN."</string>
 	<string name="pop10m_5_4__b">PESCARE E RISOLVERE UN EVENTO DEEPWOOD.</string>
 	<string name="pop10m_7_0__b">"SCEGLIERE DUE OATHSWORN PER ESSERE "LA PRIMA GUARDIA"
 CIASCUNO DEI DUE OATHSWORN ESEGUE UNA PROVA DI ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 7, AGGIUNGERE 1 AL RISULTATO SE SI È IL CUR)."</string>
-	<string name="pop10m_7_1__b">ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9 (AGGIUNGETE 3 A OGNI TOTALE QUANDO LO SENTITE ARRIVARE). OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
-	<string name="pop10m_7_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
+	<string name="pop10m_7_1__b">ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9 (AGGIUNGETE 3 A OGNI TOTALE QUANDO LO SENTITE ARRIVARE). OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
+	<string name="pop10m_7_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
 	<string name="pop10m_7_4__b">"LA LIBERA COMPAGNIA E I MEMBRI SUPERSTITI DELLA SPEDIZIONE (CYPRIAN, MERILLA, EDITH) CONSUMANO CIASCUNO 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA.
 PER OGNI ALLEATO CHE NON MANGIA, IN ORDINE DECRESCENTE, VAI ALLA VOCE CORRISPONDENTE. LEGGERE OGNI SEZIONE UNA SOLA VOLTA."</string>
 	<string name="pop10m_8_0__b">"LA LIBERA COMPAGNIA E I MEMBRI SUPERSTITI DELLA SPEDIZIONE (CYPRIAN, MERILLA, EDITH) CONSUMANO CIASCUNO 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA.
@@ -9276,10 +9276,10 @@ OGNI OATHSWORN PUÒ ARCHIVIARE UNA CARTA FERITA E POI RIMESCOLARE IL MAZZO DELLE
 OGNI OATHSWORN SCEGLIE INDIVIDUALMENTE SE VUOLE CERCARE I FUNGHI."</string>
 	<string name="pop11a_7_4__b">"OGNI OATHSWORN CHE HA SCELTO DI TROVARE I FUNGHI EFFETTUA UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4).
 OGNI OATHSWORN CHE RIESCE A SUPERARE LA PROVA DI RICERCA GUADAGNA UN GETTONE ANIMUS +2.
-OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE."</string>
+OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE."</string>
 	<string name="pop11a_8_1__b">POSIZIONARE IL GETTONE POSIZIONE 8 SUL TRACCIATO DEL TEMPO.</string>
 	<string name="pop11a_8_2__b">"OGNI OATHSWORN ESEGUE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6). 5 SE SI È A\'DENDRI.
-OGNI OATHSWORN CHE FALLISCE QUESTA PROVA È IMPIGLIATO E RIMANE INDIETRO. PERDE UN GETTONE DI COMBATTIMENTO CASUALE."</string>
+OGNI OATHSWORN CHE FALLISCE QUESTA PROVA È IMPIGLIATO E RIMANE INDIETRO. PERDE UN GETTONE COMBATTIMENTO CASUALE."</string>
 	<string name="pop11a_8_4__b">RIMUOVERE IL GETTONE INDIZIO 1.</string>
 	<string name="pop11a_9_1__b">POSIZIONARE IL GETTONE POSIZIONE 9 SUL TRACCIATO DEL TEMPO.</string>
 	<string name="pop11a_9_2__b">POTETE SCEGLIERE DI DARLE UNA DELLE VOSTRE ARMI PER AVERLA COME ALLEATA.</string>
@@ -9575,13 +9575,13 @@ CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
 COLLOCARE TUTTI GLI OATHSWORN NELLA POSIZIONE 9.
 TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA."</string>
 	<string name="pop12m_2_2__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).
-CHI FALLISCE PERDE UN GETTONE DI COMBATTIMENTO A SUA SCELTA."</string>
+CHI FALLISCE PERDE UN GETTONE COMBATTIMENTO A SUA SCELTA."</string>
 	<string name="pop12m_3_3__b">L\'ESULE EFFETTUA UNA PROVA DI RABBIA (RAGE CHECK, DIFFICOLTÀ 6). SE L\'ESULE RIESCE, GUADAGNA UN GETTONE EMPOWERED X3. SE FALLISCE, PERDE UN GETTONE COMBATTIMENTO A SUA SCELTA.</string>
 	<string name="pop12m_4_2__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).
-CHI FALLISCE PERDE UN GETTONE DI COMBATTIMENTO A SUA SCELTA."</string>
+CHI FALLISCE PERDE UN GETTONE COMBATTIMENTO A SUA SCELTA."</string>
 	<string name="pop12m_5_2__b">"SCRIVETE LA PAROLA CHIAVE 'NO SURVIVORS' SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop12m_6_1__b">MARCARE LA CASELLA \'AMBUSHED\' PER IL CAPITOLO 12 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
-	<string name="pop13_12_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 8. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
+	<string name="pop13_12_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 8. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
 	<string name="pop13_12_3__b">"AUMENTARE IL DADO MORALE DI 1 (FINO A UN MASSIMO DI 6).
 SE SI DISPONE GIÀ DI UN DADO TRACCIATORE ACCANTO AL DADO MORALE - AUMENTARLO DI 1
 SE NON AVETE UN DADO TRACCIATORE ACCANTO AL DADO MORALE - METTETE UN DADO TRACCIATORE ACCANTO AL DADO MORALE E IMPOSTATELO A 1.
@@ -9669,7 +9669,7 @@ AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO (IGNORARE EVENTUALI INNESCHI 
 SE NON AVETE UN DADO TRACCIATORE ACCANTO AL DADO MORALE - POSIZIONATE UN DADO TRACCIATORE ACCANTO AL DADO MORALE E IMPOSTATELO A 1."</string>
 	<string name="pop13_2_9__b">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 13 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop13_30_10__b">"SEGNARE \"ADDITIONAL UNIQUE ITEM\" SUL FOGLIO DELLA LIBERA COMPAGNIA.
-TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DI COMBATTIMENTO A LORO SCELTA."</string>
+TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE COMBATTIMENTO A LORO SCELTA."</string>
 	<string name="pop13_30_10__d">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9. AGGIUNGERE 2 A OGNI RISULTATO PER LA PROPRIA PREPARAZIONE.
 SE SI DISPONE GIÀ DI UN DADO TRACCIATORE ACCANTO AL DADO MORALE, AUMENTARLO DI 1
 SE NON SI DISPONE DI UN DADO TRACCIATORE ACCANTO AL DADO MORALE - POSIZIONARE UN DADO TRACCIATORE ACCANTO AL DADO MORALE E IMPOSTARLO A 1."</string>
@@ -9697,7 +9697,7 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 13 NEL LIBRO DEGLI INCONTRI."</string>
 SCRIVETE LA PAROLA CHIAVE \"KINSMAN\" SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop13_30_6__b">"POSIZIONATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA SULLA POSTAZIONE 4.
 SCRIVETE LA PAROLA CHIAVE \"GREENTHUMB\" SUL FOGLIO DELLA LIBERA COMPAGNIA."</string>
-	<string name="pop13_30_7__b">"COLLOCATE IL VOSTRO CONTRASSEGNO LIBERA COMPAGNIA NELLA POSIZIONE 13.
+	<string name="pop13_30_7__b">"COLLOCATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA NELLA POSIZIONE 13.
 SCRIVETE LA PAROLA CHIAVE \"PARAGON\" SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop13_30_7__d">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop13_30_8__b">"POSIZIONATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA SULLA POSTAZIONE 4.
@@ -9720,7 +9720,7 @@ SE NON AVETE UN DADO TRACCIATORE ACCANTO AL DADO MORALE - METTETE UN DADO TRACCI
 	<string name="pop13_4_9__b">"ARCHIVIARE LA CARTA ALLEATO RANGER ROTTA.
 AUMENTARE IL DADO MORALE DI 1 (FINO A UN MASSIMO DI 6)."</string>
 	<string name="pop13_5_2__b">DECISIONE SEGRETA, OGNI GIOCATORE DECIDE SE CARICARE NEL TUNNEL PER RECUPERARE LE GUARDIE O FAR SALTARE L\'INGRESSO DEL SOTTOPASSAGGIO E METTERE IN SICUREZZA LA CITTÀ. GIRATE IL VOSTRO DADO A 1 PER CARICARE O A 2 PER FAR SALTARE L\'INGRESSO.</string>
-	<string name="pop13_5_4__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 8. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
+	<string name="pop13_5_4__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 8. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA.</string>
 	<string name="pop13_5_5__b">AUMENTARE IL DADO MORALE DI 1 (FINO A UN MASSIMO DI 6).</string>
 	<string name="pop13_5_5__d">AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO (IGNORARE EVENTUALI INNESCHI DELLA CARTA EVENTO CITTÀ SUL TRACCIATO DEL TEMPO, GLI ALTRI INNESCHI VENGONO ESEGUITI NORMALMENTE).</string>
 	<string name="pop13_5_6__b">AUMENTARE IL DADO MORALE DI 2 (FINO A UN MASSIMO DI 6).</string>
@@ -9753,7 +9753,7 @@ SE IL GETTONE POSIZIONE 3 È PRESENTE SULLA MAPPA, RIMUOVERLO."</string>
 	<string name="pop13_9_5__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5. AGGIUNGERE 2 AL RISULTATO SE IL GETTONE POSIZIONE 3 NON È SULLA MAPPA).</string>
 	<string name="pop13_9_6__b">"AUMENTARE IL DADO MORALE DI 1 (FINO A UN MASSIMO DI 6)
 GUADAGNARE IL GETTONE INDIZIO 3."</string>
-	<string name="pop13_9_8__b">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 7. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA
+	<string name="pop13_9_8__b">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 7. OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE INVECE DI UN PUNTO FERITA
 GUADAGNA UN GETTONE INDIZIO 3."</string>
 	<string name="pop13_epi_2__b">SCRIVETE LA PAROLA CHIAVE \"PRUNING\" SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop13_epi_2__d">"Se avete l\'alleato Mute Boy - ARCHIVIATE LA CARTA ALLEATO 5 (MUTE BOY).
@@ -9766,7 +9766,7 @@ CONTA IL LIVELLO, IL BOTTINO E LE PERDITE."</string>
 	<string name="pop14_16_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop14_17_1__b">POSIZIONARE QUI LA TESSERA CITTÀ IN ROVINA.</string>
 	<string name="pop14_17_1__d">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).</string>
-	<string name="pop14_17_3__b">OGNI OATHSWORN TIRA UN DADO PUNTI FERITA NON UTILIZZATO. I DUE OATHSWORN CON IL TIRO PIÙ BASSO PERDONO UN GETTONE DI COMBATTIMENTO (A SCELTA).</string>
+	<string name="pop14_17_3__b">OGNI OATHSWORN TIRA UN DADO PUNTI FERITA NON UTILIZZATO. I DUE OATHSWORN CON IL TIRO PIÙ BASSO PERDONO UN GETTONE COMBATTIMENTO (A SCELTA).</string>
 	<string name="pop14_17_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop14_17_4__d">GUADAGNARE IL GETTONE INDIZIO 2.</string>
 	<string name="pop14_17_7__b">"SE SI HA IL GETTONE INDIZIO 5, GUADAGNI IL GETTONE INDIZIO 6.
@@ -9928,7 +9928,7 @@ POSIZIONARE IL GETTONE POSIZIONE 4."</string>
 	<string name="pop15a_21_7__b">UN OATHSWORN A CASO PERDE 1 PUNTO FERITA.</string>
 	<string name="pop15a_23_10__b">ARCHIVIA IL GETTONE INDIZIO 1.</string>
 	<string name="pop15a_23_1__b">DECISIONE SEGRETA, OGNI GIOCATORE SCEGLIE SE IRROMPERE NELLA STANZA O ORIGLIARE ALLA PORTA. SE UN GIOCATORE SCEGLIE DI ENTRARE, LA LIBERA COMPAGNIA DEVE SCEGLIERE DI ENTRARE.</string>
-	<string name="pop15a_23_2__b">GLI OATHSWORN CHE HANNO FATTO IRRUZIONE GUADAGNANO UN GETTONE EMPOWERED X3. TUTTI GLI ALTRI OATHSWORN GUADAGNANO UN GETTONE DI DIFESA.</string>
+	<string name="pop15a_23_2__b">GLI OATHSWORN CHE HANNO FATTO IRRUZIONE GUADAGNANO UN GETTONE EMPOWERED X3. TUTTI GLI ALTRI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
 	<string name="pop15a_23_3__b">"GUADAGNARE IL GETTONE INDIZIO 1
 AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop15a_23_5__b">POSIZIONARE I GETTONI DI POSIZIONE 7 E 9.</string>
@@ -9989,7 +9989,7 @@ GUADAGNA LA CARTA ALLEATO 41 (POLUS), AGGIUNGI LA CARTA EVENTO DEEPWOOD 40 AL TU
 	<string name="pop15b_21_1__b">POSIZIONARE IL GETTONE POSIZIONE 14.</string>
 	<string name="pop15b_23_1__b">POSIZIONARE IL GETTONE POSIZIONE 20.</string>
 	<string name="pop15b_25_1__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5)
-CHI FALLISCE PERDE UN GETTONE DI COMBATTIMENTO A SUA SCELTA."</string>
+CHI FALLISCE PERDE UN GETTONE COMBATTIMENTO A SUA SCELTA."</string>
 	<string name="pop15b_27_11__b">"GETTONE POSIZIONE 8
 NOTA: POTETE ANCHE UTILIZZARE LE REGOLE "INVIARE UN CORRIERE" A PAGINA 15 DEL REGOLAMENTO DELLA STORIA PER AVVIARE UN COMMERCIO CON IL FABBRO E LO SPEZIALE."</string>
 	<string name="pop15b_27_4__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 2 AL RISULTATO SE LA LAMA (THE BLADE) È CON VOI).</string>
@@ -10086,7 +10086,7 @@ UNA VOLTA SCELTO IL SACRIFICIO, TUTTI GLI ALTRI OATHSWORN PESCANO UNA CARTA FERI
 SE NON AVETE LO SCRIGNO MISTERIOSO, APRITE LA BUSTA MISTERIOSA 16.
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 16 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop16_19_14__b">"L\'OATHSWORN PRESCELTO MUORE. CREARE UN NUOVO OATHSWORN DI LIVELLO 16 USANDO IL SISTEMA DI LIVELLAMENTO RAPIDO DELLE REGOLE.
-TUTTI GLI OATHSWORN OTTENGONO UN GETTONE DI COMBATTIMENTO PERMANENTE A LORO SCELTA. SEGNATELO SULLA SCHEDA DEL PERSONAGGIO
+TUTTI GLI OATHSWORN OTTENGONO UN GETTONE COMBATTIMENTO PERMANENTE A LORO SCELTA. SEGNATELO SULLA SCHEDA DEL PERSONAGGIO
 SCRIVETE LA PAROLA CHIAVE 'DARK PACT' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA
 AGGIUNGETE LA CARTA EVENTO 21 AL MAZZO EVENTI DEEPWOOD."</string>
 	<string name="pop16_19_14__d">"SE AVETE LO SCRIGNO MISTERIOSO, APRITE LA SCATOLA MISTERIOSA 16.
@@ -10113,9 +10113,9 @@ SCRIVETE LA PAROLA CHIAVE 'BLOOD MONEY' SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA
 	<string name="pop16_24_13__b">SCEGLIERE UN OATHSWORN PER ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 4.</string>
 	<string name="pop16_24_1__b">RIMUOVERE DALLA MAPPA I GETTONI POSIZIONE 7 E 14, SE SONO ANCORA PRESENTI.</string>
 	<string name="pop16_24_2__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 3).</string>
-	<string name="pop16_24_7__b">SI PERDONO 10 IRON.</string>
+	<string name="pop16_24_7__b">PERDETE 10 IRON.</string>
 	<string name="pop16_24_8__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 4, AGGIUNGERE 1 AL RISULTATO SE UN URSUS È CON VOI).</string>
-	<string name="pop16_24_9__b">PERDERE 10 IRON.</string>
+	<string name="pop16_24_9__b">PERDETE 10 IRON.</string>
 	<string name="pop16_28_1__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGERE 1 SE IL SACERDOTE O IL PENITENTE È CON VOI).</string>
 	<string name="pop16_28_3__b">OGNI OATHSWORN ESEGUE UNA PROVA DI SOPRAVVIVENZA, DECIDENDO CONTEMPORANEAMENTE QUANTE CARTE PESCARE. I DUE OATHSWORN CON I RISULTATI PIÙ BASSI PERDONO UN GETTONE COMBATTIMENTO (A SCELTA). I FALLIMENTI CONTANO COME UN RISULTATO PARI A ZERO. SE PIÙ DI DUE OATHSWORN FALLISCONO, TUTTI GLI OATHSWORN CHE FALLISCONO PERDONO UN GETTONE COMBATTIMENTO (A SCELTA).</string>
 	<string name="pop16_29_13__b">POSIZIONARE LA POSIZIONE 28 E RECARVISI (NON ATTIVARE ALCUN EVENTO SUL TRACCIATO DEL TEMPO).</string>
@@ -10331,23 +10331,23 @@ IMPORTANTE: SE UTILIZZATE IL LIBRO DELLE STORIE, TENETE SEMPRE SEGNATA LA VOSTRA
 	<string name="pop18_24_1__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
 SE AVETE LA PAROLA CHIAVE 'THIN FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDETE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
 	<string name="pop18_24_3__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
-	<string name="pop18_24_5__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+	<string name="pop18_24_5__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18_24_6__b">ESEGUIRE UNA VERIFICA DELL\'ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop18_24_7__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10.</string>
 	<string name="pop18_24_7__d">"GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).
 GUADAGNA 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
-	<string name="pop18_24_8__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18_24_8__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18_26_10__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
 	<string name="pop18_26_2__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4, AGGIUNGERE 1 AL RISULTATO SE IL SACERDOTE È CON VOI).</string>
-	<string name="pop18_26_3__b">PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1) . SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18_26_3__b">PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1) . SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18_26_4__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE IL GUARDIANO È CON VOI).</string>
 	<string name="pop18_26_5__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 PERDERE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
 	<string name="pop18_26_6__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
 PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
 	<string name="pop18_26_8__b">"TIRARE UN DADO PUNTI FERITA NON UTILIZZATO E APPLICARE IL SEGUENTE RISULTATO.
 1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 3-6 - NON SUCCEDE NULLA, GLI ESPLORATORI TORNANO SANI E SALVI."</string>
@@ -10418,7 +10418,7 @@ PERDERE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
 	<string name="pop18_86_4__d">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).</string>
 	<string name="pop18_86_5__b">"ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12 (AGGIUNGETE 2 SE AVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA). OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE AVETE (ARROTONDATO PER DIFETTO).
 RIVELARE LA SCHEDA DELLE REGOLE SPECIALI PER L\'INCONTRO. MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 18 SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA."</string>
-	<string name="pop18_86_5__d">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18_86_5__d">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18_87_1__b">PESCARE E RISOLVERE UNA CARTA EVENTO DEEPWOOD. SE SI GUADAGNANO O PERDONO RAZIONI, GUADAGNA O PERDONO INVECE PROVVISTE (FINO A UN MASSIMO DI 1).</string>
 	<string name="pop18_epi_1__b">RIDURRE LA QUANTITÀ DI SQUADRE REGISTRATE SULLA SCHEDA DELLA LIBERA COMPAGNIA DI 1 PER OGNI 3 SOLDATI PERSI DURANTE L\'INCONTRO.</string>
 	<string name="pop18_epi_3__b">"ARCHIVIA LA CARTA ALLEATO 1 (MIDGE).
@@ -10435,27 +10435,27 @@ SCRIVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAG
 	<string name="pop18m_1_4__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
 	<string name="pop18m_1_5__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
 PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_1_6__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_1_6__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_2_12__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18m_2_13__b">UN OATHSWORN PERDE 2 PUNTI FERITA (A SCELTA).</string>
 	<string name="pop18m_2_13__d">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18m_2_1__b">"PERDERE 1 BOMBA D\'AMBRA (GETTONE NUMERATO).
 GUADAGNARE 1 MORALE (SUL DADO TRACCIATORE)."</string>
 	<string name="pop18m_2_2__b">"ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12 (AGGIUNGETE 2 SE AVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA). OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE AVETE (ARROTONDATO PER DIFETTO)."</string>
-	<string name="pop18m_2_4__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_2_4__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_3_1__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
 	<string name="pop18m_3_2__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
 PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_3_3__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_3_3__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_3_4__b">"COMPILATE UNA CASELLA ACCANTO ALLA PAROLA CHIAVE "ETERE" SULLA VOSTRA SCHEDA LIBERA COMPAGNIA."</string>
 	<string name="pop18m_4_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6). SE FALLISCE, PERDE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_4_3__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_4_3__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_4_6__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
 	<string name="pop18m_4_7__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
 PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_4_8__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_4_8__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_4_9__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop18m_5_0__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_5_0__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_5_1__b">"GUADAGNA 1 MORALE (SUL DADO TRACCIATORE)
 PERDERE 3 RIFORNIMENTI (CUBI MIGHT)."</string>
 	<string name="pop18m_5_2__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
@@ -10464,13 +10464,13 @@ PERDERE 2 MORALE (SUL DADO TRACCIATORE). SE È GIÀ A 1, UN OATHSWORN A CASO PER
 	<string name="pop18m_5_4__b">PERDERE 4 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_6_3__b">"PERDERE 1 FORNITURA (CUBO MIGHT)
 PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_6_4__b">PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_6_4__b">PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_6_6__b">PERDERE 2 RIFORNIMENTI (CUBI MIGHT).</string>
 	<string name="pop18m_7_1__b">"PERDERE 2 FORNITURE (CUBI MIGHT).
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
 	<string name="pop18m_7_2__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
-PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
-	<string name="pop18m_7_3__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE DI COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+	<string name="pop18m_7_3__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_8_0__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 PERDERE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
 	<string name="pop19_10_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -10634,7 +10634,7 @@ OGNI OATHSWORN CHE FALLISCE PERDE 1 PUNTO FERITA."</string>
 	<string name="pop19_9_1__d">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).</string>
 	<string name="pop19_9_2__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_9_4__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
-TUTTI GLI OATHSWORN PERDONO UN GETTONE DI COMBATTIMENTO A LORO SCELTA."</string>
+TUTTI GLI OATHSWORN PERDONO UN GETTONE COMBATTIMENTO A LORO SCELTA."</string>
 	<string name="pop19_9_6__b">PESCA UNA CARTA ALLEATO DA COMBATTIMENTO A CASO DAL SUO MAZZO ALLEATI.</string>
 	<string name="pop19_9_7__b">"ARCHIVIA LA CARTA ALLEATO 31 (WILLEM)
 PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
@@ -10654,7 +10654,7 @@ PERDERE 1 MORALE (DAL DADO DEL TRACCIATORE, MINIMO 1)."</string>
 	<string name="pop19m_1_6__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop19m_1_8__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop19m_2_1__b">"PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA)
-OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). AGGIUNGERE 1 AL RISULTATO SE SI È IL SACERDOTE O IL PENITENTE. OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE UN GETTONE DI COMBATTIMENTO A CASO."</string>
+OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). AGGIUNGERE 1 AL RISULTATO SE SI È IL SACERDOTE O IL PENITENTE. OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE UN GETTONE COMBATTIMENTO A CASO."</string>
 	<string name="pop19m_2_2__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
 	<string name="pop19m_2_2__d">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19m_2_3__b">PERDERE 2 CUBI DI RIFORNIMENTO.</string>
@@ -10662,7 +10662,7 @@ OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 
 	<string name="pop19m_2_5__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19m_2_6__b">PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA).</string>
 	<string name="pop19m_3_4__b">"PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA)
-OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). AGGIUNGERE 1 AL RISULTATO SE SI È UN SACERDOTE PENITENTE. OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE UN GETTONE DI COMBATTIMENTO A CASO."</string>
+OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). AGGIUNGERE 1 AL RISULTATO SE SI È UN SACERDOTE PENITENTE. OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE UN GETTONE COMBATTIMENTO A CASO."</string>
 	<string name="pop19m_3_5__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
 	<string name="pop19m_3_5__d">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19m_3_6__b">PERDERE 2 CUBI DI RIFORNIMENTO.</string>
@@ -11058,7 +11058,7 @@ CANCELLARE 'TAM'S LOCKET' DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop2a_10_7__d">"TROVARE I 5 INDIZI CHE VI PERMETTERANNO DI INDIVIDUARE LA POSIZIONE DEL PIFFERAIO.
 SARETE BEN RICOMPENSATI SE RIUSCIRETE A FARLO ENTRO IL TRAMONTO.
 POSIZIONARE GLI INDICI 2, 3, 5, 6, 7, 12, 14, 15, 16, 19, 20 e 24."</string>
-	<string name="pop2a_12_1__b">"OGNI OATHSWORN PUÒ ACQUISTARE UN GETTONE DI DIFESA PER 1 IRON CIASCUNO.
+	<string name="pop2a_12_1__b">"OGNI OATHSWORN PUÒ ACQUISTARE UN GETTONE DIFESA PER 1 IRON CIASCUNO.
 NON CI SONO CERCHI ARANCIONI QUI."</string>
 	<string name="pop2a_14_1a__b">"QUI CI SONO CERCHI ARANCIONI.
 GUADAGNATE IL GETTONE INDIZIO 4."</string>
@@ -11107,7 +11107,7 @@ TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2."</string>
 SARETE BEN RICOMPENSATI SE RIUSCIRETE A FARLO IN TEMPO.
 POSIZIONARE I GETTONI POSIZIONE 2, 3, 5, 6, 7, 11, 12, 14, 16, 19, 20 e 24."</string>
 	<string name="pop2b_11_1__b">IL TRAMONTO SEMBRA IMPORTANTE.</string>
-	<string name="pop2b_12_1__b">"SE NON L\'AVETE ANCORA FATTO, OGNI OATHSWORN PUÒ ACQUISTARE UN GETTONE DI DIFESA PER 1 IRON CIASCUNO.
+	<string name="pop2b_12_1__b">"SE NON L\'AVETE ANCORA FATTO, OGNI OATHSWORN PUÒ ACQUISTARE UN GETTONE DIFESA PER 1 IRON CIASCUNO.
 RIMETTETE IL GETTONE POSIZIONE 12 NELLA SUA POSIZIONE SULLA MAPPA DELLA CITTÀ E METTETE AL SUO POSTO UN GETTONE TEMPO SUL TRACCIATO DEL TEMPO. POTETE TORNARE QUI IN SEGUITO."</string>
 	<string name="pop2b_16_5__b">"OGNI OATHSWORN SCEGLIE SE GIOCARE O MENO.
 OGNI OATHSWORN CHE SCEGLIE DI GIOCARE DEVE PIAZZARE 1 IRON AL CENTRO DEL TAVOLO.
@@ -11354,7 +11354,7 @@ IMPORTANTE: SE SI USA IL LIBRO DELLE STORIE, TENERE SEMPRE SEGNATA LA PROPRIA PO
 	<string name="pop4_64_5__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop4_64_8__b">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 4 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop4_64_9__b">"OGNI OATHSWORN GUADAGNA UN OGGETTO A SUA SCELTA DAL MAZZO OGGETTI COMUNI DEL CAPITOLO 4. RIMESCOLARE IL MAZZO DOPO.
-GUADAGNATE LA CARTA ALLEATO 12 (FORTUNATA), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 27 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 24 AL VOSTRO MAZZO EVENTI CITTÀ."</string>
+GUADAGNATE LA CARTA ALLEATO 12 (LUCKY), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 27 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 24 AL VOSTRO MAZZO EVENTI CITTÀ."</string>
 	<string name="pop4_67_1a__b">POSIZIONARE QUI LA TESSERA BLOODTHORN.</string>
 	<string name="pop4_67_2__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 3).
 OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE 1 PUNTO FERITA.
@@ -11374,8 +11374,8 @@ PROCEDETE ALL\'INCONTRO DEL CAPITOLO 4 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI I
 	<string name="pop4_epi_0__d">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
 	<string name="pop4_epi_0__f">"GUADAGNATE 1 GETTONE POSIZIONE PER OGNI 2 CIVILI RIMASTI IN VITA DURANTE IL COMBATTIMENTO DELLA TRIBÙ DELLA CICATRICE. QUESTI RAPPRESENTANO I VOSTRI NUOVI RIFUGIATI. METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI LUOGO) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
 NON È NECESSARIO REGISTRARE LE RAZIONI."</string>
-	<string name="pop4m_10_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSA.</string>
-	<string name="pop4m_11_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSA.</string>
+	<string name="pop4m_10_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSO.</string>
+	<string name="pop4m_11_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSO.</string>
 	<string name="pop4m_12_1__b">"TUTTA LA VOSTRA COMPAGNIA MUORE. SE NON L\'AVETE MAI LETTO PRIMA, FATE 4 SEGNI SUL TRACCIATO KNOCKOUT SUL FOGLIO DELLA LIBERA COMPAGNIA.
 RICOMINCIATE IL CAPITOLO, RECUPERANDO I GETTONI E LE RAZIONI CHE AVEVATE."</string>
 	<string name="pop4m_1_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
@@ -11384,7 +11384,7 @@ RICOMINCIATE IL CAPITOLO, RECUPERANDO I GETTONI E LE RAZIONI CHE AVEVATE."</stri
 	<string name="pop4m_2_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop4m_2_2__b">OGNI OATHSWORN GUADAGNA UN GETTONE BATTLEFLOW.</string>
 	<string name="pop4m_2_3__b">SCARTATE UN GETTONE RIFUGIATO E 2 RAZIONI A SCELTA, POICHÉ UN GRUPPO DI RIFUGIATI DECIDE DI LASCIARE IL GRUPPO PIUTTOSTO CHE CONSEGNARE LE PROPRIE RAZIONI. TUTTI GLI ALTRI ACCETTANO DI UNIRE IL LORO CIBO E LA LORO ACQUA.</string>
-	<string name="pop4m_3_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSA.</string>
+	<string name="pop4m_3_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSO.</string>
 	<string name="pop4m_4_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop4m_4_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
 	<string name="pop4m_4_6__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -11392,12 +11392,12 @@ RICOMINCIATE IL CAPITOLO, RECUPERANDO I GETTONI E LE RAZIONI CHE AVEVATE."</stri
 TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2."</string>
 	<string name="pop4m_4_8__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
 	<string name="pop4m_4_9__b">PERDERE UN GETTONE RIFUGIATO.</string>
-	<string name="pop4m_6_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSA.</string>
+	<string name="pop4m_6_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSO.</string>
 	<string name="pop4m_7_1__b">ESEGUIRE UNA PROVA DI BASE (DIFFICOLTÀ PARI AL NUMERO DI GETTONI RIFUGIATO CHE SI POSSIEDONO).</string>
 	<string name="pop4m_7_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2.</string>
 	<string name="pop4m_7_3__b">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 6.
 SE UN OATHSWORN PERDE UN PUNTO FERITA, PERDE ANCHE 1 RAZIONE."</string>
-	<string name="pop4m_8_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSA.</string>
+	<string name="pop4m_8_1__b">LA LIBERA COMPAGNIA E OGNI GETTONE RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI GETTONE RIFUGIATO CHE NON MANGIA È PERSO.</string>
 	<string name="pop4m_9_2__b">GUADAGNARE 1 RAZIONE.</string>
 	<string name="pop5_14_1__b">"DUE STRADE SI APRONO DAVANTI A VOI. L\'ARALDO STA PRONUNCIANDO UN INDOVINELLO. SE LO DESIDERATE, POTETE PROVARE A DECIFRARLO, OPPURE POTETE INCONTRARE LORD RHINER.
 NON AVRETE TEMPO PER FARE ENTRAMBE LE COSE."</string>
@@ -11607,7 +11607,7 @@ POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO."</string>
 	<string name="pop7_24_7__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.
 POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO."</string>
 	<string name="pop7_29_1__b">"APRIRE LA BUSTA MISTERIOSA "C" E POSIZIONARE IL SUO CONTENUTO AL CENTRO DEL GIOCO. NON POSIZIONARE ANCORA IL SEGNALINO LIBERA COMPAGNIA. POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 7 SOTTO LA MAPPA. PRENDETE LA CARTA \"PATH A\"."</string>
-	<string name="pop7_29_1__d">COLLOCATE IL VOSTRO CONTRASSEGNO LIBERA COMPAGNIA NELLA POSTAZIONE 24.</string>
+	<string name="pop7_29_1__d">COLLOCATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA NELLA POSTAZIONE 24.</string>
 	<string name="pop7_2_11__b">"ARCHIVIA LA CARTA ALLEATO 19 (QUINTUS)
 PRENDERE LA CARTA \"PATH B\"
 POSIZIONARE IL GETTONE POSIZIONE 15 E ANDARE LÌ."</string>
@@ -11665,8 +11665,8 @@ POI, INDIPENDENTEMENTE DAL FATTO CHE CI SIANO O MENO SPAZI VUOTI, AGGIUNGERE UN 
 RIMUOVERE IL SEGNALINO LIBERA COMPAGNIA DALLA MAPPA."</string>
 	<string name="pop7b_12_1__b">EFFETTUARE UNA PROVA DI ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 4, AGGIUNGERE 1 AL RISULTATO SE IL CUR È CON VOI).</string>
 	<string name="pop7b_12_20__b">RIMUOVERE DALLA MAPPA IL SEGNALINO DELLA LIBERA COMPAGNIA.</string>
-	<string name="pop7b_12_23__b">APRIRE IL DIARIO A PAGINA 48 E LEGGERE LE ISTRUZIONI. TENERE LA PAGINA DEL DIARIO APERTA PER USARLA FINO A QUANDO NON SI È TERMINATO IL DUNGEON.</string>
-	<string name="pop7b_12_40__b">"IN QUESTA PARTE DEL DUNGEON SI STA CERCANDO DI RAGGIUNGERE LA CELLA DI PYREN, NON L\'USCITA OPPOSTA."</string>
+	<string name="pop7b_12_23__b">APRIRE IL DIARIO A PAGINA 48 E LEGGERE LE ISTRUZIONI. TENERE LA PAGINA DEL DIARIO APERTA PER USARLA FINO A QUANDO NON SI È TERMINATO IL SOTTERRANEO.</string>
+	<string name="pop7b_12_40__b">"IN QUESTA PARTE DEL SOTTERRANEO STATE CERCANDO DI RAGGIUNGERE LA CELLA DI PYREN, NON L\'USCITA OPPOSTA."</string>
 	<string name="pop7b_12_50__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE COMBATTIMENTO A LORO SCELTA.
 SCRIVETE LA PAROLA CHIAVE \"LOW CHURCH\" SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop7b_12_50__d">POSIZIONARE IL GETTONE POSIZIONE 20 E RECARSI LÌ.</string>
@@ -11703,11 +11703,11 @@ AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop7b_18_5__d">RIVELARE LA CARTA \'SQUARE PRISON BREAK\'.</string>
 	<string name="pop7b_18_6__b">ESEGUIRE UN ROUND DI COMBATTIMENTO SENZ\'ARMI CONTRO LA DIFESA 5.</string>
 	<string name="pop7b_18_6__d">RIVELARE LA CARTA \'SQUARE PRISON BREAK\'.</string>
-	<string name="pop7b_18_7__b">SI PERDONO 4 IRON.</string>
+	<string name="pop7b_18_7__b">PERDETE 4 IRON.</string>
 	<string name="pop7b_18_7__d">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6).</string>
-	<string name="pop7b_18_8__b">SI PERDONO 8 IRON.</string>
+	<string name="pop7b_18_8__b">PERDETE 8 IRON.</string>
 	<string name="pop7b_18_8__d">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6, AGGIUNGERE 2 AL RISULTATO).</string>
-	<string name="pop7b_18_9__b">SI PERDONO 12 IRON.</string>
+	<string name="pop7b_18_9__b">PERDETE 12 IRON.</string>
 	<string name="pop7b_18_9__d">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6, AGGIUNGERE 3 AL RISULTATO).</string>
 	<string name="pop7b_19_2__b">RIVELARE LA CARTA TRIANGOLO DI EVASIONE.</string>
 	<string name="pop7b_19_4__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 5).</string>
@@ -11756,7 +11756,7 @@ TIRARE UN DADO PUNTI FERITA NON UTILIZZATO (PER QUESTO TIRO SI POSSONO USARE I G
 	<string name="pop8_15_3__b">POSIZIONARE IL SEGNALINO DELLA LIBERA COMPAGNIA NELLA POSIZIONE 15.</string>
 	<string name="pop8_15_3__d">OGNI OATHSWORN EFFETTUA UNA PROVA DI SANITÀ MENTALE (SANITY CHECK) LA CUI DIFFICOLTÀ È PARI AI SUOI PUNTI FERITA ATTUALI PIÙ 3. OGNI OATHSWORN CHE FALLISCE PERDE 1 PUNTO FERITA.</string>
 	<string name="pop8_16_16__b">GUADAGNI UN GETTONE REDRAW.</string>
-	<string name="pop8_16_1__b">COLLOCATE IL VOSTRO CONTRASSEGNO LIBERA COMPAGNIA NELLA POSIZIONE 16.</string>
+	<string name="pop8_16_1__b">COLLOCATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA NELLA POSIZIONE 16.</string>
 	<string name="pop8_16_20__b">GUADAGNI UN GETTONE BATTLEFLOW.</string>
 	<string name="pop8_16_21__b">GUADAGNI UN GETTONE ANIMUS +2.</string>
 	<string name="pop8_16_24__b">GUADAGNI UN GETTONE REDRAW.</string>
@@ -11814,7 +11814,7 @@ OGNI OATHSWORN CHE FALLISCE PERDE 1 PUNTO FERITA."</string>
 	<string name="pop8_1_3__b">L\'OATHSWORN SCELTO PERDE 1 PUNTO FERITA.</string>
 	<string name="pop8_1_4__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 5.</string>
 	<string name="pop8_1_5__b">TUTTI GLI OATHSWORN RECUPERANO UN PUNTO FERITA PERSO.</string>
-	<string name="pop8_20_1__b">COLLOCATE IL VOSTRO CONTRASSEGNO LIBERA COMPAGNIA NELLA POSIZIONE 20.</string>
+	<string name="pop8_20_1__b">COLLOCATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA NELLA POSIZIONE 20.</string>
 	<string name="pop8_20_1__d">"POSIZIONARE I GETTONI DI POSIZIONE 5, 9, 11, 23 E 27.
 POSIZIONATE UN DADO PUNTI FERITA INUTILIZZATO SULLA POSIZONE 17, IMPOSTATO SU 6 - QUESTO È IL PUNTO FERITA DEL RAGNO."</string>
 	<string name="pop8_21_10__b">"IMPOSTARE I PUNTI FERITA AL MASSIMO PER IL LIVELLO DI DIFFICOLTÀ.
@@ -11903,7 +11903,7 @@ GUADAGNA 20 IRON."</string>
 GUADAGNA 20 IRON."</string>
 	<string name="pop9_14_10__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE COMBATTIMENTO A LORO SCELTA.</string>
 	<string name="pop9_14_10__d">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4).</string>
-	<string name="pop9_14_11__b">TUTTI GLI OATHSWORN CHE PARTECIPANO ALL\'INSEGUIMENTO PERDONO UN GETTONE DI COMBATTIMENTO CASUALE.</string>
+	<string name="pop9_14_11__b">TUTTI GLI OATHSWORN CHE PARTECIPANO ALL\'INSEGUIMENTO PERDONO UN GETTONE COMBATTIMENTO CASUALE.</string>
 	<string name="pop9_14_11__d">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop9_14_13__b">GUADAGNARE IL GETTONE INDIZIO 3.</string>
 	<string name="pop9_14_15__b">DUE STRADE SI APRONO DAVANTI A VOI. INDAGARE SUGLI STRANI AVVENIMENTI DEL VILLAGGIO O CONCENTRARSI SULLA CACCIA E TROVARE INFORMAZIONI SULLA BESTIA? SAPETE CHE NON AVRETE TEMPO PER FARE ENTRAMBE LE COSE.</string>
@@ -11914,7 +11914,7 @@ PRENDETE LA CARTA 'PATH A'."</string>
 PERDETE TUTTI I GETTONI INDIZIO CHE AVETE.
 POSIZIONARE I GETTONI POSIZIONE 7, 8, 10, 11, 12, 13, 17 SULLA MAPPA.
 PRENDETE LA CARTA 'PATH B'."</string>
-	<string name="pop9_14_1__b">"POSIZIONATE IL VOSTRO CONTRASSEGNO LIBERA COMPAGNIA SULLA POSIZIONE 14.
+	<string name="pop9_14_1__b">"POSIZIONATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA SULLA POSIZIONE 14.
 AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop9_14_1__d">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 8, AGGIUNGERE AL RISULTATO LA QUANTITÀ DI INDIZI IN VOSTRO POSSESSO).</string>
 	<string name="pop9_14_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 6.</string>
@@ -11939,7 +11939,7 @@ GUADAGNANO UN GETTONE INDIZIO 1 - I GETTONI INDIZIO TENGONO CONTO DI QUANTO SIET
 	<string name="pop9_18_7__b">POSIZIONATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA SULLA POSIZIONE 2.</string>
 	<string name="pop9_19_11__b">SI POSSONO PORRE DUE DOMANDE.</string>
 	<string name="pop9_19_19__b">"SCEGLIERE UN OATHSWORN PER FISSARE LA MUSERUOLA.
-OGNI OATHSWORN ESEGUE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 5, 6 SE SI È SCELTI PER METTERE AL SICURO LA MUSERUOLA) OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE DI COMBATTIMENTO CASUALE."</string>
+OGNI OATHSWORN ESEGUE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 5, 6 SE SI È SCELTI PER METTERE AL SICURO LA MUSERUOLA) OGNI OATHSWORN CHE FALLISCE PERDE UN GETTONE COMBATTIMENTO CASUALE."</string>
 	<string name="pop9_19_1__b">TUTTI I GIOCATORI RIMUOVONO TUTTE LE CARTE FERITA DAL LORO MAZZO, RIMETTENDOLE IN FONDO AL MAZZO FERITE.</string>
 	<string name="pop9_19_1__d">OGNI OATHSWORN GUADAGNA 5 IRON.</string>
 	<string name="pop9_19_21__b">GUADAGNATE 2 CARTE CURA E METTERLE NEL PROPRIO MAZZO DELLE FERITE.</string>
@@ -11948,7 +11948,7 @@ OGNI OATHSWORN ESEGUE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 5, 6 SE SI È
 	<string name="pop9_19_2__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 4)
 CHI FALLISCE PERDE 1 PUNTO FERITA."</string>
 	<string name="pop9_19_3__b">"BARRARE LA PAROLA CHIAVE \"LINA\" SULLA VOSTRA SCHEDA LIBERA COMPAGNIA.
-TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DI DIFESA."</string>
+TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA."</string>
 	<string name="pop9_19_5__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop9_19_5__d">GUADAGNATE LA CARTA ALLEATO 21 (LINA), AGGIUNGI LA CARTA EVENTO CITTÀ 31 AL TUO MAZZO EVENTI CITTÀ E LA CARTA EVENTO DEEPWOOD 33 AL TUO MAZZO EVENTI DEEPWOOD.</string>
 	<string name="pop9_19_6__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2.</string>
@@ -12095,7 +12095,7 @@ GUADAGNANO IL GETTONE INDIZIO 3."</string>
 	<string name="title_toby">"Toby O\'Hara"</string>
 	<string name="title_utku">Utku Ozden</string>
 	<string name="title_vladimir">Vladimir Buchyk</string>
-	<string name="tribe">Immagine della tribù delle cicatrici</string>
+	<string name="tribe">Immagine della tribù della cicatrice</string>
 	<string name="turn_audio_off">Disattivare l\'audio</string>
 	<string name="turn_audio_on">Attivare l\'audio</string>
 	<string name="turn_back">Il Bosco Profondo minaccia di inghiottirvi e non vi lascia altra scelta se non quella di tornare da dove siete venuti. Dovete tornare da dove siete venuti e scegliere una nuova direzione.</string>
