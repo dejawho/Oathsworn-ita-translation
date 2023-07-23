@@ -353,11 +353,11 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn11b_15_3__b">Cercare di minacciarlo</string>
 	<string name="btn11b_15_5__a">Attacca Cyprian</string>
 	<string name="btn11b_15_5__b">Rifiutare di attaccare il proprio alleato</string>
-	<string name="btn11b_16_10__a">Se il gettone posizione 14 non è sulla traccia del tempo, potete cercare di trovare un modo per salire nella struttura complessa</string>
+	<string name="btn11b_16_10__a">Se il gettone posizione 14 non è sul tracciato del tempo, potete cercare di trovare un modo per salire nella struttura complessa</string>
 	<string name="btn11b_16_10__b">Altrimenti, tornate davanti all\'albero del palazzo</string>
-	<string name="btn11b_16_11__a">Se il gettone posizione 14 non è sulla traccia del tempo, potete cercare di trovare un modo per salire nella struttura complessa</string>
+	<string name="btn11b_16_11__a">Se il gettone posizione 14 non è sul tracciato del tempo, potete cercare di trovare un modo per salire nella struttura complessa</string>
 	<string name="btn11b_16_11__b">Altrimenti, tornate davanti all\'albero del palazzo</string>
-	<string name="btn11b_16_12__a">Se il gettone posizione 14 non è sulla traccia del tempo, potete cercare di trovare un modo per salire nella struttura complessa</string>
+	<string name="btn11b_16_12__a">Se il gettone posizione 14 non è sul tracciato del tempo, potete cercare di trovare un modo per salire nella struttura complessa</string>
 	<string name="btn11b_16_12__b">Altrimenti, tornate davanti all\'albero del palazzo</string>
 	<string name="btn11b_16_1__a">Andare al raduno marziale attorno alla biocostruzione</string>
 	<string name="btn11b_16_1__b">Cercate di trovare una via d\'accesso alla complessa struttura</string>
@@ -528,10 +528,10 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn12_1_32__c">3. Offrigli dell\'acqua e conforta il suo passaggio</string>
 	<string name="btn12_30_1__a">Se avete il gettone indizio 1</string>
 	<string name="btn12_30_1__b">Altrimenti</string>
-	<string name="btn12_30_2__a">Se ci sono 0-2 Gettoni tempo sulla Traccia del tempo</string>
+	<string name="btn12_30_2__a">Se ci sono 0-2 Gettoni tempo sul Tracciato del tempo</string>
 	<string name="btn12_30_2__b">Se ci sono 3-5 gettoni tempo sul tracciato temporale</string>
 	<string name="btn12_30_2__c">Se ci sono 6 o più gettoni tempo sul tracciato temporale</string>
-	<string name="btn12_30_3__a">Se ci sono 0-2 Gettoni tempo sulla Traccia del tempo</string>
+	<string name="btn12_30_3__a">Se ci sono 0-2 Gettoni tempo sul Tracciato del tempo</string>
 	<string name="btn12_30_3__b">Se ci sono 3-5 gettoni tempo sul tracciato temporale</string>
 	<string name="btn12_30_3__c">Se ci sono 6 o più gettoni tempo sul tracciato temporale</string>
 	<string name="btn12_30_4__a">Se avete il gettone indizio 1</string>
@@ -763,7 +763,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn14_55_35__a">Se non possedete il gettone indizio 3 e non si trova sulla tessera del Villaggio, si può scegliere il gettone indizio</string>
 	<string name="btn14_55_35__b">Se avete il gettone indizio 3 o si trova sulla tessera del Villaggio</string>
 	<string name="btn14_55_3__a">Se ci sono 8 gettoni sul tracciato del tempo</string>
-	<string name="btn14_55_3__b">Se ci sono 16 gettoni sulla Traccia del tempo</string>
+	<string name="btn14_55_3__b">Se ci sono 16 gettoni sul Tracciato del tempo</string>
 	<string name="btn14_55_40__a">Se avete il gettone indizio 1</string>
 	<string name="btn14_55_40__b">Se avete il gettone indizio 2</string>
 	<string name="btn14_55_40__c">Se avete il gettone indizio 3</string>
@@ -793,9 +793,9 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn14_55_5__a">Se ci sono 8 gettoni sul tracciato del tempo</string>
 	<string name="btn14_55_5__b">Se ci sono 16 gettoni sul tracciato del tempo</string>
 	<string name="btn14_55_62__a">Se ci sono 8 gettoni sul tracciato del tempo</string>
-	<string name="btn14_55_62__b">Se ci sono 16 gettoni sulla Traccia del tempo</string>
+	<string name="btn14_55_62__b">Se ci sono 16 gettoni sul Tracciato del tempo</string>
 	<string name="btn14_55_63__a">Se ci sono 8 gettoni sul tracciato del tempo</string>
-	<string name="btn14_55_63__b">Se ci sono 16 gettoni sulla Traccia del tempo</string>
+	<string name="btn14_55_63__b">Se ci sono 16 gettoni sul Tracciato del tempo</string>
 	<string name="btn14_55_71__a">Se possedete il gettone indizio 1 o se si trova sulla tessera del Villaggio</string>
 	<string name="btn14_55_71__b">Se non si ha il gettone indizio 1 e ci sono 8 gettoni sul tracciato del tempo, si può scegliere il gettone indizio</string>
 	<string name="btn14_55_71__c">Se non possedete il gettone indizio 1 e ci sono 16 gettoni sul tracciato del tempo, si può scegliere il gettone indizio</string>
@@ -1016,8 +1016,8 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn15b_30_3__c">3. Cerca nella posizione 28</string>
 	<string name="btn15b_30_7__a">Se avete una Grove Maiden, un Ranger, una Strega, un Cur, un Precursore o una Cacciatrice</string>
 	<string name="btn15b_30_7__b">Se non avete una Grove Maiden, un Ranger, una Strega, un Cur, un Precursore o una Cacciatrice</string>
-	<string name="btn15b_30_8__a">Continua - Vai alla posizione sulla Traccia del tempo posizione 5</string>
-	<string name="btn15b_30_9__a">Continua - Vai alla posizione sulla Traccia del tempo posizione 5</string>
+	<string name="btn15b_30_8__a">Continua - Vai alla posizione sul Tracciato del tempo posizione 5</string>
+	<string name="btn15b_30_9__a">Continua - Vai alla posizione sul Tracciato del tempo posizione 5</string>
 	<string name="btn15b_7_6__a">1. Distretto Volpe senza volto</string>
 	<string name="btn15b_7_6__b">2. Distretto basso</string>
 	<string name="btn15b_7_6__c">3. Distretto Amiese senza volto</string>
@@ -1178,7 +1178,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn17_61_1__a">Se avete l\'oathsworn la Strega</string>
 	<string name="btn17_61_1__b">Se non avete con voi l\'oathsworn strega</string>
 	<string name="btn17_88_3a__a">Se si sceglie di perdere gettoni combattimento</string>
-	<string name="btn17_88_3a__b">Se si è aggiunto un gettone tempo alla traccia del tempo</string>
+	<string name="btn17_88_3a__b">Se si è aggiunto un gettone tempo al tracciato del tempo</string>
 	<string name="btn17_epi_1__a">FINE DEL CAPITOLO 17</string>
 	<string name="btn17m_1_2__a">"Se avete scritto \'REVENGE\'"</string>
 	<string name="btn17m_1_2__b">Se avete scritto qualcos\'altro</string>
@@ -1778,7 +1778,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn3a_24_1__b">Altrimenti</string>
 	<string name="btn3a_24_5__a">1. Aiuta Midge a liberare le persone nell\'edificio</string>
 	<string name="btn3a_24_6__a">1. Aiuta Midge a liberare le persone nell\'edificio</string>
-	<string name="btn3a_27_1__a">Se la Libera Compagnia subisce un totale di 4 punti ferita o più</string>
+	<string name="btn3a_27_1__a">Se la Libera Compagnia ha 4 o più successi</string>
 	<string name="btn3a_27_1__b">Altrimenti</string>
 	<string name="btn3a_27_8__a">Se uno di voi compie l\'impresa</string>
 	<string name="btn3a_27_8__b">Se vi rifiutate tutti</string>
@@ -1953,9 +1953,9 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn6b_18_1__c">Lasciarla e continuare l\'inseguimento</string>
 	<string name="btn6b_23_3__a">Dedicare tempo al completamento della ricerca</string>
 	<string name="btn6b_23_3__b">Continuate a inseguire e seguite il vostro istinto</string>
-	<string name="btn6b_27_2__a">Se avete meno di 10 gettoni sulla Traccia del tempo e non vi trovate sul lato B della Traccia del tempo</string>
+	<string name="btn6b_27_2__a">Se avete 10 gettoni o meno sul Tracciato del tempo e non vi trovate sul lato B del Tracciato del tempo</string>
 	<string name="btn6b_27_2__b">Altrimenti</string>
-	<string name="btn6b_27_3__a">Se avete meno di 10 gettoni sulla Traccia del tempo e non vi trovate sul lato B della Traccia del tempo</string>
+	<string name="btn6b_27_3__a">Se avete 10 gettoni o meno sul Tracciato del tempo e non vi trovate sul lato B del Tracciato del tempo</string>
 	<string name="btn6b_27_3__b">Altrimenti</string>
 	<string name="btn6b_27_5__a">Se 2 o più falliscono</string>
 	<string name="btn6b_27_5__b">Altrimenti</string>
@@ -4814,8 +4814,7 @@ Il Marchio del Giuramento sui polsi vi aiuta a entrare nelle catacombe sotto la 
 Scegliere l\'opzione pertinente di seguito:"</string>
 	<string name="chp16_epi_2__a">Con l\'Ogre di Tracia che giace morto nel fango del Bosco Profondo, vi rivolgete all\'altare nella speranza di dare una degna sepoltura al compagno che avete sacrificato. Tuttavia, ciò che trovate vi agghiaccia. Le catene pendono allentate e dove prima c\'era un corpo, ora non c\'è più.</string>
 	<string name="chp16_epi_3__a">"Come da istruzioni, rimuovete il cuore dell\'orco e lo avvolgete saldamente in un panno. In qualche modo, l\'organo batte ancora. Restituendo l\'ambito oggetto al nobile mascherato, vi viene data la ricompensa promessa. La strega Aurelia e l\'etere. Raccogliendo le sue catene e le fiale per tenerla sotto controllo, venite nuovamente avvertiti del pericolo che rappresenta. Vi viene assicurato che le droghe fornite saranno sufficienti a tenere la strega sotto sedativi fino al completamento del vostro compito."</string>
-	<string name="chp16_epi_3__c">"La triste realtà del Keening si fa strada nella vostra mente e cominciate a chiedervi se sarete in grado di portare a termine l\'impresa quando arriverà il momento. Forse c\'è ancora un altro modo per raggiungere l\'obiettivo? Qualcosa che scoprirete sul Filo. Fino ad allora, avete giurato di portare a termine il compito e ci sono ancora molte marce tra la Tracia e Verum
-GUADAGNATE 32 IRON."</string>
+	<string name="chp16_epi_3__c">La triste realtà del Keening si fa strada nella vostra mente e cominciate a chiedervi se sarete in grado di portare a termine l\'impresa quando arriverà il momento. Forse c\'è ancora un altro modo per raggiungere l\'obiettivo? Qualcosa che scoprirete sul Filo. Fino ad allora, avete giurato di portare a termine il compito e ci sono ancora molte marce tra la Tracia e Verum</string>
 	<string name="chp16m_1_1__a">"Questa pergamena, un tempo sigillata da un marchio Scarabeo, sembra essere stata inviata molti anni fa. Non è chiaro come possa riguardare l\'Orco di Tracia, anche se sembra indicare una sorta di storia segreta
 La lettera recita
 i Cinque continuano a guardarci dall\'alto in basso, scambiando la nostra moderazione per una mancanza di convinzione. La loro arroganza sarà il nostro vantaggio. Ho convinto il mio carissimo Mycelle a perseguire i mezzi per insegnare loro la verità che si cela dietro le parole di Scaravelho, \'Lindo mas venenoso\'. Bello ma mortale. Impareranno che quando ci calpestano, noi mordiamo a nostra volta. Mycelle si è incontrato con un mecenate nelle profondità del bosco. Temo per mio marito. Tuttavia, Mycelle mi promette che questo è il modo migliore per riportare la nostra famiglia alla gloria. Come per tutte le lettere, affido questa ad Anila della famiglia Swan. Sono e saranno per sempre i nostri fidati consiglieri. Se doveste ricevere questa lettera da qualcun altro, considerate che è stata intercettata. I Cigni possono anche vivere ai margini della rete, ma sono una parte fedele di noi. Vi scriverò di nuovo il prima possibile"
@@ -10256,7 +10255,7 @@ GUADAGNARE IL GETTONE INDIZIO 5."</string>
 	<string name="pop16_12_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
 	<string name="pop16_12_5__b">POSIZIONARE I GETTONI DI POSIZIONE 1 E 29.</string>
 	<string name="pop16_17_12__b">SE NON L\'AVETE ANCORA FATTO, RIVELATE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 16 SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA.</string>
-	<string name="pop16_17_12__d">OTTENETE LA CARTA ALLEATO 42 (MANY WINTERS, MOLTI INVERNI), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 11 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 42 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
+	<string name="pop16_17_12__d">OTTENETE LA CARTA ALLEATO 42 (MANY WINTERS, MOLTI INVERNI), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 41 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 42 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop16_17_13__b">SE NON L\'AVETE ANCORA FATTO, RIVELATE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 16 SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA.</string>
 	<string name="pop16_17_5__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop16_17_5__d">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9.
@@ -10339,7 +10338,8 @@ POSIZIONARE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZONE 21."</string>
 	<string name="pop16_9_8__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop16_9_9__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO (NON ATTIVARE ALCUN EVENTO SUL TRACCIATO DEL TEMPO).</string>
 	<string name="pop16_epi_3__b">"SCRIVETE "ETERE" SUL FOGLIO DELLA LIBERA COMPAGNIA. DISEGNATE 3 CASELLE ACCANTO AD ESSA. QUESTE RAPPRESENTANO LA QUANTITÀ DI ETERE CHE AVETE."</string>
-	<string name="pop16_epi_3__d">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
+	<string name="pop16_epi_3__d">"GUADAGNATE 32 IRON.
+CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
 	<string name="pop16_read_journal_100">LEGGERE LA VOCE 100 A PAGINA 20 DEL DIARIO.</string>
 	<string name="pop16_read_journal_101">LEGGERE LA VOCE 101 A PAGINA 20 DEL DIARIO.</string>
 	<string name="pop16_read_journal_102">LEGGERE LA VOCE 102 A PAGINA 20 DEL DIARIO.</string>
@@ -10438,7 +10438,7 @@ SCRIVETE LE VOSTRE RISPOSTE E CONTINUATE."</string>
 DONNA PUGNALE TEMPESTA DI SANGUE
 SE DIMENTICATE UNA DI QUESTE PAROLE POTETE APRIRE GLI OCCHI, MA SOLO PER CONTROLLARE LE PAROLE E POI CHIUDERLI IMMEDIATAMENTE
 ORA INDICATE AL VOSTRO GRUPPO DI FAR PARTIRE IL TIMER."</string>
-	<string name="pop17m_4_5__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE BATTLEFLOW.</string>
+	<string name="pop17m_4_5__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE BATTLEFLOW. MARCATE LA CASELLA \'EXTRA UNIQUE\' PER IL CAPITOLO 17 SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA</string>
 	<string name="pop17m_4_5__d">"SPOSTARE IL DEMONE DEL SANGUE (GETTONE NUMERATO 1) DI 4 TESSERE VERSO LA LIBERA COMPAGNIA.
 SE IL DEMONE DEL SANGUE FINISCE SULLA STESSA TESSERA DELLA LIBERA COMPAGNIA, SEGUITE LE REGOLE DI ATTACCO DEL DEMONE DEL SANGUE."</string>
 	<string name="pop17m_4_6__b">"SPOSTARE IL DEMONE DEL SANGUE (GETTONE NUMERATO 1) DI 6 TESSERE VERSO LA LIBERA COMPAGNIA.
@@ -10757,11 +10757,11 @@ PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_21_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_22_10__b">"RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 19 SULLA SCHEDA DELLA LIBERA COMPAGNIA.
 SE AVETE IL FORZIERE MISTERIOSO, APRITE LA SCATOLA MISTERIOSA 19.
-SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 19.
+SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 19 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop19_22_11__b">"RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 19 SULLA SCHEDA DELLA LIBERA COMPAGNIA.
 SE AVETE IL FORZIERE MISTERIOSO, APRITE LA SCATOLA MISTERIOSA 19.
-SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 19.
+SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 19 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop19_22_1__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop19_22_2__b">"CANCELLATE LA QUANTITÀ DI SQUADRE CHE AVETE SUL FOGLIO DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE AVETE "35 SOLDATI"
@@ -10776,7 +10776,7 @@ SCRIVETE LA QUANTITÀ DI CUBI DI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LI
 SCRIVI LA PAROLA CHIAVE 'SEDRIC'S SACRIFICE' SULLA TUA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop19_22_9__d">"RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 19 SULLA SCHEDA DELLA LIBERA COMPAGNIA.
 SE AVETE IL FORZIERE MISTERIOSO, APRITE LA SCATOLA MISTERIOSA 19.
-SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 19.
+SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 19 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop19_2_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_2_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGETE 1 AL RISULTATO SE IL PRECURSORE DELL\'AVIAZIONE È CON VOI).</string>
@@ -11237,7 +11237,7 @@ PROCEDETE ALL\'INCONTRO DEL CAPITOLO 2 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI I
 	<string name="pop2_epi_1__b">"GUADAGNA 8 IRON.
 CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
 	<string name="pop2_epi_3__b">SE VOLETE OTTENERE GAMEL COME ALLEATO, GUADAGNATE LA CARTA ALLEATO 6 (GAMEL), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 22 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 19 AL VOSTRO MAZZO EVENTI CITTÀ.</string>
-	<string name="pop2_epi_4__b">OGNI OATHSWORN PESCA UNA CARTA FERITA MENTRE GAMEL FA PIOVERE COLPI SULLA LIBERA COMPAGNIA.</string>
+	<string name="pop2_epi_4__b">2 OATHSWORN CASUALI PESCANO UNA CARTA FERITA QUANDO GAMEL FA PIOVERE COLPI SULLA LIBERA COMPAGNIA.</string>
 	<string name="pop2_epi_4__d">"AGGIUNGETE LA PAROLA CHIAVE 'FORGE BREAKER' ALLA VOSTRA SCHEDA LIBERA COMPAGNIA.
 CANCELLARE 'TAM'S LOCKET' DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop2a_10_7__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2.</string>
@@ -11730,6 +11730,7 @@ MARCARE LA CASELLA 'EXTRA UNIQUE' PER IL CAPITOLO 6 SULLA SCHEDA DELLA LIBERA CO
 	<string name="pop6a_28_33__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop6a_28_34__b">"RIVELA TUTTE LE CARTE DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 6 - OGNI OATHSWORN GUADAGNA 1 OGGETTO DA ESSO.
 POSIZIONATE IL GETTONE POSIZIONE 3 E RECATEVI LÌ."</string>
+    <string name="pop6a_28_3a__b">PROVA A SCOPRIRE LA VERITÀ. ASCOLTA ATTENTAMENTE LE TESTIMONIANZE PER TROVARE DEGLI INDIZI ED ELABORA UN GIUDIZIO PER IL RE.</string>
 	<string name="pop6a_28_5b__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 5. 4 SE AVETE CON VOI UN URSUS).</string>
 	<string name="pop6a_28_6b__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6).</string>
 	<string name="pop6a_28_7__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 5).</string>
@@ -12009,7 +12010,7 @@ POI PERDERE:
 1 PUNTO FERITA SE ERANO RIMASTI 3-4 PUNTI FERITA.
 NIENTE SE ERANO RIMASTI 5-6 PUNTI FERITA.
 SE AVETE 4 O PIÙ GETTONI INDIZIO SU SEDIE IN GIRO PER LA MAPPA, SPUNTATE LA CASELLA 'EXTRA UNIQUE' PER IL CAPITOLO 8 SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA.
-SE UN OATHSWORN HA PERSO TUTTA LA SUA SANITÀ MENTALE (PUNTI FERITA) NEL REGNO DEL SATIRO, È \"PERSO PER SEMPRE\"."</string>
+SE UN OATHSWORN HA PERSO TUTTA LA SUA SANITÀ MENTALE (PUNTI FERITA), È \"PERSO PER SEMPRE\"."</string>
 	<string name="pop8_21_11__b">ESEGUIRE UNA PROVA DI FURTIVITÀ (STEALTH CHECK, DIFFICOLTÀ 8. AGGIUNGERE 1 AL RISULTATO PER OGNI GETTONE INDIZIO ATTORNO AL BORDO DEL TABELLONE).</string>
 	<string name="pop8_21_12__b">"SE SI POSSIEDE IL FORZIERE MISTERIOSO, APRIRE LA SCATOLA MISTERIOSA 2.
 SE NON AVETE LO SCRIGNO MISTERIOSO, APRITE LA BUSTA MISTERIOSA 2.
