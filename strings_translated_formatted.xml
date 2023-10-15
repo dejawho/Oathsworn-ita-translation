@@ -26,7 +26,9 @@
 	<string name="abc_shareactionprovider_share_with">Condividi con</string>
 	<string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
 	<string name="abc_toolbar_collapse_description">Crollo</string>
-	<string name="about_text">"Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
+	<string name="about_text">"Oathsworn Traduzione Italiana v13.0
+
+Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
 	<string name="add_time">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="add_time_apothecary">"AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.
 
@@ -626,14 +628,14 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn13_28_18__b">Se non avete un Avi e avete SUCCESSO</string>
 	<string name="btn13_28_19__a">Se avete un Avi e avete SUCCESSO</string>
 	<string name="btn13_28_1__a">1. Chiedere come si può stabilizzare la città</string>
-	<string name="btn13_28_1__b">2. Accennare al fatto che un Keening può attirare i mostri dal Cuore di Tenebra</string>
+	<string name="btn13_28_1__b">2. Accennare al fatto che il Richiamo può attirare i mostri dal Cuore di Tenebra</string>
 	<string name="btn13_28_1__c">"3. Suggerisci che gli A\'Dendri delle Strade Verdi potrebbero essere in grado di aiutarti"</string>
 	<string name="btn13_28_20__a">1. Liberatela</string>
-	<string name="btn13_28_20__b">2. Portatela alla prigione di Black Rock</string>
-	<string name="btn13_28_20__c">3. Ucciderla</string>
+	<string name="btn13_28_20__b">2. Portatela alla prigione della Roccia Nera</string>
+	<string name="btn13_28_20__c">3. Uccidetela</string>
 	<string name="btn13_28_21__a">1. Liberatela</string>
-	<string name="btn13_28_21__b">2. Portatela alla prigione di Black Rock</string>
-	<string name="btn13_28_21__c">3. Ucciderla</string>
+	<string name="btn13_28_21__b">2. Portatela alla prigione della Roccia Nera</string>
+	<string name="btn13_28_21__c">3. Uccidetela</string>
 	<string name="btn13_28_24__a">1. Accompagnate Elanna alla vostra Roccia Nera</string>
 	<string name="btn13_28_24__b">2. Consegnatela alle guardie per portarla alla Roccia Nera</string>
 	<string name="btn13_28_25__a">Se avete la parola chiave \"Kingkiller\" sul vostro Foglio della Libera Compagnia</string>
@@ -642,7 +644,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn13_28_26__b">Se non avete la parola chiave \"Kingkiller\" nella vostra Scheda della Libera Compagnia</string>
 	<string name="btn13_28_27__a">Se avete la parola chiave \"Kingkiller\" sul vostro Foglio della Libera Compagnia</string>
 	<string name="btn13_28_27__b">Se non avete la parola chiave \"Kingkiller\" sulla vostra Scheda della Libera Compagnia</string>
-	<string name="btn13_28_2__a">Accennare al fatto che un Keening può attirare i mostri dal Cuore di Tenebra</string>
+	<string name="btn13_28_2__a">Accennare al fatto che il Richiamo può attirare i mostri dal Cuore di Tenebra</string>
 	<string name="btn13_28_2__b">"Suggerisci che gli A\'Dendri delle Strade Verdi potrebbero essere in grado di aiutarti"</string>
 	<string name="btn13_28_30__a">1. Volontario della strega</string>
 	<string name="btn13_28_30__b">2. Volontario Lyceen</string>
@@ -658,14 +660,14 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn13_28_33__a">1. Rinuncia a Lyceen</string>
 	<string name="btn13_28_33__b">2. Mantenere il silenzio</string>
 	<string name="btn13_28_4__a">1. Chiedere come si può stabilizzare la città</string>
-	<string name="btn13_28_4__b">2. Accennare al fatto che un gemito avrebbe attirato i mostri dal cuore delle tenebre</string>
+	<string name="btn13_28_4__b">2. Accennare al fatto che il Richiamo avrebbe attirato i mostri dal Cuore di Tenebra</string>
 	<string name="btn13_28_5__a">Se avete la Strega, il Guardiano e l\'alleato Lyceen</string>
 	<string name="btn13_28_5__b">Se avete la Strega ed il Guardiano ma non l\'alleato Lyceen</string>
 	<string name="btn13_28_5__c">Se avete l\'alleato Lyceen ed il Guardiano ma non la Strega</string>
 	<string name="btn13_28_5__d">Se avete l\'alleato Lyceen e la Strega ma non il Guardiano</string>
 	<string name="btn13_28_5__e">Se avete la Strega ma non il Guardiano e non l\'alleato Lyceen</string>
 	<string name="btn13_28_5__f">Se avete l\'alleato Lyceen, ma non la Strega e non il Guardiano</string>
-	<string name="btn13_28_5__g">Se non avete né la Strega né l\'alleato Liceo</string>
+	<string name="btn13_28_5__g">Se non avete né la Strega né l\'alleato Lyceen</string>
 	<string name="btn13_28_8__a">1. Volontario della strega</string>
 	<string name="btn13_28_8__b">2. Mantenere il silenzio</string>
 	<string name="btn13_28_9__a">Se la strega ha impostato il suo dado a 1</string>
@@ -673,8 +675,8 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn13_28_9__c">Se più della metà dei giocatori ha impostato il proprio dado a 2</string>
 	<string name="btn13_2_1__a">Se siete stati ai Bassifondi (Cobbles) durante questo capitolo</string>
 	<string name="btn13_2_1__b">Se non siete stati ai Bassifondi (Cobbles) durante il capitolo</string>
-	<string name="btn13_2_3__a">1. Entrare nel selciato</string>
-	<string name="btn13_2_3__b">2. Lasciare il selciato</string>
+	<string name="btn13_2_3__a">1. Entrate nei Bassifondi (Cobbles)</string>
+	<string name="btn13_2_3__b">2. Lasciate i Bassifondi (Cobbles)</string>
 	<string name="btn13_2_4__a">1. Procedere lentamente</string>
 	<string name="btn13_2_4__b">2. Entrare con forza e velocità</string>
 	<string name="btn13_30_14__a">1. Usate il fuoco per respingerlo</string>
@@ -699,7 +701,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn13_30_9__b">Se è 3-4</string>
 	<string name="btn13_30_9__c">Se è 0-2</string>
 	<string name="btn13_3_1__a">1. Caricate l\'orda dalle retrovie e fatevi strada</string>
-	<string name="btn13_3_1__b">2. Dare fuoco a un carrello nelle vicinanze per spaventarli</string>
+	<string name="btn13_3_1__b">2. Date fuoco ad un carro nelle vicinanze per spaventarli</string>
 	<string name="btn13_3_1__c">3. Cercare di intrufolarsi sul retro e fare un buco nella parte posteriore della casa</string>
 	<string name="btn13_3_1__d">"4. Andate via e non tornate qui"</string>
 	<string name="btn13_4_10__a">Osservare il muro orientale</string>
@@ -1137,7 +1139,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn16_4_2__b">2. Chiedete quanto vi costerà</string>
 	<string name="btn16_4_3__a">1. Prendete la catena</string>
 	<string name="btn16_4_3__b">2. Chiedete dell\'etere</string>
-	<string name="btn16_4_3__c">3. (Solo se il direttore è con voi) Chiedete del collare da strega rotto</string>
+	<string name="btn16_4_3__c">3. (Solo se il Guardiano (Warden) è con voi) Chiedete del collare da strega rotto</string>
 	<string name="btn16_4_4__a">1. Chiedete di vedere la Strega</string>
 	<string name="btn16_4_4__b">2. Chiedete dell\'Orco</string>
 	<string name="btn16_4_5__a">1. Chiedete di vedere la Strega</string>
@@ -1709,7 +1711,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn2_13_8__b">Altrimenti</string>
 	<string name="btn2_60_3__a">1. Prova a liberare Tam</string>
 	<string name="btn2_60_3__b">2. Cercate di superarlo di nascosto</string>
-	<string name="btn2_60_3__c">3. Uccidere Tam, assicurando il suo silenzio</string>
+	<string name="btn2_60_3__c">3. Uccidete Tam, assicurando il suo silenzio</string>
 	<string name="btn2_epi_1__a">"Se avete scritto 'Tam's locket' sulla vostra Scheda della Libera Compagnia"</string>
 	<string name="btn2_epi_1__b">Altrimenti</string>
 	<string name="btn2_epi_2__a">1. Dite a Gamel la verità: avete ucciso suo figlio</string>
@@ -2403,7 +2405,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn_succeed">Se avete successo</string>
 	<string name="btn_the_end">Prossimamente ne arriveranno altri..</string>
 	<string name="btn_tribe">Incontro con la Tribù della Cicatrice!</string>
-	<string name="btn_warden">Se avete un direttore</string>
+	<string name="btn_warden">Se avete il Guardiano (Warden)</string>
 	<string name="btn_west">Ovest</string>
 	<string name="btn_wyrm">Incontro con il Wyrm!</string>
 	<string name="btn_yes">Sì</string>
@@ -2444,7 +2446,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="chapterText2">Capitolo 2 - Occhi nel buio</string>
 	<string name="chapterText20">Capitolo 20 - L\'ultima resistenza</string>
 	<string name="chapterText21">Capitolo 21 - Il cuore di tenebra</string>
-	<string name="chapterText3">Capitolo 3 - Il richiamo</string>
+	<string name="chapterText3">Capitolo 3 - Il Richiamo</string>
 	<string name="chapterText4">Capitolo 4 - Nel bosco profondo</string>
 	<string name="chapterText5">Capitolo 5 - Il ritorno a casa</string>
 	<string name="chapterText6">Capitolo 6 - Il giudizio</string>
@@ -3051,7 +3053,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp11_20_3__e">Asciugando il sangue dalle lame, sentite che vi state avvicinando al vostro obiettivo.</string>
 	<string name="chp11_20_4__a">Abbassando il passo, segnalate a tutti di stare all\'erta. Mantenere questo livello di attenzione è faticoso e richiede disciplina, ma è necessario per assicurarti che niente si avvicini di soppiatto.</string>
 	<string name="chp11_20_4__c">Ci vuole tempo, ma alla fine sentite che vi state avvicinando alla meta.</string>
-	<string name="chp11_20_5__a">"Vi spingete tra le spine e vi arrampicate su radici spesse. Respirate a malapena l\'aria stucchevole e l\'oscurità è ovunque. Non avete mai visto il Bosco Profondo in questo stato. Gli alberi sembrano pulsare e trasudare un icore ambrato, e le cisti punteggiano il terreno come pustole su un cadavere gonfio. Davanti a voi, il terreno si abbassa bruscamente e la vista si apre su un grande burrone. La grotta che avete visto si apre sul fianco della montagna come una ferita scura e putrefatta. Uno squarcio di 15 metri nella roccia. Sapete immediatamente di aver raggiunto la vostra destinazione, il centro del Bosco Profondo. Siete arrivati al Cuore delle Tenebre."</string>
+	<string name="chp11_20_5__a">"Vi spingete tra le spine e vi arrampicate su radici spesse. Respirate a malapena l\'aria stucchevole e l\'oscurità è ovunque. Non avete mai visto il Bosco Profondo in questo stato. Gli alberi sembrano pulsare e trasudare un icore ambrato, e le cisti punteggiano il terreno come pustole su un cadavere gonfio. Davanti a voi, il terreno si abbassa bruscamente e la vista si apre su un grande burrone. La grotta che avete visto si apre sul fianco della montagna come una ferita scura e putrefatta. Uno squarcio di 15 metri nella roccia. Sapete immediatamente di aver raggiunto la vostra destinazione, il centro del Bosco Profondo. Siete arrivati al Cuore di Tenebra."</string>
 	<string name="chp11_20_6__a">Un senso di malvagità vi pervade mentre guardate in quell\'oscurità, ed è quasi sufficiente a farvi perdere di vista il pericolo immediato. Il luogo pullula di mostruosità del Bosco Profondo, mai viste prima. Un mare di pellicce e zanne, chitina e artigli, scorre intorno alla grotta come vermi che strisciano intorno a un cadavere. Paura e rabbia vi attanagliano alla vista della morte certa che vi attende all\'imboccatura della grotta. Non riuscirete mai a entrare in questo modo. Ma siete così vicini. Sapete che la risposta si trova in quella grotta. Avete fatto tutta questa strada per niente? Non avete il tempo di riflettere su questa domanda perché sentite che qualcosa sta arrivando.</string>
 	<string name="chp11_20_6__c">"Un familiare e profondo tonfo nella terra attira la vostra attenzione. Ricordate quella sensazione da... Vi irrigidite, stringendo forte le armi al suono di uno schianto. Alla vostra destra gli alberi si piegano, scricchiolano e si spezzano, e la materia degli incubi si fa strada nella realtà davanti a voi.
 
@@ -3650,7 +3652,7 @@ Come sempre, Cyprian non aveva riflettuto sulle sue azioni. Con quattro di voi, 
 	<string name="chp12_1_20__c">L\'hai fatto:</string>
 	<string name="chp12_1_21__a">"... Il sangue era stato versato e nemmeno i nobili erano immuni dal Patto. Infilando la lama nella gola di Cyprian, pose fine per sempre alle sue vanterie. C\'erano poche cose più pericolose di un cavaliere cattivo, la città era meglio che si liberasse di lui. I nobili sussultarono all\'atto e indietreggiarono mentre il sangue si accumulava sulle pietre. Prendendo la sua lama, lanciasti uno sguardo ai nobili. Nessuno vi avrebbe sfidato. Con ciò, vi voltaste di nuovo verso gli ufficiali."</string>
 	<string name="chp12_1_22__a">"...Ci volle un lungo momento prima di lasciarlo alzare, era ancora un nobile. L\'odio bruciava negli occhi di Cyprian per la vergogna che gli avevate causato, ma sapeva che non doveva insistere. Si allontanò e vi lasciò con la lama in mano, sapendo che era andata persa. Con ciò, si voltò di nuovo verso gli ufficiali."</string>
-	<string name="chp12_1_23__a">"...Riferendo al piccolo consiglio, hai raccontato della strana patria degli A\'Dendri e della sua guerra infinita con il Bosco Profondo. Infine, hai raccontato il lungo viaggio nelle profondità del Cuore delle Tenebre e la grotta che hai trovato lì, circondata da mostri. Spiegaste come gli A\'Dendri vi avessero informato che la grotta conteneva la chiave per fermare la peste. I volti del consiglio erano stati segnati dalla costernazione per la mancanza di aiuti immediati alla città. Avevano sperato in una cura, ma si erano ritrovati con un altro ostacolo da superare. Un\'orda di mostri da superare? Come raggiungere l\'irraggiungibile? Occorrerà deliberare e formare delle strategie
+	<string name="chp12_1_23__a">"...Riferendo al piccolo consiglio, hai raccontato della strana patria degli A\'Dendri e della sua guerra infinita con il Bosco Profondo. Infine, hai raccontato il lungo viaggio nelle profondità del Cuore di Tenebra e la grotta che hai trovato lì, circondata da mostri. Spiegaste come gli A\'Dendri vi avessero informato che la grotta conteneva la chiave per fermare la peste. I volti del consiglio erano stati segnati dalla costernazione per la mancanza di aiuti immediati alla città. Avevano sperato in una cura, ma si erano ritrovati con un altro ostacolo da superare. Un\'orda di mostri da superare? Come raggiungere l\'irraggiungibile? Occorrerà deliberare e formare delle strategie
 
 Congedandovi con un ringraziamento per il vostro servizio e un forziere di Iron, il piccolo consiglio tornò a palazzo con i resti della vostra spedizione in un\'accesa conversazione."</string>
 	<string name="chp12_1_23__c">"Rimasti soli, cominciaste a guadare la folla radunata. Si era sparsa la voce della vostra spedizione e i volti stupiti guardavano con speranza al vostro passaggio. Vi avevano nominato eroi e campioni e, per qualche motivo, la gente ci aveva creduto. Ora si aspettavano che foste voi a salvarli. A ogni passo, sentivate crescere il peso della responsabilità che vi avevano addossato.
@@ -3940,7 +3942,7 @@ Scegliete un luogo dove andare:"</string>
 Scegliete un luogo dove andare:"</string>
 	<string name="chp13_13_1__a">"Come al solito, il Mercato è un brulicante covo di vita, tranne per il fatto che ora ospita molti dei cittadini sfollati di Verum, la maggior parte dei quali è fuggita dai quartieri in quarantena. L\'atmosfera è tenue, ma ci sono ancora diversi mercanti che vendono le loro merci."</string>
 	<string name="chp13_13_1__c">"Un basso boato si leva all\'improvviso da dietro il muro a nord-ovest, mentre i lamenti e le urla si fanno sempre più forti. La folla si ferma, piegando un orecchio spaventato verso il rumore. L\'ansia sussurrata si diffonde a macchia d\'olio tra i presenti e presto si sentono grida di panico quando alcuni temono che il muro stia per essere violato. Alcuni rubano cibo o merci dai carretti dei venditori. Altri afferrano i pochi beni che hanno e iniziano a fuggire. Non si può rischiare un fuggi fuggi qui o permettere che uno o due ignoranti ghiribizzi gettino nel panico un\'intera città con le loro paure ingiustificate. Salite rapidamente su una cassa di legno e chiamate le masse della piazza."</string>
-	<string name="chp13_13_2__a">La folla si ammutolisce alla vista della vostra presenza imponente. Occhi spaventati e vuoti vi fissano, ma in molti di loro c\'è riconoscimento. Quelli che sono a portata di orecchio ascoltano la verità nelle sue parole, mentre lei dice loro che devono essere coraggiosi e stare uniti ora. Questa città ha appena iniziato a combattere e non c\'è un solo uomo o donna che sia pronto a sdraiarsi e morire. Questa è la loro città e vinceranno questa piaga. Le vostre parole sono accolte da alcune acclamazioni e da sorrisi abbastanza rilassati da portare un pizzico di speranza alla gente. Ne avranno bisogno se le anime infette che premono contro quel muro riusciranno davvero a sfondare.</string>
+	<string name="chp13_13_2__a">La folla si ammutolisce alla vista della vostra presenza imponente. Occhi spaventati e vuoti vi fissano, ma in molti di loro c\'è riconoscimento. Quelli che sono a portata di orecchio ascoltano la verità nelle vostre parole, mentre dite loro che devono essere coraggiosi e stare uniti ora. Questa città ha appena iniziato a combattere e non c\'è un solo uomo o donna che sia pronto a sdraiarsi e morire. Questa è la loro città e vinceranno questa piaga. Le vostre parole sono accolte da alcune acclamazioni e da sorrisi abbastanza rilassati da portare un pizzico di speranza alla gente. Ne avranno bisogno se le anime infette che premono contro quel muro riusciranno davvero a sfondare.</string>
 	<string name="chp13_13_3__a">"Nonostante le vostre suppliche, la folla vi ignora. La gente ha iniziato a farsi prendere dal panico e le risse scoppiano ovunque per resti di cibo avariato o altre mercanzie. Con l\'aiuto di alcune guardie cittadine riuscite a sedare i battibecchi, ma alla fine vi rendete conto che è solo questione di tempo prima che le fiamme della paura si trasformino in un inferno.
 
 
@@ -3951,9 +3953,9 @@ Arrivando all\'ex alveo del fiume che divide la città, si trovano lunghe file d
 
 
 Scegliete un luogo dove andare:"</string>
-	<string name="chp13_19_1__a">Un piccolo contingente di guardie cittadine protegge il Fabbro, allontanando i cittadini arrabbiati dalla fucina calda e fumosa. Quando parlate con il Fabbro, vi dice che il Re ha ordinato di fermare tutti i commerci, tranne che per le necessità dei Compagni liberi o delle guardie. Le preziose risorse rimaste in questa città devono essere riservate a coloro che sono più importanti per la protezione del popolo.</string>
+	<string name="chp13_19_1__a">Un piccolo contingente di guardie cittadine protegge il Fabbro, allontanando i cittadini arrabbiati dalla fucina calda e fumosa. Quando parlate con il Fabbro, vi dice che il Re ha ordinato di fermare tutti i commerci, tranne che per le necessità delle Libere Compagnie o delle guardie. Le preziose risorse rimaste in questa città devono essere riservate a coloro che sono più importanti per la protezione del popolo.</string>
 	<string name="chp13_20_10__a">Mettendo insieme quello che sapete, sembra che i Cani di Pietra siano stati ingaggiati da questo guardiano per aiutare a ricatturare la strega. Ulteriori domande alle guardie fuori dalla Roccia Nera rivelano che l\'ultima volta sono stati visti dirigersi verso nord-ovest. Una strega potrebbe nascondersi in molti luoghi di Verum, ma avete qualche idea su dove cercare per prima cosa. Qualunque cosa sia accaduta, c\'è una Libera Compagnia scomparsa e una Strega fuggita che devono essere trovate rapidamente.</string>
-	<string name="chp13_20_1__a">"La fortezza nota come Prigione della Roccia Nera troneggia davanti a voi. Un tempo residenza della famiglia reale, il castello è ora sede dell\'Inquisizione e ospita le prigioni di Verum. Il castello prende il nome dalla montagna in miniatura di roccia nera su cui è stato costruito secoli fa
+	<string name="chp13_20_1__a">"La fortezza nota come Prigione della Roccia Nera troneggia davanti a voi. Un tempo residenza della famiglia reale, il castello è ora sede dell\'Inquisizione e ospita le prigioni di Verum. Il castello prende il nome dalla piccola montagna di roccia nera su cui è stato costruito secoli fa
 
 I vostri marchi del giuramento vi garantiscono il passaggio all\'interno della struttura, dove siete subito accolti dal governatore della prigione, un Inquisitore fin troppo ansioso di mostrare la vastità della tentacolare e ineluttabile rete di prigioni che comanda.
 
@@ -3967,7 +3969,7 @@ Mentre l\'Inquisitore vi conduce nelle profondità della prigione, un urlo terro
 
 \"Le nostre celle sono purtroppo vuote al momento\", vi dice l\'Inquisitore. \"Stiamo interrogando diligentemente le presunte streghe, ma finora non ne abbiamo trovata nessuna. Non falliremo il nostro mandato, ve lo posso assicurare. Permettetemi di mostrarvi qualcosa di interessante.\"
 
-Vi porta in una camera circolare priva di luce, dove un uomo è stato legato per i polsi, appeso a una vasta fossa. Calciando una piccola pietra, aspettate il suono che raggiunge il fondo, ma il suono non arriva mai. L\'Inquisitore vi sorride, poi si dirige verso una piccolo sostegno dove una candela accesa fa il solletico alla corda che tiene il prigioniero sopra l\'abisso.
+Vi porta in una camera circolare priva di luce, dove un uomo è stato legato per i polsi, appeso sopra una vasta fossa. Calciando una piccola pietra, aspettate il suono che raggiunge il fondo, ma il suono non arriva mai. L\'Inquisitore vi sorride, poi si dirige verso una piccolo sostegno dove una candela accesa fa il solletico alla corda che tiene il prigioniero sopra l\'abisso.
 
 \"Notate la disposizione dei vasi nella stanza,\" dice, indicando diversi contenitori di vetro che si trovano a intervalli regolari nella camera. \"Contengono la maggior parte degli elementi conosciuti che le streghe manipolano con le loro capacità. Questo rituale ci permette non solo di verificare la contaminazione dell\'anima di una persona, ma anche di determinare la natura delle sue affinità. La fiamma alla corda è usata solo per incoraggiare la brevità. Niente fa emergere il malefico come la minaccia di morte.\"
 
@@ -3991,12 +3993,12 @@ Davanti ai cancelli, si viene accolti da una specie di servo della gleba, con la
 
 \"Ai miei padroni è stata presentata questa petizione da un guardiano dell\'Inquisizione. È una richiesta di assegnazione di una Libera Compagnia. I Cani di Pietra. Non sono stati forniti altri dettagli. Sembra che i dettagli debbano essere forniti agli Oathsworn solo dal Direttore della petizione stessa.\""</string>
 	<string name="chp13_22_2__a">Mettendo insieme quello che sapete, sembra che i Cani di Pietra siano stati ingaggiati da questo guardiano per aiutare a ricatturare la strega. Ulteriori domande alle guardie fuori dalla Roccia Nera rivelano che l\'ultima volta sono stati visti dirigersi verso nord-ovest. Una strega potrebbe nascondersi in molti luoghi di Verum, ma avete qualche idea su dove cercare per prima cosa. Qualunque cosa sia accaduta, c\'è una Libera Compagnia scomparsa e una Strega fuggita che devono essere trovate rapidamente.</string>
-	<string name="chp13_28_10__c">"Il vostro Direttore si fa avanti, prendendo la vostra strega per il collare, e la offre come volontaria per il compito
+	<string name="chp13_28_10__c">"Il vostro Guardiano si fa avanti, prendendo la vostra strega per il collare, e la offre come volontaria per il compito
 
 \"Grazie, Oathsworn,\" loda il Re. \"Il tuo sacrificio è molto onorevole. Ma non posso permettere che una risorsa così preziosa venga sprecata così facilmente. Mi hanno detto che c\'è ancora tempo per trovare altre persone e, se quello che dici è vero, avremo bisogno di molto più di una sola strega. Solo se non avremo successo nel tentativo di trovare altre anime maledette, ti chiederò di fare questo sacrificio.\""</string>
 	<string name="chp13_28_11__a">"In piedi davanti al suo trono, il Re si rivolge nuovamente all\'assemblea.
 
-\"Con la presente ordino a tutte le Compagnie Libere del regno di cacciare e catturare ogni strega che riescono a trovare. Nessuna voce sarà smentita e non sarà concessa alcuna tregua. Dobbiamo setacciare le terre. È un compito cruento e non lo ordino con leggerezza. Ma sono certo che se non lo facessi, assicurerei la morte di migliaia di persone e la perdita della nostra grande città. Avrete tempo fino alla luna nuova. A quel punto, marceremo nel Cuore delle Tenebre, streghe o no. Abbiamo una sola possibilità di successo. Il fallimento non è un\'opzione.\""</string>
+\"Con la presente ordino a tutte le Compagnie Libere del regno di cacciare e catturare ogni strega che riescono a trovare. Nessuna voce sarà smentita e non sarà concessa alcuna tregua. Dobbiamo setacciare le terre. È un compito cruento e non lo ordino con leggerezza. Ma sono certo che se non lo facessi, assicurerei la morte di migliaia di persone e la perdita della nostra grande città. Avrete tempo fino alla luna nuova. A quel punto, marceremo nel Cuore di Tenebra, streghe o no. Abbiamo una sola possibilità di successo. Il fallimento non è un\'opzione.\""</string>
 	<string name="chp13_28_12__c">"La vostra strega si presenta alla folla riunita, \"Mi offro volontaria.\"
 
 Le parole vi scuotono la schiena, mentre tutti gli occhi si rivolgono alla vostra compagna. Un chiacchiericcio sommesso si leva mentre il Lord Inquisitore chiede che la tua strega venga incatenata immediatamente. Condividete uno sguardo implorante con la vostra sorella di battaglia.
@@ -4014,7 +4016,7 @@ Gli occhi della vostra Strega diventano mortalmente freddi quando le parole tras
 	<string name="chp13_28_14__a">Uno sguardo silenzioso condiviso tra il gruppo rende chiara la vostra decisione. Non rinuncerete alla vostra, a qualunque costo. Mentre si alzano le richieste di una strega, voi rimanete in silenzio.</string>
 	<string name="chp13_28_15__a">"Mentre la folla riunita reagisce al decreto del Re, notate un volto familiare mescolato agli altri presenti. Elanna si muove nervosamente mentre parla con i suoi nobili conoscenti. Dopo l\'incidente nella sua stanza, la giovane donna vi evita e passa sempre meno tempo alla Quercia Spezzata. Decidete di parlarle dopo l\'udienza con il Re
 
-Improvvisamente, notate la sottile impressione di armi nascoste legate a ciascuna delle sue cosce. Le lame a profilo sottile, come quelle necessarie per l\'occultamento, non costano poco e non sono certo il tipo di arma che un fabbro locale potrebbe fornire."</string>
+Improvvisamente, notate il sottile ringonfiamento di armi nascoste legate a ciascuna delle sue cosce. Le lame a profilo sottile, come quelle necessarie per l\'occultamento, non costano poco e non sono certo il tipo di arma che un fabbro locale potrebbe fornire."</string>
 	<string name="chp13_28_16__a">"Mentre la folla riunita reagisce al decreto del Re, notate un volto familiare mescolato agli altri presenti. Elanna si muove nervosamente mentre parla con i suoi nobili conoscenti. La giovane donna vi evita da quando è successo l\'incidente nella sua stanza e passa sempre meno tempo alla Quercia Spezzata. Avete deciso di parlarle dopo l\'udienza con il Re."</string>
 	<string name="chp13_28_17__a">"Dopo aver posto fine al Consiglio, il Re se ne va con i Sorveglianti al seguito. Quasi subito, il Capitano della Guardia Trent vi chiama, facendovi cenno di avvicinarvi alla sua postazione.
 
@@ -4033,17 +4035,17 @@ Seguendola in un vicolo laterale, chiamate il suo nome ed Elanna si volta con un
 
 \"Come puoi dire cose del genere?\" e sussulta. \"Sono quasi morta fuggendo da Bastone! Ho perso tutto e tutti quelli che contavano per me. Sono a malapena riconosciuta da questi maledetti titolati, che si definiscono \'nobili\', e ora mi accusate di... di cosa esattamente?\"
 
-Forse ha ragione. Essendo così nervosa, è possibile che tu veda il pericolo dove non c\'è? Mettereste davvero in discussione una donna dal portamento così nobile? D\'altra parte, i tuoi sospetti ti hanno tenuto in vita così a lungo. Non ha senso dubitarne ora."</string>
+Forse ha ragione. Essendo così nevorsi, è possibile che veidate il pericolo dove non c\'è? Mettereste davvero in discussione una donna dal portamento così nobile? D\'altra parte, i vostri sospetti vi hanno tenuto in vita così a lungo. Non ha senso dubitarne ora."</string>
 	<string name="chp13_28_19__a">"Mentre scendete i gradini dell\'ingresso del palazzo, notate Elanna che attraversa frettolosamente il cortile. È l\'occasione migliore per affrontarla. Uscendo dalla tenuta reale, seguite la donna attraverso i quartieri nobiliari, con la mente che passa al setaccio gli strani eventi che l\'hanno circondata. Il sangue sulla stoffa nella sua stanza, il modo in cui sembra scomparire senza lasciare traccia, il fatto che abbia sempre voluto essere vicina al Re..
 
 Seguendola in un vicolo laterale, chiamate il suo nome ed Elanna si volta con un sorriso pudico. \"Siete venuto a scortare una signora per la città?\" Per un attimo giurate che nei suoi occhi ci sia un lampo di pericolo, ma sparisce in un attimo. Con uno sguardo serio, affrontate Elanna per il suo strano comportamento, dicendole che credete che nasconda qualche motivo nascosto. Lei sembra sinceramente stupita dalle vostre insinuazioni, persino offesa
 
 \"Come puoi dire cose del genere? \"Sono quasi morta fuggendo da Bastone! Ho perso tutto e tutti quelli che contavano per me. Sono a malapena riconosciuta da questi maledetti titolati che si definiscono \'nobili\' e ora mi accusate di... di cosa esattamente?\"
 
-Forse ha ragione. Essendo così nervosa, è possibile che tu veda il pericolo dove non c\'è? Mettereste davvero in discussione una donna dal portamento così nobile? D\'altra parte, i tuoi sospetti ti hanno tenuto in vita così a lungo. Non ha senso dubitare ora."</string>
+Forse ha ragione. Essendo così nervosi, è possibile che tu vediate il pericolo dove non c\'è? Mettereste davvero in discussione una donna dal portamento così nobile? D\'altra parte, i vostri sospetti vi hanno tenuto in vita così a lungo. Non ha senso dubitare ora."</string>
 	<string name="chp13_28_1__a">"Il Palazzo
 
-Quando si entra, la Sala del Trono del Palazzo è animata da conversazioni e speculazioni. Ogni nobile, cavaliere e signore della città è stato convocato, comprese tre o quattro Compagnie Libere aggiuntive. Con poche decine di persone ancora in servizio in tutto il regno, la presenza di più di una Libera Compagnia è un evento raro
+Quando entrate, la Sala del Trono del Palazzo è animata da conversazioni e speculazioni. Ogni nobile, cavaliere e signore della città è stato convocato, comprese tre o quattro Compagnie Libere aggiuntive. Con poche decine di persone ancora in servizio in tutto il regno, la presenza di più di una Libera Compagnia è un evento raro
 
 Sistemandovi in un posto tranquillo per osservare, notate gli altri Oathsworn. I Fratelli del Lupo, la Compagnia dell\'Ebbrezza, la Corazza di Ferro e persino la famigerata Guardia Rossa si sono riuniti in gruppo. Tutti hanno un numero impressionante, degno di rispetto. Fate un cenno al capo della Compagnia di Ferro e spostate lo sguardo sul Re.
 
@@ -4070,43 +4072,43 @@ Scegliete un\'opzione:"</string>
 	<string name="chp13_28_21__a">"Si nota un leggero cambiamento nella posizione di Elanna mentre la conversazione prosegue. I suoi occhi si muovono intorno, leggendo il paesaggio, notando le armi e la posizione del gruppo. Il velo di una donna nobile finalmente si solleva. Questa donna non è chi dice di essere. Con un colpo di polso, fa volare un paio di pugnali verso di voi e si precipita nel vicolo."</string>
 	<string name="chp13_28_21__c">"Muovendosi con grazia acrobatica e velocità sfolgorante, i suoi muscoli ben allenati le permettono di fuggire. I vostri sospetti vi avevano però preparato bene e la raggiungete prima che abbia la possibilità di scalare il muro di pietra alla fine del vicolo
 
-La trasciniamo a terra e lei si scaglia contro di noi con rabbia. \"Non sai in cosa ti stai immischiando!\" sibila.
+La blocchiamo a terra e lei si scaglia contro di noi con rabbia. \"Non sai in cosa ti stai immischiando!\" sibila.
 
 
 Scegliete un\'opzione:"</string>
 	<string name="chp13_28_22__a">Il suo fascino e le sue spiegazioni razionali vi conquistano la fiducia. In un momento di debolezza, non riuscite a notare il paio di pugnali sguainati alle sue spalle. La coppia vola improvvisamente verso di voi in un lampo, mentre lei si precipita nel vicolo.</string>
 	<string name="chp13_28_22__c">"Questa donna è sempre stata un\'assassina. Mentre la inseguite, credete di averla messa all\'angolo quando l\'alto muro di pietra alla fine del vicolo le sbarra l\'uscita. Poi, con un movimento fluido, Elanna si strappa la gonna del vestito e salta in aria, saltando da un bordo all\'altro del muro, scalando il blocco di pietra con facilità. Si muove con una grazia acrobatica e una velocità sfolgorante che non avete mai visto. Quando sale su un tetto vicino, si ferma e si guarda indietro
 
-\"La Gilda ti ringrazia, Oathsworn!\" chiama, la sua lingua bastoniana un tempo pudica sostituita da un aspro accento trace
+\"La Gilda ti ringrazia, Oathsworn!\" vi dice, il suo pudico modo di parlare di Bastone sostituita da un aspro accento della Tracia.
 
-Un senso di timore vi riempie la mente, ma dovrà aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Keening."</string>
-	<string name="chp13_28_23__a">"\"Non voglio farvi del male, Oathsworn,\" e lei implora di sottomettersi. \"Desidero solo proteggere me stessa.\"
+Un senso di timore vi riempie la mente, ma dovrà aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Richiamo."</string>
+	<string name="chp13_28_23__a">"\"Non voglio farvi del male, Oathsworn,\" vi dice sottomettendosi. \"Desidero solo proteggere me stessa.\"
 
-Studiate l\'espressione della donna, alla ricerca della verità. Ha appena cercato di ucciderti, ma forse ha agito solo per autodifesa. Dopo un attimo, rilascia la presa e la libera. Quando si alza, Elanna si strappa la gonna del vestito e salta in aria, saltando da un bordo all\'altro della parete e scalando il blocco di pietra con facilità. Si muove con una grazia acrobatica e una velocità sfolgorante che non avete mai visto. Quando sale su un tetto vicino, si ferma e si guarda indietro con un sorriso diabolico.
+Studiate l\'espressione della donna, alla ricerca della verità. Ha appena cercato di ucciderti, ma forse ha agito solo per autodifesa. Dopo un attimo, rilasciate la presa e la liberate. Quando si alza, Elanna si strappa la gonna del vestito e salta in aria, saltando da un bordo all\'altro della parete e scalando il blocco di pietra con facilità. Si muove con una grazia acrobatica e una velocità sfolgorante che non avete mai visto. Quando sale su un tetto vicino, si ferma e si guarda indietro con un sorriso diabolico.
 
-\"La Gilda ti ringrazia, Oathsworn!\" chiama, la sua lingua bastoniana un tempo pudica sostituita da un duro accento trace. Con ciò, la donna sparisce rapidamente da un tetto, fuori dalla vostra vista."</string>
-	<string name="chp13_28_23__c">"Un senso di presagio riempie la vostra mente, ma dovrà aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Keening.
+\"La Gilda ti ringrazia, Oathsworn!\" vi dice, il suo pudico modo di parlare di Bastone sostituita da un aspro accento della Tracia. Con ciò, la donna sparisce rapidamente da un tetto, fuori dalla vostra vista."</string>
+	<string name="chp13_28_23__c">"Un senso di presagio riempie la vostra mente, ma dovrà aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Richiamo.
 
 
 Scegliete un luogo dove andare:"</string>
-	<string name="chp13_28_24__a">"Non vorreste altro che andare a fondo della questione, ma non c\'è tempo. La città è sull\'orlo del collasso ed il suo aiuto è fondamentale per evitare il disastro. Legandola ai polsi, scortate Elanna verso la prigione di Black Rock. Lungo la strada, incontrate una squadra di guardie che sembrano andare nella stessa direzione.
+	<string name="chp13_28_24__a">"Non vorreste altro che andare a fondo della questione, ma non c\'è tempo. La città è sull\'orlo del collasso ed il suo aiuto è fondamentale per evitare il disastro. Legandola ai polsi, scortate Elanna verso la prigione della Roccia Nera. Lungo la strada, incontrate una squadra di guardie che sembrano andare nella stessa direzione.
 
 
 Scegliete un\'opzione:"</string>
 	<string name="chp13_28_25__a">"Questa donna è avvolta dall\'inganno e i pochi fatti che siete riusciti a raccogliere da lei vi dicono che è un\'assassina e una professionista. Non si può dire quanti morirebbero se la lasciaste andare. Con un rapido colpo di pugnale, ponete fine alla vita di Elanna
 
 Mentre il sangue cola sul suo corsetto intricato e ricamato, studiate il pugnale infilato nello stivale. La sua fattura ed il suo design sono inconfondibili per chi conosce le lame. È un "bacio tracio", l\'arma preferita della Gilda degli Assassini in Tracia."</string>
-	<string name="chp13_28_26__c">"Seguite i carcerieri nei sotterranei della prigione di Black Rock e vi assicurate che Elanna sia rinchiusa al sicuro. Dopo averla messa al sicuro dietro le sbarre, osservate con attenzione il pugnale che aveva con sé. La sua fattura ed il suo design sono inconfondibili per un esperto di lame. Si tratta di un "bacio tracio", l\'arma preferita della Gilda degli Assassini in Tracia."</string>
+	<string name="chp13_28_26__c">"Seguite i carcerieri nei sotterranei della prigione della Roccia Nera e vi assicurate che Elanna sia rinchiusa al sicuro. Dopo averla messa al sicuro dietro le sbarre, osservate con attenzione il pugnale che aveva con sé. La sua fattura ed il suo design sono inconfondibili per un esperto di lame. Si tratta di un "bacio tracio", l\'arma preferita della Gilda degli Assassini in Tracia."</string>
 	<string name="chp13_28_27__a">"Consegnando Elanna alle Guardie Reali, non manca di dire loro che è pericolosa e che deve essere trattata con cautela. Mentre la portano via, sentite gli uomini scherzare sui vostri avvertimenti e vedete un sorriso sul volto di Elanna. Consegnare una prigioniera così pericolosa alle guardie forse non è stata la scelta più sicura, ma avete questioni più urgenti di cui occuparvi. Mentre tornate in città, osservate con attenzione il pugnale che le avete confiscato, notando i sottili motivi incisi sulla sua superficie. L\'artigianato ed il design ornato sono inconfondibili per chi conosce le lame. Si tratta di un "bacio tracio", l\'arma preferita della Gilda degli Assassini in Tracia. Capite subito l\'errore e tornate di corsa dove avete lasciato Elanna con la squadra di guardia. Dopo aver perlustrato alcune strade vicine, finalmente trovate i corpi delle guardie sparsi in un vicolo vuoto e Elanna non si vede da nessuna parte."</string>
 	<string name="chp13_28_28__a">"I pezzi cominciano a combaciare. Elanna era ovviamente un\'agente della Gilda degli Assassini Traci, e una spia molto radicata, presumibilmente risalente alla "maschera tracia" misteriosamente scartata e trovata presso il muro fuori Bastone. Deve essersi infiltrata a Bastone come pupilla di un nobile e poi si è diretta a Verum sotto la vostra protezione. Una volta qui, molto probabilmente si è messa a raccogliere informazioni sulle difese della città e sulle debolezze del palazzo, culminando poi nel vostro scontro di oggi. Forse non sapete ancora chi è stata mandata a uccidere, ma la sua Gilda è nota per occuparsi solo di "obiettivi di alto valore"
 
-Tuttavia, per il momento tutto questo deve aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Keening.
+Tuttavia, per il momento tutto questo deve aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Richiamo.
 
 
 Scegliete un luogo dove andare:"</string>
 	<string name="chp13_28_29__a">"I pezzi cominciano a combaciare. Elanna era ovviamente un\'agente della Gilda degli Assassini di Tracia e una spia molto radicata. Deve essersi infiltrata a Bastone come pupilla di un nobile, poi si è diretta a Verum sotto la vostra protezione. Una volta qui, molto probabilmente si è messa a raccogliere informazioni sulle difese della città e sulle debolezze del palazzo, culminando poi nel vostro scontro di oggi. Forse non sapete ancora chi è stata mandata a uccidere, ma la sua Gilda è nota per occuparsi solo di "obiettivi di alto valore"
 
-Tuttavia, per il momento tutto questo deve aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Keening.
+Tuttavia, per il momento tutto questo deve aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Richiamo.
 
 
 Scegliete un luogo dove andare:"</string>
@@ -4116,10 +4118,10 @@ Scegliete un luogo dove andare:"</string>
 Scegliete un\'opzione:"</string>
 	<string name="chp13_28_30__a">La catena che avete tra le mani si fa improvvisamente pesante, perché vi trovate di fronte a una scelta terribile. La strega, la vostra sorella di battaglia, è la vostra pupilla e la vostra responsabilità. Tuttavia, potete contribuire a salvare Verum proponendola. C\'è anche un\'altra strega nella vostra compagnia che potreste offrire alla causa: Lyceen.</string>
 	<string name="chp13_28_31__a">Nei sotterranei della Roccia Nera non ci sono streghe, ma c\'è un membro della vostra Libera Compagnia che ne è affetto: Lyceen. Avete tenuto segreta la sua identità da quando avete saputo che è una strega del sangue. Ora, con la sopravvivenza dell\'umanità in gioco, potreste voler riconsiderare la vostra posizione.</string>
-	<string name="chp13_28_32__a">"I sotterranei sotto Black Rock potrebbero non contenere streghe, ma la vostra Libera Compagnia ne ha un paio che avete tenuto segrete fino a questo momento. Con la sopravvivenza dell\'umanità in gioco, potete continuare a proteggerle? O sacrificherete le vostre sorelle di battaglia e le offrirete al Keening?"</string>
+	<string name="chp13_28_32__a">"I sotterranei della Roccia Nera potrebbero non contenere streghe, ma la vostra Libera Compagnia ne ha un paio che avete tenuto segrete fino a questo momento. Con la sopravvivenza dell\'umanità in gioco, potete continuare a proteggerle? O sacrificherete le vostre sorelle di battaglia e le offrirete al Richiamo?"</string>
 	<string name="chp13_28_32__c">"
 Scegliere la prima opzione applicabile (dall\'alto verso il basso):"</string>
-	<string name="chp13_28_33__a">"I sotterranei di Black Rock potrebbero non contenere streghe, ma la vostra Libera Compagnia è in possesso di una che avete tenuto segreta fino a questo momento. Con la sopravvivenza dell\'umanità in gioco, sacrificherete la vostra alleata e la offrirete al Keening?
+	<string name="chp13_28_33__a">"I sotterranei della Roccia Nera potrebbero non contenere streghe, ma la vostra Libera Compagnia è in possesso di una che avete tenuto segreta fino a questo momento. Con la sopravvivenza dell\'umanità in gioco, sacrificherete la vostra alleata e la offrirete al Richiamo?
 
 
 Scegliete un\'opzione:"</string>
@@ -4128,7 +4130,7 @@ Scegliete un\'opzione:"</string>
 Mentre portate Lyceen davanti al Re, spiegate che è lei la strega che ha portato il Richiamo su Bastone. La folla sussulta alla vista della donna e gli occhi di Lyceen diventano rossi di lacrime e di odio. \"Come hai potuto?\" ti sputa addosso. \"Bruciarmi una volta non ti è bastato?\" Mentre il carceriere la trascina via, lei urla e si dimena, cercando di liberarsi mentre ti maledice per il tuo tradimento.
 
 \"Grazie per la tua onestà, Oathsworn\", dice il Re. \"I vostri sacrifici non conoscono limiti. Saranno necessarie altre anime, ma il compito è reso più facile da ciò che avete fatto.\""</string>
-	<string name="chp13_28_35__c">"Tenendo la strega per il collare, il Direttore si fa avanti e la offre come volontaria per il Keening
+	<string name="chp13_28_35__c">"Tenendo la strega per il collare, il Guardiano si fa avanti e la offre come volontaria per il Richiamo
 
 \"Grazie, Oathsworn,\" loda il Re. \"Il tuo sacrificio è molto onorevole. Ma non posso permettere che una risorsa così preziosa venga sprecata così facilmente. Mi hanno detto che c\'è ancora tempo per trovare altre persone e, se quello che dici è vero, avremo bisogno di molto più di una sola strega. Solo se non avremo successo nel tentativo di trovare altre anime maledette, ti chiederò di fare questo sacrificio.\"
 
@@ -4152,7 +4154,7 @@ La notizia del muro intorno al distretto degli A\'Dendri è uno sviluppo sciocca
 Scegliete un\'opzione:"</string>
 	<string name="chp13_28_5__a">"Se la città deve essere salvata, sapete che la migliore speranza si trova nel Cuore di Tenebra. Facendo un passo avanti, raccontate all\'assemblea la vostra esperienza a Bastone, raccontando l\'evento che si è verificato poco prima che il Bosco Profondo prendesse vita e la città fosse saccheggiata. Spiegate che il Richiamo della strega era come un faro per le creature della foresta, che venivano attirate da chilometri di distanza dal suo urlo psichico. Suggerite che le stesse grida di morte potrebbero essere usate per attirare le bestie che assediano il Cuore di Tenebra, spianando così la strada a un gruppo di guerrieri.
 
-Dopo aver conferito con i Sorveglianti in abito scuro, il Re prende la sua decisione. \"Così sia. Seguiremo il consiglio degli Eroi di Bastone e creeremo questo Keening. Invieremo poi una grande crociata nel Cuore delle Tenebre per estirpare questa piaga dalle nostre terre. Con questa grande impresa salveremo il nostro popolo, la nostra città e tutta l\'umanità.\"
+Dopo aver conferito con i Sorveglianti in abito scuro, il Re prende la sua decisione. \"Così sia. Seguiremo il consiglio degli Eroi di Bastone e creeremo questo Richiamo. Invieremo poi una grande crociata nel Cuore di Tenebra per estirpare questa piaga dalle nostre terre. Con questa grande impresa salveremo il nostro popolo, la nostra città e tutta l\'umanità.\"
 
 Mentre il Re termina il suo discorso, l'Alto Inquisitore si precipita in avanti, \"Mio Re! Temo che nei sotterranei della Roccia Nera non ci siano attualmente streghe. Tutti i rapporti sulla stregoneria delle ultime settimane hanno prodotto solo voci. Temo che non ci siano prigionieri con il marchio.\""</string>
 	<string name="chp13_28_6__a">"\"Gli A\'Dendri?\" l\'Arcivescovo si schernisce, facendo un passo avanti. \"Hanno costruito un muro intorno al loro distretto. È perfettamente chiaro che non hanno intenzione di prestarci il loro aiuto. Gli A\'Dendri del Wychwood non ci aiuteranno, e nemmeno quelli delle Strade Verdi.\"
@@ -4169,7 +4171,7 @@ Continuando a cercare, alla fine trovate un collare da strega rotto e mezzo sepo
 
 \"Ha detto di essere stata via per anni,\" spiega la donna. \"Pensavo che potesse piangere per ciò che erano diventati i Bassifondi, ma nei suoi occhi ho visto solo rabbia. Disse che avrebbero pagato per quello che le avevano fatto.\""</string>
 	<string name="chp13_2_10__c">Sembra che Marcella sia libera nei Bassifondi e si sospetta che i Cani di Pietra siano con lei. Tra i cittadini infetti e l\'aria nociva, indugiare ancora qui sarebbe un suicidio. Improvvisamente si sentono campanelli d\'allarme lontani. Un\'altra violazione della quarantena. Questa caccia dovrà aspettare. Per il momento, dovete concentrarvi per evitare che la città cada in rivolta.</string>
-	<string name="chp13_2_12__a">Schierati, create un muro d\'acciaio impenetrabile. Le armi si scontrano e si affettano mentre l\'odio per questa piaga maledetta vi spinge ad andare avanti. Rossi di rabbia, uccidete e uccidete ancora, senza permettere a una sola creatura infetta di superare la vostra linea difensiva. Quando l\'ultimo aggressore cade, vi incamminate di nuovo lungo la strada.</string>
+	<string name="chp13_2_12__a">Schierati, create un muro d\'acciaio impenetrabile. Le armi spaccano e tagliano mentre l\'odio per questa piaga maledetta vi spinge ad andare avanti. Rossi di rabbia, uccidete e uccidete ancora, senza permettere a una sola creatura infetta di superare la vostra linea difensiva. Quando l\'ultimo aggressore cade, vi incamminate di nuovo lungo la strada.</string>
 	<string name="chp13_2_3__a">"Barricate massicce di legname e corpi carbonizzati bloccano ogni ingresso ai Bassifondi. La situazione qui è diventata molto più grave dall\'ultima visita al quartiere della peste. Anche le case adiacenti all\'area sembrano vuote. Nessuno vuole vedere i propri vicini morire lentamente. L\'unico accesso all\'area è attraverso la linea di quarantena posta dalle guardie cittadine tra le Gallerie e le mura interne della città. Parlando con le guardie, si apprende che le circostanze sono ormai disastrose
 
 \"Gli infetti non sono più umani. Si sono trasformati in qualcos\'altro,\" uno di loro vi dice.
@@ -4200,12 +4202,12 @@ Scivolando in un\'altra strada, fortunatamente scorgete una mano che vi fa cenno
 
 \"So perché sei qui,\" dice. \"Oathsworn, giusto? Beh, promettetemi un passaggio sicuro e vi dirò quello che so.\" Accettate
 
-\"Ha detto che erano i Cani di Pietra,\" continua. \"Chiedono di una donna che ho visto qualche giorno fa, Marcella. Poverina, tutta sola. Ma vi dirò la stessa cosa che ho detto a loro. Se ne andò verso casa sua. Da allora sono rimasta bloccata qui, a respingere i maledetti infetti del legno come meglio potevo.\"
+\"Hanno detto di essere i Cani di Pietra,\" continua. \"Chiedevano di una donna che ho visto qualche giorno fa, Marcella. Poverina, tutta sola. Ma vi dirò la stessa cosa che ho detto a loro. Se ne andò verso casa sua. Da allora sono rimasta bloccata qui, a respingere i maledetti infetti del legno come meglio potevo.\"
 
 Mentre finisce, una cosa contorta con lunghi rampicanti al posto delle braccia sfonda la porta. Colpite rapidamente la creatura con le vostre armi, ma la donna si fa avanti gridando. \"State indietro!\" La donna infila una torcia fiammeggiante nell\'intestino della mostruosità, incendiandola. La cosa si ritrae terrorizzata e scappa per la strada. \"Alcuni di loro temono il fuoco,\" dice. \"Altri non lo temono.\"
 
 Una volta eliminata la minaccia immediata, la dottoressa vi conduce in una casa abbandonata dove si suppone abbia vissuto Marcella. Entrando, cercate degli indizi."</string>
-	<string name="chp13_2_8__a">Il ferro incontra la carne ed il legno in una tempesta di omicidi. Le armi si scontrano e si affettano mentre l\'odio per questa piaga maledetta vi spinge ad andare avanti. Rosso di rabbia, uccidi e uccidi ancora, ma sono semplicemente troppi. Non riuscite a tenerli a bada. Negli ultimi istanti di abbattimento dei vostri assalitori, una radice simile a un artiglio vi coglie alla sprovvista, squarciandovi la pelle in uno squarcio cremisi. Con la folla decimata, per ora avete evitato la morte, ma la ferita potrebbe rivelarsi fatale se si infettasse. Mentre proseguite lungo la strada, cercate di bloccare il pensiero dalla vostra mente.</string>
+	<string name="chp13_2_8__a">Il ferro incontra la carne ed il legno in una tempesta di omicidi. Le armi spaccano e tagliano mentre l\'odio per questa piaga maledetta vi spinge ad andare avanti. Pieno di rabbia uccidi ancora e ancora, ma sono semplicemente troppi. Non riuscite a tenerli a bada. Negli ultimi istanti di abbattimento dei vostri assalitori, una radice simile a un artiglio vi coglie alla sprovvista, squarciandovi la pelle in uno squarcio cremisi. Con la folla decimata, per ora avete evitato la morte, ma la ferita potrebbe rivelarsi fatale se si infettasse. Mentre proseguite lungo la strada, cercate di bloccare il pensiero dalla vostra mente.</string>
 	<string name="chp13_2_9__a">"L\'interno della piccola proprietà è in disordine. Erbe e fiale di vetro giacciono rotte sul pavimento e le bruciature anneriscono le pareti. Ma non c\'è sangue. E non ci sono corpi. Sotto un mucchio di stracci si trova un collare da strega rotto. È chiaro che qui qualcosa è andato storto. Non ci sono corpi e nessuna Libera Compagnia abbandonerebbe una caccia o semplicemente si lascerebbe alle spalle il dispositivo più importante per catturare una Strega. Se non sono morti, rimangono poche opzioni. Avete sentito storie di streghe potenti che controllano la mente delle loro vittime. Una strega, abbastanza forte da schiavizzare una Libera Compagnia, aiuterebbe certamente a spiegare come possa essere sfuggita a Roccia Nera. Ma dove potrebbero essere andati?
 
 \"Ha detto di essere stata via per anni,\" spiega la donna. \"Pensavo che potesse piangere per ciò che erano diventati i Bassifondi, ma nei suoi occhi ho visto solo rabbia. Disse che avrebbero pagato per quello che le avevano fatto.\""</string>
@@ -4258,7 +4260,7 @@ La creatura indietreggia di fronte alla fiamma ambrata della torcia, ma continua
 Notate che le enormi lastre di corteccia hanno ampi spazi tra di loro e con alcune coltellate sapientemente posizionate trafiggete la sua morbida carne inferiore, abbattendo rapidamente il mostro."</string>
 	<string name="chp13_30_1__a">"Storia a Tempo
 
-L\'imponente campana posta vicino alla Porta del Re risuona nella città, fermandovi sul posto. Presto altre suonano, aumentando la loro intensità. Siete abituati a sentire la loro cacofonia da quando è iniziata la peste, ma niente di simile. C\'è panico in questi anelli e questo può significare solo una cosa. Le barricate sono state violate. Dal numero di campane che suonano in questo momento, sembra che siano state violate ovunque."</string>
+L\'imponente campana posta vicino alla Porta del Re risuona nella città, fermandovi sul posto. Presto altre suonano, aumentando la loro intensità. Siete abituati a sentire la loro cacofonia da quando è iniziata la peste, ma niente di simile. C\'è panico in queste strade e questo può significare solo una cosa. Le barricate sono state violate. Dal numero di campane che suonano in questo momento, sembra che siano state violate ovunque."</string>
 	<string name="chp13_30_20__a">"Storia a Tempo
 
 Combattendo, vedete un gruppo compatto di esseri infetti che corre verso di voi a tutta velocità. Ognuno di loro sembra avere strane escrescenze di funghi bulbosi su tutto il corpo.
@@ -4279,7 +4281,7 @@ Scansando la grottesca carica, gli infetti vi passano davanti e si schiantano co
 Le orde di infetti si caricano a ondate infinite, schiantandosi contro la linea di quarantena mentre i difensori si affannano a colpire e abbattere i malati. Deve esserci qualcosa che spinge queste creature ad attaccare con tanta determinazione. Riprendendo fiato tra un attacco e l\'altro, notate che tutto il vostro corpo è ricoperto di spore nere."</string>
 	<string name="chp13_30_24__c">"Siete stati infettati, ma non c\'è tempo per piangere. Se non riuscite a respingere questi attacchi, morirete molto prima di potervi preoccupare di soccombere agli effetti della peste. Ripristinando la concentrazione, affrontate di petto la prossima ondata di infetti. Mentre tagliate arti e decapitate teste segnate dalla peste, notate un muro di fiamme che si alza e rotola in fondo all\'orda, sferzando le masse in avanti. Quando le fiamme si diradano, si nota un gruppo di guerrieri pesantemente armati che si fa strada tra le anime malate. Sono i Cani di Pietra. La Libera Compagnia scomparsa avanza con grazia predatoria davanti a un\'altra figura, una vecchia strega, ma sembra che ci sia qualcosa che non va. Dallo sguardo si capisce che la strega ha in qualche modo spezzato le loro volontà e le ha piegate alla sua.
 
-Il fuoco avvolge le sue mani tese mentre la strega lancia grandi getti di fiamme incenerenti, spingendo gli infetti davanti a sé. Deve essere lei la causa di questo assalto alla linea di quarantena, usando la loro paura del fuoco per spingerli come una lancia nel cuore di Verum. È lei che ha causato tutta questa morte. Ucciderla potrebbe non fermare l\'attacco, ma se riuscite a prenderla viva, potrebbe essere usata per il Keening
+Il fuoco avvolge le sue mani tese mentre la strega lancia grandi getti di fiamme incenerenti, spingendo gli infetti davanti a sé. Deve essere lei la causa di questo assalto alla linea di quarantena, usando la loro paura del fuoco per spingerli come una lancia nel cuore di Verum. È lei che ha causato tutta questa morte. Ucciderla potrebbe non fermare l\'attacco, ma se riuscite a prenderla viva, potrebbe essere usata per il Richiamo
 
 Riuniti con la vostra Libera Compagnia, formate un\'avanguardia e vi fate strada verso la strega e la sua Libera Compagnia schiavizzata. I Cani di Pietra, un tempo la vostra gente, ora sono contro di voi. Quando alzate le vostre armi per incontrare le loro, le grandi raffiche di fuoco cessano. La Strega ha ora concentrato tutta la sua attenzione su di voi."</string>
 	<string name="chp13_30_2__a">"Storia a Tempo
@@ -4324,7 +4326,7 @@ Vi muovete silenziosamente nell\'area, osservando i corpi infetti sparsi ovunque
 
 Dietro un angolo, trovate una folla di infetti che si accanisce sulle pareti di un piccolo edificio. I corpi sono ammassati alle porte e alle finestre della semplice casa, ma le creature infette vi si oppongono, cercando disperatamente di raggiungere qualsiasi cosa si trovi all\'interno
 
-All\'improvviso, vedete uno spruzzo di frecce abbattere la prima fila di infetti. Mentre i corpi cadono, vedete i ranger A\'Dendri accovacciati all\'interno che incoccano le frecce nei loro archi simili a rami. Questo deve essere il gruppo scomparso di cui si è saputo. Fortunatamente sono vivi, ma immobilizzati. Vi chiedete perché non abbiano semplicemente scalato l\'edificio e scalato il muro per fuggire, e poi vedete il motivo. Dietro i Ranger è asserragliata una schiera di sopravvissuti umani feriti. Gli A\'Dendri avevano scelto di rimanere a difenderli piuttosto che fuggire
+All\'improvviso, vedete uno spruzzo di frecce abbattere la prima fila di infetti. Mentre i corpi cadono, vedete i ranger A\'Dendri accovacciati all\'interno che incoccano le frecce nei loro archi simili a rami. Questo deve essere il gruppo scomparso. Fortunatamente sono vivi, ma immobilizzati. Vi chiedete perché non abbiano semplicemente scalato l\'edificio e scalato il muro per fuggire, e poi vedete il motivo. Dietro i Ranger è asserragliata una schiera di sopravvissuti umani feriti. Gli A\'Dendri avevano scelto di rimanere a difenderli piuttosto che fuggire
 
 Mentre vi avvicinate, osservate un A\'Dendri che lascia partire una freccia completamente sguainata dritta in faccia a un infetto. La cosa esplode in una pioggia di spore, che fortunatamente mancano gli umani vicini. Dovete agire in fretta.
 
@@ -4336,7 +4338,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp13_3_4__a">Scendendo nel vicolo posteriore, attraversate le macerie e i detriti degli edifici precedenti e alla fine arrivate a quello che credete sia il retro della piccola casa. Ispezionando la struttura, cercate i punti deboli.</string>
 	<string name="chp13_3_5__a">"Gli A\'Dendri non perdono tempo a spostare rapidamente i sopravvissuti fuori dalla porta al vostro arrivo. Aiutando quelli troppo deboli per muoversi, aiutate gli umani feriti a uscire dal quartiere in quarantena e a tornare al sicuro nelle Strade Verdi. Speriamo che la notizia delle vostre azioni si diffonda presto e restituisca un po\' di speranza alla città assediata."</string>
 	<string name="chp13_3_6__a">Il carro oscilla sull\'asse e inizia a rotolare. Sempre più velocemente, un muro di fuoco si dirige verso la folla. I corpi malati si disperdono in tutte le direzioni, terrorizzati dalle fiamme. La palla di fuoco rotolante si schianta contro coloro che non sono abbastanza veloci da spostarsi e le fiamme incendiano le loro carni come legna da ardere. Tra loro ci sono alcune delle creature più grandi ricoperte di funghi, che esplodono nel momento in cui il fuoco le avvolge. Con la strada ormai libera, vi dirigete verso la casa.</string>
-	<string name="chp13_3_7__a">Il carro dondola sul suo asse, ma non si muove. Il trambusto attira l\'attenzione di alcuni infetti nelle vicinanze, che iniziano lentamente a camminare verso di voi. Il tempo sta per scadere. Con tutto quello che hai, dai un\'ultima spinta al carrello. I muscoli si tendono e si contorcono sotto lo sforzo e giurate di sentire qualcosa dentro di voi strapparsi mentre il carrello finalmente inizia a muoversi.</string>
+	<string name="chp13_3_7__a">Il carro dondola sul suo asse, ma non si muove. Il trambusto attira l\'attenzione di alcuni infetti nelle vicinanze, che iniziano lentamente a camminare verso di voi. Il tempo sta per scadere. Con tutta la vostra forza, date un\'ultima spinta al carro. I muscoli si tendono e si contorcono sotto lo sforzo e giurate di sentire qualcosa dentro di voi strapparsi mentre il carro finalmente inizia a muoversi.</string>
 	<string name="chp13_3_7__c">Sempre più velocemente il carro infuocato rotola verso la folla. I corpi malati si disperdono in tutte le direzioni, terrorizzati dalle fiamme. La palla di fuoco rotolante si schianta contro coloro che non sono abbastanza veloci da spostarsi, le fiamme incendiano le loro carni come legna da ardere. Tra loro ci sono alcune delle creature più grandi ricoperte di funghi, che esplodono nel momento in cui il fuoco le avvolge. Con la strada ormai libera, vi dirigete verso la casa.</string>
 	<string name="chp13_3_8__a">Con armi e pugni si colpisce e si artiglia il muro. I pezzi volano ed il muro comincia a cedere. Cogliendo l\'attimo, prendi la rincorsa e sfondi il muro con la spalla, creando un buco abbastanza grande da poterci passare attraverso.</string>
 	<string name="chp13_3_8__c">"Sbattendo le palpebre attraverso la polvere, vedete i volti scioccati dei sopravvissuti, mentre i ranger A\'Dendri combattono una nuova ondata di infetti che si sono riorganizzati con rinnovata ferocia. Cogliendo l\'attimo, trascinate fuori gli umani attraverso il muro posteriore appena ristrutturato, proprio mentre la porta d\'ingresso cede. I Ranger sono costretti a cedere e vi aiutano immediatamente a spostare i sopravvissuti fuori dal quartiere in quarantena. In breve tempo siete tornati nella relativa sicurezza delle Strade Verdi. Speriamo che la notizia delle vostre azioni si diffonda presto e restituisca un po\' di speranza alla città assediata."</string>
@@ -4389,12 +4391,12 @@ Improvvisamente, un\'altra ondata di cittadini infetti emerge da un tunnel later
 
 
 Scegliete un luogo dove andare:"</string>
-	<string name="chp13_7_1__a">"Una pioggia battente si abbatte sui vetri delle finestre della Quercia Spezzata. L\'acqua spegne i ricordi del fuoco e le urla degli abitanti del villaggio in gabbia. Con una settimana di riposo tra voi ed il villaggio della Tribù della Cicatrice, le vostre ferite hanno avuto la possibilità di guarire e i vostri dolori si sono attenuati, grazie soprattutto alle cure di Bram, alcuni dei suoi intrugli sono ottimi anestetici."</string>
-	<string name="chp13_7_1__c">"Dopo il vostro ritorno, la folla alla Quercia è diminuita e ogni giorno ci sono meno avventori che visitano il locale. Si è diffusa la notizia del deterioramento delle condizioni in tutta la città e c\'è un crescente senso di disperazione. Secondo la rete di sussurri di Greycane, presto ci sarà una riunione del Consiglio con il Re e voi sarete chiamati a parteciparvi
+	<string name="chp13_7_1__a">"Una pioggia battente si abbatte sui vetri delle finestre della Quercia Spezzata. L\'acqua spegne i ricordi del fuoco e delle urla degli abitanti del villaggio all'interno delle gabbie. Con una settimana di riposo tra voi ed il villaggio della Tribù della Cicatrice, le vostre ferite hanno avuto la possibilità di guarire e i vostri dolori si sono attenuati, grazie soprattutto alle cure di Bram, alcuni dei suoi intrugli sono ottimi anestetici."</string>
+	<string name="chp13_7_1__c">"Dopo il vostro ritorno, la folla alla Quercia è diminuita e ogni giorno ci sono meno avventori che visitano il locale. Si è diffusa la notizia del deterioramento delle condizioni in tutta la città e c\'è un crescente senso di disperazione. Secondo la rete di informatori di Greycane, presto ci sarà una riunione del Consiglio con il Re e voi sarete chiamati a parteciparvi
 
 Mentre il vostro gruppo condivide una semplice colazione a base di birra e pane morbido, Greycane vi racconta le ultime novità del Capo Speziale.
 
-\"Spore,\" Greycane dice con un sogghigno, come se avesse appena baciato la parte sbagliata di un cavallo. \"È così che si diffonde la peste. Gli speziali dicono che gli infetti hanno macchie di spore su tutto il corpo. Si trasmette toccandoli.\" Rabbrividisce al pensiero, \"Se ti metti addosso quelle cose sei un uomo segnato.\""</string>
+\"Spore,\" Greycane dice con un sogghigno, come se avesse appena baciato la parte sbagliata di un cavallo. \"È così che si diffonde la peste. Gli speziali dicono che gli infetti hanno macchie di spore su tutto il corpo. Si trasmette toccandoli.\" Rabbrividisce al pensiero, \"Se quelle cose ti toccano sei segnato.\""</string>
 	<string name="chp13_7_2__a">"Durante la vostra conversazione a colazione, Gamel il Fabbro si avvicina al vostro tavolo. Il dolore per la perdita del figlio gli pesa chiaramente. Il ricordo della morte del ragazzo sull\'albero nella tana del satiro è ancora fresco nella sua mente. Questi attacchi di dolore si sono susseguiti dalla sua fuga da Bastone e questo sembra essere un brutto colpo. L\'uomo sconvolto è in piedi davanti al vostro tavolo e fa del suo meglio per ricomporsi nonostante la lacrima nell\'occhio \"Io... continuo a rivivere quella notte nella mia mente,\" dice. \"Vedo come mi guardi. C\'è qualcosa che non mi stai dicendo. Ho bisogno di sapere. Cosa è successo a mio figlio?\"
 
 
@@ -4414,7 +4416,7 @@ Il Fabbro estrae il suo martello dal passante sul grembiule e lo fa oscillare se
 
 \"Pensi che potremmo attirare più avventori alla Quercia se avessimo un volto più carino dietro al bancone?\" si chiede, suscitando uno sguardo irritato da parte di Bram che pulisce una fila di boccali
 
-\"Voglio dire, vorreste doverlo affrontare ogni volta che varcate la porta?\" Greycane continua, facendo cenno al barista. \"D\'altra parte, suppongo che incoraggi la gente a bere di più? Un po\' di coraggio liquido per sopportare la vista.\"
+\"Voglio dire, volete veramente dover vedere quel muso ogni volta che varcate la porta?\" Greycane continua, facendo cenno al barista. \"D\'altra parte, suppongo che incoraggi la gente a bere di più? Un po\' di coraggio liquido per sopportarne la vista.\"
 
 \"E a sopportare il tuo liuto stridente. Non dimentichiamoci di questo,\" Bram ribatte
 
@@ -4492,7 +4494,7 @@ Lungo le pareti del tempio trovate le vene d\'argento che attraversano una serie
 	<string name="chp14_1_11__c">Mentre i vostri compagni festeggiano, pensate a tutte le anime che sono state condannate quando avete scelto di difendere la Quercia Spezzata. Salvare le poche persone presenti non significa nulla per le molte che vi siete lasciati alle spalle, soprattutto per i morti.</string>
 	<string name="chp14_1_12__a">"Seduti al bancone frettolosamente assemblato della nuova Quercia Spezzata, non siete affatto sorpresi quando i lembi della tenda si aprono per far posto a un membro della Guardia del Re. Sapevate che il vostro salvataggio avrebbe avuto un prezzo e la pergamena in mano alla guardia vi dirà quanto sarà alto quel prezzo.
 
-Prendendo la pergamena offerta, Greycane divide il sigillo e inizia a leggere in silenzio. \"Beh, non stanno perdendo tempo,\" dice. \"Stanno formando un esercito per una crociata nel Cuore delle Tenebre. Tu dovrai viaggiare più lontano e raccogliere le streghe necessarie per il Risveglio entro la seconda luna. È chiaro che questo non è facoltativo,\" dice con un sorriso laterale. \"Sembra che andrete in Tracia.\"
+Prendendo la pergamena offerta, Greycane divide il sigillo e inizia a leggere in silenzio. \"Beh, non stanno perdendo tempo,\" dice. \"Stanno formando un esercito per una crociata nel Cuore di Tenebra. Tu dovrai viaggiare più lontano e raccogliere le streghe necessarie per il Risveglio entro la seconda luna. È chiaro che questo non è facoltativo,\" dice con un sorriso laterale. \"Sembra che andrete in Tracia.\"
 
 
 Scegliete un\'opzione:"</string>
@@ -4528,7 +4530,7 @@ Sul biglietto non c\'è la firma, ma solo il marchio del Corvo. Sapete fin tropp
 L\'uomo in ombra procede a condurvi verso sud, tra edifici fatiscenti e vicoli pieni di fumo. Scivolando in una strada stretta, un edificio in fiamme crolla davanti a voi in un cumulo di legname e detriti."</string>
 	<string name="chp14_1_5__c">Facendovi strada tra i resti carbonizzati, evitate con cura diverse sezioni di macerie ancora in fiamme, allontanando le fiamme che vi bruciano i vestiti, e infine raggiungete il lato opposto del viale. Trovate la Risorsa che vi aspetta già qualche metro più avanti, incolume e appoggiato a un muro. Giurate che c\'è un\'espressione di divertimento sul suo volto mentre si volta e prosegue lungo il vicolo.</string>
 	<string name="chp14_1_9__a">"Il giorno dopo vi svegliate presto e iniziate i preparativi per il viaggio che vi aspetta. La Tracia è comunemente conosciuta come "la città delle maschere", ma voi conoscete meglio il suo altro nome, "la città degli schiavi". Dovrete essere ben preparati per qualsiasi cosa possiate incontrare lì."</string>
-	<string name="chp14_1_9__c">"Ore dopo, vi ritrovate di nuovo sulla Strada del Filo, arrancando sotto la chioma maledetta del Bosco Profondo con le speranze di una città ancora una volta sulle spalle. Vi chiedete come siete finiti in questo pasticcio. È un brutto lavoro, ma qualcuno deve farlo e per voi è appena diventato molto personale. Senza una strega, il Keening non sarà possibile e tu non troverai una cura per la peste che si sta facendo strada nel tuo corpo. La città morirà e voi con lei.
+	<string name="chp14_1_9__c">"Ore dopo, vi ritrovate di nuovo sulla Strada del Filo, arrancando sotto la chioma maledetta del Bosco Profondo con le speranze di una città ancora una volta sulle spalle. Vi chiedete come siete finiti in questo pasticcio. È un brutto lavoro, ma qualcuno deve farlo e per voi è appena diventato molto personale. Senza una strega, il Richiamo non sarà possibile e tu non troverai una cura per la peste che si sta facendo strada nel tuo corpo. La città morirà e voi con lei.
 
 Questo pensiero vi dà uno scopo e vi spinge ad attraversare il Bosco Profondo."</string>
 	<string name="chp14_25_1__a">Attraversando il bosco maledetto, si scoprono finalmente i segni della civiltà. Semisepolti nella terra e coperti da muschio e radici marce, ci sono i resti di un vecchio muro di pietra. Proseguendo, si trovano altre rovine ed il letto di un fiume prosciugato che scende serpeggiando dalle montagne a est. Qualunque sia stato questo luogo, l\'area che copre è vasta.</string>
@@ -4887,7 +4889,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp14_time_4__a">Aggiunta della quarta volta.</string>
 	<string name="chp14_time_5__a">Aggiunta della quinta volta.</string>
 	<string name="chp14_time_6__a">Aggiunta della sesta volta.</string>
-	<string name="chp15_1_1__c">"Una scia di schiavi, con le teste appese e incatenate collo a collo, segue qualcuno con una maschera cremisi da falco. Nelle mani del mascherato c\'è una frusta spinata che gronda del sangue di coloro che sono dietro di lui. Tracia: La città delle maschere, dove gli unici considerati umani sono quelli che nascondono il loro volto dietro la porcellana. I sussurri della città hanno dato agli altri alcuni nomi: Stock, Senza Nome o Senza Volto. Forse in questo luogo straniero troverete la strega di cui avete bisogno per il Keening.
+	<string name="chp15_1_1__c">"Una scia di schiavi, con le teste appese e incatenate collo a collo, segue qualcuno con una maschera cremisi da falco. Nelle mani del mascherato c\'è una frusta spinata che gronda del sangue di coloro che sono dietro di lui. Tracia: La città delle maschere, dove gli unici considerati umani sono quelli che nascondono il loro volto dietro la porcellana. I sussurri della città hanno dato agli altri alcuni nomi: Stock, Senza Nome o Senza Volto. Forse in questo luogo straniero troverete la strega di cui avete bisogno per il Richiamo.
 
 \"Metti giù la moneta, disgraziato!\" urla uno dei mascherati. \"O ti farò impiccare.\"
 
@@ -4940,7 +4942,7 @@ Senza di loro, ispezionate il contenuto della lettera."</string>
 Senza di loro, ispezionate il contenuto della lettera."</string>
 	<string name="chp15a_13_10__a">"Spingete dolcemente la moneta dell\'uomo nella sua tasca. Un guizzo di preoccupazione gli attraversa il volto prima di permettergli di accompagnarvi. Siete sicuri che le informazioni che contiene varranno più che la pena di prenderlo sotto la vostra protezione. Con un sorriso sincero, Nacosta vi ringrazia. Gli chiedete dell\'andirivieni di Mordren nei giorni precedenti la sua morte, ma Nacosta inizia il suo servizio con un inchino di pentimento. \"Questo... io\" dice Nacosta, sorprendendosi a ricadere nei suoi modi servili. \"Mi dispiace, signori. I senza volto si passano il testimone tra i padroni della tenuta. Fino a ieri ho servito un altro della casa Amiese.\"
 
-La risposta del servo non vi sorprende: i Senza Volto sono senza dubbio addestrati a tenere la schiena piegata e gli occhi bassi nei confronti dei Mascherati. La mancanza di informazioni non vi spaventa però, tutto ciò che vi serve ora è trovare il vostro sospetto. Una risposta rapida e avrete la vostra strega per il Keening. Chiedete a Nacosta la planimetria della città e lui inizia a indicarvi le aree di interesse che potrebbero aiutarvi nell\'indagine."</string>
+La risposta del servo non vi sorprende: i Senza Volto sono senza dubbio addestrati a tenere la schiena piegata e gli occhi bassi nei confronti dei Mascherati. La mancanza di informazioni non vi spaventa però, tutto ciò che vi serve ora è trovare il vostro sospetto. Una risposta rapida e avrete la vostra strega per il Richiamo. Chiedete a Nacosta la planimetria della città e lui inizia a indicarvi le aree di interesse che potrebbero aiutarvi nell\'indagine."</string>
 	<string name="chp15a_13_1__a">"Posizione 13 - Quartiere basso
 
 Il corpo del ragazzo giace riverso sul selciato del vicolo fangoso del Distretto Basso, delimitato da guardie amiatine pesantemente armate. Il cielo si apre con la pioggia mentre si osserva la scena. Le impronte iniziano a svanire quando uno strano spettacolo si presenta davanti a voi. Un servo senza volto, tremante e con le gambe bianche come il latte per la perdita della circolazione sanguigna, si inginocchia sotto la pioggia. Le guardie vi dicono che è quello che i Senza Volto sono addestrati a fare quando il loro padrone muore: aspettare come cani.
@@ -4985,7 +4987,7 @@ Quando guardate le impronte, le trovate lavate via."</string>
 	<string name="chp15a_13_8__a">Il Senza Volto non sembra sapere cosa fare con la vostra mano, ritirandosi addirittura verso il muro quando la sollevate.</string>
 	<string name="chp15a_13_9__a">"Forse la compagnia dello schiavo si rivelerà utile in questo mistero, e la moneta farà meglio di lui. Con un sorriso sincero, Nacosta vi ringrazia. Gli chiedete dell\'andirivieni di Mordren nei giorni precedenti la sua morte, ma Nacosta inizia il suo servizio con un inchino di pentimento. \"Questo... io\" dice Nacosta, sorprendendosi a ricadere nei suoi modi servili. \"Mi dispiace, signori. I senza volto si passano il testimone tra i padroni della tenuta. Fino a ieri servivo un altro della casa Amiese.\"
 
-La risposta del servo non vi sorprende: i Senza Volto sono senza dubbio addestrati a tenere la schiena piegata e gli occhi bassi nei confronti dei Mascherati. La mancanza di informazioni non vi spaventa però, tutto ciò che vi serve ora è trovare il vostro sospetto. Una risposta rapida e avrete la vostra strega per il Keening. Chiedete a Nacosta la planimetria della città e lui inizia a indicarvi le aree di interesse che potrebbero aiutarvi nell\'indagine."</string>
+La risposta del servo non vi sorprende: i Senza Volto sono senza dubbio addestrati a tenere la schiena piegata e gli occhi bassi nei confronti dei Mascherati. La mancanza di informazioni non vi spaventa però, tutto ciò che vi serve ora è trovare il vostro sospetto. Una risposta rapida e avrete la vostra strega per il Richiamo. Chiedete a Nacosta la planimetria della città e lui inizia a indicarvi le aree di interesse che potrebbero aiutarvi nell\'indagine."</string>
 	<string name="chp15a_15_1__a">"Posizione 15 - Giardino botanico
 
 È probabile che il fiore vicino al corpo provenga da un solo luogo della città. Circondato da un alto muro, da una trincea e da una guardia vigile, il giardino fa poco per darvi il benvenuto. Eppure, all\'interno, i colori della Tracia si intensificano. Si vedono tulipani cremisi e grandi narcisi bianchi che si protendono verso il sole, mentre morbidi petali di pesca danzano nel vento leggero. I fiori qui valgono più dell\'oro e vedete tre giardinieri mascherati che li curano. Proprio qui si trova una distesa dello stesso fiore di pervinca che era stato infilato nello stivale di Mordren
@@ -5994,7 +5996,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp16_24_9__c">L\'uomo sorride quando gli consegnate l\'Iron. Stranamente, però, i bambini non condividono la gioia. \"Potrei fare un\'eccezione per questa bella compagnia,\" dice. Continua a raccontarvi di un cimelio donato alla sua famiglia molto tempo fa. Una lettera che non è mai stata consegnata, ma che è stata tramandata di generazione in generazione. L\'uomo vi offre la lettera e, dopo aver rotto il sigillo di cera dello Scarabeo, la leggete.</string>
 	<string name="chp16_28_1__a">"28 - Vecchio maniero
 
-Quando si entra nel vecchio maniero, un soffio di aria stagnante e putrida ci investe. La casa è antica e le sue travi scricchiolano a ogni passo, minacciando di cedere. Samil non si vede da nessuna parte, mentre vi muovete con cautela nella casa, controllando ogni angolo buio alla ricerca di minacce. I pochi raggi di luce che si infilano tra le stecche delle finestre sbarrate giocano brutti scherzi alla vostra mente, proiettando strane forme che sembrano cospirare nell\'ombra."</string>
+Quando entrate nel vecchio maniero, un soffio di aria stagnante e putrida ci investe. La casa è antica e le sue travi scricchiolano a ogni passo, minacciando di cedere. Samil non si vede da nessuna parte, mentre vi muovete con cautela nella casa, controllando ogni angolo buio alla ricerca di minacce. I pochi raggi di luce che si infilano tra le stecche delle finestre sbarrate giocano brutti scherzi alla vostra mente, proiettando strane forme che sembrano cospirare nell\'ombra."</string>
 	<string name="chp16_28_2__a">"Samil vuole ovviamente che troviate qualcosa qui. Entrando in una stanza, scoprite un vecchio forziere con il sigillo dello Scarabeo. È stato usato per sostenere una parte del muro che sta crollando. Prima di tentare di rimuoverlo, rinforzate la parete fatiscente con assi di legno e blocchi di pietra che disseminano il pavimento.
 
 All\'interno del forziere trovate un\'altra lettera. Deve essere questa la lettera che Samil voleva farvi trovare. Come faceva a sapere che era qui? Di certo nessun frutto della sua immaginazione avrebbe trovato questo posto. Questo pensiero, però, non vi dà alcun conforto. Almeno il vostro defunto ex compagno è stato utile."</string>
@@ -6133,7 +6135,7 @@ Il Marchio del Giuramento sui polsi vi aiuta a entrare nelle catacombe sotto la 
 Scegliere l\'opzione pertinente di seguito:"</string>
 	<string name="chp16_epi_2__a">Con l\'Ogre di Tracia che giace morto nel fango del Bosco Profondo, vi rivolgete all\'altare nella speranza di dare una degna sepoltura al compagno che avete sacrificato. Tuttavia, ciò che trovate vi agghiaccia. Le catene pendono allentate e dove prima c\'era un corpo, ora non c\'è più.</string>
 	<string name="chp16_epi_3__a">"Come da istruzioni, rimuovete il cuore dell\'orco e lo avvolgete saldamente in un panno. In qualche modo, l\'organo batte ancora. Restituendo l\'ambito oggetto al nobile mascherato, vi viene data la ricompensa promessa. La strega Aurelia e l\'etere. Raccogliendo le sue catene e le fiale per tenerla sotto controllo, venite nuovamente avvertiti del pericolo che rappresenta. Vi viene assicurato che le droghe fornite saranno sufficienti a tenere la strega sotto sedativi fino al completamento del vostro compito."</string>
-	<string name="chp16_epi_3__c">La triste realtà del Keening si fa strada nella vostra mente e cominciate a chiedervi se sarete in grado di portare a termine l\'impresa quando arriverà il momento. Forse c\'è ancora un altro modo per raggiungere l\'obiettivo? Qualcosa che scoprirete sul Filo. Fino ad allora, avete giurato di portare a termine il compito e ci sono ancora molte marce tra la Tracia e Verum</string>
+	<string name="chp16_epi_3__c">La triste realtà del Richiamo si fa strada nella vostra mente e cominciate a chiedervi se sarete in grado di portare a termine l\'impresa quando arriverà il momento. Forse c\'è ancora un altro modo per raggiungere l\'obiettivo? Qualcosa che scoprirete sul Filo. Fino ad allora, avete giurato di portare a termine il compito e ci sono ancora molte marce tra la Tracia e Verum</string>
 	<string name="chp16m_1_1__a">"Questa pergamena, un tempo sigillata da un marchio Scarabeo, sembra essere stata inviata molti anni fa. Non è chiaro come possa riguardare l\'Orco di Tracia, anche se sembra indicare una sorta di storia segreta
 
 La lettera recita:
@@ -6488,7 +6490,7 @@ Si versa da bere e si raccontano storie. Si rievocano i ricordi, che diventano p
 	<string name="chp18_1_13__a">Terminato il suo discorso, si rivolge al resto della sua Libera Compagnia.</string>
 	<string name="chp18_1_14__a">"Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che la strada da percorrere è irta di pericoli e che la presenza di così tanti uomini risveglierà senza dubbio il Bosco Profondo della vostra presenza. Li incoraggiate a stare all\'erta e a seguire la formazione in ogni momento, ma le vostre parole hanno poco effetto. Vi rendete conto che non hanno problemi a credere nel pericolo che li attende, ma hanno bisogno di aiuto per credere nella missione
 
-Cambiando rotta, sposti la tua attenzione sulle ragioni per cui stanno entrando nel Bosco Profondo. Verum e tutti i suoi abitanti sono in pericolo a causa della peste, ma c\'è una speranza, e quella speranza sono loro. Possono ribaltare la situazione e sconfiggere la peste. Hanno un solo compito: marciare nel Cuore delle Tenebre. Se porteranno a termine questo compito, le loro famiglie, i loro amici e questa bella città sopravviveranno. Più parlate, più i loro volti diventano luminosi e, mentre concludete, i soldati sbattono le armi sulla lastra di pietra in un urrà militare. Sono pronti."</string>
+Cambiando rotta, sposti la tua attenzione sulle ragioni per cui stanno entrando nel Bosco Profondo. Verum e tutti i suoi abitanti sono in pericolo a causa della peste, ma c\'è una speranza, e quella speranza sono loro. Possono ribaltare la situazione e sconfiggere la peste. Hanno un solo compito: marciare nel Cuore di Tenebra. Se porteranno a termine questo compito, le loro famiglie, i loro amici e questa bella città sopravviveranno. Più parlate, più i loro volti diventano luminosi e, mentre concludete, i soldati sbattono le armi sulla lastra di pietra in un urrà militare. Sono pronti."</string>
 	<string name="chp18_1_15__a">Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che questa strada è irta di pericoli e che la presenza di così tanti uomini susciterà una forte reazione da parte del Bosco Profondo. Cercate di incoraggiarli a stare all\'erta e a seguire sempre la formazione, ma vedete che non ha molto effetto. Scendendo dalla predella e guardando il mare di volti, vi rendete conto che sono fin troppo consapevoli dei pericoli che li attendono. Troppo tardi, capite che non hanno problemi a credere nel pericolo, quello in cui avevano bisogno di aiuto era la missione.</string>
 	<string name="chp18_1_16__a">"Tra la folla, in lontananza, si vedono le streghe che vengono condotte davanti alla colonna. Gli scherni della folla mostrano chiaramente il loro disprezzo per chiunque sia contaminato da poteri malefici.
 
@@ -6539,7 +6541,7 @@ Scegliete un\'opzione:"</string>
 \"Grazie, Oathsworn,\" l\'Inquisitore si rivolge alla strega. \"Ci occuperemo di lei fino alla chiamata all\'adunata di domani mattina. Ti consiglio di riposare il più possibile.\"
 
 Al calar della notte, vi dirigete verso l\'accampamento dell\'esercito situato di fronte al Palazzo. Ogni muscolo del vostro corpo trema per la stanchezza mentre vi muovete tra la folla di persone raccolte in questa piccola area della città. Abbassando lo sguardo sulle vostre mani, sentite la peste che si contorce dentro di voi e che diventa sempre più forte ogni giorno che passa."</string>
-	<string name="chp18_1_20__a">Siete sorpresi di vedere solo tre streghe. Lyceen, la strega che avevate salvato da Bastone e poi offerto per il Keening, è scomparsa. Chiedendo informazioni su di lei, scoprite che non è mai arrivata a Roccia Nera. A detta di tutti è scomparsa e nessuno sa perché. Un Inquisitore suggerisce che potrebbe essere stata salvata da qualcuno. Non riuscite a capire chi possa essere.</string>
+	<string name="chp18_1_20__a">Siete sorpresi di vedere solo tre streghe. Lyceen, la strega che avevate salvato da Bastone e poi offerto per il Richiamo, è scomparsa. Chiedendo informazioni su di lei, scoprite che non è mai arrivata a Roccia Nera. A detta di tutti è scomparsa e nessuno sa perché. Un Inquisitore suggerisce che potrebbe essere stata salvata da qualcuno. Non riuscite a capire chi possa essere.</string>
 	<string name="chp18_1_21__a">"Terminato il briefing, avete un altro compito da svolgere. Spostandovi dove si stanno preparando i carri, fate il punto sull\'inventario. Alcuni carri sono già stati caricati, ma vi viene chiesto di portare la vostra esperienza per il resto. Le provviste saranno importanti, necessarie per resistere fino a Raven\'s Reach. La Guglia del Corvo ha anche fornito una serie di bombe d\'ambra che possono essere prese per respingere gli assalti del Bosco Profondo. Infine, in un viaggio come questo, il morale sarà un problema, quindi portare qualche barile di birra potrebbe essere utile più avanti. In qualità di comandanti dell\'esercito, la decisione finale sull\'equipaggiamento spetta a voi."</string>
 	<string name="chp18_1_21__c">Con i carri pronti e l\'esercito disposto dietro di voi, è finalmente arrivato il momento di partire.</string>
 	<string name="chp18_1_22__a">Date all\'uomo l\'antidoto destinato a voi. Sapete che per ora potete gestire la peste e che non la state ancora diffondendo ad altri. L\'uomo piange quando glielo consegnate e vi ringrazia. Gli chiedete di non dire a nessuno della cura per evitare dissensi tra le truppe, ma la voce della vostra generosità si diffonde rapidamente, anche se nessuno sa cosa avete fatto esattamente.</string>
@@ -6557,7 +6559,7 @@ Non puoi fare nulla per cambiare quello che è successo, ma hai ancora la ricomp
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp18_1_27__a">"Mentre bevi, costringi la tua mente a tornare al presente. L\'adunata è domani e sapete che il momento è arrivato, la crociata nel Bosco Profondo è giunta, il cammino verso il Cuore delle Tenebre ed il Keening
+	<string name="chp18_1_27__a">"Mentre bevi, costringi la tua mente a tornare al presente. L\'adunata è domani e sapete che il momento è arrivato, la crociata nel Bosco Profondo è giunta, il cammino verso il Cuore di Tenebra ed il Richiamo
 
 Non c\'è nulla che possiate fare per riportare indietro il Re e dovete guidare l\'esercito domani. Con un pasto caldo dentro di voi e con Bram che asciuga la vostra attrezzatura da viaggio accanto a un fuoco d\'ambra, vi ritirate per la notte."</string>
 	<string name="chp18_1_28__c">L\'Iron sembra contaminato dal sangue del giovane Re. Prendendo il sacchetto, date l\'Iron a Greycane e gli chiedete di fare in modo che venga usato per aiutare la città. La donazione vi fa respirare un po\' più facilmente, ma sentite comunque il bisogno di lavarvi le mani. Abbassando lo sguardo, le immaginate ricoperte di cremisi.</string>
@@ -6583,7 +6585,7 @@ Scegliete una delle due opzioni:"</string>
 	<string name="chp18_1_36__a">Quando dite all\'omone che dovrebbe rimanere qui con la sua famiglia, piange e mormora un sentito ringraziamento. Il suo martello può essere utile dove state andando, ma un uomo solo non farà la differenza. Si è guadagnato la pagnotta, più e più volte, e ora si è guadagnato il diritto di restare con la sua famiglia.</string>
 	<string name="chp18_1_37__a">Dopo aver abbracciato la sua famiglia, Steet vi raggiunge, un po\' più silenzioso del solito, con una lacrima che ogni tanto gli scende sul viso. Gli dispiace lasciare la sua famiglia, ma sapete che quello che state facendo è più importante di ognuno di voi, o di loro. Si tratta di qualcosa di più, si tratta dell\'intera città.</string>
 	<string name="chp18_1_38__a">Dopo aver abbracciato la sua famiglia, Steet vi raggiunge, un po\' più silenzioso del solito, con una lacrima che ogni tanto gli scende sul viso. Gli dispiace lasciare la sua famiglia, ma sapete che quello che state facendo è più importante di ognuno di voi, o di loro. Si tratta di qualcosa di più, si tratta dell\'intera città.</string>
-	<string name="chp18_1_39__a">"Vi svegliate al suono dello sferragliare del metallo sul metallo, delle armature che vengono allacciate e dei carri che vengono caricati. L\'adunata fuori sta iniziando. Vi è stato detto che l\'esercito sarà composto da trecento soldati di Verum, la più grande crociata inviata nel Bosco Profondo da molto tempo a questa parte. La maggior parte dei soldati non è mai uscita dalle mura della città e le autorità guardano a voi, gli 'Eroi di Bastone', per guidarli. Oggi porterete trecento anime nel verde, sapendo che probabilmente nessuna farà ritorno. Non avete scelta, però: la peste è alle porte e Verum non può resistere ancora a lungo. Spetta a voi mantenere il morale abbastanza alto da tenere insieme l\'esercito fino a raggiungere il Cuore delle Tenebre."</string>
+	<string name="chp18_1_39__a">"Vi svegliate al suono dello sferragliare del metallo sul metallo, delle armature che vengono allacciate e dei carri che vengono caricati. L\'adunata fuori sta iniziando. Vi è stato detto che l\'esercito sarà composto da trecento soldati di Verum, la più grande crociata inviata nel Bosco Profondo da molto tempo a questa parte. La maggior parte dei soldati non è mai uscita dalle mura della città e le autorità guardano a voi, gli 'Eroi di Bastone', per guidarli. Oggi porterete trecento anime nel verde, sapendo che probabilmente nessuna farà ritorno. Non avete scelta, però: la peste è alle porte e Verum non può resistere ancora a lungo. Spetta a voi mantenere il morale abbastanza alto da tenere insieme l\'esercito fino a raggiungere il Cuore di Tenebra."</string>
 	<string name="chp18_1_39__c">"Uscite dalla vostra sezione della tenda in quella che ora è la 'Sala da Spillatura' della terza iterazione della Quercia Spezzata. Lì vedete Midge che vi aspetta, con un elmo in testa e una spada corta al fianco. Vi guarda, con il suo immancabile sorrisetto che si incurva su un lato della bocca. \"Sono pronto,\" dice speranzoso. \"Prima di dire qualcosa, ascoltatemi. Ecco tre motivi per cui dovresti lasciarmi venire. Uno: avrai bisogno di tutte le mani possibili. Due: sono già stato sul campo, e sono sopravvissuto, aggiungerei. Tre, Greycane mi ha insegnato a combattere con i coltelli. E quattro: ho bisogno di aiutare, di fare la differenza.\" Gli dici che sono quattro motivi e lui risponde semplicemente: \"Un motivo in più per farmi venire.\"
 
 Pensavate che sarebbe rimasto indietro con Greycane e Bram, ma la determinazione sul volto di Midge rende chiara la sua opinione su questa linea d\'azione.
@@ -6619,7 +6621,7 @@ Scegliete un\'opzione:"</string>
 Il ragazzo aveva la stoffa per diventare un buon Re. Le possibilità di Verum sono molto più ridotte ora che non c\'è più. È così che funziona il Bosco Profondo: le cose buone muoiono per essere sostituite da qualcosa di molto peggiore. Una sensazione insolita si insinua in voi. Senso di colpa. In qualità di Oathsworn avete a che fare con la morte ogni giorno e le vostre scelte hanno portato a molti finali, sia buoni che cattivi. Non potete permettervi di fare ripensamenti e di rimanere sani di mente come membri di una Libera Compagnia, eppure la vostra incapacità di fermare Elanna in quel vicolo si ripete nella vostra mente."</string>
 	<string name="chp18_1_50__a">"Mentre bevete i vostri drink, osservate Greycane dall\'altra parte della tenda. Anche lui era stato Oathsworn una volta. Ultimo sopravvissuto della sua Libera Compagnia, si era guadagnato una seconda possibilità di vita normale e l\'aveva colta. Il sorriso sul suo volto dice che ha fatto la scelta giusta. Iniziate a chiedervi come sarebbe la vita con una seconda possibilità, ma scacciate l\'idea. Una cosa del genere sarebbe possibile solo con la morte di tutti coloro che ti stanno intorno e la peste rende la tua stessa morte una quasi certezza. Sapere che Greycane ha perso la sua Libera Compagnia, così come gli orrori che deve aver sopportato, rende il suo sorriso ancora più prezioso. Sorridere di fronte a tutta quella sofferenza è degno di rispetto.
 
-Alzando un boccale verso l\'uomo, egli risponde con un cenno del capo, solleva il liuto sul grembo e intona una melodia incoraggiante. Il vecchio strumento ha perso una corda dall\'ultima volta che l\'avete visto, ma come il suo proprietario è ancora in grado di risollevare l\'umore. Riunendo le teste, cominciate a prepararvi mentalmente per ciò che sta per accadere. L\'adunata è domani e sapete che il momento è arrivato. La crociata nel Bosco Profondo, il vostro cammino verso il Cuore delle Tenebre ed il Keening
+Alzando un boccale verso l\'uomo, egli risponde con un cenno del capo, solleva il liuto sul grembo e intona una melodia incoraggiante. Il vecchio strumento ha perso una corda dall\'ultima volta che l\'avete visto, ma come il suo proprietario è ancora in grado di risollevare l\'umore. Riunendo le teste, cominciate a prepararvi mentalmente per ciò che sta per accadere. L\'adunata è domani e sapete che il momento è arrivato. La crociata nel Bosco Profondo, il vostro cammino verso il Cuore di Tenebra ed il Richiamo
 
 Con un pasto caldo dentro di voi e con Bram che asciuga la vostra attrezzatura da viaggio accanto a un fuoco d\'ambra, vi ritirate per la notte."</string>
 	<string name="chp18_1_51__a">Guardando negli occhi i vostri alleati, sapete che non c\'è bisogno di scambiare parole. Non hanno bisogno di incoraggiamento. La sera prima vi siete offerti di liberarli, ma ognuno di loro ha rifiutato. Sono con voi fino alla fine.</string>
@@ -6785,7 +6787,7 @@ Ordinate agli arcieri di liberarsi e le frecce colpiscono il ventre coriaceo del
 	<string name="chp18_74_1__a">Proseguite verso sud e, di sicuro, la Torre del Sale appare a sud-est. La sua torre bianca sporge dal Bosco Profondo, circondata da un anello di mura di pietra non intaccato dagli alberi. È una vista gradita, l\'unico problema è che si trova cento metri sotto di voi, in fondo al dirupo su cui vi trovate. Non c\'è modo di scendere da qui, ma almeno avete visto la vostra destinazione. Il solo vederla increspa i soldati, rinvigorendo i loro spiriti. Tornando indietro da dove siete venuti, vi concedete un sorriso.</string>
 	<string name="chp18_78_1__a">Quello che si sperava fosse un percorso, diventa rapidamente un vicolo cieco.</string>
 	<string name="chp18_85_1__a">La speranza inizia a sbocciare nell\'esercito. All\'inizio la si intravede solo tra gli alberi, ma quando il tunnel serpeggia verso ovest ed il bosco si apre in una radura, si vede una torre solitaria al centro, circondata da alte mura bianche. Un applauso si leva dalla fila. Avete finalmente trovato la Torre del Sale.</string>
-	<string name="chp18_85_1__c">"In alto sopra gli alberi, è uno spettacolo da vedere. Un frammento di civiltà che emerge dal mare caotico degli alberi. Nel raggio di una dozzina di passi dalle mura della Torre del Sale non cresce nulla, perché il sale infuso nella pietra e la terra la tengono a bada. Persino i mostri l\'hanno lasciata in disparte e nessun segno di denti o di artigli intacca le difese della struttura. Sebbene sia rimasta in piedi per secoli, sembra ancora forte e robusta, e sarete grati di trovarvi all\'interno delle sue mura. Finalmente avete raggiunto una certa sicurezza ed il punto intermedio del vostro viaggio verso il Cuore delle Tenebre.
+	<string name="chp18_85_1__c">"In alto sopra gli alberi, è uno spettacolo da vedere. Un frammento di civiltà che emerge dal mare caotico degli alberi. Nel raggio di una dozzina di passi dalle mura della Torre del Sale non cresce nulla, perché il sale infuso nella pietra e la terra la tengono a bada. Persino i mostri l\'hanno lasciata in disparte e nessun segno di denti o di artigli intacca le difese della struttura. Sebbene sia rimasta in piedi per secoli, sembra ancora forte e robusta, e sarete grati di trovarvi all\'interno delle sue mura. Finalmente avete raggiunto una certa sicurezza ed il punto intermedio del vostro viaggio verso il Cuore di Tenebra.
 
 Come se si prendesse gioco del vostro pensiero di sicurezza, il terreno intorno a voi inizia a rimbombare. Non sapete se sia una coincidenza o se il Wyrm senza cervello abbia percepito la vostra fuga. In ogni caso, sta venendo verso di voi, e sta venendo velocemente
 
@@ -6847,10 +6849,10 @@ La mano si stringe in un pugno, tanto forte da far tremare il braccio. Non avete
 Sapendo che sarà tutto inutile se non riuscirete a portare a termine ciò che vi aspetta, tornate dentro. Dovete raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
 	<string name="chp18_epi_4__a">"Con sollievo trovate il ragazzo tra le mura. Vi rendete conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Dicendoglielo e dicendogli che ha fatto bene, sorride da un orecchio all\'altro
 
-La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore delle Tenebre."</string>
+La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
 	<string name="chp18_epi_5__a">"Con grande sollievo trovate il ragazzo tra quelli che si trovano all\'interno delle mura. Vi aveva sfidato, ma non potete fargliene una colpa. Vedendo come ha affrontato il Wyrm, forse avete sbagliato a negargli un posto nell\'esercito. Ti rendi conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Quando glielo dici e gli dici che è stato bravo, lui sorride da un orecchio all\'altro
 
-La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore delle Tenebre."</string>
+La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
 	<string name="chp18m_1_0__a">"Storia a Tempo
 
 Al termine del vostro primo giorno di assenza dal Filo, si fa notte e dovete decidere come gestire le veglie notturne. Da Verum avete avuto un approccio più indulgente, permettendo ai soldati di dormire di più man mano che si abituavano alla marcia e ai terrori del Bosco Profondo. Ora che siete più avanti e che il Bosco Profondo si accorge sempre più della vostra presenza, dovete decidere se aumentare la guardia.
@@ -6916,7 +6918,7 @@ Le bombe sono una tentazione, ma sapete che usarne una così presto potrebbe riv
 
 Quando la polvere dell\'attacco si deposita, vi rendete conto che non riuscite più a vedere le streghe. Erano vicino ai carri, vicino a dove era morto il Wyrm. Il vostro cuore crolla. Correndo intorno all\'enorme carcassa della bestia, cercate disperatamente i guardiani e le loro cariche. Poi li trovate: i guardiani sono stati schiacciati e le streghe scaraventate via dalla morte del Wyrm. Guardando le streghe, vedete che le due femmine sono svenute, ma la terza, la strega maschio di Cisterica, è in piedi.
 
-Liberato dai suoi vincoli di ferro scuro, un fulmine si sprigiona dalla punta delle dita e rilascia una striscia carica di fulmini che colpisce i soldati più vicini a lui. Due cadono immediatamente, bruciando nelle loro armature, ma un terzo alza la sua arma. È a distanza di sicurezza e pronta a sferrare un colpo letale. La strega deve essere viva per il Keening, ma questo significa uccidere uno dei vostri.
+Liberato dai suoi vincoli di ferro scuro, un fulmine si sprigiona dalla punta delle dita e rilascia una striscia carica di fulmini che colpisce i soldati più vicini a lui. Due cadono immediatamente, bruciando nelle loro armature, ma un terzo alza la sua arma. È a distanza di sicurezza e pronta a sferrare un colpo letale. La strega deve essere viva per il Richiamo, ma questo significa uccidere uno dei vostri.
 
 
 Scegliete un\'opzione:"</string>
@@ -7257,7 +7259,7 @@ Scegliete un\'opzione:"</string>
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_18_2__a">Quando si entra nel cerchio di erba verde e rigogliosa, l\'aria sembra improvvisamente più fresca e facile da respirare. Accanto alla base dell\'albero svettante, trovate una piccola sorgente di acqua limpida che sgorga dal terreno. Ordinate alle truppe di riempire le loro sacche d\'acqua e di rubare qualche momento di necessario riposo mentre la carovana si raggruppa.</string>
+	<string name="chp19_18_2__a">Quando entrate nel cerchio di erba verde e rigogliosa, l\'aria sembra improvvisamente più fresca e facile da respirare. Accanto alla base dell\'albero svettante, trovate una piccola sorgente di acqua limpida che sgorga dal terreno. Ordinate alle truppe di riempire le loro sacche d\'acqua e di rubare qualche momento di necessario riposo mentre la carovana si raggruppa.</string>
 	<string name="chp19_18_2__c">Dopo una breve pausa, ordinate alle truppe di tornare in piedi e proseguite.</string>
 	<string name="chp19_19_1__c">"Dopo aver marciato per qualche tempo, si arriva a un incrocio di strade dove si trova una grande scultura che raffigura un umano e un A\'Dendri impegnati in un abbraccio amichevole. Tuttavia, la figura dell\'A\'Dendri è ora deturpata da parolacce e oscenità. Sembra che un tempo, prima della guerra, gli A\'Dendri fossero i benvenuti."</string>
 	<string name="chp19_19_2__a">"Evergreen si ferma accanto a voi e osserva la scultura per qualche istante. Rivolgendo la sua attenzione a voi, pronuncia qualche parola, esprimendo come un mondo in cui umani e A\'Dendri possano coesistere in amicizia come la statua raffigura sembri impossibile. Le dici che il fatto che sia al tuo fianco in questo momento, aiutandoti a salvare una città umana, ti fa credere che un futuro del genere potrebbe non essere così lontano come pensa."</string>
@@ -7288,8 +7290,8 @@ Scrutando attraverso il nuovo dispositivo, osservate attentamente la pianta dell
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_1_14__a">Ancora sotto gli effetti dell\'etere, la giovane strega trace Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Lo stesso non si può dire per l\'uomo che si tira dietro il guinzaglio come un cane irascibile. Per ora ignorate la sua impotente ribellione, sapendo che fareste lo stesso al loro posto. Tuttavia, l\'ultimo pezzo del carico prezioso è il più difficile da gestire. Vi siete detti che è per il bene del regno, eppure avete difficoltà a incontrare lo sguardo della vostra ex compagna. Anche se a questo punto lei obbedisce ai vostri ordini senza lottare, il dolore dietro i suoi occhi è difficile da sopportare. Il pensiero del Keening torna a farsi strada in voi e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
-	<string name="chp19_1_15__a">Ancora sotto gli effetti dell\'etere, la giovane strega trace Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Non si può dire lo stesso per i fratelli anziani, che tirano il guinzaglio come due cani arrabbiati. Per ora ignorate la loro impotente ribellione, sapendo che al loro posto fareste lo stesso. Il pensiero del Keening si risveglia in voi ancora una volta e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
+	<string name="chp19_1_14__a">Ancora sotto gli effetti dell\'etere, la giovane strega trace Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Lo stesso non si può dire per l\'uomo che si tira dietro il guinzaglio come un cane irascibile. Per ora ignorate la sua impotente ribellione, sapendo che fareste lo stesso al loro posto. Tuttavia, l\'ultimo pezzo del carico prezioso è il più difficile da gestire. Vi siete detti che è per il bene del regno, eppure avete difficoltà a incontrare lo sguardo della vostra ex compagna. Anche se a questo punto lei obbedisce ai vostri ordini senza lottare, il dolore dietro i suoi occhi è difficile da sopportare. Il pensiero del Richiamo torna a farsi strada in voi e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
+	<string name="chp19_1_15__a">Ancora sotto gli effetti dell\'etere, la giovane strega trace Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Non si può dire lo stesso per i fratelli anziani, che tirano il guinzaglio come due cani arrabbiati. Per ora ignorate la loro impotente ribellione, sapendo che al loro posto fareste lo stesso. Il pensiero del Richiamo si risveglia in voi ancora una volta e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
 	<string name="chp19_1_16__a">Completati i preparativi, i vostri occhi scrutano le ombre, alla ricerca di segni di predatori in agguato, mentre gli ultimi della carovana si addentrano ancora una volta nel Bosco Profondo.</string>
 	<string name="chp19_1_1__a">"Vi svegliate di soprassalto, con il sapore metallico del sangue e del sale ancora in bocca. Guardando la fila di truppe, i loro volti esausti implorano una tregua, ma qualche benedetta ora di sonno è tutto ciò che potete permettervi per ora. Siete solo a metà strada per Raven\'s Reach e ci sono ancora chilometri e chilometri di Bosco Profondo mortale e implacabile da attraversare. La vostra presenza qui non farà altro che attirare altre bestie e incubi sulla vostra carovana più a lungo vi attarderete. Un altro attacco come quello subito dal Wyrm potrebbe distruggere il coraggio e la speranza dell\'esercito. Dovete rimettervi in marcia."</string>
 	<string name="chp19_1_1__c">"Il vostro numero si è ridotto da quando avete lasciato Verum: il Bosco Profondo miete vittime a ogni chilometro che percorrete in questo dominio infernale. Potete solo sperare di essere rimasti in numero sufficiente alla fine del viaggio. Quando i soldati si radunano all\'appello, portano avanti una scorta di armi e attrezzature che sono state trovate nascoste tra le macerie. Nonostante gli innumerevoli anni di esposizione alla pioggia e alla putrefazione, l\'equipaggiamento è in condizioni eccellenti. Potreste prendere gli oggetti per voi o distribuirli all\'esercito, aumentando senza dubbio il loro morale.
@@ -7491,7 +7493,7 @@ Mentre la colonna avanza verso la Guglia, chiedete a uno dei soldati di sorvegli
 
 Mentre le truppe si fasciano le ferite e puliscono le armi, voi fate il punto sulla fortezza. Nel cortile interno trovate una serie di armamenti dimenticati da tempo, fortunatamente ancora utilizzabili. Ispezionate anche le difese rimanenti. Le trovate in stato di abbandono, ma dovrebbero reggere, anche dopo tutti questi anni. Soprattutto, le mura sono alte e ancora intatte. Questo è un posto come un altro per un\'ultima resistenza. Sembra che i Sorveglianti abbiano scelto bene.
 
-L\'intero destino di Verum ora riposa sulle vostre spalle. All\'interno delle mura di Raven\'s Reach, dovete prepararvi a scatenare il Keening. Mentre iniziano i preparativi, puoi già sentire l\'orda che si alza in lontananza. Stanno arrivando.."</string>
+L\'intero destino di Verum ora riposa sulle vostre spalle. All\'interno delle mura di Raven\'s Reach, dovete prepararvi a scatenare il Richiamo. Mentre iniziano i preparativi, puoi già sentire l\'orda che si alza in lontananza. Stanno arrivando.."</string>
 	<string name="chp19m_1_0__a">"Storia a Tempo
 
 L\'oscurità arriva più velocemente di quanto avreste pensato e siete costretti ad accamparvi nella città abbandonata. Il crepuscolo sembra insolitamente freddo qui e sapete che ci sarà un vantaggio nel dormire con un tetto sopra la testa. Tuttavia, questo costringerebbe l\'esercito a dividersi tra le case e vi impedirebbe di reagire rapidamente a qualsiasi pericolo in avvicinamento.
@@ -7665,7 +7667,7 @@ Arrivate a un\'altra area priva di persone. Al centro della piazza c\'è un palo
 Perlustrate l\'area e scoprite che funge da crocevia tra Bastone Est e Ovest e sembra che a Bastone Ovest non siano state riscontrate morti violente."</string>
 	<string name="chp1_15_1__a">"Posizione 15 - Le Ombre
 
-Risalendo la strada che credete sia la scelta giusta, vi spingete tra la folla e aggirate gli ammassi di senzatetto, accovacciati come rospi attorno a piccoli fuochi. L\'abbaiare dei venditori lascia il posto a singhiozzi e mugolii indistinti quando si entra in una serie di vicoli in ombra. Qui c\'è sempre meno gente e l\'oscurità avvolge la strada mentre si sale per un viale sempre più stretto.
+Risalendo la strada che credete sia la scelta giusta, vi spingete tra la folla e aggirate gli ammassi di senzatetto, accovacciati come rospi attorno a piccoli fuochi. L\'abbaiare dei venditori lascia il posto a singhiozzi e mugolii indistinti quando Entrate in una serie di vicoli in ombra. Qui c\'è sempre meno gente e l\'oscurità avvolge la strada mentre si sale per un viale sempre più stretto.
 
 Vi avvicinate a una figura ammantata e cenciosa che, con le dita sporche di vernice, traccia piccoli cerchi bianchi sul muro. Sono centinaia. Non si volta completamente, ma parla in toni scricchiolanti alle sue spalle.
 
@@ -8017,7 +8019,7 @@ Sollevate la testa mozzata della Nutrice verso il volto della guardia. Gli uomin
 \"Bene... ben fatto. Sono stato incaricato di darvi questo Iron come pagamento e di dirvi che Lord Davenish vi avrebbe incontrato domani mattina. Ha pagato il vostro alloggio alla Locanda della Quercia Spezzata durante il vostro soggiorno. Vi suggerisco di ritirarvi lì ora, perché Sua Signoria non tollererà un ritardo domani.\"
 
 Consegnate alla guardia la testa e prendete l'Iron."</string>
-	<string name="chp20_0_10__a">"Con le difese della fortezza valutate e la costruzione della pira in corso, iniziate a formulare un piano per trattenere le bestie fino a quando la pira non sarà completata. Non ci sono abbastanza uomini per presidiare ogni difesa contemporaneamente. Si utilizzerà invece una strategia adattiva, spostando squadre di soldati in posizioni chiave per rinforzare luoghi specifici, a seconda delle necessità. Piccole squadre che reagiscono rapidamente alle minacce consentono di utilizzare in modo efficiente la limitata manodopera disponibile e di guadagnare il tempo prezioso necessario per il Keening."</string>
+	<string name="chp20_0_10__a">"Con le difese della fortezza valutate e la costruzione della pira in corso, iniziate a formulare un piano per trattenere le bestie fino a quando la pira non sarà completata. Non ci sono abbastanza uomini per presidiare ogni difesa contemporaneamente. Si utilizzerà invece una strategia adattiva, spostando squadre di soldati in posizioni chiave per rinforzare luoghi specifici, a seconda delle necessità. Piccole squadre che reagiscono rapidamente alle minacce consentono di utilizzare in modo efficiente la limitata manodopera disponibile e di guadagnare il tempo prezioso necessario per il Richiamo."</string>
 	<string name="chp20_0_10__c">Le squadre sono radunate davanti a voi, con i volti coperti dalla pioggia battente. Tutti hanno dimostrato più volte la loro competenza e lealtà. Non c\'è bisogno di dire cosa significa questa difesa... lo sanno. Non sarà una battaglia che potrete vincere. La missione consiste nel guadagnare tempo sufficiente affinché la pira sia completata ed il Richiamo possa attirare i mostri dal Cuore di Tenebra. Non c\'è più tempo per i grandi discorsi. Non c\'è più tempo per i grandi gesti. Mentre vi dirigete verso i merli, fate un cenno a coloro che incrociate e sapete che sarà l\'ultima volta che vedrete la maggior parte di loro.</string>
 	<string name="chp20_0_11__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli sul paesaggio e sulle bestie che circondano Raven\'s Reach, sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Non avendo nessun altro a disposizione, cercate una corritrice tra le file dei soldati e le ordinate di riportare il messaggio a Verum.
 
@@ -8039,7 +8041,7 @@ Consegnate a Midge la bussola del sangue che vi è stata data dai Sorveglianti e
 
 In piedi sui bastioni di Raven\'s Reach, si sente il rumore delle bestie in lontananza, come una tempesta in aumento. La Nutrice era stata solo la prima. Ne stanno arrivando altre. Molte altre. È come se l\'intero Bosco Profondo si muovesse per ostacolare i vostri sforzi, un\'intensa concentrazione su di voi che sembra provenire da ogni parte. Non siete i benvenuti qui. La vostra intrusione nel cuore del Bosco Profondo non sarà tollerata
 
-Scuotendo la testa per schiarirla, ricordate a voi stessi la vostra missione. Eseguire il Keening, attirare i mostri dal Cuore di Tenebra ed entrare. L\'ultima possibilità di Verum si trova all\'interno. Il Keening deve avvenire ora.
+Scuotendo la testa per schiarirla, ricordate a voi stessi la vostra missione. Eseguire il Richiamo, attirare i mostri dal Cuore di Tenebra ed entrare. L\'ultima possibilità di Verum si trova all\'interno. Il Richiamo deve avvenire ora.
 
 Le nuvole scure si addensano sopra di noi e presto seguirà una pioggia battente. Avete poco tempo per prepararvi. Le difese devono essere rafforzate e la pira deve essere costruita prima che il Risveglio abbia inizio. Mentre distribuite i compiti ai vostri soldati, un lampo accecante attraversa il cielo, delineando una figura scura appollaiata sul ciglione della torre centrale del forte. Piccoli occhi brillanti vi guardano attraverso l\'oscurità, mentre un secondo fulmine colpisce il cielo, illuminando quello che sembra essere un corto becco che sporge dalla testa della figura. Un Avi
 
@@ -8059,15 +8061,15 @@ Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante
 Consegnate a Midge la bussola del sangue che vi è stata data dai Sorveglianti e scambiate con il ragazzo alcune parole di coraggio. Dopo averlo lasciato andare, vi fermate al cancello principale abbastanza a lungo per vederlo scomparire nel Bosco Profondo."</string>
 	<string name="chp20_0_5__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli del paesaggio e delle bestie che circondano Raven\'s Reach, sono informazioni di fondamentale importanza. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Qualcuno deve essere mandato a casa per consegnare il messaggio."</string>
 	<string name="chp20_0_5__c">Consegnate al vostro alleato la bussola del sangue che vi è stata data dai Sorveglianti e scambiate qualche parola di coraggio prima di lasciarli andare per la loro strada. Rimanete accanto al cancello principale abbastanza a lungo da guardarli scomparire nel Bosco Profondo.</string>
-	<string name="chp20_0_6__a">Su vostro ordine, i soldati hanno eretto un grande palo di legno al centro della fortezza e hanno iniziato ad ammassare intorno ad esso i materiali per la grande pira. La difesa delle fiamme sarà l\'aspetto più importante di The Keening, a parte le streghe stesse, che incatenerete a un vicino palo per l\'autostop.</string>
+	<string name="chp20_0_6__a">Su vostro ordine, i soldati hanno eretto un grande palo di legno al centro della fortezza e hanno iniziato ad ammassare intorno ad esso i materiali per la grande pira. La difesa delle fiamme sarà l\'aspetto più importante del Richiamo, a parte le streghe stesse, che incatenerete a un vicino palo per l\'autostop.</string>
 	<string name="chp20_0_7__a">"L\'odio bruciante negli occhi della vostra ex compagna mentre fissate le sue catene al palo dell\'autostop non lo dimenticherete presto. Non ha mai accettato di adempiere al suo giuramento in questo modo, ma il suo sacrificio potrebbe salvare un\'intera città
 
 Le altre due streghe non oppongono resistenza mentre le legate al palo. L\'uomo di Cistercia si limita a fissare imbronciato la pira mentre lo mettete al sicuro. La strega di Tracia, ancora sotto l\'effetto dell\'etere, richiede uno sforzo minimo per essere bloccata. Ora è calma, ma avete dovuto somministrarle l\'ultima dose di etere nella città proibita. Potete solo sperare che la tenga sotto controllo abbastanza a lungo
 
-Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Finora, il Keening era stato solo un compito lontano, alla fine di una lunga serie di altri eventi. La terribile scelta è stata rimandata, mentre avete sempre sperato che si trovasse un\'altra strada. Che in qualche modo non si sarebbe arrivati a questo. Tuttavia, fissando la pira davanti a voi, vi rendete conto di essere fuori tempo massimo. Le miriadi di scelte si stanno riducendo a un\'unica domanda. Potete sacrificare uno per salvare molti? Dovrete decidere al più presto."</string>
+Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Finora, il Richiamo era stato solo un compito lontano, alla fine di una lunga serie di altri eventi. La terribile scelta è stata rimandata, mentre avete sempre sperato che si trovasse un\'altra strada. Che in qualche modo non si sarebbe arrivati a questo. Tuttavia, fissando la pira davanti a voi, vi rendete conto di essere fuori tempo massimo. Le miriadi di scelte si stanno riducendo a un\'unica domanda. Potete sacrificare uno per salvare molti? Dovrete decidere al più presto."</string>
 	<string name="chp20_0_8__a">"Per prima cosa leghi i fratelli di Cistercia al palo dell\'autostop. Il fratello e la sorella si scambiano sguardi silenziosi e luttuosi mentre la fredda catena di ferro sigilla i loro destini. Il terzo e ultimo sacrificio, la strega di Tracia, è ancora sotto l\'effetto dell\'etere e richiede uno sforzo minimo per essere assicurato. Ora è calma, ma avete dovuto somministrarle l\'ultima dose di etere nella città proibita. Potete solo sperare che la tenga sotto controllo abbastanza a lungo
 
-Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Finora, il Keening era stato solo un compito lontano, alla fine di una lunga serie di altri eventi. La terribile scelta è stata rimandata, mentre avete sempre sperato che si trovasse un\'altra strada. Che in qualche modo non si sarebbe arrivati a questo. Tuttavia, fissando la pira davanti a voi, vi rendete conto di essere fuori tempo massimo. Le miriadi di scelte si stanno riducendo a un\'unica domanda. Potete sacrificare uno per salvare molti? Dovrete decidere al più presto."</string>
+Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Finora, il Richiamo era stato solo un compito lontano, alla fine di una lunga serie di altri eventi. La terribile scelta è stata rimandata, mentre avete sempre sperato che si trovasse un\'altra strada. Che in qualche modo non si sarebbe arrivati a questo. Tuttavia, fissando la pira davanti a voi, vi rendete conto di essere fuori tempo massimo. Le miriadi di scelte si stanno riducendo a un\'unica domanda. Potete sacrificare uno per salvare molti? Dovrete decidere al più presto."</string>
 	<string name="chp20_0_9__a">"Un orribile stridio in lontananza vi distoglie dai vostri pensieri. Avete contato i secondi trascorsi dalle ultime grida dell\'orda e si stanno avvicinando. Velocemente
 
 Lo sciame sarà enorme, molto più grande di quello che vi ha spinto nella città proibita. Almeno questa volta avete una fortezza a proteggervi, anche se è vecchia e fatiscente. Speriamo che li tenga a bada abbastanza a lungo da completare la pira."</string>
@@ -8080,7 +8082,7 @@ Continua raccontandovi di due grandi torri che vegliano sopra il recinto esterno
 Poi fa notare che il cortile interno contiene un\'armeria e una vecchia stalla. L\'armeria è crollata, tuttavia, con un po\' di scavo si può trovare qualcosa di utile all\'interno
 
 Conclude parlando dell\'unica grave debolezza delle vostre difese, un grande tunnel scavato sotto le mura della fortezza. Suppone che si tratti della breccia che ha causato la caduta di Raven\'s Reach molto tempo fa. Ringraziando l\'ufficiale, ordinate ai suoi soldati di allestire un sistema di allerta improvvisato all\'interno del tunnel, utilizzando rottami di vecchie armi e armature. Speriamo che vi aiuti a rilevare se qualcosa si infiltra da lì."</string>
-	<string name="chp20_1_1__a">Un suono simile a un tuono rimbomba in lontananza. La prima ondata d\'attacco è quasi arrivata. E molte altre seguiranno. Ci sono diversi luoghi che devono essere difesi e voi siete tutto ciò che si frappone tra le creature ed il Keening. A qualunque costo, dovete prevalere.</string>
+	<string name="chp20_1_1__a">Un suono simile a un tuono rimbomba in lontananza. La prima ondata d\'attacco è quasi arrivata. E molte altre seguiranno. Ci sono diversi luoghi che devono essere difesi e voi siete tutto ciò che si frappone tra le creature ed il Richiamo. A qualunque costo, dovete prevalere.</string>
 	<string name="chp20_1_1__c">Secondo i rapporti dei vostri esploratori, il primo attacco arriverà da NORD. Dovrete difendere quel lato della fortezza e le BASTIONI.</string>
 	<string name="chp20_1_2__a">"Ondata 1: Assalto 1
 
@@ -8120,15 +8122,15 @@ Ai margini della vostra visione, scorgete un\'enorme bestia che carica verso il 
 Insanguinati nel corpo e nelle armi, sembra che l\'assalto non finisca mai. Non si sa se le difese possono sopravvivere a un altro attacco di questa portata. È necessario terminare la pira al più presto."</string>
 	<string name="chp20_3_12__a">"Mentre sentite le urla agonizzanti delle bestie rimaste fuori dalle mura della fortezza, improvvisamente sentite la terra tremare ancora una volta. Voltandovi verso la pira, vedete ondate di forza che si sprigionano da sotto la Strega Trace. Si sta svegliando
 
-Entrando in azione con il calcio della vostra arma, rendete la donna ancora una volta incosciente. Sta diventando sempre più potente. Dovete eseguire il Keening il prima possibile."</string>
+Entrando in azione con il calcio della vostra arma, rendete la donna ancora una volta incosciente. Sta diventando sempre più potente. Dovete eseguire il Richiamo il prima possibile."</string>
 	<string name="chp20_3_13__a">"Quando l\'ultima bestia cade, sentite improvvisamente il terreno rimbombare ancora una volta. Senza alcuna creatura in vista, vi voltate verso la pira e vedete la Strega Trace in piedi accanto al palo in fiamme, che alza lentamente le braccia mentre ondate di forza si propagano sotto di lei. È sveglia!
 
 I soldati nel cortile si arrampicano rapidamente sulla pira per sottomettere la strega. Una delle guardie si lancia verso di lei. Lei lo ferma a mezz\'aria con un gesto, tenendolo in alto per un momento, prima di farlo volare attraverso il cortile con un gesto della mano, facendolo schiantare contro un muro vicino."</string>
-	<string name="chp20_3_13__c">La distrazione offre a un\'altra guardia l\'opportunità di arrivare alle sue spalle e di sferrarle un colpo secco alla nuca con il calcio della spada. La donna cade a terra, ancora una volta svenuta. Il suo potere sta crescendo. Dovete eseguire il Keening il prima possibile.</string>
-	<string name="chp20_3_14__a">Dopo essere sopravvissuti all\'ennesima ondata di mostri, esortate le vostre truppe a terminare rapidamente la pira. Il Keening non può essere rimandato ulteriormente.</string>
+	<string name="chp20_3_13__c">La distrazione offre a un\'altra guardia l\'opportunità di arrivare alle sue spalle e di sferrarle un colpo secco alla nuca con il calcio della spada. La donna cade a terra, ancora una volta svenuta. Il suo potere sta crescendo. Dovete eseguire il Richiamo il prima possibile.</string>
+	<string name="chp20_3_14__a">Dopo essere sopravvissuti all\'ennesima ondata di mostri, esortate le vostre truppe a terminare rapidamente la pira. Il Richiamo non può essere rimandato ulteriormente.</string>
 	<string name="chp20_3_15__a">I soldati continuano a rovistare nell\'armeria, sperando di trovare qualcosa di utile.</string>
 	<string name="chp20_3_16__a">Una folla di bestie ha fatto breccia. Ruggiscono all\'unisono mentre caricano la pira, schiantandosi contro il piccolo drappello di truppe che la difende.</string>
-	<string name="chp20_3_17__a">Mandare uomini a morire non è mai facile, ma deve essere fatto se si spera di giustiziare il Keening. Rivolgendosi a una squadra vicina, la manda a difendere la pira.</string>
+	<string name="chp20_3_17__a">Mandare uomini a morire non è mai facile, ma deve essere fatto se si spera di giustiziare il Richiamo. Rivolgendosi a una squadra vicina, la manda a difendere la pira.</string>
 	<string name="chp20_3_1__a">I vostri numeri sono in costante diminuzione e non potete più difendere l\'intera fortezza. Per sperare di sopravvivere, è fondamentale determinare da dove arriverà il prossimo attacco.</string>
 	<string name="chp20_3_2__a">"Ad ogni creatura uccisa, il Bosco Profondo sembra diventare sempre più vivo. Si possono vedere i rami degli alberi maledetti piegarsi e raggiungere le pareti, affamati di sangue. Ovunque si guardi, le creature si aggirano nell\'ombra, in attesa di un\'occasione per colpire
 
@@ -8207,7 +8209,7 @@ Nel disperato tentativo di riguadagnare il vantaggio, i soldati rimasti caricano
 
 Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Dallo sguardo si capisce che Aurelia non cede e che se non completerete presto l\'Esaltazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se uccidere la strega causerà il Risveglio, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
 	<string name="chp20_6_1__a">La pira</string>
-	<string name="chp20_6_1__c">Ora o mai più. La fortezza può cadere, ma il Keening è pronto. Durante una breve pausa nella battaglia, ne approfittate per correre verso la pira. Attraversando il cortile, la pioggia si riversa in un diluvio così forte da coprire il suono della morte e degli stridori che vi circondano.</string>
+	<string name="chp20_6_1__c">Ora o mai più. La fortezza può cadere, ma il Richiamo è pronto. Durante una breve pausa nella battaglia, ne approfittate per correre verso la pira. Attraversando il cortile, la pioggia si riversa in un diluvio così forte da coprire il suono della morte e degli stridori che vi circondano.</string>
 	<string name="chp20_6_2__c">Non c\'è più tempo. La pira non è ancora completa, ma sapete che la fortezza non può reggere oltre. Attraversando di corsa il cortile, la pioggia si riversa in un diluvio così forte da coprire il suono della morte e degli stridori che vi circondano.</string>
 	<string name="chp20_6_3__a">C\'è ancora tempo per un\'ultima scelta. Queste streghe non hanno mai scelto il loro destino e solo voi potete risparmiarle. Potete prendere il loro posto sulla pira.</string>
 	<string name="chp20_6_4__a">"La strada per portare qui le streghe è stata lunga. Molti sono morti per riuscirci, ma quando il momento si avvicina, vi fermate. Il peso delle vostre responsabilità minaccia di schiacciarvi. Uccidere un aggressore è una cosa, ma uccidere persone non difese è un\'altra. Abbassate lo sguardo sulla torcia d\'ambra..
@@ -8231,10 +8233,10 @@ Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe 
 
 Nel disperato tentativo di riconquistare il vantaggio, i soldati rimasti caricano la strega all\'unisono. Aurelia li guarda con odio e, con entrambe le mani alzate, fa levitare le squadre rimanenti per una dozzina di metri in aria e le sbatte di nuovo a terra. Si sente il rumore delle ossa che si rompono mentre vengono schiacciate sulle lastre di pietra. Quando Aurelia alza le mani una seconda volta, ciò che si solleva in aria sono solo cadaveri che iniziano a orbitare intorno a lei
 
-Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Se non completate presto l\'Evocazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore delle Tenebre sarà perduta. Non sapete se l\'uccisione della strega causerà il Risveglio, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
-	<string name="chp20_epi_1__a">"Con un ultimo colpo, la strega cade, lo scudo telecinetico ha finalmente fallito. I suoi occhi si allargano, inarca la schiena e lancia un terribile urlo di morte. Le onde sonore si abbattono sulla base del vostro cranio, facendovi cadere. Il naso sanguina e la vista comincia a sfocarsi, mentre ogni cellula del vostro corpo minaccia di andare in pezzi. L\'avete già sentito, una vita fa a Bastone. Il Keening. Improvvisamente la terra inizia a tremare. Non per il Richiamo, ma in risposta ad esso. In una cacofonia di ululati e ruggiti, uno sciame senza numero tuona dal Cuore delle Tenebre verso Raven\'s Reach. Ha funzionato!
+Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Se non completate presto l\'Evocazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se l\'uccisione della strega causerà il Risveglio, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
+	<string name="chp20_epi_1__a">"Con un ultimo colpo, la strega cade, lo scudo telecinetico ha finalmente fallito. I suoi occhi si allargano, inarca la schiena e lancia un terribile urlo di morte. Le onde sonore si abbattono sulla base del vostro cranio, facendovi cadere. Il naso sanguina e la vista comincia a sfocarsi, mentre ogni cellula del vostro corpo minaccia di andare in pezzi. L\'avete già sentito, una vita fa a Bastone. Il Richiamo. Improvvisamente la terra inizia a tremare. Non per il Richiamo, ma in risposta ad esso. In una cacofonia di ululati e ruggiti, uno sciame senza numero tuona dal Cuore di Tenebra verso Raven\'s Reach. Ha funzionato!
 
-Non perdete tempo e vi precipitate nel tunnel che sapete vi condurrà all\'esterno. Al di là di esso, la strada è aperta verso il Cuore delle Tenebre e la fine del vostro viaggio."</string>
+Non perdete tempo e vi precipitate nel tunnel che sapete vi condurrà all\'esterno. Al di là di esso, la strada è aperta verso il Cuore di Tenebra e la fine del vostro viaggio."</string>
 	<string name="chp21_1_10__c">"Di nuovo, mi vengono in mente le parole del vostro giuramento
 
 Noi non ci sottrarremo.
@@ -8265,12 +8267,12 @@ Eppure la morte conoscerà il nostro nome.
 Siamo Oathsworn.
 
 Ventisei parole che ora vi definiscono. Insieme, ti riportano in superficie e tu aspiri aria. Il tunnel è rimasto com\'era, la visione è passata. Guardando avanti, il tunnel è terminato e davanti a voi c\'è una vasta caverna."</string>
-	<string name="chp21_1_1__a">"L\'urlo lamentoso della strega vi insegue nel tunnel sotto Raven\'s Reach, offuscandovi la vista e rendendo ogni passo un\'impresa di equilibrio. Il Keening ha funzionato come speravate e ogni mostro a portata del suo grido di morte ha risposto al suo richiamo. Potete sentire gli artigli ed il pesante calpestio delle bestie sopra di voi sopra l\'urlo che vi fa saltare le orecchie
+	<string name="chp21_1_1__a">"L\'urlo lamentoso della strega vi insegue nel tunnel sotto Raven\'s Reach, offuscandovi la vista e rendendo ogni passo un\'impresa di equilibrio. Il Richiamo ha funzionato come speravate e ogni mostro a portata del suo grido di morte ha risposto al suo richiamo. Potete sentire gli artigli ed il pesante calpestio delle bestie sopra di voi sopra l\'urlo che vi fa saltare le orecchie
 
-Poco dopo aver percorso la strada, tagliate le travi di sostegno che tengono aperto il passaggio, per bloccare le creature che vi inseguono. Tonnellate di roccia e sporcizia precipitano e all\'ultimo momento vedete una creatura simile a un lupo, che stava silenziosamente inseguendo la vostra fuga, inghiottita dalle macerie. Un raro colpo di fortuna. Sapete che vi resta poco tempo prima che gli effetti del Keening svaniscano e riprendete rapidamente la ricerca dell\'uscita del tunnel.
+Poco dopo aver percorso la strada, tagliate le travi di sostegno che tengono aperto il passaggio, per bloccare le creature che vi inseguono. Tonnellate di roccia e sporcizia precipitano e all\'ultimo momento vedete una creatura simile a un lupo, che stava silenziosamente inseguendo la vostra fuga, inghiottita dalle macerie. Un raro colpo di fortuna. Sapete che vi resta poco tempo prima che gli effetti del Richiamo svaniscano e riprendete rapidamente la ricerca dell\'uscita del tunnel.
 
 Percorrendo il passaggio dimenticato, trovate decine di cadaveri putrefatti: gli ultimi difensori umani di Raven\'s Reach. La tomba è un tesoro di antiche armature e armi finemente forgiate. Vi prendete un momento per assicurarvi di essere il più possibile armati. Sapete che dovrete essere presenti dove state andando."</string>
-	<string name="chp21_1_2__a">"Davanti a voi, un puntino di luce vi guida finalmente verso un\'uscita nel Bosco Profondo. Emergendo, vi voltate a guardare la fortezza caduta. Non si sentono più le urla della Strega Trace, ma un mare di carne, pellicce e ossa continua a lambire le mura di pietra in disfacimento, artigliandosi e scattando l\'uno contro l\'altro nel disperato tentativo di rispondere al richiamo del Keening. In qualche modo i suoi effetti non si sono ancora esauriti. Tuttavia, le bestie ululano e gridano in una cacofonia di morte che le parole non possono descrivere. All\'improvviso, si sente un tuono e si vede una fila di alberi in lontananza rovesciarsi mentre emerge la Rovina di Bastone. La sua forma grigia da tempesta attraversa il muro orientale della fortezza, polverizzando le difese che erano rimaste in piedi per secoli. Con l\'apparizione della gigantesca bestia, sapete che la strada è libera verso il Cuore delle Tenebre. Dovete muovervi subito!
+	<string name="chp21_1_2__a">"Davanti a voi, un puntino di luce vi guida finalmente verso un\'uscita nel Bosco Profondo. Emergendo, vi voltate a guardare la fortezza caduta. Non si sentono più le urla della Strega Trace, ma un mare di carne, pellicce e ossa continua a lambire le mura di pietra in disfacimento, artigliandosi e scattando l\'uno contro l\'altro nel disperato tentativo di rispondere al richiamo del Richiamo. In qualche modo i suoi effetti non si sono ancora esauriti. Tuttavia, le bestie ululano e gridano in una cacofonia di morte che le parole non possono descrivere. All\'improvviso, si sente un tuono e si vede una fila di alberi in lontananza rovesciarsi mentre emerge la Rovina di Bastone. La sua forma grigia da tempesta attraversa il muro orientale della fortezza, polverizzando le difese che erano rimaste in piedi per secoli. Con l\'apparizione della gigantesca bestia, sapete che la strada è libera verso il Cuore di Tenebra. Dovete muovervi subito!
 
 Attraversando il Bosco Profondo, il suono della campana a morto di Raven Reach è attutito dagli alberi fitti e nauseabondi, e vi è concesso un raro momento di tregua. Solo pochi giorni fa, quasi trecento soldati hanno lasciato Verum e ora siete rimasti solo voi, una sola Libera Compagnia. Una sola Libera Compagnia e un\'ultima possibilità
 
@@ -8434,7 +8436,7 @@ Il palazzo ha visto giorni migliori, la sua lucentezza è stata consumata dalle 
 Siete condotti sotto scorta nella sala principale e vi viene detto di aspettare davanti a una doppia porta ornata.
 
 Un servitore principale appare dalla porta e vi guarda con sospetto."</string>
-	<string name="chp2_10_2__a">"\"Oh, Vile!\" il servo sputa. \"Direttore? Quella... cosa non può entrare alla presenza del mio Signore,\" indicando la strega. \"Non voglio mancare di rispetto a uno dei membri dell\'Inquisizione, ma ti chiedo umilmente di restare con lui per proteggere tutti noi.\" Il servitore sputa di nuovo verso di sé, poi accompagna il resto della Libera Compagnia nell\'anticamera, lasciandovi con alcuni membri del seguito personale del Signore. Guardano la tua strega con visibile odio e uno le sputa in faccia mentre lei risponde con veemenza.
+	<string name="chp2_10_2__a">"\"Oh, Vile!\" il servo sputa. \"Guardiano? Quella... cosa non può entrare alla presenza del mio Signore,\" indicando la strega. \"Non voglio mancare di rispetto a uno dei membri dell\'Inquisizione, ma ti chiedo umilmente di restare con lui per proteggere tutti noi.\" Il servitore sputa di nuovo verso di sé, poi accompagna il resto della Libera Compagnia nell\'anticamera, lasciandovi con alcuni membri del seguito personale del Signore. Guardano la tua strega con visibile odio e uno le sputa in faccia mentre lei risponde con veemenza.
 
 \"Mio signore guardiano,\" uno di loro parla. \"Non sappiamo come insegniate ai vostri animali domestici a Verum, ma qui ci assicuriamo che imparino a non guardarci negli occhi in quel modo.\" Fa un passo avanti e impugna una clava di ferro, \"Possiamo mostrare al vostro animale domestico le buone maniere?\"
 
@@ -9006,7 +9008,7 @@ Si muove e cerca di allontanarsi mentre le fiamme crescono e le lambiscono i pol
 
 \"Non hai idea di quello che hai fatto! Non posso aiutarvi e non posso fermare ciò che sta per accadere ora! Siete tutti condannati!\"
 
-Lei urla, ma è un suono che non avete mai sentito prima. Colpisce la base dei vostri crani. Un sibilo penetrante che vi fa trasalire. Molti tra la folla traballano quando l\'onda d\'urto investe la piazza della città. Le fiamme le arrivano alle gambe mentre continua il lamento osceno. Il suono si insinua nella spina dorsale e assale la mente mentre l\'odore di carne bruciata riempie la piazza. L\'urlo lamentoso raggiunge un crescendo empio. La sua gola dovrebbe essere squarciata da un simile rumore. Vi coprite le orecchie, ma il dolore non diminuisce.
+Lei urla, ma è un suono che non avete mai sentito prima. Colpisce la base dei vostri crani. Un sibilo penetrante che vi fa trasalire. Molti tra la folla traballano quando l\'onda d\'urto investe la piazza della città. Le fiamme le arrivano alle gambe mentre continua il lamento osceno. Il suono si insinua nella spina dorsale e assale la mente mentre l\'odore di carne bruciata riempie la piazza. Un lamentoso urlo di richiamo raggiunge un crescendo empio. La sua gola dovrebbe essere squarciata da un simile rumore. Vi coprite le orecchie, ma il dolore non diminuisce.
 
 La terra trema.
 
@@ -9034,7 +9036,7 @@ Scegliete un\'opzione:"</string>
 
 La donna crolla mentre la liberate dai legami e date un calcio alle fiamme. Ha molte vesciche. Lyceen sorride, ma le sue labbra si incrinano. Le guardie balzano in piedi e afferrano ciascuno di voi da dietro.
 
-\"Avreste dovuto farlo... prima...\" tossisce aspramente. Respirando affannosamente, \"non sono riuscita a fermare il lamento. Temo..\"
+\"Avreste dovuto farlo... prima...\" tossisce aspramente. Respirando affannosamente, \"non sono riuscita a fermare il richiamo. Temo..\"
 
 Viene interrotta da un sussulto della terra.
 
@@ -9091,7 +9093,7 @@ Un\'ombra incombe sulle vostre teste, bloccando il sole mentre sbatte contro i g
 
 Il Mercato è pieno di saccheggiatori che rovesciano carrelli e bancarelle, si arrampicano l\'uno sull\'altro mentre arraffano il cibo e le armi che possono prima di fuggire verso il Cancello Principale.
 
-Sapete che avrete bisogno di razioni anche nel Bosco Profondo. Vedete un carrello della spesa rovesciato con una dozzina di persone che vi si accalcano. Vedete anche una bancarella di uno stagnino con un uomo sotto di essa. Sopra c\'è ancora qualche oggetto di ferro.
+Sapete che avrete bisogno di razioni anche nel Bosco Profondo. Vedete un carretto rovesciato con una dozzina di persone che vi si accalcano. Vedete anche una bancarella di uno stagnino con un uomo sotto di essa. Sopra c\'è ancora qualche oggetto di ferro.
 
 
 Scegliete un\'opzione:"</string>
@@ -9667,7 +9669,7 @@ Non è chiaro se siano le ombre a nascondere il volto del Sorvegliante o se il s
 
 \"Rapporto,\" Una voce ronzante comanda dall\'interno del mantello.
 
-Ascolta i dettagli della caduta di Bastone, il grido di dolore della strega e le prove del Bosco Profondo. Sebbene le sue vesti pulsino e si muovano con il vento, non sembra muoversi né reagire a nessuno dei vostri racconti di sventura.
+Ascolta i dettagli della caduta di Bastone, il grido di richiamo della strega e le prove del Bosco Profondo. Sebbene le sue vesti pulsino e si muovano con il vento, non sembra muoversi né reagire a nessuno dei vostri racconti di sventura.
 
 \"Lasciami,\" dice infine. Voi, troppo volentieri, vi ritirate da lui. Ci sono molte cose inquietanti al mondo, ma i Sorveglianti mettono la vostra pazienza a dura prova."</string>
 	<string name="chp5_3_11__a">Nelle settimane successive vi abituate alla civiltà. Non molto tempo dopo gli eventi al cancello, un corriere vi porta una busta. Aprendola trovate un biglietto scritto in bella calligrafia: In riconoscimento ai vostri grandi servigi alla Corona e alla città decaduta di Bastone, e con l\'autorità di Sua Altezza Reale, Re Favian, vi viene conferito l\'atto di proprietà delle seguenti proprietà: Una taverna di Tonsin Lane, Città Vecchia.</string>
@@ -9925,7 +9927,7 @@ Se desiderate chiedere informazioni sulla Cur, scegliete l\'opzione superiore. A
 
 Lo Scolo è ripugnante. I rifiuti umani scorrono liberamente per le strade e migliaia di abitanti dello Scolo si accalcano nella profonda depressione del letto del fiume. Baracche e capanne riempiono le strade tra la presenza incombente di vecchie navi commerciali perennemente ormeggiate nel fango. Tenete un iron in mano e iniziate a camminare per lo Scolo. Questo modo di fare è ben noto. Le Compagnie libere chiedono spesso informazioni su una caccia, ed il pagamento è sempre il modo più rapido per ottenere una risposta. Molti dei più audaci tra i monelli di strada si fanno avanti e affermano di sapere chi state cercando, ma alcune domande puntuali su Jonas dimostrano che sono dei buffoni e non conoscono il ragazzo. Trascorrete diverse ore in questo modo, finché una ragazza di nome Anya si mostra promettente. Dice di conoscere sua madre e vi porta in una piccola baracca all\'ombra di una grande nave."</string>
 	<string name="chp5b_17_1__c">Entrate e iniziate a interrogare la donna. Lei sembra molto sospettosa nei vostri confronti e, mentre inizia la conversazione, un ragazzo entra dietro di lei. La donna grida al ragazzo di scappare e lui scappa.</string>
-	<string name="chp5b_17_2__c">"Il ragazzo salta sotto un carrello pieno di verdure in decomposizione e si lancia tra alcune tende per seminarvi. Spingete il carro fuori strada e lo inseguite. È piccolo e conosce il terreno. Schiva facilmente le persone e i vecchi relitti, salta fuori da una vecchia scialuppa di salvataggio, afferra un pezzo di vela logora e cerca di arrampicarsi. Voi lo raggiungete, strattonate la vela e lui cade giù.
+	<string name="chp5b_17_2__c">"Il ragazzo salta sotto un carretto pieno di verdure in decomposizione e si lancia tra alcune tende per seminarvi. Spingete il carro fuori strada e lo inseguite. È piccolo e conosce il terreno. Schiva facilmente le persone e i vecchi relitti, salta fuori da una vecchia scialuppa di salvataggio, afferra un pezzo di vela logora e cerca di arrampicarsi. Voi lo raggiungete, strattonate la vela e lui cade giù.
 
 \"Non volevo lasciarlo, ma è arrivato l\'insetto e non avevo la spada!\" protesta sconsolato. \"Rhiner mi ha già liberato. Quell'Iron mi serviva per il cibo. Che altro vuole?\"
 
@@ -10525,7 +10527,7 @@ Questo prete deve essere fermato o condannerà l\'intera città allo stesso dest
 In questo quartiere di Verum, la massiccia fucina del Fabbro sprigiona fumo nero da grandi alloggiamenti in ottone su un grande edificio in pietra e marmo.
 
 \"Sacerdote?\" brontola uno dei lavoratori all\'esterno, mentre fa scivolare un gancio di ferro arroventato in un barile di acqua fredda. \"Pensavo che accettassero solo denaro! Non ne ho mai sentito uno che venisse a commerciare o a dare forma. Ora, se vuoi cambiare un po\' di quel bell\'armamento che porti con te, allora possiamo parlare. Altrimenti, siamo un po\' occupati al momento.\""</string>
-	<string name="chp6b_20_1__a">"Posizione 20 - Prigione di Black Rock
+	<string name="chp6b_20_1__a">"Posizione 20 - Prigione della Roccia Nera
 
 Due guardie armate di piastre nere si trovano davanti al cancello della Prigione di Roccia Nera, con le loro lunghe alabarde scure che bloccano l\'ingresso o l\'uscita. Quando vi avvicinate alla prigione, i loro elmi opachi si muovono leggermente, osservando chiaramente la vostra Compagnia. Quando chiedete se hanno visto il vostro sacerdote, scuotono silenziosamente la testa.
 
@@ -10535,7 +10537,7 @@ Un urlo lungo e tormentato proviene dalle torrette oscure alle loro spalle. Da q
 Scegliete un\'opzione:
 
 Se avete un guardiano, scegliete l\'opzione superiore. Altrimenti, scegliete una località in cui recarvi."</string>
-	<string name="chp6b_20_2__a">"Il Direttore fa un cenno solenne alle guardie in segno di saluto.
+	<string name="chp6b_20_2__a">"Il Guardiano fa un cenno solenne alle guardie in segno di saluto.
 
 Sono passati anni da quando lei stesso era di guardia al cancello. Eppure, ancora oggi, nelle notti in cui tutto è tranquillo e i membri della tua Compagnia sono immersi nel sonno, sei sveglio e senti ancora nella tua mente la debole eco di quelle urla ed il tintinnio delle catene.
 
@@ -12433,12 +12435,12 @@ All\'improvviso, tre figure vestite emergono dall\'ombra e vi salutano in silenz
 Finalmente tornate alla Quercia Spezzata, accolti dal caldo fuoco ambrato e da volti familiari. Dopo una cena veloce e un resoconto di Greycane, vi ritirate nelle vostre stanze per un po\' di meritato riposo. Quando vi svegliate la mattina dopo, trovate Greycane che fissa la grande finestra della locanda. Con uno sguardo infastidito, vi informa che c\'è stata una 'consegna' e vi offre un piccolo pacchetto incartato.
 
 All\'interno del pacco, una barra per il controllo dei golem. Guardate fuori dalla finestra e trovate un Golem di Ferro in piedi di fronte alla Quercia Spezzata, con gli occhi luminosi in attesa di un vostro comando."</string>
-	<string name="chp9_epi_3__a">"Vi viene chiesto di aspettare in un corridoio scarsamente illuminato, appena oltre la saracinesca del cancello principale di The Raven Spire. Piccoli topi squittiscono nell\'ombra e più di una volta si sente un debole urlo provenire da una caverna sconosciuta nelle profondità del castello. Tutto in questo luogo evoca un senso di terrore e di oscuri segreti.
+	<string name="chp9_epi_3__a">"Vi viene chiesto di aspettare in un corridoio scarsamente illuminato, appena oltre le sbarre del cancello principale della Guglia del Corvo. Piccoli topi squittiscono nell\'ombra e più di una volta si sente un debole urlo provenire da una caverna sconosciuta nelle profondità del castello. Tutto in questo luogo evoca un senso di terrore e di oscuri segreti.
 	
 All\'improvviso, tre figure vestite emergono dall\'ombra e vi salutano in silenzio, con le vesti che ondeggiano leggermente come se fossero agitate da una brezza impercettibile. Prendete il loro silenzio come spunto per iniziare la spiegazione degli eventi che hanno avuto luogo a Glimhollow. Una volta terminato, siete accolti da un altro silenzio e avete la netta impressione che sospettino che non siate stati del tutto sinceri nel vostro resoconto.
 
 Senza dire un\'altra parola, tornano nell\'ombra. Mentre ve ne andate, vi chiedete se siano consapevoli del vostro inganno. A prescindere dalle potenziali ripercussioni, siete certi che la vostra decisione di tenere l\'ambra bianca fuori dalle loro mani sia stata quella giusta. Tornate alla Quercia Spezzata e sperate che passi del tempo prima che un Sorvegliante si affacci di nuovo alla vostra porta."</string>
-	<string name="chp9_epi_4__a">"Vi viene chiesto di aspettare in un corridoio scarsamente illuminato, appena oltre la saracinesca del cancello principale di The Raven Spire. Piccoli topi squittiscono nell\'ombra e più di una volta si sente un debole urlo provenire da una caverna sconosciuta nelle profondità del castello. Tutto in questo luogo evoca un senso di terrore e di oscuri segreti.
+	<string name="chp9_epi_4__a">"Vi viene chiesto di aspettare in un corridoio scarsamente illuminato, appena oltre le sbarre del cancello principale della Guglia del Corvo. Piccoli topi squittiscono nell\'ombra e più di una volta si sente un debole urlo provenire da una caverna sconosciuta nelle profondità del castello. Tutto in questo luogo evoca un senso di terrore e di oscuri segreti.
 	
 All\'improvviso, tre figure vestite emergono dall\'ombra e vi salutano in silenzio, con le vesti che ondeggiano leggermente come se fossero agitate da una brezza impercettibile. Prendete il loro silenzio come spunto per iniziare la spiegazione degli eventi che hanno avuto luogo a Glimhollow. Una volta terminata, siete accolti da un altro silenzio e dall\'aria distinta di un\'aspettativa non soddisfatta.
 
@@ -13675,7 +13677,7 @@ SCRIVERE LA PAROLA CHIAVE 'BETRAYED' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA.
 
 CREATE UN NUOVO OATHSWORN DI LIVELLO 13 USANDO IL SISTEMA DI LIVELLAMENTO RAPIDO DELLE REGOLE."</string>
 	<string name="pop13_28_15__b">GUADAGNARE IL GETTONE INDIZIO 4.</string>
-	<string name="pop13_28_17__b">"POSIZIONARE UN DADO PUNTI FERITA NON UTILIZZATO AL CENTRO DEL TAVOLO E IMPOSTARLO A 1. QUESTO DADO RAPPRESENTA IL MORALE DELLA CITTÀ. QUESTO DADO RAPPRESENTA IL MORALE DELLA CITTÀ. È NECESSARIO AUMENTARLO PER DIMINUIRE LA PRESSIONE SULLA CITTÀ.
+	<string name="pop13_28_17__b">"POSIZIONARE UN DADO PUNTI FERITA NON UTILIZZATO AL CENTRO DEL TAVOLO E IMPOSTARLO A 1. QUESTO DADO RAPPRESENTA IL MORALE DELLA CITTÀ. È NECESSARIO AUMENTARLO PER DIMINUIRE LA PRESSIONE SULLA CITTÀ.
 
 POSIZIONARE LE POSIZIONI 4, 6, 13, 17, 19, 20 E 22."</string>
 	<string name="pop13_28_18__b">SCARTATE IL GETTONE INDIZIO 4.</string>
@@ -13710,8 +13712,8 @@ SCRIVERE LA PAROLA CHIAVE \"ELANNA\" SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA.
 
 ARCHIVIARE LA CARTA ALLEATO 13 (LADY ELANNA)."</string>
 	<string name="pop13_28_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
-	<string name="pop13_28_30__b">IL DIRETTORE DEVE DECIDERE.</string>
-	<string name="pop13_28_31__b">IL DIRETTORE DEVE DECIDERE.</string>
+	<string name="pop13_28_30__b">IL GUARDIANO (WARDEN) DEVE DECIDERE.</string>
+	<string name="pop13_28_31__b">IL GUARDIANO (WARDEN) DEVE DECIDERE.</string>
 	<string name="pop13_28_32__b">"DECISIONE SEGRETA
 
 SE DESIDERATE OFFRIRE VOLONTARIAMENTE LA PROPRIA STREGA, IMPOSTARE IL PROPRIO DADO A 1.
@@ -13748,7 +13750,7 @@ ARCHIVIATE LA CARTA ALLEATO 9 (LYCEEN)."</string>
 	<string name="pop13_28_37__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4), AGGIUNGERE 1 AL RISULTATO SE IL CUR È CON VOI.</string>
 	<string name="pop13_28_3__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE EMPOWERED X3.</string>
 	<string name="pop13_28_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
-	<string name="pop13_28_8__b">IL DIRETTORE DEVE DECIDERE.</string>
+	<string name="pop13_28_8__b">IL GUARDIANO (WARDEN) DEVE DECIDERE.</string>
 	<string name="pop13_28_9__b">DECISIONE SEGRETA. POSIZIONATE IL VOSTRO DADO A 1 SE VOLETE OFFRIRE LA VOSTRA STREGA VOLONTARIA O A 2 SE NON VOLETE OFFRIRE LA VOSTRA STREGA VOLONTARIA.</string>
 	<string name="pop13_2_10__b">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 13 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop13_2_10__d">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -13867,7 +13869,7 @@ ARCHIVIARE LA CARTA ALLEATO 6 (GAMEL)."</string>
 SE POTENZIATE DANE, GUADAGNI LA CARTA ALLEATO 38.
 
 SE POTENZIATE SEDRIC, GUADAGNI LA CARTA ALLEATO 37."</string>
-	<string name="pop13_7_7__b">POSIZIONE 28 E RECARSI LÌ.</string>
+	<string name="pop13_7_7__b">POSIZIONARE IL GETTONE POSIZIONE 28 E RECARSI SUL POSTO.</string>
 	<string name="pop13_7_8__b">"ARCHIVIA LA CARTA ALLEATO 6 E GUADAGNA LA CARTA ALLEATO 39.
 
 SE AVETE DANE E/O SEDRIC COME ALLEATI, SI POSSONO POTENZIARE DANE E SEDRIC PER 10 IRON CIASCUNO. PER OGNUNO DI LORO, ARCHIVIATE LA LORO CARTA ALLEATO E GUADAGNATE LA LORO NUOVA CARTA ALLEATO.
@@ -14070,8 +14072,8 @@ GUADAGNATE 32 IRON.
 CONTARE IL LIVELLO, IL BOTTINO E LE PERDITE."</string>
 	<string name="pop14_epi_9__b">OTTENETE LA CARTA ALLEATO 40 (CLYDIA), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 39 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 40 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop15_1_1__b">"APRITE LA BUSTA MISTERIOSA 'G' E POSIZIONARE IL CONTENUTO AL CENTRO DEL GIOCO. POSIZIONARE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZIONE 13. POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 15 SOTTO LA MAPPA. PRENDERE LA CARTA 'PATH A'."</string>
-	<string name="pop15_1_2__b">POSIZIONARE IL GETTONE POSIZIONE 16 E RECARSI LÌ.</string>
-	<string name="pop15_1_3__b">POSIZIONARE IL GETTONE POSIZIONE 16 E RECARSI LÌ.</string>
+	<string name="pop15_1_2__b">POSIZIONARE IL GETTONE POSIZIONE 16 E RECARSI SUL POSTO.</string>
+	<string name="pop15_1_3__b">POSIZIONARE IL GETTONE POSIZIONE 16 E RECARSI SUL POSTO.</string>
 	<string name="pop15_epi_2__b">"GUADAGNA 40 IRON.
 
 CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
@@ -14089,7 +14091,7 @@ NOTA: PER AVVIARE UN COMMERCIO CON IL FABBRO E LO SPEZIALE SI POSSONO USARE ANCH
 	<string name="pop15a_16_10__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.</string>
 	<string name="pop15a_16_11__b">"SCOPRITE QUALE DELLE CINQUE CASE HA UCCISO L\'EREDE DI AMIESE PRIMA DELL\'ASSEMBLEA DELLE CURIE DI DOMANI. SE LO FARETE, VI HANNO PROMESSO DI DARVI LA STREGA PER CUI SIETE VENUTI. GLI INDIZI NON SARANNO EVIDENZIATI. PRENDERE APPUNTI PUÒ ESSERE UTILE PER LA VOSTRA INDAGINE. LE CINQUE FAMIGLIE SONO AMIESE, VOLPE, LIGNJA, FITONE E CARNEDINE.
 
-POSIZIONATE IL GETTONE POSIZIONE 13 E RECATEVI LÌ."</string>
+POSIZIONATE IL GETTONE POSIZIONE 13 E RECARSI SUL POSTO."</string>
 	<string name="pop15a_16_23__b">LA LAMA (THE BLADE) GUADAGNA UN GETTONE EMPOWERED X3.</string>
 	<string name="pop15a_16_24__b">IL LAMA (THE BLADE) TRACE GUADAGNA UN GETTONE REDRAW.</string>
 	<string name="pop15a_16_6__b">"DUE STRADE SI APRONO DAVANTI A VOI. CERCARE DI SALVARE LO SCHIAVO INTERFERENDO NELLA CULTURA DI QUESTA CITTÀ O CONTINUARE A GUARDARE, SENZA FARE NULLA CHE POSSA COMPROMETTERE LA POSSIBILITÀ DI TROVARE UNA STREGA."</string>
@@ -14156,7 +14158,7 @@ GUADAGNATE IL GETTONE INDIZIO 3."</string>
 	<string name="pop15b_16_11__d">OTTENETE LA CARTA ALLEATO 41 (POLUS), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 40 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 41 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop15b_16_12__b">OTTENETE LA CARTA ALLEATO 41 (POLUS), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 40 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 41 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop15b_16_13__b">UN OATHSWORN A CASO PERDE UN GETTONE COMBATTIMENTO (A SCELTA).</string>
-	<string name="pop15b_16_15__b">POSIZIONARE IL GETTONE POSIZIONE 27 E ANDARE LÌ</string>
+	<string name="pop15b_16_15__b">POSIZIONARE IL GETTONE POSIZIONE 27 E RECARSI SUL POSTO</string>
 	<string name="pop15b_16_16__b">"PERDERE 15 IRON.
 
 GUADAGNATE LA CARTA ALLEATO 41 (POLUS), AGGIUNGE LA CARTA EVENTO DEEPWOOD 40 AL SUO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 41 AL SUO MAZZO EVENTI CITTÀ."</string>
@@ -14341,7 +14343,7 @@ SCRIVERE LA PAROLA CHIAVE 'BLOOD MONEY' SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA
 	<string name="pop16_24_9__b">PERDETE 10 IRON.</string>
 	<string name="pop16_28_1__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGERE 1 SE IL SACERDOTE O IL PENITENTE È CON VOI).</string>
 	<string name="pop16_28_3__b">OGNI OATHSWORN ESEGUE UNA PROVA DI SOPRAVVIVENZA, DECIDENDO CONTEMPORANEAMENTE QUANTE CARTE PESCARE. I DUE OATHSWORN CON I RISULTATI PIÙ BASSI PERDONO UN GETTONE COMBATTIMENTO (A SCELTA). I FALLIMENTI CONTANO COME UN RISULTATO PARI A ZERO. SE PIÙ DI DUE OATHSWORN FALLISCONO, TUTTI GLI OATHSWORN CHE FALLISCONO PERDONO UN GETTONE COMBATTIMENTO (A SCELTA).</string>
-	<string name="pop16_29_13__b">POSIZIONARE LA POSIZIONE 28 E RECARVISI (NON ATTIVARE ALCUN EVENTO SUL TRACCIATO DEL TEMPO).</string>
+	<string name="pop16_29_13__b">POSIZIONARE IL GETTONE POSIZIONE 28 E RECARSI SUL POSTO (NON ATTIVARE ALCUN EVENTO SUL TRACCIATO DEL TEMPO).</string>
 	<string name="pop16_29_2__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 6, AGGIUNGERE 1 AL RISULTATO SE C\'È UN URSUS CON VOI).</string>
 	<string name="pop16_29_3__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE IL SACERDOTE È CON VOI).</string>
 	<string name="pop16_29_4__b">"AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO (NON ATTIVARE ALCUN EVENTO SUL TRACCIATO DEL TEMPO).
@@ -14395,7 +14397,7 @@ OTTENERE IL GETTONE INDIZIO 1."</string>
 
 OTTENERE IL GETTONE INDIZIO 2."</string>
 	<string name="pop16m_3_1__b">GUADAGNARE IL GETTONE INDIZIO 3.</string>
-	<string name="pop16m_4_1__b">POSIZIONARE IL GETTONE POSIZIONE 19 E RECARSI LÌ.</string>
+	<string name="pop16m_4_1__b">POSIZIONARE IL GETTONE POSIZIONE 19 E RECARSI SUL POSTO.</string>
 	<string name="pop17_15_1__b">OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 4). OGNI OATHSWORN CHE FALLISCE GUADAGNA UNA CARTA FERITA DAL MAZZO DELLE FERITE.</string>
 	<string name="pop17_1_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop17_1_3__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE BATTLEFLOW.</string>
@@ -15107,13 +15109,13 @@ SE AVETE MENO DI 6 IRON, DOVETE SCEGLIERE DI CERCARE ALTRI INDIZI SUGLI OMICIDI 
 GUADAGNA UN OGGETTO COMUNE CASUALE DEL CAPITOLO 1.
 
 AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO."</string>
-	<string name="pop1_21_2__d">POSIZIONARE IL GETTONE POSIZIONE 22 E RECARSI LÌ.</string>
+	<string name="pop1_21_2__d">POSIZIONARE IL GETTONE POSIZIONE 22 E RECARSI SUL POSTO.</string>
 	<string name="pop1_21_3__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2.
 
 POSIZIONARE IL GETTONE POSIZIONE 22 E RECARSI SUL POSTO."</string>
 	<string name="pop1_22_10__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE BATTLEFLOW PERMANENTE. ANNOTATELO SULLA VOSTRA SCHEDA PERSONAGGIO.</string>
 	<string name="pop1_22_11__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS PERMANENTE +2. ANNOTATELO SULLA VOSTRA SCHEDA PERSONAGGIO.</string>
-	<string name="pop1_22_12__b">POSIZIONARE IL GETTONE POSIZIONE 15 E RECARSI LÌ.</string>
+	<string name="pop1_22_12__b">POSIZIONARE IL GETTONE POSIZIONE 15 E RECARSI SUL POSTO.</string>
 	<string name="pop1_22_1__b">"CREARE UN NOME PER LA VOSTRA LIBERA COMPAGNIA.
 
 DEFINITE UN ATTRIBUTO CHIAVE DELLA VOSTRA LIBERA COMPAGNIA SCEGLIENDO QUALE DELLE SEGUENTI AFFERMAZIONI DESCRIVE PIÙ ACCURATAMENTE LA VOSTRA COMPAGNIA:"</string>
@@ -15565,7 +15567,7 @@ SE FALLITE, PERDETE 4 IRON.
 
 SIA CHE SI RIESCA SIA CHE SI FALLISCA, GUADAGNI LA CARTA ALLEATO 1 (MIDGE).
 
-POSIZIONATE LA GETTONE POSIZIONE 10 E ANDATE LÌ."</string>
+POSIZIONATE LA GETTONE POSIZIONE 10 E RECARSI SUL POSTO."</string>
 	<string name="pop2_13_1__b">"APRIRE LA BUSTA MISTERIOSA 'A' E POSIZIONARE IL SUO CONTENUTO AL CENTRO DEL GIOCO. NON POSIZIONARE ANCORA IL SEGNALINO LIBERA COMPAGNIA. POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 2 SOTTO LA MAPPA. PRENDETE LA CARTA 'PATH A'."</string>
 	<string name="pop2_13_1__d">OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop2_13_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
@@ -15576,7 +15578,7 @@ POSIZIONATE LA GETTONE POSIZIONE 10 E ANDATE LÌ."</string>
 TUTTI GLI OATHSWORN OTTENGONO UN GETTONE REDRAW."</string>
 	<string name="pop2_13_9__b">"PERDERE 1 IRON.
 
-POSIZIONARE IL GETTONE POSIZIONE 10 E ANDARE LÌ."</string>
+POSIZIONARE IL GETTONE POSIZIONE 10 E RECARSI SUL POSTO."</string>
 	<string name="pop2_60_1__b">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCARE LA CASELLA \'SPECIAL RULES\' DEL CAPITOLO 2 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop2_60_2__b">PESCA E RISOLVE UNA CARTA EVENTO DEEPWOOD.</string>
 	<string name="pop2_60_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
@@ -15738,7 +15740,7 @@ POTETE AVVIARE UN COMMERCIO CON LO SPEZIALE."</string>
 	<string name="pop2b_51_7__b">OGNI OATHSWORN CHE HA DECISO DI TENTARE DI AFFERRARE LA DONNA EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop2b_5_1__b">LA DONNA IN NERO SEMBRA IMPORTANTE.</string>
 	<string name="pop3_0_1__b">"APRITE LA BUSTA MISTERIOSA 'A' E METTETENE IL CONTENUTO AL CENTRO DEL GIOCO. POSIZIONATE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZONE QUERCIA SPEZZATA (THE BROKEN OAK), MA NON POSIZIONATE IL GETTONE DELLA POSIZONE SULLA MAPPA DELLA CITTÀ. POSIZIONATE IL TRACCIATO DEL TEMPO DEL CAPITOLO 3 SOTTO LA MAPPA. PRENDETE LA CARTA 'PATH A'."</string>
-	<string name="pop3_0_1__d">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI LÌ.</string>
+	<string name="pop3_0_1__d">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI SUL POSTO.</string>
 	<string name="pop3_14_10__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2.</string>
 	<string name="pop3_14_20__b">"DOVETE FUGGIRE DA BASTONE. LA BESTIA SI STA SCATENANDO IN CITTÀ E DOVETE EVITARLA A TUTTI I COSTI. MENTRE FUGGITE, DOVETE TROVARE LE RAZIONI PER IL VOSTRO VIAGGIO (TENETE TRACCIA DELLA QUANTITÀ DI RAZIONI CHE AVETE CON UN GETTONE NUMERATO) E POTETE SCEGLIERE DI PORTARE CON VOI A VERUM I RIFUGIATI CHE INCONTRATE.
 
@@ -16121,7 +16123,7 @@ POSIZIONARE IL GETTONE POSIZIONE 7 E RECARSI SUL POSTO."</string>
 	<string name="pop5_7_7__b">"ARCHIVIARE LA CARTA ALLEATO CELESTE.
 
 GUADAGNATE 1 CARTA CURATIVA."</string>
-	<string name="pop5_7_9__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI LÌ.</string>
+	<string name="pop5_7_9__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI SUL POSTO.</string>
 	<string name="pop5_epi_1__b">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
 	<string name="pop5_epi_1__d">"GUADAGNA 20 IRON.
 
@@ -16243,8 +16245,8 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 6 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI I
 	<string name="pop6_14_4__b">"DUE STRADE SI APRONO DAVANTI A VOI. POTETE RINTRACCIARE QUESTO PORTATORE DI PESTE PER AIUTARE A PROTEGGERE LA CITTÀ, OPPURE POTETE ANDARE IN UDIENZA DAL RE.
 
 NON AVRETE TEMPO PER FARE ENTRAMBE LE COSE."</string>
-	<string name="pop6_14_5__b">PRENDERE LA CARTA \"PATH B\". POSIZIONARE IL GETTONE POSIZIONE 2 E RECARSI LÌ.</string>
-	<string name="pop6_14_6__b">PRENDERE CA CARTA \"PATH A\". POSIZIONARE IL GETTONE POSIZIONE 28 E ANDARE LÌ.</string>
+	<string name="pop6_14_5__b">PRENDERE LA CARTA \"PATH B\". POSIZIONARE IL GETTONE POSIZIONE 2 E RECARSI SUL POSTO.</string>
+	<string name="pop6_14_6__b">PRENDERE CA CARTA \"PATH A\". POSIZIONARE IL GETTONE POSIZIONE 28 E RECARSI SUL POSTO.</string>
 	<string name="pop6_3_1__b">"POTETE OTTENERE BREVIK E/O YANI COME ALLEATI AL COSTO DI 10 IRON CIASCUNO.
 
 SE ASSUMI BREVIK GUADAGNA LA CARTA ALLEATO 17 (BREVIK), AGGIUNGI LA CARTA EVENTO DEEPWOOD 30 AL TUO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 27 AL MAZZO EVENTI CITTÀ.
@@ -16256,9 +16258,9 @@ AGGIUNGERE LE CARTE EVENTO DEEPWOOD 12, 13, 14 E 15 AL MAZZO EVENTI DEEPWOOD.
 
 POSIZIONARE IL GETTONE POSIZIONE 10 E RECARSI SUL POSTO."</string>
 	<string name="pop6_7_1__b">"POSIZIONARE LA CARTA VERUM DALLA BUSTA MISTERIOSA \'B\' AL CENTRO DELL\'AREA DI GIOCO E POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 6A SOTTO DI ESSA. POSIZIONARE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZIONE 7. PRENDERE LA CARTA 'PATH A'"</string>
-	<string name="pop6_7_5__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI LÌ.</string>
-	<string name="pop6_7_6__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI LÌ.</string>
-	<string name="pop6_7_7__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI LÌ.</string>
+	<string name="pop6_7_5__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI SUL POSTO.</string>
+	<string name="pop6_7_6__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI SUL POSTO.</string>
+	<string name="pop6_7_7__b">POSIZIONARE IL GETTONE POSIZIONE 14 E RECARSI SUL POSTO.</string>
 	<string name="pop6_7_8__b">"PERDERE 4 IRON.
 
 ARCHIVIA LA CARTA ALLEATO HARLBECK E GUADAGNA LA CARTA ALLEATO 16."</string>
@@ -16282,7 +16284,7 @@ MARCARE LA CASELLA 'EXTRA UNIQUE' PER IL CAPITOLO 6 SULLA SCHEDA DELLA LIBERA CO
 	<string name="pop6a_28_33__b">TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.</string>
 	<string name="pop6a_28_34__b">"RIVELA TUTTE LE CARTE DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 6 - OGNI OATHSWORN GUADAGNA 1 OGGETTO DA ESSO.
 
-POSIZIONATE IL GETTONE POSIZIONE 3 E RECATEVI LÌ."</string>
+POSIZIONATE IL GETTONE POSIZIONE 3 E RECARSI SUL POSTO."</string>
     <string name="pop6a_28_3a__b">PROVA A SCOPRIRE LA VERITÀ. ASCOLTA ATTENTAMENTE LE TESTIMONIANZE PER TROVARE DEGLI INDIZI ED ELABORA UN GIUDIZIO PER IL RE.</string>
 	<string name="pop6a_28_5b__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 5. 4 SE AVETE CON VOI UN URSUS).</string>
 	<string name="pop6a_28_6b__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6).</string>
@@ -16322,7 +16324,7 @@ RIVELA TUTTE LE CARTE DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 6 - OGNI OATHSWORN G
 
 PRENDETE LA CARTA PATH A.
 
-POSIZIONATE LA POSIZIONE 3 E ANDATE LÌ."</string>
+POSIZIONATE LA POSIZIONE 3 E RECARSI SUL POSTO."</string>
 	<string name="pop6b_27_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop6b_27_3__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop6b_27_4__b">MARCARE LA CASELLA \'EXTRA UNIQUE\' PER IL CAPITOLO 6 SUL FOGLIO DELLA LIBERA COMPAGNIA.</string>
@@ -16357,11 +16359,11 @@ SE NON AVETE IL FORZIERE MISTERIOSO, APRITE LA BUSTA MISTERIOSA 7.
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 7 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop7_24_4__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE REDRAW.
 
-POSIZIONATE IL GETTONE POSIZIONE 6 E RECATEVI LÌ."</string>
+POSIZIONATE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO."</string>
 	<string name="pop7_24_5__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE ANIMUS +2.
 
 POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO."</string>
-	<string name="pop7_24_6__b">POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI LÌ.</string>
+	<string name="pop7_24_6__b">POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO.</string>
 	<string name="pop7_24_7__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.
 
 POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO."</string>
@@ -16371,7 +16373,7 @@ POSIZIONARE IL GETTONE POSIZIONE 6 E RECARSI SUL POSTO."</string>
 
 PRENDERE LA CARTA \"PATH B\"
 
-POSIZIONARE IL GETTONE POSIZIONE 15 E ANDARE LÌ."</string>
+POSIZIONARE IL GETTONE POSIZIONE 15 E RECARSI SUL POSTO."</string>
 	<string name="pop7_2_12__b">"TROVARE INDIZI SU DOVE SIA ANDATO IL VENERATORE - INIZIARE DAL CENTRO DELLA CITTÀ
 
 POSIZIONATE I GETTONI POSIZIONE 4, 5, 7 E 10 SULLA MAPPA."</string>
@@ -16389,7 +16391,7 @@ POSIZIONATE I GETTONI POSIZIONE 4, 5, 7 E 10 SULLA MAPPA."</string>
 	<string name="pop7_6_5__b">GUADAGNATE 10 IRON.</string>
 	<string name="pop7_6_7__b">GUADAGNATE 10 IRON.</string>
 	<string name="pop7_6_9__b">GUADAGNARE LA CARTA ALLEATO 19 (QUINTUS).</string>
-	<string name="pop7_6_9__d">POSIZIONARE IL GETTONE POSIZIONE 2 E RECARSI LÌ.</string>
+	<string name="pop7_6_9__d">POSIZIONARE IL GETTONE POSIZIONE 2 E RECARSI SUL POSTO.</string>
 	<string name="pop7_epi_3__b">ARCHIVIA LA CARTA ALLEATO 20 (FINNIAN).</string>
 	<string name="pop7_epi_5__b">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
 	<string name="pop7a_10_1__b">POTETE AVVIARE UN COMMERCIO CON IL FABBRO.</string>
@@ -16437,13 +16439,13 @@ RIMUOVERE IL SEGNALINO LIBERA COMPAGNIA DALLA MAPPA."</string>
 	<string name="pop7b_12_50__b">"TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE COMBATTIMENTO A LORO SCELTA.
 
 SCRIVERE LA PAROLA CHIAVE \"LOW CHURCH\" SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
-	<string name="pop7b_12_50__d">POSIZIONARE IL GETTONE POSIZIONE 20 E RECARSI LÌ.</string>
+	<string name="pop7b_12_50__d">POSIZIONARE IL GETTONE POSIZIONE 20 E RECARSI SUL POSTO.</string>
 	<string name="pop7b_12_51__b">"AGGIUNGERE 3 GETTONI TEMPO AL TRACCIATO DEL TEMPO.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN GETTONE DIFESA.
 
 SCRIVERE LA PAROLA CHIAVE \"LOW\" SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
-	<string name="pop7b_12_51__d">POSIZIONE IL GETTONE POSIZIONE 21 E RECARSI LÌ.</string>
+	<string name="pop7b_12_51__d">POSIZIONE IL GETTONE POSIZIONE 21 E RECARSI SUL POSTO.</string>
 	<string name="pop7b_13_1__b">OGNI OATHSWORN PUÒ ACQUISTARE UN SINGOLO GETTONE ANIMUS +2 AL COSTO DI 7 IRON CIASCUNO.</string>
 	<string name="pop7b_14_1__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGERE 1 AL RISULTATO SE IL CUR È CON VOI).</string>
 	<string name="pop7b_14_2__b">"SCEGLIERE UN OATHSWORN PER CAUSARE LA DISTRAZIONE.
@@ -16495,7 +16497,7 @@ AGGIUNGERE UN GETTONE TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop7b_19_6__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop7b_19_7__b">RIVELARE LA CARTA TRIANGOLO DI EVASIONE.</string>
 	<string name="pop7b_19_9__b">RIVELARE LA CARTA TRIANGOLO DI EVASIONE.</string>
-	<string name="pop7b_20_1__b">POSIZIONARE UN GETTONE POSIZIONE 21 E RECARSI LÌ.</string>
+	<string name="pop7b_20_1__b">POSIZIONARE UN GETTONE POSIZIONE 21 E RECARSI SUL POSTO.</string>
 	<string name="pop7b_28_1__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop7b_28_3__b">AGGIUNGERE UN GETTONE TEMPO ALL TRACCIATO DEL TEMPO.</string>
 	<string name="pop8_10_13__b">"POSIZIONATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA SULLA POSTAZIONE 7.
