@@ -26,7 +26,7 @@
 	<string name="abc_shareactionprovider_share_with">Condividi con</string>
 	<string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
 	<string name="abc_toolbar_collapse_description">Crollo</string>
-	<string name="about_text">"Oathsworn Traduzione Italiana v15.0
+	<string name="about_text">"Oathsworn Traduzione Italiana v16.0
 
 Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
 	<string name="add_time">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -3923,7 +3923,7 @@ Ascoltate come i due abitanti del villaggio rimasti, marito e moglie, si scambia
 	<string name="chp12m_6_1__a">"Storia a Tempo
 
 Una risata beffarda risuona nel villaggio tra gli alberi. \"I marchiati falliscono! Non siete niente! So che sei lassù! Non potete nascondervi da me!\" Avete fatto troppo rumore, sapete che ogni elemento di sorpresa che avreste potuto ottenere è ormai perduto."</string>
-	<string name="chp13_12_1__a">"Il fumo nero esce da una lunga barricata di fuoco che brucia fuori dalla caserma. È il limite superiore della zona di quarantena. Si apprende che le guardie qui sono state costrette a mantenere questa palizzata infuocata 24 ore su 24, a causa dell\'incessante raffica di attacchi provenienti dai cittadini afflitti. Non si trovano più di fronte a persone disperate che cercano di fuggire dalla peste. Si trovano invece di fronte a cose senza cervello che si gettano sulle lame dei difensori. Coloro che muoiono rapidamente a causa di questa piaga sono i più fortunati. Gli altri sembrano degenerare in abomini contorti con radici e funghi sparsi sulla pelle che li fanno impazzire. Diversi uomini validi sono già andati perduti e non possono continuare così ancora a lungo. Vi supplicano di ridurre il numero di infetti che assaltano la loro barricata.
+	<string name="chp13_12_1__a">"Il fumo nero esce da una lunga barricata di fuoco che brucia fuori dalla caserma. È il limite superiore della zona di quarantena. Si apprende che le guardie qui sono state costrette a mantenere questa palizzata infuocata 24 ore su 24, a causa dell\'incessante raffica di attacchi provenienti dai cittadini afflitti. Non vi trovate più di fronte a persone disperate che cercano di fuggire dalla peste. Vi trovate invece di fronte a cose senza cervello che si gettano sulle lame dei difensori. Coloro che muoiono rapidamente a causa di questa piaga sono i più fortunati. Gli altri sembrano degenerare in abomini contorti con radici e funghi sparsi sulla pelle che li fanno impazzire. Diversi uomini validi sono già andati perduti e non possono continuare così ancora a lungo. Vi supplicano di ridurre il numero di infetti che assaltano la loro barricata.
 
 
 Scegliete un\'opzione:"</string>
@@ -3949,7 +3949,7 @@ Scegliete un luogo dove andare:"</string>
 Scegliete un luogo dove andare:"</string>
 	<string name="chp13_17_1__a">"Lo Scolo (The Gutters)
 
-Arrivando all\'ex alveo del fiume che divide la città, si trovano lunghe file di rifugiati che fuggono dal bacino fangoso. È in corso un\'evacuazione. Parlando con una delle guardie presenti si apprende che laggiù verranno accatastati cumuli di fieno e sacchi di ambra. A quanto pare, hanno intenzione di dare fuoco allo Scolo se la quarantena dovesse essere interrotta.
+Arrivando all\'ex alveo del fiume che divide la città, trovate lunghe file di rifugiati che fuggono dal bacino fangoso. È in corso un\'evacuazione. Parlando con una delle guardie presenti si apprende che laggiù verranno accatastati cumuli di fieno e sacchi di ambra. A quanto pare, hanno intenzione di dare fuoco allo Scolo se la quarantena dovesse essere interrotta.
 
 
 Scegliete un luogo dove andare:"</string>
@@ -4533,7 +4533,7 @@ L\'uomo in ombra procede a condurvi verso sud, tra edifici fatiscenti e vicoli p
 	<string name="chp14_1_9__c">"Ore dopo, vi ritrovate di nuovo sulla Strada del Filo, arrancando sotto la chioma maledetta del Bosco Profondo con le speranze di una città ancora una volta sulle spalle. Vi chiedete come siete finiti in questo pasticcio. È un brutto lavoro, ma qualcuno deve farlo e per voi è appena diventato molto personale. Senza una strega, il Richiamo non sarà possibile e tu non troverai una cura per la peste che si sta facendo strada nel tuo corpo. La città morirà e voi con lei.
 
 Questo pensiero vi dà uno scopo e vi spinge ad attraversare il Bosco Profondo."</string>
-	<string name="chp14_25_1__a">Attraversando il bosco maledetto, si scoprono finalmente i segni della civiltà. Semisepolti nella terra e coperti da muschio e radici marce, ci sono i resti di un vecchio muro di pietra. Proseguendo, si trovano altre rovine ed il letto di un fiume prosciugato che scende serpeggiando dalle montagne a est. Qualunque sia stato questo luogo, l\'area che copre è vasta.</string>
+	<string name="chp14_25_1__a">Attraversando il bosco maledetto, si scoprono finalmente i segni della civiltà. Semisepolti nella terra e coperti da muschio e radici marce, ci sono i resti di un vecchio muro di pietra. Proseguendo, trovate altre rovine ed il letto di un fiume prosciugato che scende serpeggiando dalle montagne a est. Qualunque sia stato questo luogo, l\'area che copre è vasta.</string>
 	<string name="chp14_26_1__c">"Man mano che vi addentrate nelle rovine, appare chiaro che un tempo questa era un\'antica città. Si possono facilmente distinguere i gusci scavati di edifici distrutti e altre strutture che dominano il paesaggio. Il Bosco Profondo è pieno di resti di vecchie città dimenticate, ma le rovine qui sembrano più antiche di tutte quelle che avete incontrato prima
 
 Guardando a est, vedete un labirinto di edifici senza fine e a sud c\'è un vecchio fiume prosciugato che attraversa la città. Il paesaggio a sud sembra più difficile da attraversare e richiede più tempo. Tuttavia, la vista a est è fortemente ostruita dalle rovine e offre una scarsa visibilità."</string>
@@ -4595,8 +4595,8 @@ Uscendo dal villaggio, il vostro occhio scorge un luccichio di ferro in lontanan
 	<string name="chp14_44_1__a">"Facendovi strada attraverso una fitta macchia di rovi, la foresta finalmente si apre un po\'. Ma quando si guarda avanti, si capisce perché. Gli alberi e i rami sono divorati da migliaia di palle chiodate, i "cardi veloci". Vi bloccate immediatamente, sapendo che la più piccola vibrazione le farà esplodere. Indietreggiate lentamente, camminando con estrema leggerezza. Se qualcuno le innesca, soffrirete tutti."</string>
 	<string name="chp14_44_2__a">Una pioggia di piccoli spuntoni riempie l\'aria, trafiggendo tutto ciò che si vede. Cercate disperatamente di evitare il pericolo, ma venite colpiti da molti di essi. Il sangue sgorga dalle ferite, mentre gli arti vengono brevemente paralizzati dalle loro punte tossiche.</string>
 	<string name="chp14_44_3__a">Il respiro si blocca in gola al suono di ogni ramo che si spezza, ma in qualche modo riuscite a evitare il pericolo senza danni.</string>
-	<string name="chp14_47_1__a">Proseguendo verso est, si trovano le tracce di un sentiero sterrato che si inerpica su una catena montuosa.</string>
-	<string name="chp14_47_2__a">"Seguendo il sentiero, si trovano sterco di animale e piccole impronte di zoccoli che conducono al cadavere di un cervo. I cervi sono una vista rara nel Bosco Profondo, la maggior parte sopravvive in branchi nomadi. Questo sfortunato sembra aver viaggiato da solo. Ma la cosa davvero singolare è che l\'animale è stato svuotato delle sue interiora attraverso un grande foro nel petto
+	<string name="chp14_47_1__a">Proseguendo verso est, trovate le tracce di un sentiero sterrato che si inerpica su una catena montuosa.</string>
+	<string name="chp14_47_2__a">"Seguendo il sentiero, trovate sterco di animale e piccole impronte di zoccoli che conducono al cadavere di un cervo. I cervi sono una vista rara nel Bosco Profondo, la maggior parte sopravvive in branchi nomadi. Questo sfortunato sembra aver viaggiato da solo. Ma la cosa davvero singolare è che l\'animale è stato svuotato delle sue interiora attraverso un grande foro nel petto
 
 Le tracce finiscono qui, con nient\'altro che un corso d\'acqua prosciugato che si estende verso le montagne. Non sembra esserci alcun motivo per continuare la ricerca qui..."</string>
 	<string name="chp14_47_3__a">Le tracce portano a un corso d\'acqua prosciugato, dove il terreno roccioso fa perdere rapidamente le tracce. Abbandonate le ricerche e proseguite.</string>
@@ -5062,7 +5062,7 @@ Speravi che il tuo ritorno a casa passasse inosservato, ma i campioni del Sentie
 Il Thracian Blade deve scegliere uno:"</string>
 	<string name="chp15a_16_23__a">Al ragazzo lanciate un\'occhiata che di solito è riservata a coloro che intendete uccidere. In preda al panico, il bambino indietreggia e farfuglia delle scuse prima di precipitarsi tra la folla.</string>
 	<string name="chp15a_16_23__c">Fortunatamente, nessun altro sembra riconoscervi ed il resto della camminata verso il Coliseum passa senza incidenti. Oltre i cancelli dello stadio vi aspetta una vita di ricordi, molti dei quali preferireste dimenticare.</string>
-	<string name="chp15a_16_24__a">"Onorare i propri sostenitori è una tradizione antica tra i campioni degli sport di sangue traci e non avete intenzione di rifiutare. Facendo scivolare la lama dal fodero, incidete un\'altra tacca nella maschera del ragazzo che la indossa. Come di consueto, la lama taglia in profondità, intaccando leggermente la guancia del ragazzo. Notate che molte altre belle cicatrici sono state lasciate dai precedenti campioni che hanno dato la loro tacca prima di voi. Il ragazzo è davvero un fan sfegatato."</string>
+	<string name="chp15a_16_24__a">"Onorare i propri sostenitori è una tradizione antica tra i campioni degli sport di sangue Traciani e non avete intenzione di rifiutare. Facendo scivolare la lama dal fodero, incidete un\'altra tacca nella maschera del ragazzo che la indossa. Come di consueto, la lama taglia in profondità, intaccando leggermente la guancia del ragazzo. Notate che molte altre belle cicatrici sono state lasciate dai precedenti campioni che hanno dato la loro tacca prima di voi. Il ragazzo è davvero un fan sfegatato."</string>
 	<string name="chp15a_16_24__c">Il resto della camminata verso il Coliseum passa senza incidenti. Al di là dei cancelli dello stadio vi aspetta una vita di ricordi, alcuni dei quali gloriosi. Molti, invece, preferireste dimenticarli.</string>
 	<string name="chp15a_16_2__a">"Passate sotto gli archi scolpiti ed entrate in un teatro a gradoni che racchiude l\'arena ovale: Il Colosseo di Tracia - per alcuni un infame pozzo di morte, per altri una scala verso la gloria. Il teatro è diviso in tre livelli: il più basso è dominato dai Mascherati, vestiti in modo sfarzoso e assistiti da decine di Senza Volto a capo chino, oltre che da alcuni fratelli Oathsworn, una vista rara. Il livello dietro di loro è popolato da Mascherati senza le vesti colorate o servitori, e dietro di loro ci sono le masse accalcate di grigio e marrone, sorvegliate da esecutori mascherati. E sopra tutti loro, come empie decorazioni sulle pareti, sono appesi dodici corpi di corvo.
 
@@ -5358,7 +5358,7 @@ Se questa era la terza porta su cui avete indagato, scegliete l\'opzione superio
 Scegliete un\'opzione:
 
 Se questa era la terza porta che avete esplorato, scegliete l\'opzione superiore. Altrimenti, scegliete un\'altra porta."</string>
-	<string name="chp15a_9_7__a">"All\'interno della stanza Amise, notate diverse luoghi comuni incisi sul muro. \"Se un secchio di latte scompare a Tracia, il contadino, la lattaia e la mucca vi racconteranno una storia diversa\" si legge su uno. Più all\'interno, si trovano i racconti di un\'antica faida con i Pitone che va e viene nel corso della storia. Quattro generazioni fa, i Pitone commisero un atto atroce contro l\'Amiese in un evento chiamato "Il giardino delle lacrime".
+	<string name="chp15a_9_7__a">"All\'interno della stanza Amise, notate diverse luoghi comuni incisi sul muro. \"Se un secchio di latte scompare a Tracia, il contadino, la lattaia e la mucca vi racconteranno una storia diversa\" si legge su uno. Più all\'interno, trovate i racconti di un\'antica faida con i Pitone che va e viene nel corso della storia. Quattro generazioni fa, i Pitone commisero un atto atroce contro l\'Amiese in un evento chiamato "Il giardino delle lacrime".
 
 
 Scegliete un\'opzione:
@@ -5476,7 +5476,7 @@ Scegliete un\'opzione:"</string>
 
 L\'aria è densa di morte. È un odore acre e vivido, come di passi nel fango. Vi conduce oltre le mandrie di Senza Volto, che si rannicchiano e si rapprendono nelle loro fragili baracche, lungo un\'unica strada verso un gruppo isolato di capannoni che tutti evitano. Tutti hanno le porte chiuse. Sono avvolti dalla morbosità
 
-Sono chiuse a chiave, ma si entra facilmente. All\'interno si trovano mucchi maleodoranti, non di materiale o di escrementi, ma di corpi. Decine di corpi, impilati e organizzati come mattoni, strato su strato per utilizzare lo spazio nel modo più efficiente. In un angolo trovate una donna che respira ancora. Ansimando, è chiaro che non è destinata a rimanere al mondo. Prendendola per mano, le chiedete cosa sia successo qui.
+Sono chiuse a chiave, ma si entra facilmente. All\'interno trovate mucchi maleodoranti, non di materiale o di escrementi, ma di corpi. Decine di corpi, impilati e organizzati come mattoni, strato su strato per utilizzare lo spazio nel modo più efficiente. In un angolo trovate una donna che respira ancora. Ansimando, è chiaro che non è destinata a rimanere al mondo. Prendendola per mano, le chiedete cosa sia successo qui.
 
 \"L\'acqua, è la morte,\" dice, muovendo lentamente la testa verso un secchio. \"Ci costringevano a bere e poi ci tenevano qui per vedere cosa sarebbe successo. Perché...\" raschia, ma la sua domanda rimane incompiuta mentre si accascia. Riportando la sua mano nella terra, considerate le implicazioni."</string>
 	<string name="chp15b_20_2__a">"L\'orrore rivela la verità. Il Pitone sta facendo esperimenti sui suoi Senza Volto con una specie di veleno, e conserva persino i loro corpi per nasconderlo. Si sa che vuole vendicarsi, ma contro chi? Usare un veleno di massa contro i Senza Volto sarebbe un\'operazione importante e difficile da nascondere. Dove cadrà il martello?
@@ -5502,7 +5502,7 @@ Vi si avvicina un membro minore della famiglia Lignja. Anche se giovane, zoppica
 \"Non sono ingenuo. So perché sei qui, anche se mia madre ti divorerebbe per questo. Ma non sono cieco come lei, vedo più lontano e dirò solo che ho sentito che il Distretto Senza Volto dei Pitone ha un odore più sgradevole del solito per questo periodo dell\'anno.\""</string>
 	<string name="chp15b_25_1__a">"Posizione 25 - Oltre le mura
 
-Uscite dal Foregate e costeggiate il muro esterno di Tracia, tenendovi vicini alla linea infinita di pali che si protendono verso i boschi in attesa. Diverse creature sono state impalate nel tentativo di fare breccia nella città. Quando finalmente raggiungete il luogo indicato dall\'Amiese, vi rendete conto di essere stati ingannati. Qui non c\'è nulla. State per tornare indietro, ma vi rendete conto di non essere soli. Nel bosco, vedete una dozzina di occhi affamati che si chiudono velocemente."</string>
+Uscite dal Cancello Posteriore e costeggiate il muro esterno di Tracia, tenendovi vicini alla linea infinita di pali che si protendono verso i boschi in attesa. Diverse creature sono state impalate nel tentativo di fare breccia nella città. Quando finalmente raggiungete il luogo indicato dall\'Amiese, vi rendete conto di essere stati ingannati. Qui non c\'è nulla. State per tornare indietro, ma vi rendete conto di non essere soli. Nel bosco, vedete una dozzina di occhi affamati che si chiudono velocemente."</string>
 	<string name="chp15b_25_1__c">"Sembra che l\'Amiese ti abbia dato una lezione sull\'inganno dei Traci. Un giorno sperate di dargliene una in cambio.
 
 
@@ -5726,7 +5726,7 @@ Scegliete un\'opzione:"</string>
 Una schiera di guardie mascherate invade rapidamente la stanza, circondando Rubeo. Con calma, la maschera a goccia di Rubeo spazza la stanza e con un rapido movimento del polso lancia una fiala di liquido sul pavimento. Rubeo scompare in una nuvola di fumo. Quando il fumo si dissolve, rimane solo il suo messaggio. Mentre i nobili mascherati si affrettano verso le uscite, notate che il Volpe e il Lignja escono insieme senza accompagnatori, dirigendosi verso sud dall\'Assemblea del Curiato."</string>
 	<string name="chp15b_8_23__a">"I pugnali volano dal fumo, cogliendovi di sorpresa. Mentre avanzate nella nube, Rubeo attacca, i suoi coltelli danzano intorno a voi. Gambe e pugni potenti vi fanno perdere l\'equilibrio e uno di voi cade a terra. Quando il fumo si dirada, vi rialzate e trovate Rubeo che vi preme sul petto con la sua lama alla gola. Vi bloccate tutti.
 
-\"Questo lo giuro,\" dice, guardando voi, ma parlando a tutti. \"Chi complotta contro i Senza Volto sarà morto entro l\'alba, a meno che non interrompa i suoi piani. Chi è a conoscenza dei piani e non riesce a fermarli, farà la stessa fine di questi.\" Alzandosi, Rubeo lascia cadere un sacco sul tavolo del banchetto con un tonfo umido. Come in risposta alle sue parole, una schiera di guardie mascherate invade la sala. Con calma, spazzando la sua maschera a goccia attraverso la stanza, lancia una seconda fiala di liquido sul pavimento. Quando il fumo si dissolve, lui è sparito. Passate ad ispezionare il contenuto del sacco e si trovano cinque teste mozzate, una per ogni membro minore delle Cinque famiglie. Rubeo ha reso chiaro il suo messaggio.
+\"Questo lo giuro,\" dice, guardando voi, ma parlando a tutti. \"Chi complotta contro i Senza Volto sarà morto entro l\'alba, a meno che non interrompa i suoi piani. Chi è a conoscenza dei piani e non riesce a fermarli, farà la stessa fine di questi.\" Alzandosi, Rubeo lascia cadere un sacco sul tavolo del banchetto con un tonfo umido. Come in risposta alle sue parole, una schiera di guardie mascherate invade la sala. Con calma, spazzando la sua maschera a goccia attraverso la stanza, lancia una seconda fiala di liquido sul pavimento. Quando il fumo si dissolve, lui è sparito. Passate ad ispezionare il contenuto del sacco e trovate cinque teste mozzate, una per ogni membro minore delle Cinque famiglie. Rubeo ha reso chiaro il suo messaggio.
 
 Alla vista delle teste, molti dei nobili mascherati si dirigono rapidamente verso le uscite. Notate che il Volpe ed il Lignja se ne vanno insieme senza essere accompagnati, parlando a voce alta."</string>
 	<string name="chp15b_8_24__c">"Polus vi raggiunge in seguito, dopo aver origliato per tutta la serata per vostro volere. I suoi occhi scuri parlano di ciò che deve aver sentito
@@ -5745,7 +5745,7 @@ Alla vista delle teste, molti dei nobili mascherati si dirigono rapidamente vers
 
 Ogni coppia o trio che incrociate interrompe istintivamente la conversazione o cambia argomento in un istante. Quelli con cui parlate si nascondono dietro ai convenevoli. Dovrà bastare origliare."</string>
 	<string name="chp15b_8_30__a">Sapete che sono i Pitone a volersi vendicare, ma contro chi cadrà il martello e con quali mezzi?</string>
-	<string name="chp15b_8_3__a">"Affacciati al balcone, si trovano una Volpe e un Carnedine che si scambiano vino e segreti.
+	<string name="chp15b_8_3__a">"Affacciati al balcone, si trovano un Volpe e un Carnedine che si scambiano vino e segreti.
 
 \"Si dice che il Pitone sia in cerca di vendetta,\" dice il Volpe, con la voce un po\' stonata
 
@@ -5756,7 +5756,7 @@ Ogni coppia o trio che incrociate interrompe istintivamente la conversazione o c
 \"In giro per la città? Chi avrebbe mai pensato che uno degli uomini più potenti..\"
 
 Il Volpe si gira improvvisamente. \"Sta prendendo di mira uno di noi. Ho sentito che il Lignja ne sa di più.\""</string>
-	<string name="chp15b_8_4__a">"Affacciati al balcone, si trovano il Volpe e il Carnedine che si scambiano vino e segreti.
+	<string name="chp15b_8_4__a">"Affacciati al balcone, si trovano un Volpe e un Carnedine che si scambiano vino e segreti.
 
 \"Si dice che il Pitone sia in cerca di vendetta,\" dice il Volpe, con la voce che si perde nel vuoto
 
@@ -5787,7 +5787,7 @@ Scegliere un luogo in cui andare:"</string>
 	<string name="chp16_10_10__c">"Dopo un\'esauriente ricerca nell\'edificio, scoprite finalmente una porta nascosta dietro alcune vecchie casse e cianfrusaglie varie. Mentre iniziate a scacciare il blocco, un\'anziana donna senza volto vi si avvicina timidamente. \"È infestato\", vi dice. \"Non dovreste entrare lì dentro. Nessuno è mai tornato.\" Con queste parole "incoraggianti" che vi risuonano nelle orecchie, vi inoltrate nell\'oscurità della torre."</string>
 	<string name="chp16_10_11__a">"Chiudendo la porta alle vostre spalle, i suoni del mondo esterno sono attutiti e tutto ciò che riuscite a sentire è un leggero vento che ulula attraverso il lungo corridoio che si estende davanti a voi. Facendo passi attenti, cominciate a percepire che non siete soli qui. Improvvisamente, si sente un battito silenzioso da qualche parte dietro le pareti. Avanzando nel corridoio scarsamente illuminato, per poco non inciampate in un mucchio di ossa. Accendendo le vostre torce ambrate, osservate attentamente i resti e notate che lo scheletro sembra abbastanza fresco, anche se spogliato della sua carne
 
-I rumori di battitura si fanno più forti man mano che si prosegue e presto se ne aggiungono altri. Alla fine arrivate ai resti fatiscenti di una vecchia scala. Alzando le torce in alto, potete vedere decine di piccoli fori disposti con cura in uno schema sulle pareti. Facendo un passo indietro per avere una visione più ampia, notate la forma di un grande scarabeo. Questo luogo un tempo apparteneva allo Scaravelho
+I rumori di battitura si fanno più forti man mano che si prosegue e presto se ne aggiungono altri. Alla fine arrivate ai resti fatiscenti di una vecchia scala. Alzando le torce in alto, potete vedere decine di piccoli fori disposti con cura in uno schema sulle pareti. Facendo un passo indietro per avere una visione più ampia, notate la forma di un grande scarabeo. Questo luogo un tempo apparteneva agli Scaravelho
 
 Continuando a cercare, la luce ambrata della torcia si riflette su un carapace nero, che improvvisamente sussulta quando la luce lo investe. Zampe chitinose si estendono dal grasso carapace e voi osservate lo scarabeo che si allontana in uno dei tanti buchi nel muro. Il basso ronzio del grattare vi riempie le orecchie quando improvvisamente centinaia di grassi scarabei si riversano da ogni buco come fiumi neri."</string>
 	<string name="chp16_10_11__c">"Decine di scarabei neri strisciano su di voi, con le loro fauci che si avventano sulla vostra carne esposta. Saltando indietro, portate le vostre torce d\'ambra contro lo sciame, combattendo quelli già attaccati a voi. Il vostro gruppo si unisce, formando un anello di luce sul terreno, mentre gli insetti vi si riversano intorno come l\'acqua intorno a una roccia. L\'unica cosa che vi salva da una morte orribile è la luce ambrata. Quando lo sciame passa, prosegue lungo il corridoio prima di scomparire in un grande buco all\'estremità opposta. Fortunatamente, subite solo qualche graffio sanguinante, con l\'armatura che assorbe la maggior parte dei danni. Ora è chiaro perché i Senza Volto pensavano che questo edificio fosse infestato
@@ -5795,7 +5795,7 @@ Continuando a cercare, la luce ambrata della torcia si riflette su un carapace n
 Continuando la ricerca, scoprite una leva a metà della scala danneggiata. Tirandola, si sente il rumore del metallo sulla pietra mentre una serie di piastre passa davanti ai buchi sulle pareti, impedendo agli Scarabei di rientrare nel passaggio. Sembra che questo corridoio fosse uno dei modi in cui gli Scaravelho si liberavano dei loro nemici, un metodo tanto ingegnoso quanto orribile
 
 Salendo le scale rotte, si entra nella parte superiore della torre e scoprite che questa doveva essere l\'ala privata del capo della famiglia Scaravelho. Nonostante la polvere, la stanza è quasi completamente intatta dal tempo: pezzi di vecchi stendardi sono ancora appesi alle pareti, ricordando a tutti l\'antica magnificenza della famiglia Scaravelho. Sul pavimento sono sparsi alcuni resti umani, le cui ossa frantumate e la posizione contorta del corpo indicano che molto probabilmente sono stati uccisi in battaglia."</string>
-	<string name="chp16_10_12__a">Tra gli oggetti presenti nella stanza, trovate qualche oggetto utilizzabile e qualche gingillo che potrebbe fruttare qualche ferro prima di tornare a concentrarvi sulle ossa sul pavimento.</string>
+	<string name="chp16_10_12__a">Tra gli oggetti presenti nella stanza, trovate qualche oggetto utilizzabile e qualche gingillo che potrebbe fruttare dell\'Iron, prima di tornare a concentrarvi sulle ossa sul pavimento.</string>
 	<string name="chp16_10_14__a">"Esaminando uno degli scheletri, sembra essere di un maschio e sembra che sia stato sbattuto contro il muro, frantumando le ossa. A portata di mano, trovate anche un coltello rotto, non intaccato dalla ruggine o dal tempo, accanto a quello che sembra un pezzo di corteccia secca. Tuttavia, ispezionando l\'oggetto più da vicino, sembra che possa essere parte di un insetto o di un altro animale.
 
 Guardando verso la parete più lontana, vedete un enorme buco aperto verso il Bosco Profondo
@@ -5807,16 +5807,16 @@ Camminate lungo i terreni delle Carnedine alla ricerca di qualsiasi indizio dell
 	<string name="chp16_10_4__a">"Quando vi avvicinate alle guardie al cancello, queste vi riconoscono e bloccano l\'ingresso. \"I giovani Pitone non entrano qui,\" dice una delle guardie. \"Conosciamo la tua neutralità, Oathsworn.\"
 
 Con il cancello così pesantemente sorvegliato, non sarà possibile entrare qui. Tuttavia, guardando attraverso l\'arco d\'ingresso, notate una torre decrepita che assomiglia notevolmente a uno degli schizzi visti."</string>
-	<string name="chp16_10_5__a">Se avesse cercato di entrare nella tenuta di Carnedine solo un giorno prima, avrebbe ottenuto facilmente l\'accesso in qualità di giudice dell\'omicidio di Amiese. Ora, però, le cose sono cambiate. Con l\'acuirsi delle tensioni in tutta la città, ognuna delle cinque famiglie ha aumentato notevolmente la forza lavoro nei propri terreni. La tenuta dei Carnedine ora assomiglia a una fortezza. Quando vi avvicinate alle guardie del cancello, queste negano l\'ingresso. Tuttavia, guardando attraverso l\'arco del cancello, notate una torre decrepita che assomiglia notevolmente a uno degli schizzi visti.</string>
+	<string name="chp16_10_5__a">Se aveste cercato di entrare nella tenuta di Carnedine solo un giorno prima, avreste ottenuto facilmente l\'accesso in qualità di giudici dell\'omicidio dell\'Amiese. Ora, però, le cose sono cambiate. Con l\'acuirsi delle tensioni in tutta la città, ognuna delle cinque famiglie ha aumentato notevolmente la forza lavoro nei propri terreni. La tenuta dei Carnedine ora assomiglia a una fortezza. Quando vi avvicinate alle guardie del cancello, queste negano l\'ingresso. Tuttavia, guardando attraverso l\'arco del cancello, notate una torre decrepita che assomiglia notevolmente a uno degli schizzi visti.</string>
 	<string name="chp16_10_6__a">"Girando intorno ai terreni di Carnedine, entrate nel quartiere dei Senza Volto e cercate la torre decrepita. Una volta individuata, iniziate a cercare un punto di ingresso e vi rendete subito conto che le vostre opzioni sono limitate. I Senza Volto hanno i loro alloggi nell\'edificio adiacente, ma non c\'è un modo ovvio per passare tra le due strutture
 
 Forse uno dei Senza Volto potrebbe avere informazioni su come accedere alla torre."</string>
 	<string name="chp16_10_7__a">"Una donna senza volto capisce cosa state cercando e vi indica una porta nascosta dietro alcune vecchie casse e cianfrusaglie varie. \"È infestata\", vi dice. \"Non dovreste entrare. Nessuno è mai tornato.\" Con queste parole "incoraggianti" che vi risuonano nelle orecchie, vi inoltrate nell\'oscurità della torre."</string>
 	<string name="chp16_10_8__a">Ogni Senza Volto che avvicinate evita il vostro sguardo, la maggior parte cade in ginocchio davanti a voi e mormora scuse. Dovrete cercare un\'entrata da soli.</string>
 	<string name="chp16_10_9__a">"Dopo aver studiato la disposizione dell\'edificio ed il suo posizionamento rispetto alla torre, alla fine trovate una porta nascosta dietro alcune vecchie casse e cianfrusaglie varie. Mentre iniziate a scacciare il blocco, un\'anziana donna senza volto vi si avvicina timidamente. \"È infestata\", vi dice. \"Non dovreste entrare. Nessuno è mai tornato.\" Con queste parole "incoraggianti" che vi risuonano nelle orecchie, vi inoltrate nell\'oscurità della torre."</string>
-	<string name="chp16_12_1__a">"Posizione 12 - Il Foregate
+	<string name="chp16_12_1__a">"Posizione 12 - Il Cancello Posteriore
 
-Vi dirigete verso il Portale, con l\'intenzione di scoprire ulteriori indizi sulla carovana che è stata recentemente assaltata. Mentre vi avvicinate, notate un gruppo di guardie mascherate senza ornamenti animali che parlano tra loro. La loro conversazione si riduce a un sussurro al vostro passaggio."</string>
+Vi dirigete verso il Cancello, con l\'intenzione di scoprire ulteriori indizi sulla carovana che è stata recentemente assaltata. Mentre vi avvicinate, notate un gruppo di guardie mascherate senza ornamenti animali che parlano tra loro. La loro conversazione si riduce a un sussurro al vostro passaggio."</string>
 	<string name="chp16_12_3__a">"\"Ho sentito che i Pitone stanno progettando di uccidere un intero gruppo di Senza Volto. Questa città sta davvero andando in malora, non è vero?\""</string>
 	<string name="chp16_12_4__a">\"Siete ciechi? Le famiglie stanno combattendo apertamente per le strade e la Gilda ha più marchi di quanti ne possa gestire. I poteri si stanno spostando. La Tracia potrebbe non avere cinque famiglie regnanti ancora per molto.\"</string>
 	<string name="chp16_12_5__a">"Tutti gli occhi si rivolgono a voi quando il vostro gruppo si affianca alle squadre di guardia. Individuando l\'ufficiale tra loro, chiedete informazioni sulla carovana
@@ -5826,7 +5826,7 @@ Vi dirigete verso il Portale, con l\'intenzione di scoprire ulteriori indizi sul
 \"Un mostro immortale che si aggira per i boschi? Questa è solo una vecchia favola,\" dice il sergente in modo derisorio. \"Ho delle minacce reali di cui occuparmi,\" continua, facendovi cenno di andare via. \"I resti della carovana sono appena oltre il muro, lungo il terzo Filo, guardate voi stessi.\""</string>
 	<string name="chp16_14_1__a">"14 - Quartiere dei Servitori dei Pitone
 
-Le vostre richieste di informazioni sulla famiglia Swan sono accolte da risate di scherno. Pochi sembrano aver sentito parlare della nobile casata, tranne un vecchio solitario. \"Cigno, hai detto?\" chiede. \"Sono tutti morti anni fa. Anche se ne fosse rimasto qualcuno oggi, non vivrebbe più così a fondo nella rete.\""</string>
+Le vostre richieste di informazioni sulla famiglia Cigno sono accolte da risate di scherno. Pochi sembrano aver sentito parlare della nobile casata, tranne un vecchio solitario. \"Cigno, hai detto?\" chiede. \"Sono tutti morti anni fa. Anche se ne fosse rimasto qualcuno oggi, non vivrebbe più così a fondo nella rete.\""</string>
 	<string name="chp16_17_10__a">"Colpo dopo colpo, vi impegnate in una danza guerriera. Anche con l\'improvvisazione, una coreografia perfetta si traduce in un combattimento spettacolare. Un vero spettacolo per le masse. L\'ultimo colpo si conficca in una fessura dell\'armatura del fianco di Molti Inverni, facendo uscire il sangue, ma non ferendo mortalmente l\'orso. L\'armatura nasconderà quella che è una ferita insignificante. Con un potente ruggito, l\'orso da guerra cade in ginocchio. Se non aveste saputo il contrario, l\'avreste creduto morto. La folla applaude e ulula in segno di approvazione. Per loro, questo è stato un buon intrattenimento.
 
 Dopo lo spettacolo, raccogliete il corpo di Molti Inverni. Trascinate la sua enorme struttura su una lettiga fuori dal Colosseo e in un vicolo laterale. Solo allora l\'Ursus si muove. In piedi, guarda verso il cielo e poi verso di voi. Il possente orso da guerra vi ringrazia e chiede di unirsi alla vostra Libera Compagnia per il prossimo capitolo della sua saga.
@@ -5836,28 +5836,28 @@ Scegliete un\'opzione:"</string>
 	<string name="chp16_17_11__a">"Molti Inverni attacca con una furia che non eravate preparati ad affrontare. Nonostante il vostro numero schiacciante, nessuno di voi riesce a penetrare le difese dell\'orso da guerra. L\'istinto sembra aver preso il sopravvento e i suoi colpi sono implacabili. Mentre le armi volano, subite un brutto colpo al fianco e la lama si conficca nella vostra carne. Mentre cadete in ginocchio, insanguinati davanti a lui, le guardie accorrono e intrappolano Molti Inverni con catene uncinate, ricacciandolo nel suo recinto con lunghe lance. La folla applaude e ride della vostra umiliazione e del vostro fallimento, un buon intrattenimento per loro. Non ci sarà modo di liberare Molti Inverni dalla sua schiavitù."</string>
 	<string name="chp16_17_12__a">Fedele alla sua parola, Molti Inverni condivide ciò che sa dell\'Orco di Tracia. Spiega che la creatura è ricoperta da grandi croste di armatura che si staccano dalla sua carne. Questo causa al demone un dolore incredibile, ma le croste sono quasi insensibili agli attacchi, anche di un Ursus. L\'unica debolezza che Molti Inverni riuscirono a trovare fu la morbida parte carnosa lasciata da una crosta appena staccata.</string>
 	<string name="chp16_17_12__c">Offrendo all\'Ursus la possibilità di completare la sua caccia, si passa i grandi artigli di ferro sul petto e vi regala un sorriso predatorio che mette in moto tutti i vostri istinti di sopravvivenza.</string>
-	<string name="chp16_17_13__a">Fedele alla sua parola, Molti Inverni condivide ciò che sa dell\'Orco di Tracia. Spiega che la creatura è ricoperta da grandi croste sanguinolente di armatura che si staccano dalla sua carne. Questo causa al demone un dolore incredibile, ma le croste sono quasi insensibili agli attacchi, anche di un Ursus. L\'unico punto debole che molti Winters sono riusciti a trovare sono le parti morbide e carnose lasciate da una crosta appena staccata.</string>
+	<string name="chp16_17_13__a">Fedele alla sua parola, Molti Inverni condivide ciò che sa dell\'Orco di Tracia. Spiega che la creatura è ricoperta da grandi croste sanguinolente di armatura che si staccano dalla sua carne. Questo causa al demone un dolore incredibile, ma le croste sono quasi insensibili agli attacchi, anche di un Ursus. L\'unico punto debole che Molti Inverni è riuscito a trovare sono le parti morbide e carnose lasciate da una crosta appena staccata.</string>
 	<string name="chp16_17_13__c">"Avendo rifiutato il desiderio di molti Winters di unirsi alla vostra Libera Compagnia, se ne va, lasciandovi solo l\'avvertimento che la sua caccia non è finita e che se vi mettete sulla sua strada, non vi sarà data tregua al vostro prossimo incontro."</string>
 	<string name="chp16_17_1__a">"17 - Le fosse del Colosseo
 
-Entrando nei corridoi bui sotto il Colosseo, il denso fetore di morte e sudore aleggia nell\'aria come una nuvola. Vi è stato detto che uno dei bestiari qui presenti potrebbe aver visto l\'Orco. Mentre i gladiatori guardano da dietro le sbarre di ferro, voi interrogate alcuni dei giocatori. Non ci vuole molto per scoprire che il Beastmaster che cercate non è più annoverato tra i vivi. Sembra che sia stato ucciso di recente proprio dalla creatura che voi stessi avete visto nell\'arena. C\'è poca empatia per quell\'uomo. Solo dei pazzi oserebbero cercare di schiavizzare le creature selvagge del Bosco Profondo. Un\'impresa così folle sarebbe inaudita in qualsiasi altra città o paese
+Entrando nei corridoi bui sotto il Colosseo, il denso fetore di morte e sudore aleggia nell\'aria come una nuvola. Vi è stato detto che uno degli addestratori di bestie qui presenti potrebbe aver visto l\'Orco. Mentre i gladiatori guardano da dietro le sbarre di ferro, voi interrogate alcuni degli organizzatori. Non ci vuole molto per scoprire che l\'addestratore che cercate non è più annoverato tra i vivi. Sembra che sia stato ucciso di recente proprio dalla creatura che voi stessi avete visto nell\'arena. C\'è poca empatia per quell\'uomo. Solo dei pazzi oserebbero cercare di schiavizzare le creature selvagge del Bosco Profondo. Un\'impresa così folle sarebbe inaudita in qualsiasi altra città o paese
 
-Tornando in superficie, state per uscire quando sentite un profondo brontolio provenire da una delle celle, \"Cacciate l\'Ogre?\" dice. Avvicinandosi alla cella, si scorge una forma massiccia nell\'ombra. L\'alito denso e caldo si diffonde tra le sbarre e potete percepire le dimensioni della cosa all\'interno. Recuperate una torcia ambrata da un sostegno e la accostate alla gabbia. Sopra di voi c\'è l\'immensa struttura di un Ursus corazzato. Incatenato al pavimento della cella, sta incidendo strane forme sul muro usando solo l\'artiglio del pollice."</string>
-	<string name="chp16_17_2__a">"Guardate le rune che adornano il vostro parente, tutte storie di combattimento e di valore. Vedi che il metallo che indossa ne è pieno. Non avendo nient\'altro su cui registrare, ha iniziato a incidere la sua saga sulle pareti, sul pavimento, persino sul soffitto. È qui da molto tempo. L\'odore che emana è quello dell\'età e della potenza. L\'essere in gabbia non ha intaccato la sua forza, con una zampa spessa si batte il petto e dichiara il suo nome: "Molti Inverni".
+Tornando in superficie, state per uscire quando sentite un profondo brontolio provenire da una delle celle, \"Cacciate l\'Ogre?\" dice. Avvicinandovi alla cella, scorgete una forma massiccia nell\'ombra. L\'alito denso e caldo si diffonde tra le sbarre e potete percepire le dimensioni della cosa all\'interno. Recuperate una torcia ambrata da un sostegno e la accostate alla gabbia. Sopra di voi c\'è l\'immensa struttura di un Ursus corazzato. Incatenato al pavimento della cella, sta incidendo strane forme sul muro usando solo l\'artiglio del pollice."</string>
+	<string name="chp16_17_2__a">"Guardate le rune che adornano il vostro simile, tutte storie di combattimento e di valore. Vedi che il metallo che indossa ne è pieno. Non avendo nient\'altro su cui registrare, ha iniziato a incidere la sua saga sulle pareti, sul pavimento, persino sul soffitto. È qui da molto tempo. L\'odore che emana è quello dell\'età e della potenza. L\'essere in gabbia non ha intaccato la sua forza, con una zampa spessa si batte il petto e dichiara il suo nome: "Molti Inverni".
 
-Riuscite a comunicare con il vecchio orso e a sapere come si è trovato in questo luogo. Sembra che anche lui stesse dando la caccia all\'Orco di Tracia e che avesse trovato la sua preda, ma che non avesse superato la battaglia e fosse stato ferito a morte. Lasciato morto nel Bosco Profondo, i negrieri lo trovarono e lo trascinarono a Tracia, dove fu venduto nelle fosse. Da allora è rimasto qui. Si offre di condividere la sua conoscenza dell\'Orco e di accompagnarvi nella caccia, se solo lo libererete dalla sua cella
+Riuscite a comunicare con il vecchio orso e a sapere come si è trovato in questo luogo. Sembra che anche lui stesse dando la caccia all\'Orco di Tracia e che avesse trovato la sua preda, ma che non avesse superato la battaglia e fosse stato ferito a morte. Lasciato morto nel Bosco Profondo, gli schiavisti lo trovarono e lo trascinarono a Tracia, dove fu venduto nelle fosse. Da allora è rimasto qui. Si offre di condividere la sua conoscenza dell\'Orco e di accompagnarvi nella caccia, se solo lo libererete dalla sua cella
 
 Una creatura così fiera non è fatta per le gabbie. Si tratta di un lontano camminatore come voi e merita di essere libero. Vi rivolgete ai vostri compagni con la prima richiesta che abbiate mai fatto: "Liberatelo". Il significato della vostra richiesta non sfugge ai vostri compagni e pensano a come si possa realizzare un\'impresa del genere. Con il numero di guardie che vi separano dall\'uscita, non potete semplicemente uscire con l\'Ursus
 
-Da vivo, l\'Ursus ha un valore e viene custodito con cura. Morto, invece, l\'Ursus sarebbe libero. Siete certi che qualsiasi capo fossa accoglierebbe con favore un incontro tra una Libera Compagnia e un Ursus nell\'arena. Mettete in scena uno spettacolo sufficientemente convincente e l\'Ursus potrebbe temere la morte. Il sangue dovrà essere versato, ma dopo Molti Inverni potrebbe essere dato per morto e scartato. Parlando del piano all\'Ursus, egli sembra contrariato a fare una cosa così vile, ma immaginate che i suoi molti altri tentativi di approccio più diretto siano falliti. Sa che potrebbe essere la sua unica opzione. Con un breve soffio d\'aria dalle narici, l\'Ursus accetta, e ora dovete solo decidere se vale la pena rischiare.
+Da vivo, l\'Ursus ha un valore e viene custodito con cura. Morto, invece, l\'Ursus sarebbe libero. Siete certi che qualsiasi capo fossa accoglierebbe con favore un incontro tra una Libera Compagnia e un Ursus nell\'arena. Mettete in scena uno spettacolo sufficientemente convincente e l\'Ursus verrà dato per  morto. Il sangue dovrà essere versato, ma dopo Molti Inverni non sarà più utile e verrà scartato. Parlando del piano all\'Ursus, egli sembra contrariato a fare una cosa così vile, ma immaginate che i suoi molti altri tentativi di approccio più diretto siano falliti. Sa che potrebbe essere la sua unica opzione. Con un breve soffio d\'aria dalle narici, l\'Ursus accetta, e ora dovete solo decidere se vale la pena rischiare.
 
 
 Scegliete un\'opzione:"</string>
 	<string name="chp16_17_3__a">"Sapete che gli Ursus iscrivono la loro saga di vita sulle armature che indossano e sulle armi che brandiscono usando un linguaggio di rune. Il metallo che indossa è pieno di rune. Non avendo altro su cui registrare le sue cacce, ha iniziato a incidere la sua saga sulle pareti, sul pavimento, persino sul soffitto. È qui da molto tempo. L\'essere in gabbia non ha chiaramente intaccato la sua forza. Guardandolo negli occhi, il possente orso batte il pugno contro il petto e dichiara di chiamarsi "Molti Inverni".
 
-Con un cenno di rispetto iniziate a comunicare con il vecchio orso. Sembra che anche lui stesse dando la caccia all\'orco di Tracia e che avesse trovato la sua preda, ma che non avesse superato la battaglia e fosse stato ferito a morte. Lasciato morto nel Bosco Profondo, i negrieri lo trovarono e lo trascinarono a Tracia, dove fu venduto nelle fosse. Da allora è rimasto qui. Si offre quindi di condividere la sua conoscenza dell\'Orco e di accompagnarvi nella caccia, se solo lo libererete dalla sua cella.
+Con un cenno di rispetto iniziate a comunicare con il vecchio orso. Sembra che anche lui stesse dando la caccia all\'orco di Tracia e che avesse trovato la sua preda, ma che non avesse superato la battaglia e fosse stato ferito a morte. Lasciato morto nel Bosco Profondo, gli schiavisti lo trovarono e lo trascinarono a Tracia, dove fu venduto nelle fosse. Da allora è rimasto qui. Si offre quindi di condividere la sua conoscenza dell\'Orco e di accompagnarvi nella caccia, se solo lo libererete dalla sua cella.
 
-Una creatura così fiera non è fatta per le gabbie. Vi rivolgete ai vostri compagni e riflettete su come sia possibile realizzare una simile impresa. Con il numero di guardie che vi separano dall\'uscita, non potete semplicemente uscire con l\'Ursus. Da vivo, l\'Ursus ha un valore e viene custodito con cura. Morto, invece, l\'Ursus sarebbe libero. Siete certi che qualsiasi capo fossa accoglierebbe con favore un incontro tra una Libera Compagnia e un Ursus nell\'arena. Se si mette in scena un\'esibizione abbastanza convincente, l\'Ursus potrebbe temere la morte
+Una creatura così fiera non è fatta per le gabbie. Vi rivolgete ai vostri compagni e riflettete su come sia possibile realizzare una simile impresa. Con il numero di guardie che vi separano dall\'uscita, non potete semplicemente uscire con l\'Ursus. Da vivo, l\'Ursus ha un valore e viene custodito con cura. Morto, invece, l\'Ursus sarebbe libero. Siete certi che qualsiasi capo fossa accoglierebbe con favore un incontro tra una Libera Compagnia e un Ursus nell\'arena. Se mettete in scena un\'esibizione abbastanza convincente, l\'Ursus potrebbe passare per morto.
 
 Dovrebbe essere versato del sangue, ma poi l\'Ursus potrebbe essere dato per morto e scartato. Parlando del piano all\'Ursus, egli sembra contrariato a fare una cosa così vile, ma immaginate che i suoi molti altri tentativi di approccio più diretto siano falliti. Sa che potrebbe essere la sua unica opzione. Con un breve soffio d\'aria dalle narici, l\'Ursus accetta, e ora dovete solo decidere se vale la pena rischiare. Questo piano richiederà un po\' di tempo e anche un po\' di sangue, ma un\'offerta di armi da parte di un Ursus non va rifiutata a cuor leggero.
 
@@ -5866,7 +5866,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp16_17_5__a">Non ci vuole molto per trovare il proprietario di Molti Inverni e offrirgli di combattere l\'orso da guerra. Anche quando si dichiara di volere il corpo dell\'Ursus in caso di vittoria, l\'uomo mascherato accetta volentieri. Una battaglia tra una Libera Compagnia e un Ursus attirerà sicuramente una folla.</string>
 	<string name="chp16_17_5__c">"Più tardi, quella sera, il Colosseo è gremito di Mascherati e Senza Volto. Il pubblico esplode in applausi di sete di sangue quando venite portati nell\'arena e partono i cori per 'Gli Oathsworn'. Tuttavia, quando Molti Inverni viene condotto nell\'arena al guinzaglio, la folla fischia e sputa in segno di disgusto. Lo trattano come un animale umile.
 
-Affinché funzioni, il combattimento deve sembrare reale. Il sangue dovrà essere versato. Ma bisogna anche fare attenzione a non uccidere molti Winters nel processo. Schierati contro il grande guerriero ursino, gli fate un cenno di saluto e, come un sol uomo, la vostra Libera Compagnia attacca."</string>
+Affinché funzioni, il combattimento deve sembrare reale. Il sangue dovrà essere versato. Ma bisogna anche fare attenzione a non uccidere Molti Inverni nel processo. Schierati contro il grande guerriero Ursus, gli fate un cenno di saluto e, come un sol uomo, la vostra Libera Compagnia attacca."</string>
 	<string name="chp16_17_6__a">"Non siete venuti qui per liberare gli schiavi. Avete un lavoro da fare e non c\'è tempo da perdere.
 
 Volgete le spalle al possente Ursus ed il suo ruggito vi segue lungo il corridoio."</string>
@@ -5878,16 +5878,16 @@ La folla applaude e ulula in segno di approvazione. Per loro, questa è stata un
 Chiatte piene di merci, schiavi e nobili scorrono lungo i canali contaminati dell\'Acquedotto. L\'odore è opprimente e si capisce perché quelli mascherati bruciano incenso sui ponti delle loro chiatte. Guardandovi intorno, non trovate indizi sulla vostra missione, notando solo che gli edifici che costeggiano i canali hanno un design antico e sembrano essere stati costruiti sopra strutture più antiche."</string>
 	<string name="chp16_19_11__a">\"Posizionateli sulla pietra,\" dice la voce. Insieme, i tre afferrano il compagno e lo trascinano nel cerchio mentre lotta per la vita.</string>
 	<string name="chp16_19_12__a">Guardandovi l\'un l\'altro, vi rendete conto che state affrontando forze più forti di quelle che una semplice Libera Compagnia può gestire. Avrete bisogno di tutto l\'aiuto possibile, a qualunque costo. \"Posizionateli sulla pietra,\" dice la voce mentre vi fissate l\'un l\'altro con sguardi severi. Le vostre menti si sentono dense e una nebbia rossa vi offusca la vista. Dovete mantenere la lucidità se volete uscire di qui. Uno di voi non lascerà questo cerchio e lo sapete. Per la prima volta estraete le armi l\'uno sull\'altro.</string>
-	<string name="chp16_19_13__c">Rifiutando l\'offerta, le vostre parole escono più forti del previsto, riecheggiando tra gli alberi circostanti con un rombo innaturale. \"Curiosa,\" la voce osserva mentre l\'eco si attenua, come se fosse sorpresa dal vostro riserbo. Sentite la presenza svanire lentamente, mentre il possente ruggito dell\'Orco di Tracia si leva ancora una volta, più vicino che mai. La vostra sfida alla voce vi ha fatto guadagnare tempo per prepararvi al combattimento e, proprio mentre il vostro gruppo si prepara, un albero si abbatte e vedete una creatura che ne impugna un\'estremità come una clava. Davanti a voi si erge un gigante coperto da grandi croste ribollenti, alto tre volte un uomo. Quando emette un ruggito sanguinolento, sentite il sangue colare dalle orecchie. Micelle, l\'Orco della Tracia, è arrivato.</string>
+	<string name="chp16_19_13__c">Rifiutando l\'offerta, le vostre parole escono più forti del previsto, riecheggiando tra gli alberi circostanti con un rombo innaturale. \"Curioso,\" la voce osserva mentre l\'eco si attenua, come se fosse sorpreso dal vostro riserbo. Sentite la presenza svanire lentamente, mentre il possente ruggito dell\'Orco di Tracia si leva ancora una volta, più vicino che mai. La vostra sfida alla voce vi ha fatto guadagnare tempo per prepararvi al combattimento e, proprio mentre il vostro gruppo si prepara, un albero si abbatte e vedete una creatura che ne impugna un\'estremità come una clava. Davanti a voi si erge un gigante coperto da grandi croste ribollenti, alto tre volte un uomo. Quando emette un ruggito sanguinolento, sentite il sangue colare dalle orecchie. Mycelle, l\'Orco della Tracia, è arrivato.</string>
 	<string name="chp16_19_14__a">"Vi sembra di essere persi in un sogno mentre trascinate il vostro compagno verso il cerchio di pietra e lo legate con la pesante catena di ferro. La risata della voce riecheggia intorno a voi mentre prendete un coltello e lo affondate nel cuore del vostro compagno. Dite a voi stessi che dovete sfruttare ogni opportunità che vi viene data, ogni strumento disponibile per sopravvivere a ciò che sta per accadere. Un grande potere si accende dentro di voi mentre la vita del vostro compagno si affievolisce."</string>
-	<string name="chp16_19_14__c">Sentite la presenza della voce svanire e con essa il delirio che vi ha consumato. Uscendo di corsa dal cerchio di pietra, lottate per riconciliare ciò che avete appena fatto. Avete davvero ucciso uno dei vostri? Mentre lottate per schiarirvi le idee, un albero si abbatte improvvisamente e vedete una creatura che ne impugna un\'estremità come una clava. Davanti a voi si erge un gigante coperto di grandi croste ribollenti, alto tre volte un uomo. Quando emette un ruggito sanguinolento, sentite il sangue colare dalle orecchie. Micelle, l\'Orco della Tracia, è arrivato.</string>
+	<string name="chp16_19_14__c">Sentite la presenza della voce svanire e con essa il delirio che vi ha consumato. Uscendo di corsa dal cerchio di pietra, lottate per riconciliare ciò che avete appena fatto. Avete davvero ucciso uno dei vostri? Mentre lottate per schiarirvi le idee, un albero si abbatte improvvisamente e vedete una creatura che ne impugna un\'estremità come una clava. Davanti a voi si erge un gigante coperto di grandi croste ribollenti, alto tre volte un uomo. Quando emette un ruggito sanguinolento, sentite il sangue colare dalle orecchie. Mycelle, l\'Orco della Tracia, è arrivato.</string>
 	<string name="chp16_19_1__a">"19 - Rovine nel bosco profondo
 
-Controllando la bussola, aggirate le mura della città e vi inoltrate nel verde a est. Tra gli alberi trovate delle depressioni nella terra, come se grandi pugni avessero martellato il terreno. E andando più a fondo, si trovano alberi spezzati e rotti. Qui si è scatenata una grande forza
+Controllando la bussola, aggirate le mura della città e vi inoltrate nel verde a est. Tra gli alberi trovate delle depressioni nella terra, come se grandi pugni avessero martellato il terreno. E andando più a fondo, trovate alberi spezzati e rotti. Qui si è scatenata una grande forza
 
-In una delle depressioni, trovate Samil seduto sul suolo della foresta a gambe incrociate e intento a fissare uno scheletro femminile che indossa un anello di Scarabeo. Avete visto anelli simili indossati da altri nobili traci delle cinque famiglie. Non credete che sia una coincidenza e ipotizzate che si tratti dell\'autrice delle lettere che avete seguito, la moglie di Mycelle. Avvicinandovi, notate i danni subiti dal corpo. La donna è stata schiacciata da una forza immensa
+In una delle depressioni, trovate Samil seduto sul suolo della foresta a gambe incrociate e intento a fissare uno scheletro femminile che indossa un anello di Scarabeo. Avete visto anelli simili indossati da altri nobili Traciani delle cinque famiglie. Non credete che sia una coincidenza e ipotizzate che si tratti dell\'autrice delle lettere che avete seguito, la moglie di Mycelle. Avvicinandovi, notate i danni subiti dal corpo. La donna è stata schiacciata da una forza immensa
 
-Con grande sorpresa, Samil non scompare quando vi avvicinate, ma continua a guardare nelle cavità dello scheletro. Il volto della vostra compagna morta non è mai rimasto così a lungo. Potete vedere i semplici abiti da viaggio degli Oathsworn che indossa e la cicatrice sulla fronte causata da un pit crawler che avete combattuto insieme tempo fa. Sfoggia anche lo stesso sorriso ironico che ha sempre portato in vita. La sua presenza ci spinge a porci una domanda.
+Con grande sorpresa, Samil non scompare quando vi avvicinate, ma continua a guardare nelle cavità dello scheletro. Il volto del vostro compagno morto non è mai rimasto così a lungo. Potete vedere i semplici abiti da viaggio da Oathsworn che indossa e la cicatrice sulla fronte causata da un pit crawler che avete combattuto insieme tempo fa. Sfoggia anche lo stesso sorriso ironico che ha sempre portato in vita. La sua presenza ci spinge a porci una domanda.
 
 
 Scegliete un\'opzione:"</string>
@@ -5903,7 +5903,7 @@ Quando lo chiedete a Samil, lui vi offre un sorriso malizioso. O forse è triste
 
 Quando vi avvicinate al cerchio di pietra. L\'aria intorno a voi si carica e un sapore metallico vi riempie la bocca. Sangue?
 
-\"Benvenuto Oathsworn,\" una voce disincarnata riecheggia nel bosco. Sembra quasi un canto, molte persone come una sola, con una determinazione unica. Chiedete se state parlando con Samil, ma una risata di scherno vi dice che non è così. \"No, siamo solo un benefattore, un mezzo per i tuoi scopi, abbiamo qualcosa da offrirti...\" Se non è Samil a parlare di nuovo, allora questo deve essere il patrono di Mycelle. Lancia l\'accusa alla voce e questa risponde con gusto: \"Mycelle, sì. Gli abbiamo dato quello che voleva. Diventare eterno..\"
+\"Benvenuto Oathsworn,\" una voce disincarnata riecheggia nel bosco. Sembra quasi un canto, molte persone come una sola, con una determinazione unica. Chiedete se state parlando con Samil, ma una risata di scherno vi dice che non è così. \"No, siamo solo un benefattore, un mezzo per i tuoi scopi, abbiamo qualcosa da offrirti...\" Se non è Samil a parlare di nuovo, allora questo deve essere il benefattore di Mycelle. Lancia l\'accusa alla voce e questa risponde con gusto: \"Mycelle, sì. Gli abbiamo dato quello che voleva. Diventare eterno..\"
 
 La parola riecheggia tra le pietre. All\'improvviso, si sente un ruggito da qualche punto lontano del Bosco Profondo. Qualcosa si avvicina
 
@@ -5922,13 +5922,13 @@ Scegliete un\'opzione:"</string>
 
 \"Così sia,\" dice la voce e notate che uno dei vostri alleati non c\'è più. Immediatamente, un sentimento di potere si diffonde dentro di voi. Vi dite che il fine giustifica i mezzi e cercate di scrollarvi di dosso il pensiero di dove sia appena andato il vostro alleato."</string>
 	<string name="chp16_19_9__c">Un silenzio teso incombe sulla Libera Compagnia. \"Che sapore ha questa scheggia di potere?\" chiede la voce. \"Possiamo anche darvi il vero potere. Dateci semplicemente uno dei vostri. Avrete bisogno del mio potere per ciò che verrà.\"</string>
-	<string name="chp16_1_1__a">Molti fili si snodano attraverso il Bosco Profondo fino all\'ingresso della Tracia. Seguendo quello indicato dal Sergente, alla fine si trovano i resti della carovana distrutta. Pezzi di carri, casse in frantumi e più di qualche cadavere mutilato disseminano ancora il terreno. Diversi alberi del Bosco Profondo nella zona sono rotti e spezzati. Nessuna bestia comune avrebbe potuto causare tanti danni. Qualunque cosa sia accaduta a questa carovana, è stata enorme. Potreste essere in grado di capire che tipo di bestia era indagando sulle tracce che si è lasciata dietro.</string>
-	<string name="chp16_1_2__a">Cercando tra i carri distrutti, si trovano piccoli frammenti degli uomini rimasti. Il resto è già stato reclamato dal Bosco Profondo. I carri sembrano essere stati colpiti da qualcosa di enorme, che li ha appiattiti come monete, ed il terreno circostante presenta profondi crateri da impatto. Fortunatamente, riuscite a recuperare alcune delle merci che la carovana stava trasportando.</string>
+	<string name="chp16_1_1__a">Molti fili si snodano attraverso il Bosco Profondo fino all\'ingresso della Tracia. Seguendo quello indicato dal Sergente, alla fine trovate i resti della carovana distrutta. Pezzi di carri, casse in frantumi e più di qualche cadavere mutilato disseminano ancora il terreno. Diversi alberi del Bosco Profondo nella zona sono rotti e spezzati. Nessuna bestia comune avrebbe potuto causare tanti danni. Qualunque cosa sia accaduta a questa carovana, è stata enorme. Potreste essere in grado di capire che tipo di bestia era indagando sulle tracce che si è lasciata dietro.</string>
+	<string name="chp16_1_2__a">Cercando tra i carri distrutti, trovate piccoli frammenti degli uomini rimasti. Il resto è già stato reclamato dal Bosco Profondo. I carri sembrano essere stati colpiti da qualcosa di enorme, che li ha appiattiti come monete, ed il terreno circostante presenta profondi crateri da impatto. Fortunatamente, riuscite a recuperare alcune delle merci che la carovana stava trasportando.</string>
 	<string name="chp16_1_2__c">Mentre terminate la ricerca, sentite un debole suono provenire da un\'altra parte del Bosco Profondo. Sembra che qualcuno stia singhiozzando nelle vicinanze.</string>
-	<string name="chp16_1_3__a">"Cercando tra i carri distrutti, si trovano piccoli frammenti degli uomini rimasti. Il resto è già stato reclamato dal Bosco Profondo. I carri sembrano essere stati colpiti da qualcosa di enorme, che li ha appiattiti come monete, ed il terreno circostante presenta profondi crateri da impatto. Purtroppo, la vostra ricerca non produce altri indizi o oggetti di valore
+	<string name="chp16_1_3__a">"Cercando tra i carri distrutti, trovate piccoli frammenti degli uomini rimasti. Il resto è già stato reclamato dal Bosco Profondo. I carri sembrano essere stati colpiti da qualcosa di enorme, che li ha appiattiti come monete, ed il terreno circostante presenta profondi crateri da impatto. Purtroppo, la vostra ricerca non produce altri indizi o oggetti di valore
 
 Mentre terminate la ricerca, sentite un debole suono provenire dalle profondità del Bosco Profondo. Sembra che qualcuno stia singhiozzando nelle vicinanze."</string>
-	<string name="chp16_1_4__a">Si punta lo sguardo sull\'oscurità tra gli alberi e seguite il suono del pianto. Ascoltando attentamente, i suoni sembrano provenire da un uomo, ma sono deformati in un tono più profondo. Scostando i rami che bloccano la vista, vedete un masso imponente oscurato dalle ombre. Quando lo superate, la massa simile a una pietra si convoglia e si sente un singhiozzo contorto. Spaventati, alzate rapidamente una mano per chiedere alla vostra compagnia di fermarsi. Il vostro avvertimento viene immediatamente ascoltato, ma lo sferragliare di attrezzature allentate tradisce la vostra presenza mentre il tintinnio del metallo riempie l\'aria. Il masso si apre all\'improvviso, ergendosi come una massa imponente sopra di voi. Un volto umano, straziato dall\'angoscia, si contorce e ringhia dall\'alto delle sue spalle massicce mentre si lancia verso di voi.</string>
+	<string name="chp16_1_4__a">Puntate lo sguardo sull\'oscurità tra gli alberi e seguite il suono del pianto. Ascoltando attentamente, i suoni sembrano provenire da un uomo, ma sono deformati in un tono più profondo. Scostando i rami che bloccano la vista, vedete un masso imponente oscurato dalle ombre. Quando lo superate, la massa simile a una pietra si convoglia e si sente un singhiozzo contorto. Spaventati, alzate rapidamente una mano per chiedere alla vostra compagnia di fermarsi. Il vostro avvertimento viene immediatamente ascoltato, ma lo sferragliare di attrezzature allentate tradisce la vostra presenza mentre il tintinnio del metallo riempie l\'aria. Il masso si apre all\'improvviso, ergendosi come una massa imponente sopra di voi. Un volto umano, straziato dall\'angoscia, si contorce e ringhia dall\'alto delle sue spalle massicce mentre si lancia verso di voi.</string>
 	<string name="chp16_1_4__c">"Riuscite a sferrare alcuni rapidi colpi, ma i cumuli di pelle ricoperti di croste che ricoprono il suo corpo deviano i vostri colpi. Il pus trasuda dai segni lasciati dalle armi. La bestia attraversa il gruppo e prosegue verso la linea degli alberi. Con un rapido controllo della bussola, seguite le tracce che si è lasciata alle spalle. La creatura è veloce e vi supera facilmente con il suo passo massiccio. Fortunatamente, la bestia è facile da seguire. Superate un albero dopo l\'altro, quando all\'improvviso la vista si apre e vi trovate sul bordo di un profondo burrone. Il precipizio è troppo alto per essere sceso e non vedete nulla al di sotto se non una fitta oscurità. Tuttavia, le tracce portavano chiaramente da questa parte. La creatura ha saltato? Come ha potuto sopravvivere a una caduta del genere?
 
 Perse le tracce, tornate in città per riorganizzarvi. Non si può mai capire veramente una bestia finché non la si combatte. Molto di ciò che avete imparato finora, però, preferireste dimenticarlo. Se le costole ammaccate e l\'armatura incrinata sono un\'indicazione di ciò che vi aspetta, questo 'orco della Tracia' non si abbatterà facilmente."</string>
@@ -5937,7 +5937,7 @@ Perse le tracce, tornate in città per riorganizzarvi. Non si può mai capire ve
 Seguendo le istruzioni sulla mappa, arrivate a una casa senza nome e riconoscete subito il simbolo della goccia d\'acqua dal sigillo di cera sulla pergamena esposta casualmente su una delle porte. Quando vi avvicinate alla porta, si apre una piccola fessura e un paio di occhi curiosi vi osservano
 
 Quando si solleva la pergamena, la porta si apre e si viene introdotti in una casa buia, illuminata da un\'unica torcia ambrata la cui luce non riesce a raggiungere le pareti. Quando la porta si chiude alle vostre spalle, una donna emerge dall\'ombra con una semplice maschera che le nasconde il volto. Una maschera da assassino."</string>
-	<string name="chp16_22_2__a">"\"Oathsworn. Vi stavamo aspettando. Prego, siediti,\" e comincia. All\'improvviso notate che dietro di voi sono state posizionate alcune sedie che poco prima non c\'erano. Guardando la donna mascherata, vedete un tavolo e del vino portati dall\'ombra da individui vestiti di nero e cominciate a chiedervi quante altre persone siano nascoste nell\'ombra. La donna mascherata si siede e procede a riempire i bicchieri per tutti. Presumibilmente in segno di fiducia, beve un sorso di ogni bicchiere prima di passarlo a voi. Forse è un gesto abituale per dimostrare che non state per essere avvelenati?
+	<string name="chp16_22_2__a">"\"Oathsworn. Vi stavamo aspettando. Prego, sedetevi,\" e comincia. All\'improvviso notate che dietro di voi sono state posizionate alcune sedie che poco prima non c\'erano. Guardando la donna mascherata, vedete un tavolo e del vino portati dall\'ombra da individui vestiti di nero e cominciate a chiedervi quante altre persone siano nascoste nell\'ombra. La donna mascherata si siede e procede a riempire i bicchieri per tutti. Presumibilmente in segno di fiducia, beve un sorso di ogni bicchiere prima di passarlo a voi. Forse è un gesto abituale per dimostrare che non state per essere avvelenati?
 
 \"Sono sicura che sapete perché siete qui,\" e continua. \"Ha già avuto a che fare con uno dei nostri agenti, che lei conosce come Elanna.\" Non c\'è emozione nelle sue parole, né disprezzo né sollievo, ma lei rimane tesa, pronta per un\'imboscata. La donna fa un segnale nell\'oscurità e appare un Senza Volto, nudo dalla vita in su e con marchi su tutta la schiena
 
@@ -5947,9 +5947,9 @@ Quando si solleva la pergamena, la porta si apre e si viene introdotti in una ca
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp16_22_3__a">"\"Oathsworn. Vi stavamo aspettando. Prego, siediti,\" e comincia. All\'improvviso notate che dietro di voi sono state posizionate alcune sedie che poco prima non c\'erano. Guardando verso la donna mascherata, vedete un tavolo e del vino portati dall\'ombra da individui vestiti di nero e cominciate a chiedervi quanti altri siano nascosti nell\'ombra. La donna mascherata si siede e procede a riempire i bicchieri per tutti. Presumibilmente in segno di fiducia, beve un sorso di ogni bicchiere prima di passarlo a voi. Forse è un gesto abituale per dimostrare che non state per essere avvelenati?
+	<string name="chp16_22_3__a">"\"Oathsworn. Vi stavamo aspettando. Prego, sedetevi,\" e comincia. All\'improvviso notate che dietro di voi sono state posizionate alcune sedie che poco prima non c\'erano. Guardando verso la donna mascherata, vedete un tavolo e del vino portati dall\'ombra da individui vestiti di nero e cominciate a chiedervi quanti altri siano nascosti nell\'ombra. La donna mascherata si siede e procede a riempire i bicchieri per tutti. Presumibilmente in segno di fiducia, beve un sorso di ogni bicchiere prima di passarlo a voi. Forse è un gesto abituale per dimostrare che non state per essere avvelenati?
 
-\"Abbiamo saputo da una nostra agente che lei ha prestato aiuto durante il suo contratto. Credo che la conosciate come Elanna,\" continua senza problemi. \"La Gilda paga sempre i suoi debiti.\" Una grossa borsa di Iron viene gettata dall\'oscurità sul tavolo. \"Sessanta pezzi, come è consuetudine per aiutare un agente della Gilda.\" Guardando la borsa, iniziate a protestare per il fatto che non l\'avete mai aiutata volontariamente, ma vi accontentate di una domanda. Chiedete che cosa esattamente Elanna è incaricata di fare. \"Affari di Gilda, tu stesso conosci i vincoli di un contratto, Oathsworn. Comunque, lo saprai presto, ne sono certo.\"
+\"Abbiamo saputo da una nostra agente che voi le avete prestato aiuto durante il suo contratto. Credo che la conosciate come Elanna,\" continua senza problemi. \"La Gilda paga sempre i suoi debiti.\" Una grossa borsa di Iron viene gettata dall\'oscurità sul tavolo. \"Sessanta pezzi, come è consuetudine per aiutare un agente della Gilda.\" Guardando la borsa, state per mettervi a protestare per il fatto che non l\'avete mai aiutata volontariamente, ma vi accontentate di una domanda. Chiedete che cosa esattamente Elanna è incaricata di fare. \"Affari della Gilda, voi stessi conoscete i vincoli di un contratto, Oathsworn. Comunque, lo saprete presto, ne sono certa.\"
 
 
 Scegliete un\'opzione:"</string>
@@ -5999,7 +5999,7 @@ Scegliete un\'opzione:"</string>
 Quando entrate nel vecchio maniero, un soffio di aria stagnante e putrida ci investe. La casa è antica e le sue travi scricchiolano a ogni passo, minacciando di cedere. Samil non si vede da nessuna parte, mentre vi muovete con cautela nella casa, controllando ogni angolo buio alla ricerca di minacce. I pochi raggi di luce che si infilano tra le stecche delle finestre sbarrate giocano brutti scherzi alla vostra mente, proiettando strane forme che sembrano cospirare nell\'ombra."</string>
 	<string name="chp16_28_2__a">"Samil vuole ovviamente che troviate qualcosa qui. Entrando in una stanza, scoprite un vecchio forziere con il sigillo dello Scarabeo. È stato usato per sostenere una parte del muro che sta crollando. Prima di tentare di rimuoverlo, rinforzate la parete fatiscente con assi di legno e blocchi di pietra che disseminano il pavimento.
 
-All\'interno del forziere trovate un\'altra lettera. Deve essere questa la lettera che Samil voleva farvi trovare. Come faceva a sapere che era qui? Di certo nessun frutto della sua immaginazione avrebbe trovato questo posto. Questo pensiero, però, non vi dà alcun conforto. Almeno il vostro defunto ex compagno è stato utile."</string>
+All\'interno del forziere trovate un\'altra lettera. Deve essere questa la lettera che Samil voleva farvi trovare. Come faceva a sapere che era qui? Di certo nessun frutto della vostra immaginazione avrebbe trovato questo posto. Questo pensiero, però, non vi dà alcun conforto. Almeno il vostro defunto ex compagno è stato utile."</string>
 	<string name="chp16_28_3__a">"Ogni scricchiolio delle vecchie assi di legno vi spinge a prendere le armi. Samil vuole chiaramente che troviate qualcosa qui e, mentre vi spostate in un\'altra stanza, scoprite in un angolo un vecchio forziere con il sigillo dello Scarabeo
 
 Afferrando il forziere, lo tirate, senza accorgervi che stava sostenendo una porzione di muro in rovina. Una pioggia di malta, polvere e pietre piove giù, seppellendovi sotto il peso del muro."</string>
@@ -6067,7 +6067,7 @@ Ti ha intrappolato di nuovo, non riuscirai mai a sfuggire alle spire di questo s
 	<string name="chp16_4_15__a">"\"L\'Orco è unico,\" inizia. \"Uno che ha predato la Tracia per generazioni. Pochi lo hanno visto, ma lo conosciamo per la distruzione che lascia. Abbiamo cercato la sua posizione per decenni senza successo. Tuttavia, il recente "interrogatorio" di un Senza Volto ha portato alla luce una pista promettente. Lo schiavo possedeva una lettera che giurava avrebbe condotto all\'Orco. Il pazzo aveva cercato di vendercela. Abbiamo fatto di tutto per verificare le origini della lettera e siamo sicuri della sua validità. Purtroppo, non siamo riusciti a ottenere ulteriori informazioni dal Senza Volto prima che... morisse.\"
 
 Il Pitone vi porge la lettera ed il suo sguardo trasmette il suo estremo interesse per la questione."</string>
-	<string name="chp16_4_16__a">"\"L\'orco è stato avvistato l\'ultima volta due giorni fa mentre attaccava una carovana fuori città; le guardie al cancello anteriore potrebbero dirvi dove esattamente. Siamo anche venuti a sapere che il maestro delle bestie del Colosseo sostiene di averlo visto durante una delle sue battute di caccia.\"
+	<string name="chp16_4_16__a">"\"L\'orco è stato avvistato l\'ultima volta due giorni fa mentre attaccava una carovana fuori città; le guardie al cancello anteriore potrebbero dirvi dove esattamente. Siamo anche venuti a sapere che l\'addestratore di bestie del Colosseo sostiene di averlo visto durante una delle sue battute di caccia.\"
 
 Senza risposta, vi allontanate dal nobile Traciano e tornate nella Città delle Maschere. La vostra caccia all\'Orco di Tracia è iniziata. Un ultimo lavoro e potrete tornare a casa, sempre che ci sia ancora una casa dove andare. Una sensazione di formicolio al braccio riporta alla mente le immagini del rogo di Verum. La peste scorre ancora nelle vostre vene e sembra rafforzarsi ogni giorno di più. Si spera che ci sia abbastanza tempo per salvare Verum prima che vi consumi."</string>
 	<string name="chp16_4_17__a">Tornando nella strada affollata, un ragazzo senza volto si precipita verso di voi e vi mette in mano una pergamena sigillata, poi scompare nel mare di gente. Osservando il sigillo di cera, notate il simbolo di una goccia d\'acqua al centro del bordo.</string>
@@ -6089,7 +6089,7 @@ Il Pitone versa quindi il contenuto della fiala nella gola della strega e le chi
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp16_4_4__c">"\"Non ti dobbiamo nulla,\" l\'Amiese lo dice chiaramente. \"Avete fatto un patto con il mio predecessore, non con me.\" Notate che non riconosce che il suo predecessore era suo padre. \"Anche se il vostro fallimento mi ha fatto crescere, non pensate che vi darei qualcosa in cambio di nulla. Ho una strega, una strega potente, ma prima dovrai fare qualcosa per me.\" Dopo tutto quello che è successo, una parte di voi prende in considerazione l\'idea di costringere la donna a darvi la strega, ma la vista della decina di guardie a breve distanza la fa calmare. I Cinque saranno anche soggetti alle leggi di Verum, ma voi siete molto lontani da casa. Solo uno sciocco potrebbe pensare che il Patto vi salverebbe da una famiglia come gli Amiese. Rassegnati, chiedete cosa vuole
+	<string name="chp16_4_4__c">"\"Non ti dobbiamo nulla,\" l\'Amiese lo dice chiaramente. \"Avete fatto un patto con il mio predecessore, non con me.\" Notate che non riconosce che il suo predecessore era suo padre. \"Anche se il vostro fallimento mi ha fatto crescere, non pensate che vi darei qualcosa in cambio di nulla. Ho una strega, una strega potente, ma prima dovrai fare qualcosa per me.\" Dopo tutto quello che è successo, una parte di voi prende in considerazione l\'idea di costringere la donna a darvi la strega, ma la vista della decina di guardie a breve distanza vi fa calmare. I Cinque saranno anche soggetti alle leggi di Verum, ma voi siete molto lontani da casa. Solo uno sciocco potrebbe pensare che il Patto vi salverebbe da una famiglia come gli Amiese. Rassegnati, chiedete cosa vuole
 
 \"Tu dai la caccia ai mostri, vero? Beh, voglio il cuore del più grande di tutti. L\'Orco di Tracia.\"
 
@@ -6103,8 +6103,8 @@ Dopo tutto quello che è successo, una parte di voi prende in considerazione l\'
 Scegliete un\'opzione:"</string>
 	<string name="chp16_4_6__a">"Scortata dalle sue guardie personali, l\'Amiese vi conduce in un\'ampia sala da banchetto dove trovate una donna trasandata, vestita con abiti nobiliari logori, incatenata a un trono. Deve essere la vostra strega. Sembra che sia svenuta. Quando l\'Amiese si avvicina al trono, la strega lotta per sollevare lo sguardo, apparentemente esausta o forse sotto l\'effetto di qualche droga. All\'improvviso, la stanza inizia a tremare e si percepisce chiaramente il potere emanato dalla donna. \"Ah, giusto in tempo,\" dice l\'Amiese, prendendo una piccola fiala da una borsa offerta da un servitore vicino. Spostatosi dietro la strega, una delle guardie personali prende in mano il guinzaglio della catena e lo strattona con forza, facendo inginocchiare la donna
 
-L\'Amiese versa quindi il contenuto della fiala nella gola della strega e le chiude la bocca. \"Oh Aurelia. Sei così dolce a provarci ogni volta.\" La strega si ammutolisce rapidamente, fissando vacuamente in lontananza. \"L\'etere, molto difficile da ottenere ed estremamente costoso,\" dice la nobildonna, mentre le porge la piccola fiala. \"È un potente sedativo che serve per tenere questa strega sotto controllo. Ha già rotto il collare da strega una volta. L\'ultima volta ha tolto la vita a trenta guardie prima che potessimo sottometterla. Non temere Oathsworn, te ne fornirò più che a sufficienza per il tuo viaggio se porterai a termine il tuo compito.\""</string>
-	<string name="chp16_4_7__a">"\"L\'Orco è unico,\" inizia. \"Uno che ha predato la Tracia per generazioni. Pochi lo hanno visto, ma lo conosciamo per la distruzione che lascia. Abbiamo cercato la sua posizione per decenni senza successo. Tuttavia, il recente "interrogatorio" di un Senza Volto ha portato alla luce una pista promettente. Lo schiavo possedeva una lettera che giurava avrebbe condotto all\'Orco. Il pazzo aveva cercato di vendercela. Abbiamo fatto di tutto per verificare le origini della lettera e siamo sicuri della sua validità. Purtroppo, non siamo riusciti a ottenere ulteriori informazioni dal Senza Volto prima che... morisse.\"
+L\'Amiese versa quindi il contenuto della fiala nella gola della strega e le chiude la bocca. \"Oh Aurelia. Sei così dolce a provarci ogni volta.\" La strega si ammutolisce rapidamente, fissando vacuamente in lontananza. \"L\'etere, molto difficile da ottenere ed estremamente costoso,\" dice la nobildonna, mentre vi porge la piccola fiala. \"È un potente sedativo che serve per tenere questa strega sotto controllo. Ha già rotto il collare da strega una volta. L\'ultima volta ha tolto la vita a trenta guardie prima che potessimo sottometterla. Non temete Oathsworn, ve ne fornirò più che a sufficienza per il vostro viaggio se porterete a termine il vostro compito.\""</string>
+	<string name="chp16_4_7__a">"\"L\'Orco è unico\" inizia. \"Uno che ha predato la Tracia per generazioni. Pochi lo hanno visto, ma lo conosciamo per la distruzione che lascia. Abbiamo cercato la sua posizione per decenni senza successo. Tuttavia, il recente "interrogatorio" di un Senza Volto ha portato alla luce una pista promettente. Lo schiavo possedeva una lettera che giurava avrebbe condotto all\'Orco. Il pazzo aveva cercato di vendercela. Abbiamo fatto di tutto per verificare le origini della lettera e siamo sicuri della sua validità. Purtroppo, non siamo riusciti a ottenere ulteriori informazioni dal Senza Volto prima che... morisse.\"
 
 L\'Amiese vi porge la lettera ed il suo sguardo trasmette il suo estremo interesse per la questione."</string>
 	<string name="chp16_4_7__c">"
@@ -6121,28 +6121,28 @@ La Cattedrale è un\'opera architettonica impressionante. Le sale dell\'edificio
 
 Scegliete un\'opzione:"</string>
 	<string name="chp16_9_12__c">Se si tolgono i coperchi di alcuni sarcofagi, scoprite che alcuni sono stati riforniti di doni funerari, alcuni dei quali sono ancora utilizzabili.</string>
-	<string name="chp16_9_12__e">Lungo le pareti si trovano anche diverse pile di documenti, molti dei quali sembrano essere contratti e libri contabili importanti. Cercando tra questi documenti, vi imbattete in una lettera simile a quella trovata in precedenza.</string>
+	<string name="chp16_9_12__e">Lungo le pareti trovate anche diverse pile di documenti, molti dei quali sembrano essere contratti e libri contabili importanti. Cercando tra questi documenti, vi imbattete in una lettera simile a quella trovata in precedenza.</string>
 	<string name="chp16_9_13__c">Se si tolgono i coperchi di alcuni sarcofagi, scoprite che alcuni sono stati riforniti di doni funerari.</string>
 	<string name="chp16_9_13__e">Trovate anche diverse pile di documenti disposti lungo le pareti, molti dei quali sembrano essere contratti e libri contabili importanti. Cercando tra questi documenti, vi imbattete in una lettera simile a quella trovata in precedenza.</string>
 	<string name="chp16_9_14__a">Lungo le pareti sono disposte diverse pile di documenti, molti dei quali sembrano essere contratti e libri contabili ufficiali. Cercando tra questi documenti, vi imbattete in una lettera simile a quella trovata in precedenza.</string>
 	<string name="chp16_9_15__a">Aprite con attenzione la lettera contrassegnata dallo Scarabeo e iniziate a leggere.</string>
 	<string name="chp16_9_1__a">"9 - Catacombe
 
-Il Marchio del Giuramento sui polsi vi aiuta a entrare nelle catacombe sotto la Tracia. Scendendo le scale a chiocciola, si arriva a un antico tunnel ornato dai busti di tutte le grandi famiglie tracie. Seguendo il tunnel, si arriva a una stanza circolare con sei porte, ognuna delle quali è ornata dalla maschera di una grande famiglia, tranne una. Questa porta solitaria non ha alcun segno, ma è invece segnata da brutali sgorbi. Per esclusione, deve essere quella che state cercando. Al centro, tra le scanalature, vedete un piccolo dispositivo circolare che sembra essere una serratura a sequenza composta da due ruote, una delle quali ruota intorno all\'altra. Per creare un meccanismo del genere ci sarebbe voluto un maestro artigiano."</string>
+Il Marchio del Giuramento sui polsi vi aiuta a entrare nelle catacombe sotto la Tracia. Scendendo le scale a chiocciola, si arriva a un antico tunnel ornato dai busti di tutte le grandi famiglie Traciane. Seguendo il tunnel, si arriva a una stanza circolare con sei porte, ognuna delle quali è ornata dalla maschera di una grande famiglia, tranne una. Questa porta solitaria non ha alcun segno, ma è invece segnata da brutali sgorbi. Per esclusione, deve essere quella che state cercando. Al centro, tra le scanalature, vedete un piccolo dispositivo circolare che sembra essere una serratura a sequenza composta da due ruote, una delle quali ruota intorno all\'altra. Per creare un meccanismo del genere ci sarebbe voluto un maestro artigiano."</string>
 	<string name="chp16_9_8__a">Con uno scatto soddisfacente, la grande porta di pietra si apre.</string>
 	<string name="chp16_9_9__a">Nonostante i vostri tentativi, non sentite nulla dall\'interno della porta. Ci vuole molto tempo per capire il mistero del meccanismo, ma esaminando la strana iconografia sui quadranti, vi rendete conto che i sigilli si allineano quando vengono ruotati correttamente. Solo uno dei sei si allinea a ogni giro. Dopo un altro tentativo, si sente finalmente il meccanismo scattare e la porta si apre.</string>
 	<string name="chp16_choose_relevant_option">"
 Scegliere l\'opzione pertinente di seguito:"</string>
 	<string name="chp16_epi_2__a">Con l\'Ogre di Tracia che giace morto nel fango del Bosco Profondo, vi rivolgete all\'altare nella speranza di dare una degna sepoltura al compagno che avete sacrificato. Tuttavia, ciò che trovate vi agghiaccia. Le catene pendono allentate e dove prima c\'era un corpo, ora non c\'è più.</string>
 	<string name="chp16_epi_3__a">"Come da istruzioni, rimuovete il cuore dell\'orco e lo avvolgete saldamente in un panno. In qualche modo, l\'organo batte ancora. Restituendo l\'ambito oggetto al nobile mascherato, vi viene data la ricompensa promessa. La strega Aurelia e l\'etere. Raccogliendo le sue catene e le fiale per tenerla sotto controllo, venite nuovamente avvertiti del pericolo che rappresenta. Vi viene assicurato che le droghe fornite saranno sufficienti a tenere la strega sotto sedativi fino al completamento del vostro compito."</string>
-	<string name="chp16_epi_3__c">La triste realtà del Richiamo si fa strada nella vostra mente e cominciate a chiedervi se sarete in grado di portare a termine l\'impresa quando arriverà il momento. Forse c\'è ancora un altro modo per raggiungere l\'obiettivo? Qualcosa che scoprirete sul Filo. Fino ad allora, avete giurato di portare a termine il compito e ci sono ancora molte marce tra la Tracia e Verum</string>
+	<string name="chp16_epi_3__c">La triste realtà del Richiamo si fa strada nella vostra mente e cominciate a chiedervi se sarete in grado di portare a termine l\'impresa quando arriverà il momento. Forse c\'è ancora un altro modo per raggiungere l\'obiettivo? Qualcosa che scoprirete sul Filo. Fino ad allora, avete giurato di portare a termine il compito e ci sono ancora molte tappe tra la Tracia e Verum</string>
 	<string name="chp16m_1_1__a">"Questa pergamena, un tempo sigillata da un marchio Scarabeo, sembra essere stata inviata molti anni fa. Non è chiaro come possa riguardare l\'Orco di Tracia, anche se sembra indicare una sorta di storia segreta
 
 La lettera recita:
 
-'i Cinque continuano a guardarci dall\'alto in basso, scambiando la nostra moderazione per una mancanza di convinzione. La loro arroganza sarà il nostro vantaggio. Ho convinto il mio carissimo Mycelle a perseguire i mezzi per insegnare loro la verità che si cela dietro le parole di Scaravelho, \'Lindo mas venenoso\'. Bello ma mortale. Impareranno che quando ci calpestano, noi mordiamo a nostra volta. Mycelle si è incontrato con un mecenate nelle profondità del bosco. Temo per mio marito. Tuttavia, Mycelle mi promette che questo è il modo migliore per riportare la nostra famiglia alla gloria. Come per tutte le lettere, affido questa ad Anila della famiglia Swan. Sono e saranno per sempre i nostri fidati consiglieri. Se doveste ricevere questa lettera da qualcun altro, considerate che è stata intercettata. I Cigni possono anche vivere ai margini della rete, ma sono una parte fedele di noi. Vi scriverò di nuovo il prima possibile.'
+'I Cinque continuano a guardarci dall\'alto in basso, scambiando la nostra moderazione per una mancanza di convinzione. La loro arroganza sarà il nostro vantaggio. Ho convinto il mio carissimo Mycelle a perseguire i mezzi per insegnare loro la verità che si cela dietro le parole di Scaravelho, \'Lindo mas venenoso\'. Bello ma mortale. Impareranno che quando ci calpestano, noi mordiamo a nostra volta. Mycelle si è incontrato con un mecenate nelle profondità del bosco. Temo per mio marito. Tuttavia, Mycelle mi promette che questo è il modo migliore per riportare la nostra famiglia alla gloria. Come per tutte le lettere, affido questa ad Anila della famiglia Cigno. Sono e saranno per sempre i nostri fidati consiglieri. Se doveste ricevere questa lettera da qualcun altro, considerate che è stata intercettata. I Cigni possono anche vivere ai margini della rete, ma sono una parte fedele di noi. Vi scriverò di nuovo il prima possibile.'
 
-La famiglia Swan potrebbe avere altre lettere o informazioni in merito, se ancora esistono. Anche se non c\'è alcuna garanzia che questo thread vi condurrà all\'Orco, qualsiasi pista può valere la pena di essere esplorata."</string>
+La famiglia Cigno potrebbe avere altre lettere o informazioni in merito, se ancora esistono. Anche se non c\'è alcuna garanzia che questo thread vi condurrà all\'Orco, qualsiasi pista può valere la pena di essere esplorata."</string>
 	<string name="chp16m_2_1__a">"Il testo sembra essere stato scritto dallo stesso autore del primo, ma la calligrafia è più inclinata e seria
 
 Si legge:
@@ -6158,26 +6158,26 @@ Considerando tutto ciò che avete appreso finora, ora sapete che un tempo a Trac
 
 Si legge:
 
-'le visite di Mycelle al Bosco Profondo sono diventate più frequenti e, sebbene porti con sé buone notizie, è ciò che lascia dietro di sé che mi preoccupa di più. Il primo mese ha portato con sé un fragile calzolaio senza volto. Il secondo, ha portato con sé una vecchia che piangeva e che era troppo fragile per mescolare una pentola. Il terzo ha portato con sé uno storpio al crepuscolo della sua vita ed il quarto un muto a mezzogiorno. Sono passati nove mesi. I Senza Volto non tornano mai, ma queste perdite non mi preoccupano. Sono ferri infrangibili. Ma ogni volta che Mycelle torna a Tracia, è meno uomo. È come se vedessi un fantasma aggirarsi per le nostre sale. Lo imploro di dirmi cosa gli offre il nostro mecenate nel Bosco Profondo, ma Micelle si limita a insistere che ci vorrà del tempo. Nel frattempo, il Volpe e il Carnedine volteggiano come avvoltoi. Non posso fare a meno di pensare che la fine stia per arrivare, con i denti di un cane o con gli artigli di una volpe. O forse qualcos\'altro"
+'le visite di Mycelle al Bosco Profondo sono diventate più frequenti e, sebbene porti con sé buone notizie, è ciò che lascia dietro di sé che mi preoccupa di più. Il primo mese ha portato con sé un fragile calzolaio senza volto. Il secondo, ha portato con sé una vecchia che piangeva e che era troppo fragile per mescolare una pentola. Il terzo ha portato con sé uno storpio al crepuscolo della sua vita ed il quarto un muto a mezzogiorno. Sono passati nove mesi. I Senza Volto non tornano mai, ma queste perdite non mi preoccupano. Sono ferri infrangibili. Ma ogni volta che Mycelle torna a Tracia, è meno uomo. È come se vedessi un fantasma aggirarsi per le nostre sale. Lo imploro di dirmi cosa gli offre il nostro mecenate nel Bosco Profondo, ma Mycelle si limita a insistere che ci vorrà del tempo. Nel frattempo, il Volpe e il Carnedine volteggiano come avvoltoi. Non posso fare a meno di pensare che la fine stia per arrivare, con i denti di un cane o con gli artigli di una volpe. O forse qualcos\'altro"
 
 Questo Mycelle sembra essere stato il capo della casa perduta, ma gli è successo qualcosa. Qualunque cosa sia stata, ha portato alla caduta e alla cancellazione della sua casa."</string>
 	<string name="chp16m_4_1__a">"Questo quarto racconto è incompleto. I suoi caratteri sono frenetici, raschiati e spigolosi. Le macchie d\'inchiostro macchiano la pagina e sono spalmate come sangue
 
 Si legge:
 
-'il Volpe e il Carnedine hanno iniziato a temere Micelle e anch\'io. Ora sostiene di essere eterno, di non poter morire e di passare molto tempo nei boschi. Sento che gli altri Cinque si stanno preparando a piombare su di noi. In un certo senso, prego che lo facciano. Micelle è cambiato. Grandi croste ricoprono il suo corpo e ora è più bestia che uomo. Gonfio e vendicativo. Il potere ce l\'ha, ma a quale costo? Ieri ha ucciso Enaro nella torre e siamo rimasti così pochi che nemmeno io sono al sicuro dalla sua ira. Qualunque cosa gli abbia offerto il nostro patrono, chiunque sia, ci ha preso più di quanto ci abbia mai dato. Vorrei che non avesse mai trovato quel cerchio di pietre a est. La storia dirà che è stata una sua follia, ma è sempre stata mia, non avrei dovuto spingerlo a farlo. Lascio queste parole come testimonianza dei miei errori..."
+'il Volpe e il Carnedine hanno iniziato a temere Mycelle e anch\'io. Ora sostiene di essere eterno, di non poter morire e di passare molto tempo nei boschi. Sento che gli altri Cinque si stanno preparando a piombare su di noi. In un certo senso, prego che lo facciano. Micelle è cambiato. Grandi croste ricoprono il suo corpo e ora è più bestia che uomo. Gonfio e vendicativo. Il potere ce l\'ha, ma a quale costo? Ieri ha ucciso Enaro nella torre e siamo rimasti così pochi che nemmeno io sono al sicuro dalla sua ira. Qualunque cosa gli abbia offerto il nostro benefattore, chiunque sia, ci ha preso più di quanto ci abbia mai dato. Vorrei che non avesse mai trovato quel cerchio di pietre a est. La storia dirà che è stata una sua follia, ma è sempre stata mia, non avrei dovuto spingerlo a farlo. Lascio queste parole come testimonianza dei miei errori..."
 
 È possibile che questo Mycelle sia l\'Orco della Tracia? Un uomo trasformato. Se fosse vero, sarebbe antico, gli ultimi resti di una famiglia nobile da tempo spazzata via dalla città. La lettera menzionava un cerchio di pietre a est, qualcosa vi dice che è lì che troverete il vostro obiettivo."</string>
 	<string name="chp17_15_1__a">La pioggia fredda non dà tregua ed il vento che soffia si oppone a ogni passo che si compie. Quando il terreno comincia a salire in pendenza, sentite di aver raggiunto le pendici della catena montuosa vicino al Rifugio. Una volta superato questo ostacolo, dovreste essere in grado di riacquistare la Strada del Filo. Improvvisamente, sentite una vibrazione rimbombare sotto i vostri piedi ed il mondo intorno a voi inizia a cambiare. Gli uccelli fuggono dal riparo dei rami in alto, mentre una forma brutale irrompe dall\'oscurità davanti a voi, spezzando i rami grassi come ramoscelli e colpendo la terra. Un Ocarro, uno dei pochi erbivori in grado di sopravvivere al Bosco Profondo, si lancia al galoppo verso di voi. La bestia è più grande di un carro e di un cavallo ed è ricoperta da una corazza di piastre ossee. Ogni dito dei suoi piedi, grandi come un macigno, è armato di una singola unghia simile a una falce che scava la terra a ogni passo. Non lontano, il resto della mandria di Ocarro si schianta attraverso il Bosco Profondo, schiacciando piante e pietre allo stesso modo. È chiaro che stanno fuggendo dalla tempesta che sta devastando la zona e che raramente attaccano gli umani, ma questo non ha molta importanza quando ci si trova direttamente sulla traiettoria della calca.</string>
 	<string name="chp17_15_1__c">Riuscite a scansarvi, evitando per un pelo di essere trafitti dalle dita lanceolate di un colosso, mentre la valanga di carne e muscoli corazzati attraversa la foresta e si allontana verso est, in direzione opposta al villaggio. Scongiurata la crisi, raccogliete il vostro equipaggiamento e proseguite verso il villaggio del Rifugio.</string>
-	<string name="chp17_1_1__a">"Avete eseguito gli ordini e ora avete la strega che vi serviva per il Richiamo. La donna, ancora sotto l\'effetto dell\'etere, è letargica e lenta, con la forza sufficiente per camminare solo se assistita. Il suo volto è sporco di terra. I Traci non l\'hanno trattata bene. Probabilmente hanno troppa paura di avvicinarsi a lei. Guardando la donna, vi ricordate che state guardando una persona, non un bersaglio.
+	<string name="chp17_1_1__a">"Avete eseguito gli ordini e ora avete la strega che vi serviva per il Richiamo. La donna, ancora sotto l\'effetto dell\'etere, è letargica e lenta, con la forza sufficiente per camminare solo se assistita. Il suo volto è sporco di terra. I Traciani non l\'hanno trattata bene. Probabilmente hanno troppa paura di avvicinarsi a lei. Guardando la donna, vi ricordate che state guardando una persona, non un bersaglio.
 
 
 Scegliete un\'opzione:"</string>
 	<string name="chp17_1_2__c">Aiutando delicatamente la donna a rimettersi in piedi, spiegate che state eseguendo gli ordini del re e che non avete scelta. Il giuramento comporta molti fardelli e questo è pesante. Sebbene non possiate liberarla, potete cercare di farla stare comoda. Inumidendo un panno con l\'acqua, lavate la sporcizia dal suo viso e offritele del cibo.</string>
 	<string name="chp17_1_3__c">Il lavoro è difficile, ma i fatti sono semplici. Senza questa donna la città di Verum cadrà e migliaia di civili moriranno. Sai che hai firmato per questo quando hai fatto il giuramento. Essere colui che prende le decisioni difficili. Facendo alzare la donna in piedi, la conduci all\'esterno.</string>
 	<string name="chp17_1_4__c">"Avete un lavoro da fare e rimuginare sulla situazione non renderà le cose più facili. Non ci sono garanzie che sopravviverete abbastanza a lungo da raggiungere il Cuore di Tenebra per svolgere il vostro compito. Avete raggiunto il vostro scopo qui a Tracia e questo è tutto ciò che conta. Fare un passo alla volta vi mantiene concentrati e vivi. Aiutando la donna a rimettersi in piedi, la conducete fuori."</string>
-	<string name="chp17_1_5__a">"Finalmente è arrivato il momento di lasciare la Tracia. Avete sopportato abbastanza le politiche tracie e avete indugiato all\'ombra di un sistema di schiavi oppressivo abbastanza a lungo per i vostri gusti. Con un lungo viaggio davanti a voi, vi dirigete verso il quartiere dei commercianti per fare scorta di provviste dell\'ultimo minuto."</string>
+	<string name="chp17_1_5__a">"Finalmente è arrivato il momento di lasciare la Tracia. Avete sopportato abbastanza le politiche Traciane e avete indugiato all\'ombra di un sistema di schiavi oppressivo abbastanza a lungo per i vostri gusti. Con un lungo viaggio davanti a voi, vi dirigete verso il quartiere dei commercianti per fare scorta di provviste dell\'ultimo minuto."</string>
 	<string name="chp17_1_5__c">Con la Tracia alle spalle, vi immergete ancora una volta nel Bosco Profondo. Il sole cocente che sorge sulla città alle vostre spalle viene oscurato in pochi istanti dalle fitte chiome della foresta, avvolgendovi in un torbido crepuscolo. I suoni delle fruste che scricchiolano e dei mercanti che barattano svaniscono presto, per essere sostituiti dall\'inquietante silenzio del bosco. Con una mano sulla lama e l\'altra sulla Strada del Filo, marciate nell\'oscurità.</string>
 	<string name="chp17_1_6__a">I primi giorni passano con un solo caso degno di nota.</string>
 	<string name="chp17_1_6__c">"All\'alba del quinto giorno di viaggio, raggiungete la fine della Strada del Filo, non lontano da Rifugio, il famigerato villaggio in cui eravate stati tenuti prigionieri solo poche settimane prima. Il pensiero degli occhi della Regina Errante perseguita ancora i vostri incubi. Mentre camminate, raggiungete la fine del filo, ancora rotto dalla vostra precedente visita. Fortunatamente, sapete che il villaggio si trova a ovest, al di là di una catena montuosa e, con l\'uso della bussola della vostra Libera Compagnia, dovreste essere in grado di trovare il villaggio e poi di nuovo la Strada del Filo. Estraendo la bussola dallo zaino, controllate la direzione. Voltandovi verso ovest, lasciate cadere la mano dalla Strada del Filo e vi immergete nella linea degli alberi verso il Rifugio.
@@ -6700,7 +6700,7 @@ Proprio mentre state per ordinare ai soldati di riempire i boccali, però, scorg
 Scegliete un\'opzione:"</string>
 	<string name="chp18_27_2__c">Il combattimento è breve ma feroce e la creatura giace presto insanguinata nel fango. I soldati sono sollevati dall\'avere a disposizione acqua potabile fresca e sono ansiosi di riempire i loro boccali.</string>
 	<string name="chp18_27_3__c">"Scagliate la bomba nella boscaglia e la luce intensa ed il forte rumore vi assordano per un attimo. Quando i vostri sensi tornano, la carcassa della creatura giace lì, semidistrutta. I soldati sono sollevati dal fatto di avere acqua potabile fresca e sono ansiosi di riempire i loro boccali."</string>
-	<string name="chp18_32_1__a">Tra i sinuosi alberi del Bosco Profondo si trovano simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso mezza campana a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
+	<string name="chp18_32_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso mezza campana a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
 	<string name="chp18_32_2__a">Si trova un secondo simbolo, poi un terzo. Seguendo il sentiero, si arriva a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
 	<string name="chp18_32_3__a">Nonostante i vostri sforzi, non riuscite a trovare nulla. Forse questo sentiero è stato lasciato abbastanza tempo fa da non trovare più nulla. Nel Bosco Profondo si perdono continuamente sentieri. Tornate verso il resto dell\'esercito, prima di perdere anche questo sentiero.</string>
 	<string name="chp18_33_1__a">"Un\'altra lunga marcia sotto la cintura ed il Bosco Profondo inizia ancora una volta ad aprirsi davanti a voi. Il sud sembra libero e anche un sentiero a ovest si presenta come una possibile direzione. Si potrebbero inviare esploratori in ricognizione per confermare entrambi.
@@ -6713,7 +6713,7 @@ Scegliete un\'opzione:"</string>
 
 Scegliete un\'opzione:"</string>
 	<string name="chp18_37_2__c">Gli esploratori che sono andati a ovest affermano che il sentiero è libero. Gli esploratori che avete mandato a est tornano con strane notizie. Dicono di aver visto dei simboli incisi su alcuni alberi. Mentre ve li descrivono, vi rendete conto che forse stanno descrivendo glifi di un\'altra Libera Compagnia. La squadra inviata a sud riferisce che lì c\'è un vecchio villaggio in rovina e che si sono sentiti dei movimenti all\'interno.</string>
-	<string name="chp18_38_1__a">Tra i sinuosi alberi del Bosco Profondo si trovano simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso mezza campana a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
+	<string name="chp18_38_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso mezza campana a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
 	<string name="chp18_38_2__a">Si trova un secondo simbolo e poi un terzo. Seguendo il sentiero si arriva a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
 	<string name="chp18_38_3__a">Nonostante i vostri sforzi, non riuscite a trovare nulla. Forse questo sentiero è stato lasciato abbastanza tempo fa da non trovare più nulla. Nel Bosco Profondo si perdono continuamente sentieri. Tornate verso il resto dell\'esercito, prima di perdere anche questo sentiero.</string>
 	<string name="chp18_43_1__a">"La Foresta si dirada e la marcia diventa più facile per un certo periodo. Il suono lontano della vita animale che di solito accompagna la foresta è assente qui. I rumori della Foresta sono un promemoria costante del pericolo sempre presente, ma in qualche modo questo silenzio è più snervante. Proseguendo, si comincia a capire perché c\'è tanto silenzio. Ci sono ossa sul sentiero davanti a voi e, ai lati, se ne vedono altre tra gli alberi. Gli scheletri di grandi carnivori e di animali più piccoli disseminano l\'area.
@@ -6850,7 +6850,7 @@ Sapendo che sarà tutto inutile se non riuscirete a portare a termine ciò che v
 	<string name="chp18_epi_4__a">"Con sollievo trovate il ragazzo tra le mura. Vi rendete conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Dicendoglielo e dicendogli che ha fatto bene, sorride da un orecchio all\'altro
 
 La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
-	<string name="chp18_epi_5__a">"Con grande sollievo trovate il ragazzo tra quelli che si trovano all\'interno delle mura. Vi aveva sfidato, ma non potete fargliene una colpa. Vedendo come ha affrontato il Wyrm, forse avete sbagliato a negargli un posto nell\'esercito. Ti rendi conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Quando glielo dici e gli dici che è stato bravo, lui sorride da un orecchio all\'altro
+	<string name="chp18_epi_5__a">"Con grande sollievo trovate il ragazzo tra quelli che presenti all\'interno delle mura. Vi aveva sfidato, ma non potete fargliene una colpa. Vedendo come ha affrontato il Wyrm, forse avete sbagliato a negargli un posto nell\'esercito. Ti rendi conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Quando glielo dici e gli dici che è stato bravo, lui sorride da un orecchio all\'altro
 
 La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
 	<string name="chp18m_1_0__a">"Storia a Tempo
@@ -7062,7 +7062,7 @@ Le vostre parole sono prive di speranza e gli sguardi impauriti tra gli alberi p
 
 Guidate l\'esercito verso l\'interno del Bosco Profondo. La sensazione di essere circondati è sempre presente, così come la pioggia. Alcuni uomini hanno iniziato a parlare da soli e ne avete osservati diversi che si agitavano e dondolavano avanti e indietro quando vi siete fermati per la sera. Non vi sorprende quando una mattina vi svegliate e scoprite che una squadra è scomparsa insieme ad alcune delle vostre provviste. Non molto tempo dopo, sentite delle urla in lontananza."</string>
 	<string name="chp18m_8_0__c">Non c\'è altro da dire che non sia già stato detto. Continuate ad andare avanti. Dovete trovare la Torre del Sale a sud.</string>
-	<string name="chp19_10_1__c">"Dopo aver camminato per un po\' di tempo, si arriva a una sezione della città fortemente danneggiata che sembra essere stata un mercato di qualche tipo. Diversi edifici hanno ampie finestre aperte, dove il commercio poteva essere condotto al banco tra i proprietari dei negozi e i clienti di passaggio sulla strada. Guardando all\'interno di alcune delle ex attività commerciali, si trovano altri cadaveri sparsi e alcuni scaffali parzialmente riforniti. Curiosamente, la merce sugli scaffali sembra ben conservata come i cadaveri in questa città. Potrebbe essere un buon posto per rifornirsi, se si ha tempo.
+	<string name="chp19_10_1__c">"Dopo aver camminato per un po\' di tempo, si arriva a una sezione della città fortemente danneggiata che sembra essere stata un mercato di qualche tipo. Diversi edifici hanno ampie finestre aperte, dove il commercio poteva essere condotto al banco tra i proprietari dei negozi e i clienti di passaggio sulla strada. Guardando all\'interno di alcune delle ex attività commerciali, trovate altri cadaveri sparsi e alcuni scaffali parzialmente riforniti. Curiosamente, la merce sugli scaffali sembra ben conservata come i cadaveri in questa città. Potrebbe essere un buon posto per rifornirsi, se si ha tempo.
 
 
 Scegliete un\'opzione:"</string>
@@ -7128,7 +7128,7 @@ Sebbene sia un sollievo vedere la rinnovata fede di Quintus, una parte di voi si
 	<string name="chp19_15_15__a">Si gira la ruota e si sente il pesante tonfo dei catenacci all\'interno. La porta è ora chiusa a chiave. Non avendo altra scelta, iniziate l\'arduo compito di aprirvi la strada attraverso i meccanismi. Senza nessuno che possa fermarvi, alla fine la porta cade, ma perdete tempo prezioso nel farlo.</string>
 	<string name="chp19_15_16__a">"Entrare nella Guglia è come entrare in un altro mondo. Le pareti bianche e lisce riflettono la luce di un gigantesco pilastro centrale di vetro pieno di energia luminosa che si estende fino all\'apice della Guglia. Archi di fulmini danzano su e giù per l\'altezza della torre in una tempesta blu elettrico. Le scale si snodano intorno alla parete esterna del nucleo centrale e si interrompono in vari punti per formare delle passerelle che conducono alle stanze del guscio della Guglia. Dalla colonna centrale scendono centinaia di spessi cavi di ferro, come quelli usati per costruire la Strada del Filo. Questi cavi passano nelle pareti all\'esterno di ciascuna delle stanze sovrastanti. Non avete mai visto una struttura del genere prima d\'ora e non riuscite a immaginare come questa energia sia contenuta, per non parlare di come sia stata sfruttata per qualche scopo. Almeno qui non c\'è la possibilità che esista un\'Ombra; la luce è ovunque.
 
-Il gruppo sale cautamente le scale, sbirciando nelle stanze periferiche mentre si sale verso l\'apice. All\'interno delle stanze si trovano resti umani pesantemente decomposti, le cui ossa si polverizzano quando vengono disturbate. Stranamente, questi cadaveri non sono stati conservati come quelli trovati in altre parti della città, alcuni sembrano seduti in un riposo silenzioso, come se fossero morti sulla loro poltrona. Molti sono semplicemente caduti in piedi e nessuno presenta i danni indicativi di combattimento che ricoprono quelli all\'esterno. Il mistero si infittisce man mano che si raggiunge la cima
+Il gruppo sale cautamente le scale, sbirciando nelle stanze periferiche mentre si sale verso l\'apice. All\'interno delle stanze trovate resti umani pesantemente decomposti, le cui ossa si polverizzano quando vengono disturbate. Stranamente, questi cadaveri non sono stati conservati come quelli trovati in altre parti della città, alcuni sembrano seduti in un riposo silenzioso, come se fossero morti sulla loro poltrona. Molti sono semplicemente caduti in piedi e nessuno presenta i danni indicativi di combattimento che ricoprono quelli all\'esterno. Il mistero si infittisce man mano che si raggiunge la cima
 
 In cima alla scalinata centrale si trova una grande porta ornata che si apre su una grande rotonda. Questa sala circolare è il culmine della torre. Gli innumerevoli scaffali di libri e pergamene che vi sono conservati inducono a pensare che si tratti di una sorta di archivio, ma si capisce subito che è molto di più. Dispositivi e meccanismi dalle forme più svariate si trovano su tavoli riccamente intagliati, mentre altre strane macchine sono appese ad armature metalliche fissate a pesanti basi.
 
@@ -7236,7 +7236,7 @@ Scegliete un\'opzione:"</string>
 
 Scegliete un\'opzione:"</string>
 	<string name="chp19_17_2__a">Attivando una sfera luminosa, vi avventurate con cautela all\'interno.</string>
-	<string name="chp19_17_2__c">"Al centro dell\'edificio a cupola si trova un enorme dispositivo oculare, molto simile a quello cilindrico più piccolo trovato in altre parti della città. L\'apparecchio sembra puntare solo verso il cielo e si trovano varie carte e mappe di stelle sparse sui tavoli vicini, oltre a vecchi documenti che fanno riferimento a un\'"aurora"
+	<string name="chp19_17_2__c">"Al centro dell\'edificio a cupola si trova un enorme dispositivo oculare, molto simile a quello cilindrico più piccolo trovato in altre parti della città. L\'apparecchio sembra puntare solo verso il cielo e trovate varie carte e mappe di stelle sparse sui tavoli vicini, oltre a vecchi documenti che fanno riferimento a un\'"aurora"
 
 Studiando attentamente gli appunti, vi rendete conto che stanno parlando dei flussi di luci colorate che appaiono nel cielo a ogni luna nuova. Le conoscete come la Luce delle Streghe, il fenomeno temuto da tutta l\'umanità che si dice rafforzi il potere delle streghe e provochi il risveglio di cose oscure sotto gli alberi del Bosco Profondo. Alcuni credono che si tratti di semplici miti raccontati per spaventare i bambini, ma voi lo sapete bene. Le imprese libere possono sempre aspettarsi più lavoro quando splende la Luce delle Streghe. La maggior parte delle persone sceglie di rimanere in casa quando si verifica il fenomeno, ma sembra che gli abitanti di questo regno abbandonato lo abbiano studiato da vicino.
 
@@ -7613,7 +7613,7 @@ La quarta notte in questa città maledetta è caratterizzata da una rara fortuna
 	<string name="chp19m_4_1__a">Storia a Tempo</string>
 	<string name="chp19m_4_1__c">Uomini e donne si scambiano sguardi spaventati mentre date fuoco a ciò che resta delle vostre provviste. L\'area illuminata è troppo piccola per proteggere tutti i soldati e vi chiedete quali volti spariranno prima dell\'alba. Le urla riempiono di nuovo l\'oscurità, trascinando via gli uomini a caso.</string>
 	<string name="chp19m_4_2__a">Storia a Tempo</string>
-	<string name="chp19m_4_2__c">Le provviste vengono date alle fiamme e un\'ampia area viene illuminata per proteggere l\'esercito. Durante la notte, ai margini della luce si scorge un movimento che tiene sveglie le squadre. Più di una volta si sentono grida accompagnate da piedi che si agitano mentre viticci neri come l\'inchiostro tentano di rubare gli ignari soldati. Per fortuna, i loro compagni di squadra riescono a sottrarli a morte certa. All\'alba tutti i soldati sono stati rintracciati, ma dubitate che il vostro esercito possa sopravvivere a un\'altra notte come questa.</string>
+	<string name="chp19m_4_2__c">Le provviste vengono date alle fiamme e un\'ampia area viene illuminata per proteggere l\'esercito. Durante la notte, ai margini della luce scorgete un movimento che tiene sveglie le squadre. Più di una volta si sentono grida accompagnate da piedi che si agitano mentre viticci neri come l\'inchiostro tentano di rubare gli ignari soldati. Per fortuna, i loro compagni di squadra riescono a sottrarli a morte certa. All\'alba tutti i soldati sono stati rintracciati, ma dubitate che il vostro esercito possa sopravvivere a un\'altra notte come questa.</string>
 	<string name="chp19m_4_3__a">"Storia a Tempo
 
 Qualcosa di inspiegabile vi risveglia dal sonno e trovate un muro nero che incombe su di voi. All\'inizio pensate che le luci siano semplicemente diminuite, ma vi rendete subito conto che l\'oscurità sta in realtà costringendo un cerchio di protezione sempre più stretto. Tutt\'intorno, potete scorgere le forme assopite dei soldati già oltre la luce."</string>
@@ -7794,7 +7794,7 @@ Il sollievo per aver camminato in questo inferno di vegetazione è si fa reale q
 
 Lo scroscio assordante dell\'acquazzone ostacola la vostra capacità di percepire il suono di qualsiasi minaccia in avvicinamento. Rimanete all\'erta, notando il pericolo.
 
-Alla base delle pareti si trovano cumuli di rami e ossa raccolti insieme come nidi.
+Alla base delle pareti trovate cumuli di rami e ossa raccolti insieme come nidi.
 
 In uno dei nidi sparsi giace una mascella. Molto probabilmente umana. Tra i ramoscelli e i rami di un altro nido è intrecciata una maschera incrinata e rotta. Di foggia femminile, la maschera, un tempo a pieno volto e di delicata ceramica, giace ora in frantumi.
 
@@ -8174,8 +8174,8 @@ Scegliere la prima opzione applicabile dall\'alto verso il basso:"</string>
 	<string name="chp20_4_15__a">Ordinate a una squadra vicina di difendere la pira, sapendo che moriranno. Se non fosse per il loro sacrificio, però, tutta Verum morirebbe con loro.</string>
 	<string name="chp20_4_1__a">Il ruggito del Bosco Profondo si alza ancora una volta e voi salite rapidamente sui bastioni per determinare da quale direzione arriverà l\'attacco.</string>
 	<string name="chp20_4_2__a">Sapete che non sarete in grado di tenere la fortezza ancora a lungo. Le sue antiche mura si sgretolano un po\' di più a ogni artiglio massiccio che le colpisce, e le bestie continuano ad arrivare. Scrutando la linea degli alberi, notate dei movimenti a nord, est e nord-est. Si sente anche il forte sferragliamento di vecchie attrezzature nel tunnel, ancora una volta.</string>
-	<string name="chp20_4_3__a">Sapete che non sarete in grado di tenere la fortezza ancora a lungo. Le sue antiche mura si sgretolano un po\' di più a ogni artiglio massiccio che le colpisce, e le bestie continuano ad arrivare. Sorvegliando la linea degli alberi, notate dei movimenti a nord, est e nord-est, ma niente a ovest. Il Portale, il Bastione di Sinistra ed il Muro Occidentale dovrebbero essere al sicuro, tuttavia si sente ancora una volta il forte sferragliamento di vecchie attrezzature nel tunnel.</string>
-	<string name="chp20_4_4__a">"Sapete che non sarete in grado di tenere la fortezza ancora a lungo. Le sue antiche mura si sgretolano un po\' di più a ogni artiglio massiccio che le colpisce, e le bestie continuano ad arrivare. Sorvegliando la linea degli alberi, notate dei movimenti a nord, est e nord-est, ma niente a ovest. Il Portale, il Bastione di Sinistra ed il Muro Occidentale dovrebbero essere al sicuro, tuttavia si sente ancora una volta il forte sferragliamento di vecchie attrezzature nel tunnel.
+	<string name="chp20_4_3__a">Sapete che non sarete in grado di tenere la fortezza ancora a lungo. Le sue antiche mura si sgretolano un po\' di più a ogni artiglio massiccio che le colpisce, e le bestie continuano ad arrivare. Sorvegliando la linea degli alberi, notate dei movimenti a nord, est e nord-est, ma niente a ovest. Il Cancello, il Bastione di Sinistra ed il Muro Occidentale dovrebbero essere al sicuro, tuttavia si sente ancora una volta il forte sferragliamento di vecchie attrezzature nel tunnel.</string>
+	<string name="chp20_4_4__a">"Sapete che non sarete in grado di tenere la fortezza ancora a lungo. Le sue antiche mura si sgretolano un po\' di più a ogni artiglio massiccio che le colpisce, e le bestie continuano ad arrivare. Sorvegliando la linea degli alberi, notate dei movimenti a nord, est e nord-est, ma niente a ovest. Il Cancello, il Bastione di Sinistra ed il Muro Occidentale dovrebbero essere al sicuro, tuttavia si sente ancora una volta il forte sferragliamento di vecchie attrezzature nel tunnel.
 
 Guardando a est, vedete una grande forma che si fa strada tra gli alberi. Una mostruosità simile a un millepiedi calpesta il brulicante sciame di creature, trafiggendole con le sue zampe simili a lance mentre tuona verso la fortezza. Abbattere quella cosa costerà vite preziose, a meno che non facciate qualcosa."</string>
 	<string name="chp20_4_5__a">Sapete che non sarete in grado di tenere la fortezza ancora a lungo. Le sue antiche mura si sgretolano un po\' di più a ogni artiglio massiccio che le colpisce, e le bestie continuano ad arrivare. Scrutando la linea degli alberi, vedete maree di carne che si schiantano da tutte le direzioni come un enorme anello di morte che strangola la fortezza. E dal basso si sente ancora una volta il forte sferragliamento di vecchie attrezzature nel tunnel.</string>
@@ -9407,7 +9407,7 @@ Mentre riflettete, Greycane fruga nella sua borsa e scopre una pila di fogli che
 Scegliete un\'opzione:
 
 Se volete indagare sul fuoco, scegliete l\'opzione superiore. Altrimenti, scegliete la direzione da seguire."</string>
-	<string name="chp4_48_2__a">"Sotto gli archi di alcuni grandi alberi, si trovano i resti di un accampamento. Le braci del fuoco sono scure, ma ancora calde. Una baracca di coperte e qualche bastone di sostegno giace calpestata sul terreno e una scia di sangue si perde nel bosco, come se qualcosa fosse stato trascinato via dall\'accampamento. Chiunque sia stato, è sicuramente morto. È successo di recente.
+	<string name="chp4_48_2__a">"Sotto gli archi di alcuni grandi alberi, trovate i resti di un accampamento. Le braci del fuoco sono scure, ma ancora calde. Una baracca di coperte e qualche bastone di sostegno giace calpestata sul terreno e una scia di sangue si perde nel bosco, come se qualcosa fosse stato trascinato via dall\'accampamento. Chiunque sia stato, è sicuramente morto. È successo di recente.
 
 Cercate frettolosamente nell\'accampamento."</string>
 	<string name="chp4_64_1__c">"Davanti a voi si ergono i resti malandati di un ponte, anche se il fiume che un tempo copriva è scomparso da tempo. I grandi sostegni in pietra sporgono ad angolo, catturati da una lenta caduta secolare mentre il Bosco Profondo li trascina al suo interno.
@@ -10343,7 +10343,7 @@ L\'Inquisitore annuisce mentre le guardie afferrano Bruer e lo trascinano urland
 \"E così sia,\" dichiara il Re. Lady Markena sorride a Lord Tavender.
 
 Guardate il giovane Re sul trono, il cui portamento regale ed il suo volto nascondono i suoi anni. Oggi ha ottenuto più di una vittoria qui. Paura e rispetto sono una combinazione potente per un sovrano."</string>
-	<string name="chp6a_28_28b__a">Tra la folla si scorge Elanna, a braccetto con un nobile dall\'aspetto distinto. Stanno indicando il soffitto a volta, apparentemente parlando dell\'architettura della grande sala, mentre il resto dei nobili inizia a parlare del processo. A quanto pare, il suo obiettivo di fare conoscenze sta andando bene.</string>
+	<string name="chp6a_28_28b__a">Tra la folla scorgete Elanna, a braccetto con un nobile dall\'aspetto distinto. Stanno indicando il soffitto a volta, apparentemente parlando dell\'architettura della grande sala, mentre il resto dei nobili inizia a parlare del processo. A quanto pare, il suo obiettivo di fare conoscenze sta andando bene.</string>
 	<string name="chp6a_28_29__a">"Il Re chiede che la sala venga sgomberata, ma vi invita a restare. La corte si svuota e, una volta accertato che siete rimasti solo voi ed il piccolo consiglio, il Re si china in avanti. \"Passiamo ora ad altre questioni. C\'è una piaga che sta devastando la città. Più di Lungrot, a quanto pare. Alto Capitano Trent, vuole presentare le sue scoperte?\"
 
 Trent, con la faccia truce, si fa avanti e riferisce delle vittime e della diffusione, descrivendo i mucchi di corpi trovati nei vicoli, i sintomi e le molte perdite. \"In questo momento si trova ai Bassifondi e colpisce vecchi e giovani, forti e deboli. Per coloro che la toccano è una sentenza di morte.\"
@@ -10990,7 +10990,7 @@ Vi ha detto che il Veneratore è stato visto brevemente ieri sera presso l\'Ordi
 Si sale per un tortuoso sentiero di montagna verso le tombe funerarie. Il tempo piovoso rende il fango scivoloso. Siete le uniche anime che osano affrontare una simile salita. Una volta raggiunto l\'ingresso, scoprite che non ci sono guardie sul posto, una rarità per i luoghi sacri di Cistercia. Invece, una coppia solitaria di statue di gargoyle affianca i due lati della grande porta di ferro della tomba
 
 Entrando, l\'odore di liquido d\'imbalsamazione misto a marciume e muffa è soffocante e si è costretti a riaccendere le lampade ambrate che si sono spente a causa dell\'afflusso d\'aria provocato dall\'apertura delle porte. Con la lampada accesa in mano, iniziate a cercare indizi."</string>
-	<string name="chp7a_5_2__a">"Le sale cavernose sembrano non finire mai. Centinaia di anni, generazioni di eroi e di morti onorati, tutti giacciono nell\'eterno riposo senza nessuno, se non gli altri, per passare il tempo. Agitando la vostra luce ambrata verso il pavimento, scoprite una serie di macchie di sangue fresco, risalenti a non più di qualche giorno fa. Seguendo la scia di sangue più in profondità nella tomba, si trovano diverse bare aperte, con i coperchi di pietra spostati. Il peso delle lastre di pietra avrebbe richiesto diversi uomini per spostarle. O forse uno estremamente forte. Le tracce indicano quest\'ultima ipotesi. Un Veneratore è stato qui.
+	<string name="chp7a_5_2__a">"Le sale cavernose sembrano non finire mai. Centinaia di anni, generazioni di eroi e di morti onorati, tutti giacciono nell\'eterno riposo senza nessuno, se non gli altri, per passare il tempo. Agitando la vostra luce ambrata verso il pavimento, scoprite una serie di macchie di sangue fresco, risalenti a non più di qualche giorno fa. Seguendo la scia di sangue più in profondità nella tomba, trovate diverse bare aperte, con i coperchi di pietra spostati. Il peso delle lastre di pietra avrebbe richiesto diversi uomini per spostarle. O forse uno estremamente forte. Le tracce indicano quest\'ultima ipotesi. Un Veneratore è stato qui.
 
 Le bare sono vuote, a parte qualche brandello di tessuto marcio. Trovate una stanza con un tavolo e un paio di candele appena bruciate. Sul pavimento, altre macchie di sangue, graffi e pezzi di carne e ossa. Vi chiedete cosa ci facesse qui, ma tutte le immagini che evocate vi fanno venire un brivido freddo lungo la schiena."</string>
 	<string name="chp7a_5_2__c">"
@@ -11953,7 +11953,7 @@ Se il risultato è superiore agli attuali PUNTI FERITA del ragno, scegliere la p
 	<string name="chp8_29_1__a">"Vedete l\'interno di una grotta buia e piena di ossa attraverso occhi che non sono i vostri. Tutto ciò che vedete è immerso in una familiare tonalità arancione. Un respiro bestiale sale e scende nei vostri polmoni. I ricordi di una vita altrui scorrono come liquami nella vostra mente, suscitando un antico rancore. Vedete i primi umani, deliziosamente ignoranti e maturi, mentre lottano per sopravvivere. Sussurri loro dall\'ombra. Li guidate. Li controllate. Fate i vostri macabri giochi come un piccolo dio su di loro.
 	
 Ma poi è arrivata lei e loro non sentono più i sussurri nell\'oscurità. Rivoltati da lei, vi ritirate e aspettate il momento opportuno. Aspettate pazientemente nell\'oscurità, giocando con i pochi che riuscite ad attirare. Arriverà di nuovo il vostro momento e loro torneranno alla vostra marionetta. Sono vostri, per sempre.."</string>
-	<string name="chp8_2_1__a">"Il tavolo si capovolge in aria, disperdendo gli oggetti che vi si trovano e tutto diventa bianco.
+	<string name="chp8_2_1__a">"Il tavolo si capovolge in aria, disperdendo gli oggetti che vi si trovano sopra e tutto diventa bianco.
 	
 Vi ritrovate in una stanza di luce pallida con Lina in piedi davanti a voi. Lina si alza lentamente verso di voi e vi fissa con occhi arancioni e luminosi, gli stessi che vi guardano da quando siete arrivati in questo posto.
 
@@ -12869,7 +12869,7 @@ Prima di proseguire, fare clic su tutti i pulsanti delle ISTRUZIONI."</string>
 	<string name="play_previous">Riproduzione precedente</string>
 	<string name="pop10_0_1__b">"POSIZIONARE LA MAPPA VERUM DALLA BUSTA MISTERIOSA 'B' AL CENTRO DELL\'AREA DI GIOCO E POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 10A SOTTO DI ESSA.
 
-POSIZIONARE IL SEGNALINO DELLA LIBERA COMPAGNIA SULLA POSIZONE 7. POSIZIONARE IL SEGNALINO LUOGO 7 SUL TRACCIATO DEL TEMPO. PRENDERE LA CARTA 'PATH A'."</string>
+POSIZIONARE IL SEGNALINO DELLA LIBERA COMPAGNIA SULLA POSIZONE 7. POSIZIONARE IL SEGNALINO POSIZIONE 7 SUL TRACCIATO DEL TEMPO. PRENDERE LA CARTA 'PATH A'."</string>
 	<string name="pop10_105_2a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop10_105_2a__d">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' DEL CAPITOLO 10 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop10_107_3__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.</string>
@@ -12954,7 +12954,7 @@ POTETE PERDERE IMMEDIATAMENTE 1 RAZIONE PER GUADAGNARE 2 GETTONI COMBATTIMENTO A
 POTETE PERDERE IMMEDIATAMENTE 1 RAZIONE PER OTTENERE 1 OGGETTO QUALSIASI DAL MAZZO DEGLI OGGETTI COMUNI (QUESTO PUÒ ESSERE FATTO FINO A 2 VOLTE)."</string>
 	<string name="pop10_28_2__b">"AVETE TEMPO FINO ALLO SLOT 5 DEL TRACCIATO DEL TEMPO PER PREPARARVI AL VIAGGIO. RACCOGLIETE L\'EQUIPAGGIAMENTO, LE RAZIONI EXTRA, LE BENEDIZIONI O LE INFORMAZIONI DI CUI POTRESTE AVER BISOGNO PER IL VOSTRO VIAGGIO
 
-POSIZIONATE I GETTONI LUOGO 4, 6, 13, 15 E 19."</string>
+POSIZIONATE I GETTONI POSIZIONE 4, 6, 13, 15 E 19."</string>
 	<string name="pop10_3_0__b">"AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.
 
 AGGIUNGERE LE CARTE EVENTO CITTÀ 11, 12, 13 E 14 AL MAZZO EVENTI CITTÀ.
@@ -13547,13 +13547,13 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 12 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI 
 
 POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 12 AL CENTRO DEL GIOCO.
 
-POSIZIONARE I GETTONI LUOGO 5, 7, 11, 15, 16 E 18."</string>
+POSIZIONARE I GETTONI POSIZIONE 5, 7, 11, 15, 16 E 18."</string>
 	<string name="pop12_3_1__d">APRIRE IL DIARIO A PAGINA 58/59 E LEGGERE QUESTE PAGINE. TENERE IL DIARIO APERTO A QUESTA PAGINA PER TUTTO IL CAPITOLO, IN MODO DA POTER RILEGGERE LE REGOLE DI QUESTO CAPITOLO.</string>
 	<string name="pop12_3_2__b">"APRIRE LA BUSTA MISTERIOSA \"F\" E COLLOCARNE IL CONTENUTO SOPRA IL TRACCIATO DEL TEMPO. PRENDERE LA CARTA \"PATH A\".
 
 POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 12 AL CENTRO DEL GIOCO.
 
-POSIZIONARE I GETTONI LUOGO 7, 11, 15, 16 E 18."</string>
+POSIZIONARE I GETTONI POSIZIONE 7, 11, 15, 16 E 18."</string>
 	<string name="pop12_3_2__d">APRIRE IL DIARIO A PAGINA 58/59 E LEGGERE QUESTE PAGINE. TENERE IL DIARIO APERTO A QUESTA PAGINA PER TUTTO IL CAPITOLO, IN MODO DA POTER RILEGGERE LE REGOLE DI QUESTO CAPITOLO.</string>
 	<string name="pop12_5_1__b">ESEGUI UNA PROVA DI SCALATA (CLIMB CHECK, DIFFICOLTÀ 4), AGGIUNGERE 1 AL RISULTATO SE SI È UN CUR O UN RANGER.</string>
 	<string name="pop12_5_2__b">PERDETE UN SEGNALINO COMBATTIMENTO A SCELTA.</string>
@@ -13607,8 +13607,8 @@ AGGIUNGETE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop12_6_9__b">"ENTRAMBI GLI OATHSWORN COINVOLTI GUADAGNANO UN SEGNALINO BATTLEFLOW.
 
 POSIZIONATE ENTRAMBI GLI OATHSWORN COINVOLTI SULLA POSIZONE 9. RICORDATE: QUESTI OATHSWORN NON POSSONO PIÙ EFFETTUARE ALCUN MOVIMENTO."</string>
-	<string name="pop12_7_2__b">POSIZIONARE I GETTONI DI POSIZIONE 8 E 12.</string>
-	<string name="pop12_7_3__b">POSIZIONARE I GETTONI DI POSIZIONE 8 E 12.</string>
+	<string name="pop12_7_2__b">POSIZIONARE I GETTONI POSIZIONE 8 E 12.</string>
+	<string name="pop12_7_3__b">POSIZIONARE I GETTONI POSIZIONE 8 E 12.</string>
 	<string name="pop12_8_1__b">"ESEGUI UNA PROVA DI SCALATA (CLIMB CHECK, DIFFICOLTÀ 5)
 
 DOPO
@@ -14080,12 +14080,12 @@ CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
 	<string name="pop15_epi_3__b">"GUADAGNA 40 IRON.
 
 CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
-	<string name="pop15a_13_10__b">"POSIZIONARE I GETTONI DI POSIZIONE 5, 10, 15, 17, 18, 21 E 23.
+	<string name="pop15a_13_10__b">"POSIZIONARE I GETTONI POSIZIONE 5, 10, 15, 17, 18, 21 E 23.
 
 NOTA: PER AVVIARE UN COMMERCIO CON IL FABBRO E LO SPEZIALE SI POSSONO USARE ANCHE LE REGOLE DI 'INVIO DI UN CORRIERE' A PAGINA 15 DEL REGOLAMENTO DELLA STORIA."</string>
 	<string name="pop15a_13_6__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.</string>
 	<string name="pop15a_13_7__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO BATTLEFLOW.</string>
-	<string name="pop15a_13_9__b">"POSIZIONARE I GETTONI DI POSIZIONE 5, 10, 15, 17, 18, 21 E 23.
+	<string name="pop15a_13_9__b">"POSIZIONARE I GETTONI POSIZIONE 5, 10, 15, 17, 18, 21 E 23.
 
 NOTA: PER AVVIARE UN COMMERCIO CON IL FABBRO E LO SPEZIALE SI POSSONO USARE ANCHE LE REGOLE DI 'INVIO DI UN CORRIERE' A PAGINA 15 DEL REGOLAMENTO DELLA STORIA."</string>
 	<string name="pop15a_16_10__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
@@ -14112,7 +14112,7 @@ POSIZIONARE IL SEGNALINO POSIZIONE 4."</string>
 	<string name="pop15a_23_3__b">"GUADAGNARE IL SEGNALINO INDIZIO 1
 
 AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO."</string>
-	<string name="pop15a_23_5__b">POSIZIONARE I GETTONI DI POSIZIONE 7 E 9.</string>
+	<string name="pop15a_23_5__b">POSIZIONARE I GETTONI POSIZIONE 7 E 9.</string>
 	<string name="pop15a_23_6__b">EFFETTUARE UNA PROVA DI ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE IL CUR È CON VOI).</string>
 	<string name="pop15a_23_7__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop15a_23_8__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).</string>
@@ -14252,15 +14252,15 @@ TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO EMPOWERED X3."</string>
 	<string name="pop15b_8_25__d">GUADAGNA 20 IRON.</string>
 	<string name="pop15b_8_26__b">RIMETTERE NELLA RISERVA IL CUBO MIGHT NERO SULLA CARTA ALLEATO DI POLUS.</string>
 	<string name="pop15b_8_26__d">GUADAGNARE 2 OGGETTI DAL MAZZO DEGLI OGGETTI COMUNI.</string>
-	<string name="pop15b_8_29__b">POSIZIONARE I GETTONI DI POSIZIONE 5, 21 E 23.</string>
+	<string name="pop15b_8_29__b">POSIZIONARE I GETTONI POSIZIONE 5, 21 E 23.</string>
 	<string name="pop15b_8_2__b">EFFETTUARE UNA PROVA DI ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 6, 5 SE AVETE LA LAMA (THE BLADE) O IL CUR).</string>
-	<string name="pop15b_8_30__b">POSIZIONARE I GETTONI DI POSIZIONE 5, 21 E 23.</string>
+	<string name="pop15b_8_30__b">POSIZIONARE I GETTONI POSIZIONE 5, 21 E 23.</string>
 	<string name="pop15b_8_31__b">POSIZIONARE UN CUBO MIGHT GIALLO SULLA CARTA ALLEATO DI POLUS.</string>
 	<string name="pop15b_8_32__b">POSIZIONARE UN CUBO MIGHT ROSSO SULLA CARTA ALLEATO DI POLUS.</string>
 	<string name="pop15b_8_33__b">POSIZIONARE UN CUBO MIGHT NERO SULLA CARTA ALLEATO DI POLUS.</string>
 	<string name="pop15b_8_3__b">"GUADAGNARE IL SEGNALINO INDIZIO 1.
 
-POSIZIONARE I GETTONI LUOGO 9, 13 E 15."</string>
+POSIZIONARE I GETTONI POSIZIONE 9, 13 E 15."</string>
 	<string name="pop15b_8_4__b">"GUADAGNARE IL SEGNALINO INDIZIO 1
 
 POSIZIONARE I GETTONI INDIZIO 13 E 15."</string>
@@ -14280,7 +14280,7 @@ GUADAGNARE IL SEGNALINO INDIZIO 5."</string>
 	<string name="pop16_12_1__b">EFFETTUARE UNA PROVA DI ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE IL CUR È CON VOI).</string>
 	<string name="pop16_12_3__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
 	<string name="pop16_12_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
-	<string name="pop16_12_5__b">POSIZIONARE I GETTONI DI POSIZIONE 1 E 29.</string>
+	<string name="pop16_12_5__b">POSIZIONARE I GETTONI POSIZIONE 1 E 29.</string>
 	<string name="pop16_17_12__b">SE NON L\'AVETE ANCORA FATTO, RIVELATE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 16 SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA.</string>
 	<string name="pop16_17_12__d">OTTENETE LA CARTA ALLEATO 42 (MANY WINTERS, MOLTI INVERNI), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 41 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 42 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop16_17_13__b">SE NON L\'AVETE ANCORA FATTO, RIVELATE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 16 SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA.</string>
@@ -14356,8 +14356,23 @@ TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW."</string>
 	<string name="pop16_4_12__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO EMPOWERED X3.</string>
 	<string name="pop16_4_13__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
 	<string name="pop16_4_14__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.</string>
-	<string name="pop16_4_15__b">ANDARE A PAGINA 19 DEL DIARIO E LEGGERE LA VOCE 99 DEL DIARIO.</string>
-	<string name="pop16_4_16__b">"COLLOCARE I GETTONI DI POSIZIONE 12, 17 E 18.
+	<string name="pop16_4_15__b">ANDARE A PAGINA 19 DEL DIARIO E LEGGERE LA VOCE 99 DEL DIARIO.
+	
+IL CONTENUTO DELLA VOCE 99 È ANCHE RIPORTATO DI SEGUITO:
+
+Questa pergamena, un tempo sigillata dal marchio dello Scarabeo, sembra essere stata inviata molti anni fa. Non è chiaro come possa riguardare l\'Orco della Tracia, anche se sembra riportare una sorta di storia segreta. La lettera recita: 
+
+\"I CINQUE CONTINUANO A GUARDARCI DALL\'ALTO IN BASSO, SCAMBIANDO LANOSTRA MODERAZIONE PER UNA MANCANZA DI CONVINZIONE. LA LORO ARROGANZA SARÀ IL NOSTRO VANTAGGIO.
+HO CONVINTO IL MIO CARISSIMO MYCELLE A CERCARE DI INSEGNARE LORO LA VERITÀ CHE SI CELA DIETRO IL MOTTO DEGLI SCARAVELHO: \"UNDO MAS VENENOSO\". BELLO MA MORTALE.
+IMPARERANNO CHEQUANDO CI CALPESTANO, NOI RISPONDIAMO CON UN MORSO. MYCELLE SI È INCONTRATO CON UN BENEFATTORE NELLE PROFONDITÀ DEL BOSCO. TEMO PER MIO MARITO. 
+TUTTAVIA, MYCELLE MI PROMETTE CHE QUESTO È IL MODO MIGLIORE PER RIPORTARE LA NOSTRA FAMIGLIA ALLA GLORIA. COME TUTTE LELETTERE, AFFIDO QUESTA AD ANILA DELLA FAMIGLIA CIGNO. 
+SONO E SARANNO PER SEMPRE I NOSTRI FIDATI CONSIGLIERI. SE DOVESTE RICEVERE QUESTA LETTERA DA QUALCUN ALTRO, CONSIDERATELA INTERCETTATA. I CIGNI POSSONO ANCHE VIVERE AI MARGINI, MA SONO FEDELI. 
+VI SCRIVERÒ DI NUOVO IL PRIMA POSSIBILE.\" 
+
+La famiglia Cigno potrebbe avere altre lettere o informazioni al riguardo, se ancora esistono. Anche se non c\'è alcuna garanzia che questa traccia vi porti all\'Orco, qualsiasi pista può valere la pena di essere esplorata.
+
+POSIZIONARE I GETTONI POSIZIONE 7, 14 E 24. OTTENERE IL GETTONE INDIZIO 1. </string>
+	<string name="pop16_4_16__b">"COLLOCARE I GETTONI POSIZIONE 12, 17 E 18.
 
 AUMENTATE DI 1 IL NUMERO ACCANTO A 'STADIO DELLA PESTE' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA. SE È GIÀ A 3, OGNI OATHSWORN PERDE UN SEGNALINO COMBATTIMENTO A SUA SCELTA."</string>
 	<string name="pop16_4_18a__b">È POSSIBILE VISITARE ANCHE IL FABBRO E LO SPEZIALE.</string>
@@ -14387,13 +14402,51 @@ POSIZIONARE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZONE 21."</string>
 	<string name="pop16_epi_3__d">"GUADAGNATE 32 IRON.
 
 CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
-	<string name="pop16_read_journal_100">LEGGERE LA VOCE 100 A PAGINA 20 DEL DIARIO.</string>
-	<string name="pop16_read_journal_101">LEGGERE LA VOCE 101 A PAGINA 20 DEL DIARIO.</string>
-	<string name="pop16_read_journal_102">LEGGERE LA VOCE 102 A PAGINA 20 DEL DIARIO.</string>
-	<string name="pop16m_1_1__b">"POSIZIONARE I GETTONI DI POSIZIONE 7, 14 E 24.
+	<string name="pop16_read_journal_100">LEGGERE LA VOCE 100 A PAGINA 20 DEL DIARIO.
+
+IL CONTENUTO DELLA VOCE 100 È ANCHE RIPORTATO DI SEGUITO:
+
+Dalla calligrafia sembra essere stata scritta dallo stesso autore della prima lettera, ma la calligrafia è più inclinata e seria. È scritto: 
+
+\"L\'ALTRO GIORNO MI SONO IMBATTUTO IN UNO SCHIZZO DI MYCELLE. SI È AVVICINATOALLE ARTI DA BAMBINO E LE HA USATE PER CORTEGGIARMI DURANTE PRIMA DEL NOSTRO FIDANZAMENTO. VEDI IL QUADRO CHE UNA VOLTA HA DISEGNATO DELLA TENUTA DEGLI SCARVELHO,
+PROMETTENDOMI CHE UN GIORNO SAREBBE STATA MIA. QUESTI MESI, PERÒ, HANNO PESATO MOLTO SU DI LUI E HA PERSO LA VOGLIA DI DIPINGERE. O ALMENO COSÌ CREDEVO, FINCHÉ NON HO TROVATO LO SCHIZZO DI UN CERCHIO CON NOVE PIETRE CORONATO DALLA LUNA.
+LA SUA LUCE ERA IN QUALCHE MODO SFRONTATA E MINACCIOSA. DEVO CONFESSARE CHE MI PREOCCUPA. NON DORME E NASCONDE IL SUO VOLTO DIETRO UN CAPPUCCIO. SI RIFIUTA DI DORMIRE CON ME E NON MI DICE PERCHÉ. SI ARRABBIA FACILMENTE QUANDO LO INTERROGO,
+INSISTENDO CHE ARRIVERÀ IL NOSTRO MOMENTO. SONO PASSATE CINQUE LUNE DA QUANDO È INIZIATO QUESTO CALVARIO. L\'HO SPINTO A SALVARE IL NOME DEGLI SCARAVELHO, MA DAL SUO RITORNO DAL BOSCO NON È SEGUITO ALTRO CHE L\'INFELICITÀ. COS\'ALTRO SI POTREBBE MAI PORTARE INDIETRO DAL BOSCO PROFONDO?\"
+
+Insieme alla lettera c\'è il disegno. Raffigura una casa padronale in una zona della Tracia che non riconoscete immediatamente, ma che in qualche modo vi sembra familiare. Poi si capisce che lastruttura è diversa, ma le forme di base rimangono le stesse. Lo schizzo sembra riguardare i terreni dei Carnedine, ma di un\'epoca più antica, quando a governare erano gli Scaravelho.
+Ad un certopunto nel passato gli Scaravelho è stati rovesciati. Sullo sfondo del disegno c\'è una torre circolare, sulla cima alla quale si trova una donna che guarda una luna poco gentile. Considerando tutto ciò che avete appreso finora, sapete che un tempo nella Tracia c\'era una sesta grande famiglia. Una che è stata cancellata dalla storia. Se questo è vero, potrebbero esserci altri indizi nelle catacombe sotto la città, dove le grandi famiglie tengono i loro depositi.
+
+POSIZIONARE I GETTONI POSIZIONE 9 E 10. OTTENERE IL GETTONE INDIZIO 2.</string>
+	<string name="pop16_read_journal_101">LEGGERE LA VOCE 101 A PAGINA 20 DEL DIARIO.
+
+IL CONTENUTO DELLA VOCE 101 È ANCHE RIPORTATO DI SEGUITO:
+	
+La terza lettera è segnata dal panico. I caratteri un tempo eleganti sono ora frastagliati, scritti con una tale fretta che l\'inchiostro è stato sbavato sotto la mano. È scritto: 
+
+\"LE VISITE DI MYCELLE AL BOSCO PROFONDO SONO DIVENTATE PIÙ FREQUENTI E,SEBBENE PORTI CON SÉ BUONE NOTIZIE, È CIÒ CHE LASCIA DIETRO DI SÉ CHE MIPREOCCUPA DI PIÙ. IL PRIMO MESE HA PORTATO CON SÉ UN FRAGILE CALZOLAIO SENZA VOLTO. IL SECONDO, HA PORTATO CON SÉ UNA VECCHIA CHE PIANGEVA, TROPPO FRAGILE PER MESCOLARE UNA PENTOLA. IL TERZO HA PORTATO CON SÉ UNO STORPIO AL CREPUSCOLO DELLA SUA VITA E IL QUARTO UN MUTO NEL SUO MEZZOGIORNO. SONO PASSATI NOVE MESI. 
+I SENZA VOLTO NON TORNANO MAI, MA QUESTE PERDITE NON MI PREOCCUPANO. SONO MERCE. MA OGNI VOLTA CHE MYCELLE TORNA NELLA TRACIA, È MENO UOMO. È COME SE VEDESSI UN FANTASMA AGGIRARSI PER LE NOSTRE SALE. LO SUPPLICO DI DIRMI COSA GLI OFFRE IL NOSTRO BENEFATTORE NEL BOSCO PROFONDO ,MA MYCELLE SI LIMITA A INSISTERE CHE CI VORRÀ DEL TEMPO. NEL FRATTEMPO, I VOLPE E I CARNEDINE SI AGGIRANO COME AVVOLTOI. NON POSSO FARE A MENO DIPENSARE CHE LA FINE STIA PER ARRIVARE, O PER I DENTI DI UN CANE O PER GLIARTIGLI DI UNA VOLPE.
+O FORSE PER QUALCOS\'ALTRO.\" 
+
+Questo Mycelle sembra essere stato il capo della casata perduta, ma gli è successo qualcosa. Qualunque cosa sia accaduta, ha portato alla caduta e alla cancellazione della sua casata. 
+
+GUADAGNARE IL GETTONE INDIZIO 3.</string>
+	<string name="pop16_read_journal_102">LEGGERE LA VOCE 102 A PAGINA 20 DEL DIARIO.
+
+IL CONTENUTO DELLA VOCE 101 È ANCHE RIPORTATO DI SEGUITO:
+
+Questo quarta lettera è incompleta. I suoi caratteri sono frenetici, graffiati e spigolosi. Le macchie d\'inchiostro ricoprono la pagina e sono spalmate come sangue. È scritto: 
+
+\"I VOLPE E I CARNEDINE HANNO UNA CRESCENTE PAURA DI MYCELLE...E ANCHE IO. LUI ORA SOSTIENE DI ESSERE ETERNO, DI NON POTER MORIRE E DI PASSARE MOLTO TEMPO NEI BOSCHI. SENTO CHE GLI ALTRI CINQUE SI STANNO PREPARANDO AD INTERVENIRE CONTRO DI NOI. IN UN CERTO SENSO, PREGO CHE LO FACCIANO. MYCELLE È CAMBIATO.
+GRANDI CROSTE RICOPRONO IL SUO CORPO E ORA È PIÙ BESTIA CHE UOMO. GONFIO E VENDICATIVO. POSSIEDE IL POTERE, MA A QUALE COSTO? HA UCCISO ENARO IERI E SIAMO RIMASTI IN POCHI, ANCHE IO NON SONO AL SICURO DALLA SUA IRA. QUALUNQUE COSA GLI ABBIA OFFERTO IL NOSTRO BENEFATTORE, CHIUNQUE ESSO SIA, CI HA TOLTO PIÙ DI QUANTO CI ABBIA MAI DATO.
+VORREI CHE NON AVESSE MAI TROVATO QUEL CERCHIO DI PIETRE A EST. LA STORIA DIRÀ CHE È STATA UNA SUA FOLLIA, MA È STATA MIA, NON AVREI DOVUTO SPINGERLO A FARLO. LASCIO QUESTE PAROLE COME TESTIMONIANZA DEI MIEI ERRORI.\"
+
+È possibile che questo Mycelle sia l\'Orco della Tracia? Un uomo trasformato. Se fosse vero, sarebbe antico, gli ultimi resti di una famiglia nobile da tempo spazzata via dalla città. La lettera menziona un cerchio di pietre a est, qualcosa vi dice che è lì che troverete il vostro obiettivo.
+
+POSIZIONARE IL GETTONE POSIZIONE 19 E RECARSI LÌ.</string>
+	<string name="pop16m_1_1__b">"POSIZIONARE I GETTONI POSIZIONE 7, 14 E 24.
 
 OTTENERE IL SEGNALINO INDIZIO 1."</string>
-	<string name="pop16m_2_1__b">"POSIZIONARE I GETTONI DI POSIZIONE 9 E 10.
+	<string name="pop16m_2_1__b">"POSIZIONARE I GETTONI POSIZIONE 9 E 10.
 
 OTTENERE IL SEGNALINO INDIZIO 2."</string>
 	<string name="pop16m_3_1__b">GUADAGNARE IL SEGNALINO INDIZIO 3.</string>
@@ -15102,7 +15155,7 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 1 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop1_20_2a__b">"DUE STRADE SI APRONO DAVANTI A VOI. CERCARE DI TROVARE L\'INFORMATORE E VEDERE COSA SA, OPPURE CERCARE IN CITTÀ ALTRI INDIZI SUGLI OMICIDI? SAPETE CHE NON AVRETE TEMPO PER FARE ENTRAMBE LE COSE.
 
 SE AVETE MENO DI 6 IRON, DOVETE SCEGLIERE DI CERCARE ALTRI INDIZI SUGLI OMICIDI IN CITTÀ."</string>
-	<string name="pop1_20_4__b">RIMUOVETE TUTTI I GETTONI DI POSIZIONE. POSIZIONARE IL SEGNALINO POSIZIONE 24 E RECARSI SUL POSTO.</string>
+	<string name="pop1_20_4__b">RIMUOVETE TUTTI I GETTONI POSIZIONE. POSIZIONARE IL SEGNALINO POSIZIONE 24 E RECARSI SUL POSTO.</string>
 	<string name="pop1_21_1__b">"APRITE LA BUSTA MISTERIOSA 'A' E METTETENE IL CONTENUTO AL CENTRO DEL GIOCO. POSIZIONARE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZONE 21. POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 1 SOTTO LA MAPPA. PRENDERE LA CARTA 'PATH A'."</string>
 	<string name="pop1_21_2__b">"SCRIVERE LA PAROLA CHIAVE 'KINGKILLER' SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA.
 
@@ -15755,7 +15808,7 @@ POSIZIONATE IL SEGNALINO LIBERA COMPAGNIA E QUALSIASI SEGNALINO INDIZIO SULLA PO
 	<string name="pop3_14_9__d">GUADAGNATE LA CARTA ALLEATO 9 (LYCEEN), AGGIUNGI LA CARTA EVENTO DEEPWOOD 26 AL TUO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 23 AL TUO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop3_30_10__b">"REGISTRATE QUANTE RAZIONI AVETE (IL NUMERO SUL SEGNALINO NUMERATO) SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA, POI PERDETE IL SEGNALINO NUMERATO.
 
-METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI LUOGO) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
+METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI POSIZIONE) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
 
 SE SI POSSIEDE IL FORZIERE MISTERIOSO, APRIRE LA CASELLA MISTERIOSA 3.
 
@@ -15772,14 +15825,14 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 3 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI I
 	<string name="pop3_30_9__d">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 3 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop3_30_9__f">"REGISTRATE QUANTE RAZIONI AVETE (IL NUMERO SUL SEGNALINO NUMERATO) SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA, POI PERDETE IL SEGNALINO NUMERATO.
 
-METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI LUOGO) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
+METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI POSIZIONE) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
 
 SE SI POSSIEDE IL FORZIERE MISTERIOSO, APRIRE LA CASELLA MISTERIOSA 3.
 
 SE NON AVETE IL FORZIERE MISTERIOSO, APRITE LA BUSTA MISTERIOSA 3.
 
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 3 NEL LIBRO DEGLI INCONTRI."</string>
-	<string name="pop3_epi_1__b">"PER RAPPRESENTARE PIÙ RIFUGIATI CHE SI UNISCONO A VOI, GUADAGNATE 2 GETTONI TEMPO + 1 PER OGNI 2 CIVILI ANCORA IN VITA (SIA SULLA PLANCIA CHE FUORI). GUADAGNATE 2 RAZIONI PER OGNI SEGNALINO TEMPO APPENA GUADAGNATO. METTETE TUTTI I VOSTRI GETTONI RIFUGIATI (GETTONI TEMPO E GETTONI LUOGO) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
+	<string name="pop3_epi_1__b">"PER RAPPRESENTARE PIÙ RIFUGIATI CHE SI UNISCONO A VOI, GUADAGNATE 2 GETTONI TEMPO + 1 PER OGNI 2 CIVILI ANCORA IN VITA (SIA SULLA PLANCIA CHE FUORI). GUADAGNATE 2 RAZIONI PER OGNI SEGNALINO TEMPO APPENA GUADAGNATO. METTETE TUTTI I VOSTRI GETTONI RIFUGIATI (GETTONI TEMPO E GETTONI POSIZIONE) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
 
 REGISTRATE QUANTE RAZIONI AVETE SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA."</string>
 	<string name="pop3_epi_1__d">"GUADAGNATE 8 IRON.
@@ -15818,7 +15871,7 @@ INOLTRE, GLI AVVENTORI DECIDONO DI VENIRE CON VOI COME RIFUGIATI. SUL TRACCIATO 
 
 SPOSTARE IL SEGNALINO BESTIA NELLA POSIZONE 10 E RIMUOVERE I GETTONI POSIZONE 10 E 20 SE SONO ANCORA SULLA MAPPA DELLA CITTÀ.
 
-POSIZIONARE I SEGNALINI LUOGO 5, 12 E 19."</string>
+POSIZIONARE I SEGNALINI POSIZIONE 5, 12 E 19."</string>
 	<string name="pop3a_13_3__b">GUADAGNATE 2 RAZIONI (RICORDATE DI TENERE TRACCIA DELLA QUANTITÀ DI RAZIONI CHE AVETE CON UN SEGNALINO NUMERATO).</string>
 	<string name="pop3a_13_3__d">"SPOSTARE IL SEGNALINO BESTIA NELLA POSIZONE 10 E RIMUOVERE I GETTONI POSIZONE 10 E 20 SE SONO ANCORA SULLA MAPPA DELLA CITTÀ.
 
@@ -15874,14 +15927,14 @@ SPOSTATE IL SEGNALINO BESTIA NELLA POSIZIONE 14.
 
 RIMUOVETE LE POSIZIONI 25 E 27 DALLA MAPPA.
 
-POSIZIONARE I GETTONI DI POSIZIONE 15 E 16."</string>
+POSIZIONARE I GETTONI POSIZIONE 15 E 16."</string>
 	<string name="pop3a_20_3__b">"RIVELARE TUTTE LE CARTE DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 3 - OGNI OATHSWORN GUADAGNA 1 OGGETTO QUALSIASI DA ESSO. RIMESCOLARE POI IL MAZZO.
 
 SPOSTATE IL SEGNALINO BESTIA NELLA POSIZIONE 14.
 
 RIMUOVETE LE POSIZIONI 25 E 27 DALLA MAPPA.
 
-POSIZIONARE I GETTONI DI POSIZIONE 15 E 16."</string>
+POSIZIONARE I GETTONI POSIZIONE 15 E 16."</string>
 	<string name="pop3a_22_1__b">"SPOSTARE IL SEGNALINO BESTIA NELLA POSIZIONE 22.
 
 OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). OGNI OATHSWORN CHE HA FALLITO LA PROVA DI SOPRAVVIVENZA PERDE 1 PUNTO FERITA MENTRE ASSORBE UN SORSO DELLA NUBE NOCIVA PRIMA DI ARRAMPICARSI SU UN TETTO VICINO PER FUGGIRE."</string>
@@ -15892,8 +15945,8 @@ GUADAGNATE 1 RAZIONE.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW."</string>
 	<string name="pop3a_24_4__d">POSIZIONARE IL SEGNALINO POSIZIONE 27.</string>
-	<string name="pop3a_24_5__b">POSIZIONARE I GETTONI DI POSIZIONE 20 E 25.</string>
-	<string name="pop3a_24_6__b">POSIZIONARE I GETTONI DI POSIZIONE 20 E 25.</string>
+	<string name="pop3a_24_5__b">POSIZIONARE I GETTONI POSIZIONE 20 E 25.</string>
+	<string name="pop3a_24_6__b">POSIZIONARE I GETTONI POSIZIONE 20 E 25.</string>
 	<string name="pop3a_24_7__b">GUADAGNA LA CARTA ALLEATO 1 (MIDGE).</string>
 	<string name="pop3a_25_1__b">"SPOSTARE IL SEGNALINO BESTIA NELLA POSIZONE 20 E RIMUOVERE I GETTONI POSIZONE 20 E 27 DALLA MAPPA.
 
@@ -15901,7 +15954,7 @@ POSIZIONARE I GETTONI POSIZIONE 15 E 16."</string>
 	<string name="pop3a_27_10__b">PERDERE LA MEDIA. ARCHIVIARE LA CARTA DELL\'ALLEATO MIDGE.</string>
 	<string name="pop3a_27_1__b">"PRENDERE LA CARTA 'PATH A', SE NON LA SI POSSIEDE GIÀ.
 
-RIMUOVETE TUTTI I GETTONI LUOGO DALLA MAPPA."</string>
+RIMUOVETE TUTTI I GETTONI POSIZIONE DALLA MAPPA."</string>
 	<string name="pop3a_27_1__d">"SPOSTARE IL SEGNALINO BESTIA NELLA POSIZIONE 24.
 
 ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 4. GLI OATHSWORN NON PERDONO UN PUNTO FERITA PER AVER FALLITO QUESTA PROVA."</string>
@@ -15939,9 +15992,9 @@ PRENDERE LA CARTA 'PATH A'."</string>
 
 SE AVETE SUCCESSO, CAPITE DOVE SI TROVA LA DISPENSA E GUADAGNI 1 RAZIONE.
 
-SPOSTATE IL SEGNALINO BESTIA NELLA POSIZONE 15 E RIMUOVETE TUTTI I GETTONI DI POSIZONE DALLA MAPPA.
+SPOSTATE IL SEGNALINO BESTIA NELLA POSIZONE 15 E RIMUOVETE TUTTI I GETTONI POSIZONE DALLA MAPPA.
 
-POSIZIONATE I SEGNALINI LUOGO 7 E 17.
+POSIZIONATE I SEGNALINI POSIZIONE 7 E 17.
 
 PRENDETE LA CARTA 'PATH A'."</string>
 	<string name="pop3b_19_1__b">"SPOSTARE IL SEGNALINO BESTIA NELLA POSIZIONE 19.
@@ -15955,14 +16008,14 @@ RIVELATE TUTTE LE CARTE DEL MAZZO DEGLI OGGETTI COMUNI DEL CAPITOLO 3 - OGNI OAT
 
 SPOSTATE IL SEGNALINO BESTIA NELLA POSIZONE 10 E RIMUOVETE TUTTI I GETTONI POSIZONE DALLA MAPPA.
 
-POSIZIONATE I SEGNALINI LUOGO 15, 16 E 24."</string>
+POSIZIONATE I SEGNALINI POSIZIONE 15, 16 E 24."</string>
 	<string name="pop3b_20_3__b">"GUADAGNARE 2 RAZIONI (RICORDATE DI TENERE TRACCIA DELLA QUANTITÀ DI RAZIONI CHE AVETE CON UN SEGNALINO NUMERATO).
 
 RIVELATE TUTTE LE CARTE DEL MAZZO DEGLI OGGETTI COMUNI DEL CAPITOLO 3 - OGNI OATHSWORN GUADAGNA 1 OGGETTO QUALSIASI DA ESSO. RIMESCOLARE IL MAZZO IN SEGUITO.
 
 SPOSTATE IL SEGNALINO BESTIA NELLA POSIZONE 10 E RIMUOVETE TUTTI I GETTONI POSIZONE DALLA MAPPA.
 
-POSIZIONATE I SEGNALINI LUOGO 15, 16 E 24."</string>
+POSIZIONATE I SEGNALINI POSIZIONE 15, 16 E 24."</string>
 	<string name="pop3b_24_1__b">SPOSTARE IL SEGNALINO BESTIA NELLA POSIZIONE 20.</string>
 	<string name="pop3b_24_4__b">"SE PORTATE CON VOI QUESTI RIFUGIATI, SUL TRACCIATO DEL TEMPO, SOSTITUITE IL SEGNALINO POSIZIONE 24 CON UN SEGNALINO TEMPO E GUADAGNATE IL SEGNALINO POSIZIONE 24 (METTETELO DI FRONTE A VOI).
 
@@ -16012,7 +16065,7 @@ CREARE UN NUOVO OATHSWORN DI LIVELLO 4 USANDO IL SISTEMA DI LIVELLAMENTO RAPIDO 
 	<string name="pop4_45_1__b">"APRIRE LA SCATOLA MISTERIOSA 'Z' E POSIZIONARE IL SUO CONTENUTO NELLE VICINANZE. POTETE GUARDARE IL CONTENUTO DELLA SCATOLA 'Z'.
 POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 4A IN FONDO ALL\'AREA DI GIOCO.
 
-I GETTONI LUOGO/TEMPO CHE SI TROVAVANO NELLA BORSA DELLA LIBERA COMPAGNIA SONO 'GETTONI RIFUGIATO' IN QUESTO CAPITOLO.
+I GETTONI POSIZIONE/TEMPO CHE SI TROVAVANO NELLA BORSA DELLA LIBERA COMPAGNIA SONO 'GETTONI RIFUGIATO' IN QUESTO CAPITOLO.
 
 PRENDETE UN SEGNALINO NUMERATO CHE RAPPRESENTA LO STESSO VALORE DELLA QUANTITÀ DI RAZIONI CHE AVETE REGISTRATO SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA. QUESTO RAPPRESENTERÀ LE VOSTRE RAZIONI DURANTE IL CAPITOLO. CAMBIARE IL SEGNALINO NUMERATO QUANDO SI GUADAGNANO O SI PERDONO RAZIONI.
 
@@ -16060,7 +16113,7 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 4 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI I
 	<string name="pop4_75_1__b">PESCARE E RISOLVERE UN EVENTO DEEPWOOD.</string>
 	<string name="pop4_epi_0__b">POTETE OTTENERE LADY ELANNA COME ALLEATA O RIMANDARLA IN MEZZO ALLA FOLLA. SE LA VOLETE COME ALLEATA, GUADAGNATE LA CARTA ALLEATO 13 (LADY ELANNA).</string>
 	<string name="pop4_epi_0__d">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
-	<string name="pop4_epi_0__f">"GUADAGNATE 1 SEGNALINO POSIZIONE PER OGNI 2 CIVILI RIMASTI IN VITA DURANTE IL COMBATTIMENTO DELLA TRIBÙ DELLA CICATRICE. QUESTI RAPPRESENTANO I VOSTRI NUOVI RIFUGIATI. METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI LUOGO) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
+	<string name="pop4_epi_0__f">"GUADAGNATE 1 SEGNALINO POSIZIONE PER OGNI 2 CIVILI RIMASTI IN VITA DURANTE IL COMBATTIMENTO DELLA TRIBÙ DELLA CICATRICE. QUESTI RAPPRESENTANO I VOSTRI NUOVI RIFUGIATI. METTETE TUTTI I GETTONI RIFUGIATO (GETTONI TEMPO E GETTONI POSIZIONE) NEL SACCHETTO DELLA LIBERA COMPAGNIA.
 
 NON È NECESSARIO REGISTRARE LE RAZIONI."</string>
 	<string name="pop4m_10_1__b">LA LIBERA COMPAGNIA E OGNI SEGNALINO RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI SEGNALINO RIFUGIATO CHE NON MANGIA È PERSO.</string>
@@ -16099,13 +16152,13 @@ NON AVRETE TEMPO PER FARE ENTRAMBE LE COSE."</string>
 
 PRENDERE LA CARTA \"PATH A\".
 
-POSIZIONATE I GETTONI LUOGO 2, 3, 4, 6, 9, 12, 13, 15, 19."</string>
+POSIZIONATE I GETTONI POSIZIONE 2, 3, 4, 6, 9, 12, 13, 15, 19."</string>
 	<string name="pop5_1_1__b">"APRIRE LA BUSTA MISTERIOSA 'B' E POSIZIONARE IL SUO CONTENUTO AL CENTRO DEL GIOCO. POSIZIONARE IL TRACCIATO DEL TEMPO DEL CAPITOLO 5 SOTTO DI ESSA. POSIZIONARE IL SEGNALINO LIBERA COMPAGNIA SULLA POSIZIONE 3. PRENDERE LA CARTA 'PATH A'."</string>
-	<string name="pop5_3_10__b">"TUTTI GLI OATHSWORN GUADAGNANO 1 IRON CIASCUNO PER OGNI RIFUGIATO (GETTONI LUOGO E GETTONI TEMPO) CHE LA LIBERA COMPAGNIA POSSIEDE.
+	<string name="pop5_3_10__b">"TUTTI GLI OATHSWORN GUADAGNANO 1 IRON CIASCUNO PER OGNI RIFUGIATO (GETTONI POSIZIONE E GETTONI TEMPO) CHE LA LIBERA COMPAGNIA POSSIEDE.
 
 SE AVETE 5 O PIÙ RIFUGIATI, GUADAGNATE ANCHE UN TRATTO DI LIBERA COMPAGNIA (SEGNATELO SULLA SCHEDA DELLA LIBERA COMPAGNIA).
 
-PERDERE TUTTI I RIFUGIATI E LE RAZIONI. RIMETTERE TUTTI I GETTONI LUOGO E TEMPO NELLE SCORTE E CANCELLARE LE RAZIONI DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
+PERDERE TUTTI I RIFUGIATI E LE RAZIONI. RIMETTERE TUTTI I GETTONI POSIZIONE E TEMPO NELLE SCORTE E CANCELLARE LE RAZIONI DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop5_3_12__b">"OTTENERE UN TRATTO LIBERA COMPAGNIA (SEGNARLO SULLA SCHEDA LIBERA COMPAGNIA).
 
 POSIZIONARE IL SEGNALINO POSIZIONE 7 E RECARSI SUL POSTO."</string>
@@ -16408,7 +16461,7 @@ POSIZIONATE I GETTONI POSIZIONE 4, 5, 7 E 10 SULLA MAPPA."</string>
 	<string name="pop7a_30_1__b">PERDERE IL SEGNALINO INDIZIO 1 E 2.</string>
 	<string name="pop7a_30_1__d">"DOVETE CERCARE IL LUOGO IN CUI SI TROVA IL VENERATORE.
 
-POSIZIONARE I GETTONI DI POSIZIONE 9, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 26, 27 SULLA MAPPA"</string>
+POSIZIONARE I GETTONI POSIZIONE 9, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 26, 27 SULLA MAPPA"</string>
 	<string name="pop7a_30_3__b">SPOSTARE IL SEGNALINO DELLA LIBERA COMPAGNIA NELLA POSIZIONE 21.</string>
 	<string name="pop7a_4_1__b">PIAZZATE UN SEGNALINO NUMERATO 2 SULLA POSIZIONE 9. IL VENERATORE È STATO AVVISTATO LÌ MA SI È SPOSTATO. NON È NECESSARIO ANDARCI.</string>
 	<string name="pop7a_5_1__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 6).</string>
@@ -16472,7 +16525,7 @@ DOVETE TROVARE IL MAGGIOR NUMERO DI CARTE DELLA PRIGIONE DELLA SALA DEL TRIBUNAL
 
 GUADAGNATE LA CARTA ALLEATO 20 (FINNIAN), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 32 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 30 AL MAZZO EVENTI CITTÀ.
 
-POSIZIONARE I GETTONI LUOGO 10, 12, 13, 14, 17, 18, 19, 28 SULLA MAPPA."</string>
+POSIZIONARE I GETTONI POSIZIONE 10, 12, 13, 14, 17, 18, 19, 28 SULLA MAPPA."</string>
 	<string name="pop7b_15_7__b">TUTTI GLI OATHSWORN CHE HANNO SCELTO DI ESSERE CURATI PERDONO UNA CARTA FERITA, LA METTONO NEL MAZZO DELLE FERITE E LO RIMESCOLANO.</string>
 	<string name="pop7b_17_2__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 6).</string>
 	<string name="pop7b_17_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO BATTLEFLOW.</string>
@@ -16585,7 +16638,7 @@ Per i seguenti casi, scegliere l\'OPZIONE 2:
 6. Il Veggente Avi (Avi Harbinger) "</string>
 	<string name="pop8_17_2__b">"Posizione 17 - Il centro della ragnatela
 
-RIMUOVETE I GETTONI DI POSIZIONE 5, 9, 11, 17, 23 E 27 SE SONO ANCORA SULLA MAPPA."</string>
+RIMUOVETE I GETTONI POSIZIONE 5, 9, 11, 17, 23 E 27 SE SONO ANCORA SULLA MAPPA."</string>
 	<string name="pop8_17_3__b">"OGNI OATHSWORN EFFETTUA UN NUMERO DI ROUND DI COMBATTIMENTO PARI ALLA METÀ DEL NUMERO SUL DADO DEI PUNTI FERITA ALLA POSIZONE 17 (ARROTONDATO PER ECCESSO).
 
 ESEMPIO: SE IL DADO MOSTRA UN 3, OGNI OATHSWORN EFFETTUA DUE TURNI DI COMBATTIMENTO.
@@ -16621,7 +16674,7 @@ OGNI OATHSWORN CHE FALLISCE PERDE 1 PUNTO FERITA."</string>
 	<string name="pop8_1_4__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 5.</string>
 	<string name="pop8_1_5__b">TUTTI GLI OATHSWORN RECUPERANO UN PUNTO FERITA PERSO.</string>
 	<string name="pop8_20_1__b">COLLOCATE IL VOSTRO SEGNALINO LIBERA COMPAGNIA NELLA POSIZIONE 20.</string>
-	<string name="pop8_20_1__d">"POSIZIONARE I GETTONI DI POSIZIONE 5, 9, 11, 23 E 27.
+	<string name="pop8_20_1__d">"POSIZIONARE I GETTONI POSIZIONE 5, 9, 11, 23 E 27.
 
 POSIZIONATE UN DADO PUNTI FERITA INUTILIZZATO SULLA POSIZONE 17, IMPOSTATO SU 6 - QUESTO È IL PUNTO FERITA DEL RAGNO."</string>
 	<string name="pop8_21_10__b">"IMPOSTARE I PUNTI FERITA AL MASSIMO PER IL LIVELLO DI DIFFICOLTÀ.
@@ -16741,7 +16794,7 @@ GUADAGNATE 20 IRON."</string>
 	<string name="pop9_14_15__b">DUE STRADE SI APRONO DAVANTI A VOI. INDAGARE SUGLI STRANI AVVENIMENTI DEL VILLAGGIO O CONCENTRARSI SULLA CACCIA E TROVARE INFORMAZIONI SULLA BESTIA? SAPETE CHE NON AVRETE TEMPO PER FARE ENTRAMBE LE COSE.</string>
 	<string name="pop9_14_16__b">"INDAGARE SUGLI STRANI AVVENIMENTI DI GLIMHOLLOW.
 
-POSIZIONARE I GETTONI DI POSIZIONE 7, 8, 9 E 13 SULLA MAPPA.
+POSIZIONARE I GETTONI POSIZIONE 7, 8, 9 E 13 SULLA MAPPA.
 
 PRENDETE LA CARTA 'PATH A'."</string>
 	<string name="pop9_14_17__b">"È NECESSARIO RACCOGLIERE IL MAGGIOR NUMERO POSSIBILE DI GETTONI INDIZIO PRIMA CHE SI ATTIVI IL TRACCIATO DEL TEMPO.
