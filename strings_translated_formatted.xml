@@ -26,7 +26,7 @@
 	<string name="abc_shareactionprovider_share_with">Condividi con</string>
 	<string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
 	<string name="abc_toolbar_collapse_description">Crollo</string>
-	<string name="about_text">"Oathsworn Traduzione Italiana v16.1
+	<string name="about_text">"Oathsworn Traduzione Italiana v17.0
 
 Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
 	<string name="add_time">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -534,7 +534,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn12_18_1__b">Altrimenti</string>
 	<string name="btn12_1_11__a">1. Correte a salvare gli abitanti del villaggio rimasti</string>
 	<string name="btn12_1_11__b">2. Procedete con cautela.</string>
-	<string name="btn12_1_11__c">3. Cercate di ignorare le urla e di rallentare. Non si può salvare nessuno se si cade in una trappola</string>
+	<string name="btn12_1_11__c">3. Cercate di ignorare le urla e di rallentare. Non potete salvare nessuno se cadete in una trappola</string>
 	<string name="btn12_1_15__a">Se avete la Carta Alleato Cyprian</string>
 	<string name="btn12_1_15__b">Altrimenti</string>
 	<string name="btn12_1_16__a">Andate via</string>
@@ -1227,8 +1227,8 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn17m_3_8__b">Se il Demone del Sangue NON si trova sulla stessa tessera della Libera Compagnia</string>
 	<string name="btn17m_3_9__a">Se il Demone del Sangue si trova sulla stessa tessera della Libera Compagnia</string>
 	<string name="btn17m_3_9__b">Se il Demone del Sangue NON si trova sulla stessa tessera della Libera Compagnia</string>
-	<string name="btn17m_4_1__a">Se si giocate da soli</string>
-	<string name="btn17m_4_1__b">Se si giocate in gruppo</string>
+	<string name="btn17m_4_1__a">Se giocate da soli</string>
+	<string name="btn17m_4_1__b">Se giocate in gruppo</string>
 	<string name="btn17m_4_4__a">Se riuscite a farcela in due minuti o meno</string>
 	<string name="btn17m_4_4__b">Se non riuscite a completare il compito in due minuti o meno</string>
 	<string name="btn17m_4_5__a">Se il Demone del Sangue si trova sulla stessa tessera della Libera Compagnia</string>
@@ -1578,7 +1578,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn1_21_1__b">"2. Uscite dalla pioggia e dirigetevi verso i cancelli di Bastone"</string>
 	<string name="btn1_22_1__a">1. Siete fedeli al giuramento e al vostro Dio. Confidate che la forza del vostro braccio sia data da qualcosa di più di un semplice muscolo!</string>
 	<string name="btn1_22_1__b">2. Siete gli ultimi a rimanere in piedi, quelli che sigillano la breccia e proteggono gli innocenti. Spalla a spalla terrete la linea, qualunque cosa vi venga incontro!</string>
-	<string name="btn1_22_1__c">"3. Il Bosco Profondo è feroce, ma voi siete peggio. Non hai mai incontrato un problema che non possa essere risolto con una lama affilata"</string>
+	<string name="btn1_22_1__c">"3. Il Bosco Profondo è feroce, ma voi siete peggio. Non avete mai incontrato un problema che non possa essere risolto con una lama affilata"</string>
 	<string name="btn1_22_1__d">4. La morte è una danza che conosci bene. Scorri attraverso i combattimenti in perfetta forma. L\'allenamento ti porta solo fino a un certo punto, il resto è talento grezzo!</string>
 	<string name="btn1_22_1__e">"5. Disciplina o morte, continuare a marciare. Continuare a muoversi. Continuate a lottare finché il lavoro non sarà finito. Continuate a lottare, e continuate a lottare!"</string>
 	<string name="btn1_22_2__a">1. Negoziate con il ragazzo</string>
@@ -2465,7 +2465,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="choose_one">Scegliete un\'opzione:</string>
 	<string name="chp10_0_1__a">"L\'acqua sale, riempiendo occhi, orecchie e bocca. Istintivamente trattenete il respiro, cercando freneticamente un\'uscita. La stanza non ha porte né finestre. Non sono i polmoni in fiamme a spaventarvi, ma il fatto che non avete più opzioni. Non c\'è scampo all\'inevitabile.
 
-Vi svegliate di soprassalto e fate subito un respiro profondo. Non serve un lettore di sogni per capire il significato di questa frase. Lo sapete. I Mendicanti sono morti. Hai combattuto uomini e mostri per portarli qui. Diavolo, sei quasi impazzito, eppure non ha significato nulla. Solo altri corpi per le pire. La peste si era diffusa tra loro a macchia d\'olio. Le loro precauzioni, le erbe e gli ungenti non potevano salvarli. I pochi che erano sopravvissuti citavano poteri malefici e non osavano tornare nelle zone infette, che diventavano ogni giorno più grandi. Non si poteva biasimarli. Qualunque cosa fosse, era al di là del loro mestiere. Forse al di là del mestiere di chiunque. Scuoti la testa: questo tipo di pensiero ti fa impazzire. C\'è sempre un altro modo, vi dite, mentre il sogno vi balena ancora una volta nella mente."</string>
+Vi svegliate di soprassalto e fate subito un respiro profondo. Non serve un lettore di sogni per capire il significato di questa frase. Lo sapete. I Mendicanti sono morti. Avete combattuto uomini e mostri per portarli qui. Diavolo, siete quasi impazziti, eppure non ha significato nulla. Solo altri corpi per le pire. La peste si era diffusa tra loro a macchia d\'olio. Le loro precauzioni, le erbe e gli ungenti non potevano salvarli. I pochi che erano sopravvissuti citavano poteri malefici e non osavano tornare nelle zone infette, che diventavano ogni giorno più grandi. Non si poteva biasimarli. Qualunque cosa fosse, era al di là del loro mestiere. Forse al di là del mestiere di chiunque. Scuoti la testa: questo tipo di pensiero ti fa impazzire. C\'è sempre un altro modo, vi dite, mentre il sogno vi balena ancora una volta nella mente."</string>
 	<string name="chp10_105_1a__a">"Il sentiero davanti a voi è bloccato da una fitta vegetazione. State per tornare indietro quando vedete un tumulo creato da un oggetto semisepolto, un amalgama di radici e pietre, chiaramente non di origine umana. La Guida, entusiasta della scoperta, sale sul tumulo con piedi agili e appoggia una mano sulla sua superficie. \"Il mio popolo ha fatto questo. La terra ricorda.\" Non riuscite a capire cosa l\'oggetto stia cercando di esprimere nel suo stato attuale. \"Scaviamo?\" comunica la guida col Knock, la domanda è implicita nei suoi occhi.
 
 
@@ -2772,7 +2772,7 @@ Tornando al bar, prendete le bocce offerte da Bram e vi dirigete verso il vostro
 	<string name="chp10_7_22__a">"\"L\'Unico? Dov\'è in tutto questo? Non è nelle tombe, non sta soffrendo con noi. Ci ha abbandonato. Non ne posso più".\" Si alza e corre fuori dalla porta, sbattendola dietro di sé. Forse si riprenderà, forse no. Ci sono molte strade che si possono percorrere quando si affronta il problema della mortalità. Poche di queste strade portano a una buona fine.
 
 Tornando al bar, prendete le bocce offerte da Bram e vi dirigete verso il vostro tavolo."</string>
-	<string name="chp10_7_3__a">"Notate Dane in un angolo con Josie, una delle sopravvissute di Bastone che avete condotto attraverso il Bosco Profondo. Li avete visti spesso insieme qui alla Quercia Spezzata. Anche loro vi guardano, si sussurrano l\'un l\'altro e si tengono per mano. Dane le dà un bacio e si avvicina al vostro tavolo. \"Io... volevo parlarti. Ti devo la mia vita, ma chissà quanto vale ancora con la peste e tutto il resto. Con il vostro permesso passerei qui il tempo che ho con Josie, la sposerei, mi prenderei cura di lei. Dopo Bastone ti ho dato la mia parola di seguirti ovunque. Ma non posso sopportare il pensiero che muoia da sola, sai? Mi libereresti dal mio legame?\"
+	<string name="chp10_7_3__a">"Notate Dane in un angolo con Josie, una delle sopravvissute di Bastone che avete condotto attraverso il Bosco Profondo. Li avete visti spesso insieme qui alla Quercia Spezzata. Anche loro vi guardano, si sussurrano l\'un l\'altro e si tengono per mano. Dane le dà un bacio e si avvicina al vostro tavolo. \"Io... volevo parlarvi. Vi devo la mia vita, ma chissà quanto vale ancora con la peste e tutto il resto. Con il vostro permesso passerei qui il tempo che ho con Josie, la sposerei, mi prenderei cura di lei. Dopo Bastone vi ho dato la mia parola di seguirvi ovunque. Ma non posso sopportare il pensiero che muoia da sola, mi libereresti dal mio legame?\"
 
 Dane è stato un buon braccio forte e ha dimostrato di essere in grado di contrastare le cose che vengono dal Bosco Profondo. Se lo lasciaste andare perdereste una risorsa, ma potete farlo restare?
 
@@ -2784,7 +2784,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp10_86_1__e">Tutti sono stanchi per l\'ennesima giornata trascorsa a combattere attraverso il Bosco Profondo e quindi decidete di accamparvi anche qui. Come sempre, vi dividete il turno di guardia. La notte è stranamente silenziosa e sapete che c\'è qualcosa che non va, anche se non sapete dire cosa. Al mattino vi affrettate a lasciarvi alle spalle questo luogo.</string>
 	<string name="chp10_95_1__a">Vi fermate a metà del cammino, e non un attimo prima. Proprio davanti a voi, ma appena visibile attraverso la pioggia e le ombre degli alberi sovrastanti, c\'è una fossa nel terreno della foresta. Sono resti umani? Guardate meglio.</string>
 	<string name="chp10_95_2__a">I resti sono sicuramente umani e non si tratta di uno sfortunato incidente o di una vittima del Bosco Profondo. Si tratta di una trappola costruita di proposito da qualcuno con un alto livello di artigianato della savana. Un\'altra cosa che notate sono i segni di morsi e artigli sui cadaveri umani che vi ricordano la creatura simile a un mastino che avete ucciso.</string>
-	<string name="chp10_95_3__a">I resti sono sicuramente umani, ma non si sa perché queste persone siano state qui o come siano morte. Il Bosco Profondo ha molti modi per ucciderti, e puoi morire di fame o ferirti accidentalmente. Un movimento tra gli alberi vi distoglie dai vostri pensieri. C\'era qualcosa che vi osservava?</string>
+	<string name="chp10_95_3__a">I resti sono sicuramente umani, ma non sapete perché queste persone siano state qui o come siano morte. Il Bosco Profondo ha molti modi per ucciderti, e puoi morire di fame o ferirti accidentalmente. Un movimento tra gli alberi vi distoglie dai vostri pensieri. C\'era qualcosa che vi osservava?</string>
 	<string name="chp10_97_10__a">Non avete idea da dove provenga quella freccia, dovete andarvene da qui. Afferrate il vostro compagno ferito e lo trascinate lungo lo stretto sentiero, e senza incoraggiarlo tutti si muovono con voi attraverso il sottobosco, saltando radici giganti, eludendo cose viscide che crescono e piante dall\'aspetto sospetto ovunque. Alla fine, mentre i polmoni e le gambe bruciano per lo sforzo, rallentate.</string>
 	<string name="chp10_97_1__a">Il bosco diventa molto fitto, i tronchi degli alberi quasi si toccano, a volte crescono l\'uno nell\'altro. Il vostro gruppo si allunga e dovete camminare uno dietro l\'altro per assicurarvi di rimanere sullo stesso sentiero. Alzate la mano per fermare il gruppo: questo sarebbe un posto perfetto per un\'imboscata.</string>
 	<string name="chp10_97_2__a">Ascoltate con attenzione e osservate attentamente l\'ambiente circostante per qualche istante, ma non ci sono segni di problemi. Quindi vi muovete. Dopo pochi passi, sentite il sibilo di una freccia seguito da un grido di shock e dolore.</string>
@@ -2803,13 +2803,13 @@ Quando lo legherete e prenderete le sue armi e i suoi armamenti, non opporrà re
 
 Scegliete un\'opzione:"</string>
 	<string name="chp10_epi_2__a">"Il re A\'Dendri sarà anche stato un tempo, ma il suo regno è finito da tempo. Vi ha inseguito e braccato senza pietà negli ultimi giorni e avrebbe potuto porre fine alla vostra missione prima ancora che raggiungeste il Wychwood. Ora è solo una minaccia, che non potete permettere che sopravviva. Vi avvicinate a lui e alzate l\'arma per il colpo finale."</string>
-	<string name="chp10_epi_3__a">Guardate il Re dimenticato e fate una pausa. Avreste fatto lo stesso? Avete invaso il suo territorio e ucciso uno dei suoi. Cosa gli devi sembrare? Questa figura regale, anche in schiavitù, emana letalità. Da quanto tempo si aggira per il Bosco Profondo uccidendo il vero nemico? Il mondo ha bisogno di tutte le armi possibili contro il Bosco Profondo, e in questo caso il nemico del mio nemico è mio amico. Lo avvicini per tagliare i suoi legami.</string>
+	<string name="chp10_epi_3__a">Guardate il Re dimenticato e fate una pausa. Avreste fatto lo stesso? Avete invaso il suo territorio e ucciso uno dei suoi. Cosa gli dovete sembrare? Questa figura regale, anche in schiavitù, emana letalità. Da quanto tempo si aggira per il Bosco Profondo uccidendo il vero nemico? Il mondo ha bisogno di tutte le armi possibili contro il Bosco Profondo, e in questo caso il nemico del mio nemico è mio amico. Lo avvicini per tagliare i suoi legami.</string>
 	<string name="chp10_epi_4__a">"Con la lama già in movimento, all\'improvviso una potente sensazione di sventura imminente vi investe. Le mani urgenti della guida agitano, \"Stop!\" Guardate le punte di due dozzine di frecce. I Ranger sono qui."</string>
 	<string name="chp10_epi_5__a">"Mentre la lama del vostro compagno è già in movimento, li sentite. Con le frecce tirate a tempo con le loro, incontrate gli occhi delle vostre sorelle. Le mani urgenti della Guida agitano, \"Stop!\" Guardate le punte di due dozzine di frecce. I Rangers sono qui."</string>
 	<string name="chp10m_10_0__a">Storia a Tempo</string>
 	<string name="chp10m_10_10__a">"Storia a Tempo
 
-Capite perché il ragazzo non vuole più lavorare per Cyprian, ma dovete decidere cosa è meglio per la compagnia. Soprattutto in questa missione pericolosa, non avete bisogno di un ragazzo al vostro fianco che dovete sorvegliare. Hai già abbastanza responsabilità. Al vostro rifiuto, le sue spalle si abbassano e torna di corsa dal suo padrone. Si sente il cavaliere che rimprovera il suo scudiero finché il Bosco Profondo non li inghiotte."</string>
+Capite perché il ragazzo non vuole più lavorare per Cyprian, ma dovete decidere cosa è meglio per la compagnia. Soprattutto in questa missione pericolosa, non avete bisogno di un ragazzo al vostro fianco che dovete sorvegliare. Avete già abbastanza responsabilità. Al vostro rifiuto, le sue spalle si abbassano e torna di corsa dal suo padrone. Si sente il cavaliere che rimprovera il suo scudiero finché il Bosco Profondo non li inghiotte."</string>
 	<string name="chp10m_10_11__a">Storia a Tempo</string>
 	<string name="chp10m_10_1__a">"Storia a Tempo
 
@@ -3089,7 +3089,7 @@ Azzardate un\'occhiata alle vostre spalle. La Rovina di Bastone vi sta raggiunge
 Scegliete un\'opzione:"</string>
 	<string name="chp11_21_6__a">"Siete troppo concentrati sulla vostra sopravvivenza per aiutare qualcuno. Avanzate, rabbuiandovi per l\'urlo di terrore mortale alle vostre spalle. Un\'ultima occhiata e li vedete inghiottiti dal fumo denso che emana dalla bestia, mentre la Rovina di Bastone li travolge, calpestando a morte uno di loro sotto il suo piede gigante.
 
-Sapete che dovete vivere, affinché la loro morte non sia vana. Devi raggiungere Verum con ciò che sai."</string>
+Sapete che dovete vivere, affinché la loro morte non sia vana. Dovete raggiungere Verum con ciò che avete scoperto."</string>
 	<string name="chp11_21_7__a">Vedete il vostro compagno inciampare. Questa bestia sanguinaria ha preso abbastanza da voi e non ne prenderà altri oggi. Vi fermate e tornate indietro verso la bestia in arrivo. Afferrate il vostro compagno e lo prendete in braccio. Lo caricate sulle spalle, volando nel Bosco Profondo e correndo più forte che potete nonostante il pesante fardello.</string>
 	<string name="chp11_21_8__a">"Alla cieca vi lanciate tra gli alberi, incuranti di tutto tranne che del respiro caldo alle vostre spalle. Improvvisamente vi trovate all\'aperto, lasciandovi alle spalle il Bosco Profondo. Siete entrati in un campo buio e vuoto, senza alberi, con una nebbia fredda che vi circonda mentre continuate a correre. Vi gridate l\'un l\'altro e vi raggruppate prima che la nebbia possa separarvi. Poi, la Rovina di Bastone si schianta fuori dalla linea degli alberi. Non c\'è più alcun posto dove nascondersi. Vi preparate per quella che sicuramente sarà la vostra battaglia finale.
 
@@ -3493,7 +3493,7 @@ Se tutti gli Oathsworn si trovano nella posizione 9, scegliete l\'opzione superi
 
 Quando siete sicuri che se ne siano andati, vi preparate a muovervi, ma non prima di aver perlustrato la capanna alla ricerca di oggetti di valore."</string>
 	<string name="chp12_12_5__a">"La tribù ha avuto un grande successo nelle sue razzie ultimamente. Trovate diversi oggetti di valore, tra cui Iron e alcune rare fiale di fiore di cray, noto per le sue proprietà curative. Il contenuto di carne della pentola al centro della capanna non lascia dubbi sul destino del precedente proprietario della fiala di vetro."</string>
-	<string name="chp12_12_5__c">Dopo aver messo da parte il bottino, si scivola di nuovo fuori nel villaggio bagnato dalla pioggia.</string>
+	<string name="chp12_12_5__c">Dopo aver messo da parte il bottino, scivolate di nuovo fuori nel villaggio bagnato dalla pioggia.</string>
 	<string name="chp12_12_6__a">"Tirandovi sulla piattaforma, riuscite a vedere meglio il cadavere contorcente del Mastino Spinato mentre aggirate con cautela le spine nere che spuntano dalle sue spalle e vi avvicinate alla parte anteriore della struttura avvolta nella pelliccia. Guardando verso la piattaforma centrale, scorgete la sagoma di un uomo della tribù in avvicinamento che si staglia su un fuoco ruggente. Senza fermarvi, vi tuffate nella capanna per ripararvi
 
 Trofei e bottini di innumerevoli razzie decorano l\'interno della dimora. Questa è chiaramente la casa del capo tribù. Scavando rapidamente sotto un mucchio di pelli, aspettate senza fiato che il tribale di passaggio indaghi sul Mastino Spinato ucciso. Con un ruggito, il barbaro dà l\'allarme."</string>
@@ -3502,7 +3502,7 @@ Trofei e bottini di innumerevoli razzie decorano l\'interno della dimora. Questa
 
 Scegliete un\'opzione:"</string>
 	<string name="chp12_12_8__a">"Sembra che la tribù abbia avuto molto successo con le sue recenti razzie. Trovate alcuni oggetti di valore, tra cui un po\' di Iron e alcune rare fiale di fiore di cray, noto per le sue proprietà curative. Il contenuto di carne della pentola al centro della capanna non lascia dubbi sul destino del precedente proprietario della fiala di vetro."</string>
-	<string name="chp12_12_8__c">Dopo aver messo da parte il bottino, si scivola di nuovo fuori nel villaggio bagnato dalla pioggia.</string>
+	<string name="chp12_12_8__c">Dopo aver messo da parte il bottino, scivolate di nuovo fuori nel villaggio bagnato dalla pioggia.</string>
 	<string name="chp12_12_9__a">La ricerca non produce altro che vecchie ossa e un mucchio di vestiti maleodoranti. Nella pentola centrale trovate quelli che sembrano essere i resti di carne del precedente proprietario degli indumenti sporchi. Ripugnati, uscite dalla capanna e tornate alla vostra missione.</string>
 	<string name="chp12_13_10__a">"Strisciando verso il centro del villaggio, con una rapida occhiata alla vostra destra notate un paio di uomini della tribù di guardia al centro di uno dei ponti di corda. Al di là di essi, scorgete la sagoma del vostro compagno che si aggira nell\'ombra e si mette in posizione di attacco. Il vostro compagno deve superare gli uomini della tribù per raggiungere la piattaforma centrale.
 
@@ -3629,7 +3629,7 @@ A non più di venti passi nel Bosco Profondo, trovate un altro cadavere in posa 
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp12_1_12__a">Il rumore dell\'acqua interrompe le vostre fantasticherie. Alzando lo sguardo, vedete grandi foglie di strane piante del Bosco Profondo che gocciolano di pioggia. Ma non si tratta di una pioggia normale. Osservate come l\'acqua scorra lungo le foglie e si mescoli con un fluido viscoso che ricopre le piante. Una goccia tocca la vostra pelle ed il dolore vi sale lungo il braccio. Le piante sono ovunque. Devi coprirti velocemente la pelle esposta.</string>
+	<string name="chp12_1_12__a">Il rumore dell\'acqua interrompe le vostre fantasticherie. Alzando lo sguardo, vedete grandi foglie di strane piante del Bosco Profondo che gocciolano di pioggia. Ma non si tratta di una pioggia normale. Osservate come l\'acqua scorra lungo le foglie e si mescoli con un fluido viscoso che ricopre le piante. Una goccia tocca la vostra pelle ed il dolore vi sale lungo il braccio. Le piante sono ovunque. Dovete coprirvi velocemente la pelle esposta.</string>
 	<string name="chp12_1_13__a">Avvolgete il mantello intorno a voi e vi immergete immediatamente nella zona di ombra di alcune grandi piante. Al riparo dalla pioggia, osservate le radici affamate che spuntano dal terreno, pronte a catturare qualsiasi preda che si contorce. Sembra che non ci sia fine ai modi in cui il Bosco Profondo cerca di uccidervi. Persino la pioggia è la sua arma. Al riparo per il momento, attendete l\'acquazzone. Una volta che si è calmato, tornate alla Strada del Filo e ai vostri pensieri..</string>
 	<string name="chp12_1_14__c">Cercate di trovare un punto aperto del cielo dove l\'acqua che cade è pura. Il dolore vi attraversa e si fa sempre più forte. Vi avvolgete il mantello e vi immergete immediatamente nella zona di ombra di alcune grandi piante. Al riparo dalla pioggia, osservate le radici affamate che spuntano dal terreno, pronte a catturare qualsiasi preda che si contorce. Sembra che non ci sia fine ai modi in cui il Bosco Profondo cerca di uccidervi. Persino la pioggia è la sua arma. Al riparo per il momento, attendete l\'acquazzone. Una volta che si è calmato, tornate alla Strada del Filo e ai vostri pensieri..</string>
 	<string name="chp12_1_15__a">"...Alla fine siete tornati in città solo per trovare un nuovo tipo di inferno all\'interno. La parte nord-orientale della città era stata distrutta dalla peste. Si sentivano tumulti e urla tutt\'intorno e dovemmo lottare per raggiungere il centro della città
@@ -3640,7 +3640,7 @@ Una volta entrati, siete stati accolti da un gruppo di nobili e di membri del pi
 	<string name="chp12_1_16__a">"... Cyprian si era fatto avanti in quel momento e, con il suo modo roboante, aveva rivendicato gloria e vittoria per la spedizione sotto la sua guida. I nobili si radunarono intorno a lui, mentre raccontava i suoi successi, rapiti dallo spirito di avventura. Ascoltando i suoi discorsi era come se le morti non ci fossero state e fosse stata trovata una soluzione alla peste. Non si poteva più ascoltare quell\'uomo..
 
 L\'avete fatto:"</string>
-	<string name="chp12_1_17__a">...Hai lasciato Cyprian alle sue favole, lasciando che i nobili pensassero ciò che volevano. Sapevi cosa succedeva là fuori.</string>
+	<string name="chp12_1_17__a">...Avete lasciato Cyprian alle sue favole, lasciando che i nobili pensassero ciò che volevano. Sapevi cosa succedeva là fuori.</string>
 	<string name="chp12_1_18__a">...Avvicinandovi all\'uomo, lo afferrate per la gola e gli ricordate quello che è successo ai suoi scudieri, il tutto all\'orecchio dei nobili riuniti.</string>
 	<string name="chp12_1_19__a">"...Furioso per il fatto che lo avreste sfidato di fronte ai suoi pari, Cyprian aveva preso la spada lunga legata alla schiena. Notando la lentezza della mossa, afferraste il braccio della spada, gli piantaste un piede nel collo del piede e lo strattonaste in avanti. Il cavaliere placcato cadde sulle vostre ginocchia e atterrò in un mucchio sul pavimento. Cercò di alzarsi e si trovò la sua stessa spada nella vostra mano, che puntava incessantemente alla sua gola. Passò un lungo momento prima che lo lasciaste alzare. L\'odio bruciava negli occhi di Cyprian per la vergogna che gli avevate causato, ma sapeva di non dover insistere. Si allontanò e vi lasciò con la lama in mano, sapendo che era andata persa. Con ciò, si voltò di nuovo verso gli ufficiali."</string>
 	<string name="chp12_1_1__a">"Mettendo un piede davanti all\'altro, ti fai strada con decisione attraverso il Bosco Profondo. Sperate di non essere arrivati troppo tardi. Mentre le gambe affondano nel fango fino alle caviglie, ripensate a come siete arrivati qui..
@@ -3649,10 +3649,10 @@ L\'avete fatto:"</string>
 	<string name="chp12_1_20__a">"...Furioso per il fatto che lo aveste sfidato di fronte ai suoi pari, Cyprian aveva preso la spada lunga legata alla schiena. Era veloce, anche quando era completamente corazzato, ed era riuscito a estrarre e a brandire l\'arma prima che voi aveste il tempo di reagire.
 
 Come sempre, Cyprian non aveva riflettuto sulle sue azioni. Con quattro di voi, non ebbe la possibilità di un secondo colpo. Afferraste il braccio della sua spada, gli piantaste un piede nel collo del piede e lo trascinaste in avanti. Il cavaliere placcato cadde sulle vostre ginocchia e atterrò in un mucchio sul pavimento. Cercò di rialzarsi e si trovò la sua stessa spada nella vostra mano, che puntava incessantemente alla sua gola."</string>
-	<string name="chp12_1_20__c">L\'hai fatto:</string>
+	<string name="chp12_1_20__c">L\'avete fatto:</string>
 	<string name="chp12_1_21__a">"... Il sangue era stato versato e nemmeno i nobili erano immuni dal Patto. Infilando la lama nella gola di Cyprian, pose fine per sempre alle sue vanterie. C\'erano poche cose più pericolose di un cavaliere cattivo, la città era meglio che si liberasse di lui. I nobili sussultarono all\'atto e indietreggiarono mentre il sangue si accumulava sulle pietre. Prendendo la sua lama, lanciasti uno sguardo ai nobili. Nessuno vi avrebbe sfidato. Con ciò, vi voltaste di nuovo verso gli ufficiali."</string>
 	<string name="chp12_1_22__a">"...Ci volle un lungo momento prima di lasciarlo alzare, era ancora un nobile. L\'odio bruciava negli occhi di Cyprian per la vergogna che gli avevate causato, ma sapeva che non doveva insistere. Si allontanò e vi lasciò con la lama in mano, sapendo che era andata persa. Con ciò, si voltò di nuovo verso gli ufficiali."</string>
-	<string name="chp12_1_23__a">"...Riferendo al piccolo consiglio, hai raccontato della strana patria degli A\'Dendri e della sua guerra infinita con il Bosco Profondo. Infine, hai raccontato il lungo viaggio nelle profondità del Cuore di Tenebra e la grotta che hai trovato lì, circondata da mostri. Spiegaste come gli A\'Dendri vi avessero informato che la grotta conteneva la chiave per fermare la peste. I volti del consiglio erano stati segnati dalla costernazione per la mancanza di aiuti immediati alla città. Avevano sperato in una cura, ma si erano ritrovati con un altro ostacolo da superare. Un\'orda di mostri da superare? Come raggiungere l\'irraggiungibile? Occorrerà deliberare e formare delle strategie
+	<string name="chp12_1_23__a">"...Riferendo al piccolo consiglio, avete raccontato della strana patria degli A\'Dendri e della sua guerra infinita con il Bosco Profondo. Infine, avete raccontato il lungo viaggio nelle profondità del Cuore di Tenebra e la grotta che avete trovato lì, circondata da mostri. Spiegaste come gli A\'Dendri vi avessero informato che la grotta conteneva la chiave per fermare la peste. I volti del consiglio erano stati segnati dalla costernazione per la mancanza di aiuti immediati alla città. Avevano sperato in una cura, ma si erano ritrovati con un altro ostacolo da superare. Un\'orda di mostri da superare? Come raggiungere l\'irraggiungibile? Occorrerà deliberare e formare delle strategie
 
 Congedandovi con un ringraziamento per il vostro servizio e un forziere di Iron, il piccolo consiglio tornò a palazzo con i resti della vostra spedizione in un\'accesa conversazione."</string>
 	<string name="chp12_1_23__c">"Rimasti soli, cominciaste a guadare la folla radunata. Si era sparsa la voce della vostra spedizione e i volti stupiti guardavano con speranza al vostro passaggio. Vi avevano nominato eroi e campioni e, per qualche motivo, la gente ci aveva creduto. Ora si aspettavano che foste voi a salvarli. A ogni passo, sentivate crescere il peso della responsabilità che vi avevano addossato.
@@ -3731,7 +3731,7 @@ Dietro di loro, sulla folta vegetazione, ci sono gabbie fatte con le ossa delle 
 	<string name="chp12_30_4__a">La maggior parte delle gabbie è vuota, ma alcuni abitanti del villaggio rimangono ancora prigionieri nei bozzoli di ossa. Occhi terrorizzati scrutano tra le sbarre a forma di costola, sguardi persi nelle fiamme della pira infuocata. Un paio di occhi, però, vi guarda. Una donna dal volto tatuato incontra il vostro sguardo e vi riconosce con un cenno consapevole. Forse non è il suo primo incontro con gli Oathsworn. Si inginocchia con cautela e sussurra qualcosa tra le sbarre accanto a lei, dove un uomo sta cercando di calmare il bambino pietrificato che ha in grembo. L\'uomo la guarda rapidamente, con la speranza che cresce nei suoi occhi stanchi.</string>
 	<string name="chp12_30_5__a">Alcuni abitanti del villaggio siedono stretti nelle gabbie di ossa. Occhi terrorizzati scrutano tra le sbarre a forma di costola, sguardi persi nelle fiamme della pira infuocata. Un paio di occhi, però, vi guarda. Una donna dal volto tatuato incontra il vostro sguardo e vi riconosce con un cenno consapevole. Forse non è il suo primo incontro con gli Oathsworn. Si inginocchia con cautela e sussurra qualcosa tra le sbarre accanto a lei, dove un uomo sta cercando di calmare il bambino pietrificato che ha in grembo. L\'uomo la guarda rapidamente, con la speranza che cresce nei suoi occhi stanchi.</string>
 	<string name="chp12_30_6__a">Ogni gabbia d\'ossa è completamente vuota alla luce arancione del fuoco, un intero villaggio è stato completamente spazzato via.</string>
-	<string name="chp12_30_7__a">"Il Capo Tribù si accorge che state ispezionando le gabbie. \"Volete che vivano? Desidero che il mio parente viva. Me lo avete portato via. Hai ucciso mio fratello. Così ho ucciso tutto il nostro bestiame per attirarvi qui. Ora mi prendo ciò che mi spetta. Sangue per sangue.\"
+	<string name="chp12_30_7__a">"Il Capo Tribù si accorge che state ispezionando le gabbie. \"Volete che vivano? Desidero che il mio parente viva. Me lo avete portato via. Avete ucciso mio fratello. Così ho ucciso tutto il nostro bestiame per attirarvi qui. Ora mi prendo ciò che mi spetta. Sangue per sangue.\"
 
 Altri membri della tribù raccolgono l\'appello. \"Sangue per sangue. Sangue per sangue.\"
 
@@ -3864,9 +3864,9 @@ Rifiutate l\'esca e tornate a concentrarvi sulla missione da compiere. Mentre vi
 	<string name="chp12m_1_3__a">Storia a Tempo</string>
 	<string name="chp12m_2_1__a">"Storia a Tempo
 
-\"I Marchiati si nascondono nell\'ombra!\" La voce rimbomba ancora una volta. \"Vieni! Combatti come hai combattuto mio fratello! Avete ucciso la mia gente! Il debito è dovuto! Sangue per sangue!\" Gli altri membri della Tribù della Cicatrice riprendono il canto, \"Sangue per sangue, sangue per sangue..\"
+\"I Marchiati si nascondono nell\'ombra!\" La voce rimbomba ancora una volta. \"Vieni! Combattete come avete combattuto mio fratello! Avete ucciso la mia gente! Il debito è dovuto! Sangue per sangue!\" Gli altri membri della Tribù della Cicatrice riprendono il canto, \"Sangue per sangue, sangue per sangue..\"
 
-Ora è evidente che sei il bersaglio di un debito di sangue della Tribù della Cicatrice. Il capo tribù infuriato deve essere il capo di un clan più grande che cerca di vendicarsi per una vita che hai preso. I vostri pensieri tornano alla Tribù della Ciccatrice che avete incontrato durante la vostra fuga da Bastone.
+Ora è evidente che sei il bersaglio di un debito di sangue della Tribù della Cicatrice. Il capo tribù infuriato deve essere il capo di un clan più grande che cerca di vendicarsi per una vita che avete preso. I vostri pensieri tornano alla Tribù della Ciccatrice che avete incontrato durante la vostra fuga da Bastone.
 
 \"Vieni!\" Il capo tribù continua. \"O ucciderò altro bestiame!\"
 
@@ -4072,7 +4072,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp13_28_21__a">"Notate un leggero cambiamento nella posizione di Elanna mentre la conversazione prosegue. I suoi occhi si muovono intorno, leggendo il paesaggio, notando le armi e la posizione del gruppo. Il velo di una donna nobile finalmente si solleva. Questa donna non è chi dice di essere. Con un colpo di polso, fa volare un paio di pugnali verso di voi e si precipita nel vicolo."</string>
 	<string name="chp13_28_21__c">"Muovendosi con grazia acrobatica e velocità sfolgorante, i suoi muscoli ben allenati le permettono di fuggire. I vostri sospetti vi avevano però preparato bene e la raggiungete prima che abbia la possibilità di scalare il muro di pietra alla fine del vicolo
 
-La blocchiamo a terra e lei si scaglia contro di noi con rabbia. \"Non sai in cosa ti stai immischiando!\" sibila.
+La blocchiamo a terra e lei si scaglia contro di noi con rabbia. \"Non sapete in cosa vi state immischiando!\" sibila.
 
 
 Scegliete un\'opzione:"</string>
@@ -4127,19 +4127,19 @@ Scegliere la prima opzione applicabile (dall\'alto verso il basso):"</string>
 Scegliete un\'opzione:"</string>
 	<string name="chp13_28_34__a">"\"Mio Re!\" chiamate, tutti gli occhi si rivolgono rapidamente a voi. \"Abbiamo una strega.\"
 
-Mentre portate Lyceen davanti al Re, spiegate che è lei la strega che ha portato il Richiamo su Bastone. La folla sussulta alla vista della donna e gli occhi di Lyceen diventano rossi di lacrime e di odio. \"Come hai potuto?\" ti sputa addosso. \"Bruciarmi una volta non ti è bastato?\" Mentre il carceriere la trascina via, lei urla e si dimena, cercando di liberarsi mentre vi maledice per il vostro tradimento.
+Mentre portate Lyceen davanti al Re, spiegate che è lei la strega che ha portato il Richiamo su Bastone. La folla sussulta alla vista della donna e gli occhi di Lyceen diventano rossi di lacrime e di odio. \"Come avete potuto?\" vi sputa addosso. \"Bruciarmi una volta non vi è bastato?\" Mentre il carceriere la trascina via, lei urla e si dimena, cercando di liberarsi mentre vi maledice per il vostro tradimento.
 
 \"Grazie per la vostra onestà, Oathsworn\", dice il Re. \"I vostri sacrifici non conoscono limiti. Saranno necessarie altre anime, ma il compito è reso più facile da ciò che avete fatto.\""</string>
 	<string name="chp13_28_35__c">"Tenendo la strega per il collare, il Guardiano si fa avanti e la offre come volontaria per il Richiamo
 
 \"Grazie, Oathsworn,\" loda il Re. \"Il vostro sacrificio è molto onorevole. Ma non posso permettere che una risorsa così preziosa venga sprecata così facilmente. Mi hanno detto che c\'è ancora tempo per trovare altre persone e, se quello che dici è vero, avremo bisogno di molto più di una sola strega. Solo se non avremo successo nel tentativo di trovare altre anime maledette, ti chiederò di fare questo sacrificio.\"
 
-Mentre avete ancora l\'attenzione del Re, portate Lyceen davanti al Consiglio e spiegate come sia stata lei a portare il Richiamo su Bastone. La folla sussulta alla vista della donna e gli occhi di Lyceen diventano subito rossi di lacrime e di odio. \"Come hai potuto?\" ti sputa addosso. \"Bruciarmi una volta non è stato abbastanza?\"
+Mentre avete ancora l\'attenzione del Re, portate Lyceen davanti al Consiglio e spiegate come sia stata lei a portare il Richiamo su Bastone. La folla sussulta alla vista della donna e gli occhi di Lyceen diventano subito rossi di lacrime e di odio. \"Come avete potuto?\" vi sputa addosso. \"Bruciarmi una volta non è stato abbastanza?\"
 
 \"La strega che ha attirato la bestia?\" dice incredulo il Re. \"Temo che debba compiere il sacrificio. È troppo importante. Grazie per la vostra onestà, Oathsworn. I vostri sacrifici non conoscono limiti.\" Il Re osserva pesantemente mentre il carceriere trascina via Lyceen. \"Saranno necessarie altre anime, ma il compito è reso più facile da ciò che avete fatto.\""</string>
 	<string name="chp13_28_36__a">"\"Ci offriamo volontarie per le nostre streghe, Vostra Maestà!\" chiamate.
 
-Lyceen urla di odio, \"Come hai potuto? Bruciarmi una volta non ti è bastato?\" Distogliendo lo sguardo da Lyceen, incontrate quello della vostra sorella di battaglia, il cui sguardo gelido è pieno di dolore e tradimento
+Lyceen urla di odio, \"Come avete potuto? Bruciarmi una volta non vi è bastato?\" Distogliendo lo sguardo da Lyceen, incontrate quello della vostra sorella di battaglia, il cui sguardo gelido è pieno di dolore e tradimento
 
 Mentre la folla mormora incredula, spieghi che è stata Lyceen a portare il Richiamo su Bastone
 
@@ -4376,7 +4376,7 @@ Scegliete un\'opzione:"</string>
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp13_5_2__a">"Se gli infetti qui arrivano in superficie, non si sa quanti potrebbero morire. Aiutate rapidamente i soldati a far passare il bestiame e mettete delle cariche d\'ambra alle spesse colonne di legno che sorreggono l\'ingresso del tunnel. Mentre gli ultimi capi di bestiame vengono fatti passare, afferrate una torcia infuocata e vi tenete pronti. Pochi istanti dopo, un gruppo di guardie appare dalle tenebrose profondità, impegnato in una ritirata di combattimento. Dall\'ombra, vedete un\'ondata di umani infetti che si accavallano l\'uno sull\'altro mentre si fanno strada verso l\'ingresso. Altre tre guardie vengono trascinate sotto l\'ondata e, mentre la linea difensiva inizia a rompersi, uno dei soldati lancia l\'ordine di 'correre'
+	<string name="chp13_5_2__a">"Se gli infetti qui arrivano in superficie, non sapete in quanti potrebbero morire. Aiutate rapidamente i soldati a far passare il bestiame e mettete delle cariche d\'ambra alle spesse colonne di legno che sorreggono l\'ingresso del tunnel. Mentre gli ultimi capi di bestiame vengono fatti passare, afferrate una torcia infuocata e vi tenete pronti. Pochi istanti dopo, un gruppo di guardie appare dalle tenebrose profondità, impegnato in una ritirata di combattimento. Dall\'ombra, vedete un\'ondata di umani infetti che si accavallano l\'uno sull\'altro mentre si fanno strada verso l\'ingresso. Altre tre guardie vengono trascinate sotto l\'ondata e, mentre la linea difensiva inizia a rompersi, uno dei soldati lancia l\'ordine di 'correre'
 
 Improvvisamente, un\'altra ondata di cittadini infetti emerge da un tunnel laterale e si dirige verso di voi. La nuova minaccia raggiungerà l\'ingresso prima delle guardie in ritirata e, dagli sguardi terrorizzati delle guardie, se ne rendono conto anche loro. \"Aspettate!\" un soldato grida. \"Per favore!\" Ma non c\'è tempo per riflettere. Le uniche opzioni sono far saltare l\'ingresso ora, intrappolando le guardie insieme agli infetti, oppure farsi strada verso le guardie e trascinarle fuori da soli."</string>
 	<string name="chp13_5_4__a">Uno di voi si lancia nell\'oscurità del tunnel e dove va uno, vanno tutti. Estraendo le armi, vi precipitate dietro di loro e affrontate gli infetti a testa alta, scartando i corpi appestati e abbattendoli per raggiungere le guardie al di là. I combattimenti sono caotici e pericolosi, con la paura di essere toccati sempre presente.</string>
@@ -4404,10 +4404,10 @@ Scegliete un\'opzione:"</string>
 	<string name="chp13_7_3__a">"È difficile mentire a quest\'uomo sconvolto, ma con lui sotto il peso di un dolore così grande, la verità potrebbe causare più danni che benefici. La cosa più importante in questo momento è mantenere unita la vostra Compagnia
 
 Gamel annuisce, trattenendo le lacrime. \"Chiedo scusa, Oathsworn. A volte ho la meglio su di me. Mi avete accolto e sono in debito con voi. Credo che crollerei se non fosse per il mio lavoro. Ho migliorato il mio equipaggiamento da campo tenendo conto delle cose che abbiamo imparato durante i nostri viaggi da Bastone. Sarei felice di apportare le stesse modifiche all\'attrezzatura degli altri ragazzi, se potete contribuire a coprire i costi.\""</string>
-	<string name="chp13_7_4__a">"Gamel merita la verità. Mentre pronuncia queste parole, vede il cuore dell\'uomo spezzarsi davanti a lei. \"Hai ucciso mio figlio? Voi?!\" Gamel sbotta.
+	<string name="chp13_7_4__a">"Gamel merita la verità. Mentre pronuncia queste parole, vede il cuore dell\'uomo spezzarsi davanti a lei. \"Avete ucciso mio figlio? Voi?!\" Gamel sbotta.
 
 Il Fabbro estrae il suo martello dal passante sul grembiule e lo fa oscillare selvaggiamente con rabbia. I vostri tentativi di ragionare con lui sono inutili, poiché vi disperdete dagli attacchi dell\'uomo. I muscoli costruiti in una vita di lavoro alla forgia si contorcono per la furia e lo sguardo di Gamel vi dice che è perso nella rabbia. Più lo supplichi, meno ti sembra di riuscire a convincerlo. Non si lascia dissuadere. È come se vi implorasse di porre fine alla sua sofferenza. Non avendo altra scelta, gli sferrate un rapido colpo mortale."</string>
-	<string name="chp13_7_4__c">"Un silenzio scioccato aleggia nell\'aria, incredulità e tristezza ovunque. La morte di Tam ha sempre pesato sulla mente di tutti. Hai fatto una scelta e devi sopportarne le conseguenze. Questo è ciò che significa essere un Oathsworn, ma non rende le cose più facili oggi. Greycane vi rivolge un\'occhiata, prendendo una decisione anche lui in quel momento. Poi, con un cenno del capo, chiama le guardie a rimuovere il corpo
+	<string name="chp13_7_4__c">"Un silenzio scioccato aleggia nell\'aria, incredulità e tristezza ovunque. La morte di Tam ha sempre pesato sulla mente di tutti. Avete fatto una scelta e dovete sopportarne le conseguenze. Questo è ciò che significa essere un Oathsworn, ma non rende le cose più facili oggi. Greycane vi rivolge un\'occhiata, prendendo una decisione anche lui in quel momento. Poi, con un cenno del capo, chiama le guardie a rimuovere il corpo
 
 \"Era un brav\'uomo,\" Greycane offre. \"E amava suo figlio.\" L\'Uomo delle Favole riflette per un momento mentre il corpo viene portato via, una preghiera silenziosa per un alleato caduto.
 
@@ -4462,7 +4462,7 @@ Scegliete un\'opzione:"</string>
 
 
 Scegliete un luogo dove andare:"</string>
-	<string name="chp13_epi_1__a">"Il vostro ultimo colpo pone fine alla vita della strega. Il combattimento era troppo feroce per prenderla viva. Non è stato chiesto né concesso alcuno sconto. Ha lottato fino all\'ultimo ed è stato tutto ciò che hai potuto fare per sopravvivere allo scontro. Uno sguardo agli occhi senza vita dei Cani di Pietra fa correre un brivido lungo la schiena. Questo sarebbe potuto essere il vostro destino se non l\'aveste uccisa per primi
+	<string name="chp13_epi_1__a">"Il vostro ultimo colpo pone fine alla vita della strega. Il combattimento era troppo feroce per prenderla viva. Non è stato chiesto né concesso alcuno sconto. Ha lottato fino all\'ultimo ed è stato tutto ciò che avete potuto fare per sopravvivere allo scontro. Uno sguardo agli occhi senza vita dei Cani di Pietra fa correre un brivido lungo la schiena. Questo sarebbe potuto essere il vostro destino se non l\'aveste uccisa per primi
 
 La strega sarà anche morta, ma la sua vendetta no. Le campane continuano a suonare in tutta la città, avvertendo tutti di fuggire verso sud. La metà settentrionale della città è andata perduta e tutti i sopravvissuti si affretteranno ad attraversare il fiume, pregando che le fortificazioni sulla riva meridionale reggano."</string>
 	<string name="chp13_epi_2__a">Le fiamme si levano da dove un tempo sorgevano le Strade Verdi. Un intero stile di vita, ora carbonizzato e distrutto.</string>
@@ -4489,7 +4489,7 @@ Lungo le pareti del tempio trovate le vene d\'argento che attraversano una serie
 	<string name="chp14_17_7__a">Il cacciatore Tarik sembra avervi mandato qui per un motivo. Forse sperava che la città in rovina vi reclamasse come vittime, ma qualcosa vi dice che non è così. Il suo sguardo era ansioso. Voleva che trovaste questo posto, forse sperando che poteste scoprire la verità su questa creatura.</string>
 	<string name="chp14_17_7__c">Uscendo dal tempio, il sole comincia a scendere sotto l\'orizzonte. A passo doppio, tornate al Rifugio.</string>
 	<string name="chp14_17_8__a">Uscendo dal tempio, il sole comincia a scendere sotto l\'orizzonte. A passo doppio, tornate al Rifugio.</string>
-	<string name="chp14_1_10__a">In piedi davanti ai compagni riuniti, lo sguardo cade su Midge e Bram, entrambi chiaramente alle prese con emozioni contrastanti. Sebbene siano felici di vederti vivo, sono ancora turbati dal fatto che li hai abbandonati quando sono arrivati gli incendi e gli infetti hanno iniziato l\'assalto alla città. Le vostre azioni hanno salvato centinaia di persone, ma questo non significa nulla per coloro che sei stato costretto a lasciare indietro, in particolare i morti. E alcuni di questi morti erano dolorosamente vicini a Bram e Midge. Dopo qualche istante, Bram vi versa da bere da una piccola botte che aveva messo da parte. \"Venite a riposare le vostre ossa stanche, amici,\" dice. Midge, non altrettanto pronto a perdonare, corre via con le lacrime che gli rigano il viso.</string>
+	<string name="chp14_1_10__a">In piedi davanti ai compagni riuniti, lo sguardo cade su Midge e Bram, entrambi chiaramente alle prese con emozioni contrastanti. Sebbene siano felici di vedervi vivi, sono ancora turbati dal fatto che li avete abbandonati quando sono arrivati gli incendi e gli infetti hanno iniziato l\'assalto alla città. Le vostre azioni hanno salvato centinaia di persone, ma questo non significa nulla per coloro che siete stati costretti a lasciare indietro, in particolare i morti. E alcuni di questi morti erano dolorosamente vicini a Bram e Midge. Dopo qualche istante, Bram vi versa da bere da una piccola botte che aveva messo da parte. \"Venite a riposare le vostre ossa stanche, amici,\" dice. Midge, non altrettanto pronto a perdonare, corre via con le lacrime che gli rigano il viso.</string>
 	<string name="chp14_1_11__a">"In piedi davanti ai compagni riuniti, lo sguardo cade su Midge e Bram. Tutti i volti sorridono, così come gli sguardi di rispetto e orgoglio. Siete andati da loro quando sono scoppiati gli incendi e gli infetti hanno iniziato il loro assalto, scegliendo loro rispetto a tutti gli altri. Grazie alla vostra decisione, tutti sono fuggiti sani e salvi verso sud. Bram vi riempie un boccale con una bevanda presa da una piccola botte che aveva salvato, mentre Midge si avvicina a voi e inizia a mostrarvi i tesori che è riuscito a 'salvare' durante la sua fuga."</string>
 	<string name="chp14_1_11__c">Mentre i vostri compagni festeggiano, pensate a tutte le anime che sono state condannate quando avete scelto di difendere la Quercia Spezzata. Salvare le poche persone presenti non significa nulla per le molte che vi siete lasciati alle spalle, soprattutto per i morti.</string>
 	<string name="chp14_1_12__a">"Seduti al bancone frettolosamente assemblato della nuova Quercia Spezzata, non siete affatto sorpresi quando i lembi della tenda si aprono per far posto a un membro della Guardia del Re. Sapevate che il vostro salvataggio avrebbe avuto un prezzo e la pergamena in mano alla guardia vi dirà quanto sarà alto quel prezzo.
@@ -4508,10 +4508,10 @@ La Risorsa si ferma infine accanto a una grande tenda con un\'insegna che conosc
 
 \"Quella brodaglia che producevi alla vecchia Quercia non poteva certo essere chiamata birra, ma questo non ti ha mai fermato prima. Inoltre, è quel vostro sorriso vincente che la gente viene a vedere, risponde\" Greycane. Bram tenta di aggrottare lo sguardo, ma è tradito dagli angoli della bocca che iniziano a sollevarsi in un sorriso represso
 
-Greycane strizza l\'occhio al barista e poi ti vede. \"Oathsworn!\" e si muove istintivamente per abbracciarti, ma si ferma. \"Siete arrivati a sud del fiume? E la vostra infezione?\" Gli parlate dell\'elisir e lui si rilassa, rimettendo a posto il pugnale che non avevi notato. Solo allora ti abbraccia. \"Sei uno spettacolo per gli occhi, lo sai?\" dice."</string>
+Greycane strizza l\'occhio al barista e poi ti vede. \"Oathsworn!\" e si muove istintivamente per abbracciarvi, ma si ferma. \"Siete arrivati a sud del fiume? E la vostra infezione?\" Gli parlate dell\'elisir e lui si rilassa, rimettendo a posto il pugnale che non avevi notato. Solo allora ti abbraccia. \"Siete uno spettacolo per gli occhi, lo sapete?\" dice."</string>
 	<string name="chp14_1_1__a">"Siete infetti. Questo pensiero vi gira in testa mentre siete seduti tra le rovine di un edificio bruciato a nord del fiume. Siete riusciti a salvare molte vite portandole attraverso i ponti verso i distretti meridionali di Verum, ma non siete riusciti a salvare voi stessi. La disperazione minaccia di sopraffarvi.
 
-Guardando le macchie nere che si formano sulle vostre braccia, sapete che è solo questione di tempo prima che la campana della morte suoni per voi. Ovunque si guardi, vedete ciò che la peste può fare alle persone. Questa parte della città trabocca di anime infette e hai dovuto uccidere più di qualcuno che si è avvicinato troppo. I rumori di persone che urlano in lontananza vi dicono che non tutti se la passano bene
+Guardando le macchie nere che si formano sulle vostre braccia, sapete che è solo questione di tempo prima che la campana della morte suoni per voi. Ovunque si guardi, vedete ciò che la peste può fare alle persone. Questa parte della città trabocca di anime infette e avete dovuto uccidere più di qualcuno che si è avvicinato troppo. I rumori di persone che urlano in lontananza vi dicono che non tutti se la passano bene
 
 Mentre fissate i resti in fiamme di una sartoria, sentite dei passi avvicinarsi. Facendo un respiro profondo, estraete le armi e vi preparate a un nuovo attacco da parte degli infetti. Tuttavia, in cima ad alcune vecchie travi, trovate la Risorsa che ha viaggiato con voi verso il Wychwood. Poiché si trova da solo, avete difficoltà a concentrare lo sguardo su di lui, come se i vostri occhi si rifiutassero di obbedire
 
@@ -4565,7 +4565,7 @@ Il viaggio passa con relativa facilità, ma al calare del crepuscolo del settimo
 	<string name="chp14_2_5__a">Con una torcia, agitate le fiamme selvaggiamente davanti al vostro viso. Il fuoco brucia la pelle, ma riesce a costringere gli insetti mordaci a ritirarsi con le ali bruciate. Dopo qualche istante, il ronzio si alza di nuovo e vi rendete conto che la minaccia non è ancora finita.</string>
 	<string name="chp14_2_6__a">"Il ronzio diventa rapidamente più forte quando il grosso dello sciame si sposta e concentra la sua attenzione su di voi. Gli Scavatori sono in grado di spolpare un uomo fino all\'osso in pochi minuti o di scavare in profondità nella vostra carne e deporre le loro uova a migliaia. È una brutta strada da percorrere. Dovete escogitare rapidamente un piano se volete vivere. Non c\'è modo di sfuggire a questi insetti, ma si può essere in grado di distrarli
 
-Gli Scavatori cercano solo carne in cui deporre le uova e cibo da consumare. Poiché non avete intenzione di dare loro la vostra carne, le vostre razioni sono l\'unica opzione. Non si sa quanto cibo sarebbe necessario per distrarre uno sciame di quelle dimensioni e quindi usate tutto quello che avete. Potreste morire di fame, ma se la distrazione fallisce, non vivrete abbastanza per scoprirlo. Dopo aver sparso tutte le razioni sul terreno, scappate immediatamente lungo il Filo."</string>
+Gli Scavatori cercano solo carne in cui deporre le uova e cibo da consumare. Poiché non avete intenzione di dare loro la vostra carne, le vostre razioni sono l\'unica opzione. Non sapete quanto cibo sarebbe necessario per distrarre uno sciame di quelle dimensioni e quindi usate tutto quello che avete. Potreste morire di fame, ma se la distrazione fallisce, non vivrete abbastanza per scoprirlo. Dopo aver sparso tutte le razioni sul terreno, scappate immediatamente lungo il Filo."</string>
 	<string name="chp14_2_7__c">Attingendo a piene mani alle vostre riserve, vi lanciate a tutta velocità lungo la Strada del Filo, cercando di mettere una certa distanza tra voi e lo sciame. Il fatto che non siate ancora morti vi dice che il vostro diversivo sta funzionando.</string>
 	<string name="chp14_2_8__a">Vi lanciate a tutta velocità lungo la Strada del Filo, cercando di mettere una certa distanza tra voi e lo sciame. Il fatto che non siate ancora morti vi dice che il vostro diversivo sta funzionando.</string>
 	<string name="chp14_2_9__a">"I polmoni bruciano per lo sprint. Sembra di aver corso tutta la notte, ma il pensiero di una morte atroce vi spinge ad andare avanti. Con una mano sulla lama e l\'altra sulla strada ferrata, scavalcate una grossa radice, aggirate un albero del Bosco Profondo e vi fermate di colpo. La Strada del Filo è sparita
@@ -4591,7 +4591,7 @@ Uscendo dal villaggio, il vostro occhio scorge un luccichio di ferro in lontanan
 	<string name="chp14_36_1__a">Il Bosco Profondo inizia a diradarsi un po\' e si iniziano a vedere quelli che sembrano i resti di antiche pietre e muri ricoperti di muschio sparsi tra i tronchi degli alberi.</string>
 	<string name="chp14_42_1__a">Il puzzo nauseante di carne animale in decomposizione sale nelle vostre narici. Alzate le armi, pronti ad affrontare qualsiasi predatore in agguato nelle vicinanze. Scostando alcuni cespugli, trovate la fonte dell\'odore putrido. Un paio di carcasse morte giacciono sulla terra. Ispezionando le carcasse, scoprite un grosso buco nello sterno di ciascuna di esse, attraverso il quale sembra che le loro interiora siano state risucchiate.</string>
 	<string name="chp14_42_2__a">Trovate diversi alberi abbattuti e rami spezzati che circondano l\'area in cui le due creature sono state divorate. Qualunque cosa li abbia uccisi deve essere stata enorme. Ci sono effettivamente creature succhiasangue nel Bosco Profondo, ma non ne avete mai conosciute di così grandi.</string>
-	<string name="chp14_42_3__a">Una ricerca approfondita dell\'area non produce ulteriori indizi. Non si sa cosa possa aver fatto questo.</string>
+	<string name="chp14_42_3__a">Una ricerca approfondita dell\'area non produce ulteriori indizi. Non sapete cosa possa aver fatto questo.</string>
 	<string name="chp14_44_1__a">"Facendovi strada attraverso una fitta macchia di rovi, la foresta finalmente si apre un po\'. Ma quando si guarda avanti, si capisce perché. Gli alberi e i rami sono divorati da migliaia di palle chiodate, i "cardi veloci". Vi bloccate immediatamente, sapendo che la più piccola vibrazione le farà esplodere. Indietreggiate lentamente, camminando con estrema leggerezza. Se qualcuno le innesca, soffrirete tutti."</string>
 	<string name="chp14_44_2__a">Una pioggia di piccoli spuntoni riempie l\'aria, trafiggendo tutto ciò che si vede. Cercate disperatamente di evitare il pericolo, ma venite colpiti da molti di essi. Il sangue sgorga dalle ferite, mentre gli arti vengono brevemente paralizzati dalle loro punte tossiche.</string>
 	<string name="chp14_44_3__a">Il respiro si blocca in gola al suono di ogni ramo che si spezza, ma in qualche modo riuscite a evitare il pericolo senza danni.</string>
@@ -4625,7 +4625,7 @@ Ti giri e vedi Nydia, con la mano che stringe uno scialle contro il freddo. \"Qu
 
 Avete incontrato molte strane credenze nei vostri viaggi negli innumerevoli villaggi che popolano il Bosco Profondo, ma nessuna come questa. I vostri tentativi di capire di più sulla loro fede rimangono senza risposta, mentre Nydia vi congeda per la notte.
 
-\"Devi riposare, Oathsworn. Vi aspetta una giornata lunga e faticosa.\" Anche se ha fatto poco per placare i vostri sospetti, ha ragione quando dice che avete bisogno di riposare. Cercare di trovare la Strada del Filo senza dormire assicura il fallimento. Mentre Nydia svanisce nella notte, tornate alla vostra capanna per riposare un po\'."</string>
+\"Dovete riposare, Oathsworn. Vi aspetta una giornata lunga e faticosa.\" Anche se ha fatto poco per placare i vostri sospetti, ha ragione quando dice che avete bisogno di riposare. Cercare di trovare la Strada del Filo senza dormire assicura il fallimento. Mentre Nydia svanisce nella notte, tornate alla vostra capanna per riposare un po\'."</string>
 	<string name="chp14_55_18__a">"Nascosta nell\'erba ai margini della radura, si trovate una fila di pesanti pali conficcati nel terreno. Ognuno di essi presenta uno spesso anello di ferro sulla sommità, alcuni dei quali con una catena ancora attaccata. Su uno di essi si trova un pezzo di carne essiccata
 
 Sembra che gli abitanti del villaggio la usino come esca. Ma è per attirare le bestie più vicine al villaggio o per allontanarle? Dopo aver cercato qualsiasi altra cosa fuori dall\'ordinario, tornate alla vostra capanna per riposare un po\', riflettendo sulla vostra nuova scoperta."</string>
@@ -4652,7 +4652,7 @@ Le scale scricchiolano mentre i passi iniziano a scendere. Essere sorpresi all\'
 	<string name="chp14_55_30__a">"Storia a Tempo
 
 Tornate al villaggio poco prima del tramonto."</string>
-	<string name="chp14_55_30__c">Nydia vi aspetta già nel momento in cui uscite dal bosco nella radura. \"Hai trovato la Strada del Filo?\" chiede. \"O almeno il villaggio?\"</string>
+	<string name="chp14_55_30__c">Nydia vi aspetta già nel momento in cui uscite dal bosco nella radura. \"Avete trovato la Strada del Filo?\" chiede. \"O almeno il villaggio?\"</string>
 	<string name="chp14_55_31__a">"Con il sole ormai tramontato, decidete che questa potrebbe essere una buona occasione per parlare con qualche altro abitante del villaggio o per esplorare ancora un po\' l\'insediamento prima di coricarvi per la sera.
 
 
@@ -4683,11 +4683,11 @@ Con un\'intera giornata a disposizione, valutate le vostre opzioni. Sarebbe megl
 	<string name="chp14_55_37__a">"\"Sono sollevato che siate riusciti a trovare la carovana perduta ieri, continua\". \"Almeno il mistero può essere risolto. Sono stati i mercanti a dirci che il Filo si era perso. Alla fine hanno deciso di affrontare il Bosco Profondo, piuttosto che restare con noi. Sono partiti con una scorta di cibo, ambra e seta, diretti a nord, ma non sono mai andati molto lontano. Abbiamo sentito delle urla in lontananza quella notte e un grande trambusto non molto tempo dopo. Forse oggi potreste cercare i nostri vicini a ovest? Saranno in grado di offrire più assistenza di noi.\"
 
 Con un\'intera giornata a disposizione, valutate le vostre opzioni. Sarebbe meglio trovare il villaggio a ovest ed eventualmente ottenere una mappa della zona? O dovreste scegliere un\'altra direzione in cui concentrare le vostre ricerche?"</string>
-	<string name="chp14_55_3__a">"Parli delle rovine che hai scoperto e di ciò che vi hai trovato. Nydia scuote la testa con disprezzo, \"Non le ho viste, anche se alcuni cacciatori hanno parlato di aver trovato delle rovine. Temo di non avere tempo per le città morte. Devo concentrarmi sui vivi. A proposito, venite dentro a riposare. C\'è del cibo sul fuoco per te e un letto caldo che ti aspetta.\""</string>
+	<string name="chp14_55_3__a">"Parlate delle rovine che avete scoperto e di ciò che vi avete trovato. Nydia scuote la testa con disprezzo, \"Non le ho viste, anche se alcuni cacciatori hanno parlato di aver trovato delle rovine. Temo di non avere tempo per le città morte. Devo concentrarmi sui vivi. A proposito, venite dentro a riposare. C\'è del cibo sul fuoco per te e un letto caldo che ti aspetta.\""</string>
 	<string name="chp14_55_40__a">"Storia a Tempo
 
 Arrivate al Rifugio mentre il sole scivola sotto l\'orizzonte."</string>
-	<string name="chp14_55_40__c">Nydia vi sta già aspettando ai margini della strana radura verde. \"Hai trovato quello che cercavi, Oathsworn?\" chiede speranzosa.</string>
+	<string name="chp14_55_40__c">Nydia vi sta già aspettando ai margini della strana radura verde. \"Avete trovato quello che cercavate, Oathsworn?\" chiede speranzosa.</string>
 	<string name="chp14_55_41__a">"Con il crepuscolo che cala sul villaggio, la gente si affanna in un ultimo slancio di attività prima che gli ultimi raggi di luce si perdano.
 
 
@@ -4729,7 +4729,7 @@ Mentre la musica ricomincia, Nydia versa del vino. \"Il nostro meglio per gli os
 Scegliete un\'opzione:"</string>
 	<string name="chp14_55_52__a">"Dopo tutto quello che avete passato nelle ultime settimane, potreste rilassarvi un attimo. Non potete andare da nessuna parte stanotte e la Tracia sarà ancora là fuori da qualche parte domattina. Il vino ha un colore rosso ricco e un aroma dolce. Bevendo un sorso dalla tazza, osservate un gruppo di ragazze che danzano intorno al palo di maggio, ognuna con un cero colorato attaccato al palo. Si intrecciano l\'una con l\'altra mentre saltano, creando un disegno ipnotico. Il balletto di colori e forme sfocate vi rilassa lentamente e, per un breve momento, dimenticate i vostri problemi. In quel momento, Nydia si avvicina a voi con lo stesso sorriso falso che indossa sempre. Il mondo inizia a girare e vi rendete conto troppo tardi di quello che è successo. Cercando disperatamente di aggrapparvi alla coscienza, ogni pensiero vi sfugge."</string>
 	<string name="chp14_55_53__a">Non c\'è bisogno di parole. Le sue trasgressioni nei vostri confronti sono più che sufficienti per giustificare la sua morte. Estraendo rapidamente le armi, colpisci Nydia prima che abbia la possibilità di reagire. La musica si interrompe immediatamente, mentre un centinaio di volti si voltano verso di voi.</string>
-	<string name="chp14_55_53__c">"\"L\'hai... uccisa...\" Il cacciatore, Tarik, dice con uno sguardo scioccato. Accanto a lui, vedete un gruppo di uomini armati di armi rozze che guardano sconcertati. Dovevano essere il piano di riserva, se la bevanda al limone non avesse funzionato. Tuttavia, con Nydia morta, non sembrano desiderosi di affrontarvi
+	<string name="chp14_55_53__c">"\"L\'avete... uccisa...\" Il cacciatore, Tarik, dice con uno sguardo scioccato. Accanto a lui, vedete un gruppo di uomini armati di armi rozze che guardano sconcertati. Dovevano essere il piano di riserva, se la bevanda al limone non avesse funzionato. Tuttavia, con Nydia morta, non sembrano desiderosi di affrontarvi
 
 All\'unisono, gettano le armi e implorano clemenza. \"Signori della misericordia! Stavamo solo obbedendo ai suoi ordini!\" grida uno di loro. \"Chiunque abbia parlato contro di lei è stato dato in pasto a...\" dice un altro, ma le sue parole si interrompono
 
@@ -4762,7 +4762,7 @@ Massicce zampe nere simili a lance si intravedono tra gli alberi, mentre la luce
 Formate un anello difensivo mentre si avvicinano i primi tessitori di ragnatele di dimensioni simili a quelle di un mastino, le vostre armi tagliano e affettano gli addomi pelosi e le zampe appuntite. Non è facile ucciderli e per ognuno di loro, altri scendono rapidamente dagli alberi. In qualche modo, dovrete trovare un vantaggio se volete uscirne vivi
 
 A poca distanza, vedete un cerchio di torce color ambra che circonda un gruppo di pali di legno fissati con manette nel terreno. È chiaro che il piano era di incatenarvi lì e offrirvi in sacrificio all\'orda di ragni. Con un\'intuizione, vi precipitate verso il cerchio e afferrate una delle torce d\'ambra. Per verificare la vostra teoria, date fuoco alla rete appiccicosa che ricopre l\'albero più vicino e osservate come il fuoco si propaghi rapidamente lungo il tronco. Le fiamme avvolgono l\'albero, abbattendo ogni ragno che si annida tra i suoi rami. La vostra vittoria è però di breve durata, perché vi voltate verso il ragno regina e scoprite che è scomparso. I ragni sono predatori da agguato e lei si è nascosta tra le cime degli alberi per aspettare il momento perfetto per colpire. Potete sentire i suoi giganteschi occhi neri come la notte che vi osservano mentre i suoi piccoli scendono dagli alberi."</string>
-	<string name="chp14_55_5__a">"Descrivi subito a Nydia lo spettacolo a cui hai assistito al passaggio della montagna. \"Ragni.\" lei considera. \"Sì, ha senso. Deve essere la seta che abbiamo raccolto dagli alberi per usarla come filo di recupero. Come il rocchetto di filo che ti ho dato. Sapevo che doveva provenire da qualche parte.\"
+	<string name="chp14_55_5__a">"Descrivete subito a Nydia lo spettacolo a cui avete assistito al passaggio della montagna. \"Ragni.\" dice pensierosa. \"Sì, ha senso. Deve essere la seta che abbiamo raccolto dagli alberi per usarla come filo di recupero. Come il rocchetto di filo che ti ho dato. Sapevo che doveva provenire da qualche parte.\"
 
 Quando le si chiede se i ragni hanno mai attaccato il Rifugio, risponde scuotendo la testa: \"No. L\'Unico ci ha sempre protetto.\"
 
@@ -5256,10 +5256,10 @@ Mentre Rubeo parla, con la coda dell\'occhio scorgete un luccichio di metallo e 
 Quando Rubeo salta dall\'edificio, scompare dalla vista e i Senza Volto caricano."</string>
 	<string name="chp15a_8_11__a">"Storia a Tempo
 
-Con la tensione che sale, il Volpe si avvicina a voi, \"Vedo che la mia offerta è stata apprezzata,\" sussurra con un sorriso mentre tiene d\'occhio il resto dei Cinque. \"Oggi avete reso un grande servizio alla Tracia. Il Pitone sarà messo alle strette o schiacciato. Credo di essere in debito di una strega. Se la vuoi, devi accompagnarmi al sicuro nella mia tenuta. Dubito che la città sarà sicura a lungo.\" Con il vostro premio quasi in mano, accettate."</string>
+Con la tensione che sale, il Volpe si avvicina a voi, \"Vedo che la mia offerta è stata apprezzata,\" sussurra con un sorriso mentre tiene d\'occhio il resto dei Cinque. \"Oggi avete reso un grande servizio alla Tracia. Il Pitone sarà messo alle strette o schiacciato. Credo di essere in debito di una strega. Se la volete, dovete accompagnarmi al sicuro nella mia tenuta. Dubito che la città sarà sicura a lungo.\" Con il vostro premio quasi in mano, accettate."</string>
 	<string name="chp15a_8_12__a">"Storia a Tempo
 
-L\'Amiese si avvicina attraverso le grida. \"Hai fatto ciò che ti è stato chiesto, Oathsworn,\" dice, senza distogliere lo sguardo dal resto dei Cinque. \"Ora, se volete la vostra strega, dovete riportarmi al sicuro nella mia tenuta. Dubito che la città sarà sicura a lungo.\" Con il vostro premio quasi in mano, accettate."</string>
+L\'Amiese si avvicina attraverso le grida. \"Avete fatto ciò che vi è stato chiesto, Oathsworn,\" dice, senza distogliere lo sguardo dal resto dei Cinque. \"Ora, se volete la vostra strega, dovete riportarmi al sicuro nella mia tenuta. Dubito che la città sarà sicura a lungo.\" Con il vostro premio quasi in mano, accettate."</string>
 	<string name="chp15a_8_1__a">"Storia a Tempo
 
 È giunto il momento dell\'Assemblea del Curiato. Viaggiando nelle sale di marmo del caveau, troverete i Cinque seduti in cerchio davanti a voi, ognuno con la sua maschera decorativa e le sue vesti a tema. Decine di servitori si occupano di ognuno di loro con cibo, bevande e asciugamani caldi. Al vostro servitore, Nacosta, è stato impedito di unirsi a voi, lasciato fuori al freddo
@@ -5293,7 +5293,7 @@ Anche dietro la sua maschera, potete vedere il sorriso di Lignja mentre portate 
 
 Molti dei Cinque si alzano in piedi, alzando la voce in segno di protesta, mentre altri, da dietro le loro maschere, guardano male non solo gli accusati, ma anche gli uni gli altri. Non si tratta solo di un figlio morto. Qualunque cosa stia accadendo sembra essere arrivata da molto tempo. La fragile pace che tiene uniti i Cinque sta vacillando sull\'orlo del baratro. Le guardie delle Cinque famiglie si agitano dietro le quinte. Avete il fiuto per la violenza e qui ne sentite certamente l\'odore
 
-Iniziate a controllare le armi e a cercare le uscite quando l\'Amiese si avvicina attraverso le grida. \"Hai fatto quello che ti è stato chiesto, Oathsworn,\" dice, senza distogliere lo sguardo dal resto dei Cinque. \"Ora, se volete la vostra strega, dovete riportarmi al sicuro nella mia tenuta. Dubito che la città sarà sicura a lungo.\" Con il vostro premio quasi in mano, accettate."</string>
+Iniziate a controllare le armi e a cercare le uscite quando l\'Amiese si avvicina attraverso le grida. \"Avete fatto quello che vi è stato chiesto, Oathsworn,\" dice, senza distogliere lo sguardo dal resto dei Cinque. \"Ora, se volete la vostra strega, dovete riportarmi al sicuro nella mia tenuta. Dubito che la città sarà sicura a lungo.\" Con il vostro premio quasi in mano, accettate."</string>
 	<string name="chp15a_8_6__a">"Storia a Tempo
 
 Preceduti dalle guardie della casa Amiese, mantenete una formazione stretta intorno al palanchino Amiese mentre attraversa la città. I senza volto da tutte le parti si inginocchiano in segno di supplica alla vista della scatola ornata. L\'Amiese all\'interno non vi presta attenzione, scegliendo invece di conversare con voi attraverso una tenda velata.
@@ -5430,7 +5430,7 @@ Le grandi guglie della Tracia formano un orizzonte frastagliato, come se la citt
 
 Polus riacquista un po\' di lucidità e compostezza dopo un po\' di tempo
 
-\"Ci sono delle persone che devi incontrare, Oathsworn. Persone che apprezzerebbero ciò che hai fatto oggi,\" dice Polus, trasalendo. \"C\'è un gruppo che lavora per fermare questa barbarie,\" dice, alzando il braccio buono per abbracciare il Colosseo dietro di sé. \"Io sono con i clandestini. Qualunque cosa vi porti a Tracia, è meglio avere a che fare con loro che con i padroni.\" Salite su suo suggerimento e seguitela mentre vi conduce nei sotterranei."</string>
+\"Ci sono delle persone che dovete incontrare, Oathsworn. Persone che apprezzerebbero ciò che avete fatto oggi,\" dice Polus, trasalendo. \"C\'è un gruppo che lavora per fermare questa barbarie,\" dice, alzando il braccio buono per abbracciare il Colosseo dietro di sé. \"Io sono con i clandestini. Qualunque cosa vi porti a Tracia, è meglio avere a che fare con loro che con i padroni.\" Salite su suo suggerimento e seguitela mentre vi conduce nei sotterranei."</string>
 	<string name="chp15b_16_16__a">"L\'avido ometto si lecca le labbra mentre gli consegnate l\'Iron. Avendo ottenuto ciò che voleva dallo schiavo, vi fa cenno di andarvene con la donna al seguito. Dopo averle sistemato il braccio con una stecca, vi dice il suo nome.
 
 \"Mi chiamo Polus. Io... vi ringrazio.\""</string>
@@ -5442,7 +5442,7 @@ Polus riacquista un po\' di lucidità e compostezza dopo un po\' di tempo
 
 Il loro canto crolla in una cacofonia di applausi quando iniziate a pulire le vostre armi intrise di sangue.
 
-\"Perché?\" respira la donna che hai salvato, stringendo il suo braccio contorto. \"Perché mi hai salvato!\"
+\"Perché?\" respira la donna che avete salvato, stringendo il suo braccio contorto. \"Perché mi avete salvato!\"
 
 
 Scegliete un\'opzione:"</string>
@@ -5519,7 +5519,7 @@ Polus vi fa passare attraverso la folla e sale una scala scavata nella roccia fi
 
 \"Wyman,\" dice Polus, e una donna alta e dorata si volta. Il suo labbro inferiore è schiacciato
 
-\"Io e Polus sappiamo chi sei e perché sei qui. Abbiamo visto quello che hai fatto nel Colosseo. Lo ammiriamo, ma se siete qui per l'Iron, non vi pagheremo. Invece, vi chiederemo di più. Cinque famiglie controllano la Tracia. Volpe, Lignja, Amiese, Carnedine e Pitone. Ognuna peggiore dell\'altra. Una delle cinque sta progettando qualcosa. Le loro piccole faide di solito si limitano alla morte dei loro stessi membri. Di solito siamo felici di vederli mangiarsi l\'un l\'altro, ma ci sono voci di qualcosa di più grande. Temiamo che questo piano abbia come obiettivo i Senza Volto.\"
+\"Io e Polus sappiamo chi siete e perché siete qui. Abbiamo visto quello che avete fatto nel Colosseo. Lo ammiriamo, ma se siete qui per l'Iron, non vi pagheremo. Invece, vi chiederemo di più. Cinque famiglie controllano la Tracia. Volpe, Lignja, Amiese, Carnedine e Pitone. Ognuna peggiore dell\'altra. Una delle cinque sta progettando qualcosa. Le loro piccole faide di solito si limitano alla morte dei loro stessi membri. Di solito siamo felici di vederli mangiarsi l\'un l\'altro, ma ci sono voci di qualcosa di più grande. Temiamo che questo piano abbia come obiettivo i Senza Volto.\"
 
 La voce di un secondo uomo è un rantolo, \"Abbiamo bisogno dei vostri marchi per scoprire di più. Potete arrivare dove noi non possiamo. C\'è un ballo in maschera all\'Assemblea del Curiato, un\'esibizione peccaminosa di decadenza e opulenza. Il vostro marchio vi farà entrare.\"
 
@@ -5613,14 +5613,14 @@ Mentre camminate per le strade di Tracia, un membro dei sotterranei emerge dall\
 \"Un informatore, Jorman, è stato catturato. Lo stanno portando alla Casa del Sol Levante dove sarà interrogato. Dovete capire che se Jorman rivela ciò che sa, l\'intero sotterraneo è in pericolo. Non sappiamo dove sia esattamente la Casa, se non che si trova nella parte meridionale della Tracia. Abbiamo bisogno del vostro aiuto, ora.\" Tutto ciò che minaccia i sotterranei minaccia le vostre possibilità di portare a termine la missione qui. Partendo a passo spedito, iniziate la ricerca dell\'informatore."</string>
 	<string name="chp15b_30_4__a">"Storia a Tempo
 
-Non è qui. Ti sei sbagliato e sai che questo costerà caro a Jorman. Tornando indietro, vai a cercare gli altri luoghi."</string>
+Non è qui. Vi siete sbagliati e sapete che questo costerà caro a Jorman. Tornando indietro, vai a cercare gli altri luoghi."</string>
 	<string name="chp15b_30_5__a">"Storia a Tempo
 
 Un mosaico dorato raffigurante un sole segna l\'ingresso della Casa. La vostra prontezza di riflessi vi ha fatto precedere da un drappello di guardie che trascinavano verso l\'ingresso un uomo che poteva essere solo Jorman. Capite che se dovesse essere portato dentro, ci sono poche possibilità di tirarlo fuori vivo. Rimanendo nell\'ombra, preparate l\'imboscata."</string>
 	<string name="chp15b_30_5__c">Le guardie non ti hanno visto arrivare. Quattro cadono prima che le altre estraggano le armi e anche quelle si uniscono ai loro compagni nella terra in breve tempo. Jorman è malconcio e ammaccato, ma è ancora vivo. Lo scortate lontano dalla Casa del Sol Levante e lo consegnate ai sotterranei. Vi ringrazia prima di sparire dalla circolazione.</string>
 	<string name="chp15b_30_6__a">"Storia a Tempo
 
-Non è qui. Ti sei sbagliato e sai che questo costerà caro a Jorman. Tornate indietro e andate a cercare gli altri luoghi."</string>
+Non è qui. Vi siete sbagliati e sapete che questo costerà caro a Jorman. Tornate indietro e andate a cercare gli altri luoghi."</string>
 	<string name="chp15b_30_7__a">"Storia a Tempo
 
 Trovate la Casa, ma è troppo tardi per salvare Jorman. È contrassegnata da un grande mosaico dorato raffigurante un sole, così ampio che alcuni potrebbero non vederlo, come è successo a voi. Scalando le pareti, sbirciate attraverso un lucernario e trovate Jorman incatenato a una sedia. L\'urlo dell\'uomo è straziante. È circondato da molte guardie mascherate, troppe. Non avendo la possibilità di salvare l\'uomo, potete giungere a una sola conclusione. Avete già visto uomini nella sua situazione e sapete che sta per cedere. Capite che dovete sparare."</string>
@@ -5693,7 +5693,7 @@ Entrambi si voltano verso di voi in attesa.
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp15b_8_15__a">"\"Molto bene. Quindi hai gli occhi\", dice l\'Amiese. \"Un topo che si aggira per i nostri negozi.\" Con uno schiocco di dita, Polus viene afferrato e trascinato al centro della stanza. Gli occhi gialli del Lignja si fanno affamati, \"Prosciugherò il suo sangue e lo farò bere al resto della sua famiglia.\"
+	<string name="chp15b_8_15__a">"\"Molto bene. Quindi ci vedete bene\", dice l\'Amiese. \"Un topo che si aggira per i nostri negozi.\" Con uno schiocco di dita, Polus viene afferrato e trascinato al centro della stanza. Gli occhi gialli del Lignja si fanno affamati, \"Prosciugherò il suo sangue e lo farò bere al resto della sua famiglia.\"
 
 \"La vostra vigilanza è apprezzata,\" dice l\'Amiese."</string>
 	<string name="chp15b_8_16__a">\"Il sospetto è la nostra politica, Oathsworn. Solo le prede sembrano innocenti.\"</string>
@@ -5826,7 +5826,7 @@ Vi dirigete verso il Cancello, con l\'intenzione di scoprire ulteriori indizi su
 \"Un mostro immortale che si aggira per i boschi? Questa è solo una vecchia favola,\" dice il sergente in modo derisorio. \"Ho delle minacce reali di cui occuparmi,\" continua, facendovi cenno di andare via. \"I resti della carovana sono appena oltre il muro, lungo il terzo Filo, guardate voi stessi.\""</string>
 	<string name="chp16_14_1__a">"14 - Quartiere dei Servitori dei Pitone
 
-Le vostre richieste di informazioni sulla famiglia Cigno sono accolte da risate di scherno. Pochi sembrano aver sentito parlare della nobile casata, tranne un vecchio solitario. \"Cigno, hai detto?\" chiede. \"Sono tutti morti anni fa. Anche se ne fosse rimasto qualcuno oggi, non vivrebbe più così a fondo nella rete.\""</string>
+Le vostre richieste di informazioni sulla famiglia Cigno sono accolte da risate di scherno. Pochi sembrano aver sentito parlare della nobile casata, tranne un vecchio solitario. \"Cigno, avete detto?\" chiede. \"Sono tutti morti anni fa. Anche se ne fosse rimasto qualcuno oggi, non vivrebbe più così a fondo nella rete.\""</string>
 	<string name="chp16_17_10__a">"Colpo dopo colpo, vi impegnate in una danza guerriera. Anche con l\'improvvisazione, una coreografia perfetta si traduce in un combattimento spettacolare. Un vero spettacolo per le masse. L\'ultimo colpo si conficca in una fessura dell\'armatura del fianco di Molti Inverni, facendo uscire il sangue, ma non ferendo mortalmente l\'orso. L\'armatura nasconderà quella che è una ferita insignificante. Con un potente ruggito, l\'orso da guerra cade in ginocchio. Se non aveste saputo il contrario, l\'avreste creduto morto. La folla applaude e ulula in segno di approvazione. Per loro, questo è stato un buon intrattenimento.
 
 Dopo lo spettacolo, raccogliete il corpo di Molti Inverni. Trascinate la sua enorme struttura su una lettiga fuori dal Colosseo e in un vicolo laterale. Solo allora l\'Ursus si muove. In piedi, guarda verso il cielo e poi verso di voi. Il possente orso da guerra vi ringrazia e chiede di unirsi alla vostra Libera Compagnia per il prossimo capitolo della sua saga.
@@ -5988,7 +5988,7 @@ Scegliete un\'opzione:"</string>
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp16_24_6__a">"Perquisite la casa, ma non trovate nulla di utile. Rivolgendovi all\'uomo, chiedete della famiglia Scaravelho. Alla menzione del nome della famiglia, i suoi occhi si spalancano, anche se non si sa con certezza se per rabbia o per paura. \"È stata affidata ai miei antenati,\" risponde. \"Devo occuparmene io.\"
+	<string name="chp16_24_6__a">"Perquisite la casa, ma non trovate nulla di utile. Rivolgendovi all\'uomo, chiedete della famiglia Scaravelho. Alla menzione del nome della famiglia, i suoi occhi si spalancano, anche se non sapete con certezza se per rabbia o per paura. \"È stata affidata ai miei antenati,\" risponde. \"Devo occuparmene io.\"
 
 
 Scegliete un\'opzione:"</string>
@@ -6049,7 +6049,7 @@ Scegliete un\'opzione:
 Se volete seguire Samil, scegliete l\'opzione superiore. Altrimenti, scegliete una località in cui recarvi."</string>
 	<string name="chp16_29_9__c">Samil vi conduce per diverse stradine, spesso solo al limite della visuale. Cercate di tenere il passo e intravedete qua e là il suo sguardo che vi indica un altro vicolo. Nelle strette vie della città, perdete il senso dell\'orientamento.</string>
 	<string name="chp16_4_10__a">Un tale potere. Avete sentito parlare di streghe in grado di rompere il loro collare, ma non ne avete mai vista una. Il pensiero che una di esse possa vagare liberamente vi fa correre un brivido lungo la schiena. È vostro dovere assicurarvi che il mondo sia al sicuro da streghe come questa. Tuttavia, dato che una strega è già sotto la vostra tutela, dovreste avere l\'etere per controllarne un\'altra.</string>
-	<string name="chp16_4_12__c">"Prendete l\'estremità della pesante catena di ferro. Finalmente avete quello per cui siete venuti. La strega è necessaria per l\'Imprecazione, l\'atto di caduta che sta alla fine di tutto questo. Con la strega in mano, vi accingete ad andarvene, quando la voce stridula del Pitone si fa sentire di nuovo. \"Hai dimenticato qualcosa?\" dice, facendo tintinnare il sacchetto di fiale di etere. Quando vi allungate per prenderlo, il nobile piagnucoloso ve lo strappa rapidamente. \"Oh, mi dispiace, ma questo non faceva parte del nostro accordo. Tuttavia, se siete disposti a svolgere un altro compito per me, sono certo di potervi accontentare.\"
+	<string name="chp16_4_12__c">"Prendete l\'estremità della pesante catena di ferro. Finalmente avete quello per cui siete venuti. La strega è necessaria per l\'Imprecazione, l\'atto di caduta che sta alla fine di tutto questo. Con la strega in mano, vi accingete ad andarvene, quando la voce stridula del Pitone si fa sentire di nuovo. \"Avete dimenticato qualcosa?\" dice, facendo tintinnare il sacchetto di fiale di etere. Quando vi allungate per prenderlo, il nobile piagnucoloso ve lo strappa rapidamente. \"Oh, mi dispiace, ma questo non faceva parte del nostro accordo. Tuttavia, se siete disposti a svolgere un altro compito per me, sono certo di potervi accontentare.\"
 
 Ti ha intrappolato di nuovo, non riuscirai mai a sfuggire alle spire di questo serpente? Avendo appena assistito a ciò di cui è capace questa strega, avrete bisogno delle fiale di farmaci per riportarla a Verum. Dopo tutto quello che è successo, una parte di voi pensa di costringere l\'uomo a darvi le fiale, ma la vista della decina di guardie a breve distanza vi fa passare la voglia. I Cinque saranno anche soggetti alle leggi di Verum, ma voi siete molto lontani da casa. Solo uno sciocco potrebbe pensare che il Patto vi salverebbe da una famiglia come quella dei Pitoni. Sentendo i nodi stringersi tra le scapole, gli chiedete cosa vuole.
 
@@ -6175,19 +6175,19 @@ Si legge:
 
 Scegliete un\'opzione:"</string>
 	<string name="chp17_1_2__c">Aiutando delicatamente la donna a rimettersi in piedi, spiegate che state eseguendo gli ordini del re e che non avete scelta. Il giuramento comporta molti fardelli e questo è pesante. Sebbene non possiate liberarla, potete cercare di farla stare comoda. Inumidendo un panno con l\'acqua, lavate la sporcizia dal suo viso e offritele del cibo.</string>
-	<string name="chp17_1_3__c">Il lavoro è difficile, ma i fatti sono semplici. Senza questa donna la città di Verum cadrà e migliaia di civili moriranno. Sai che hai firmato per questo quando hai fatto il giuramento. Essere colui che prende le decisioni difficili. Facendo alzare la donna in piedi, la conduci all\'esterno.</string>
+	<string name="chp17_1_3__c">Il lavoro è difficile, ma i fatti sono semplici. Senza questa donna la città di Verum cadrà e migliaia di civili moriranno. Sapete che avete scelto questa strada quando avete fatto il giuramento. Essere colui che prende le decisioni difficili. Facendo alzare la donna in piedi, la conduci all\'esterno.</string>
 	<string name="chp17_1_4__c">"Avete un lavoro da fare e rimuginare sulla situazione non renderà le cose più facili. Non ci sono garanzie che sopravviverete abbastanza a lungo da raggiungere il Cuore di Tenebra per svolgere il vostro compito. Avete raggiunto il vostro scopo qui a Tracia e questo è tutto ciò che conta. Fare un passo alla volta vi mantiene concentrati e vivi. Aiutando la donna a rimettersi in piedi, la conducete fuori."</string>
 	<string name="chp17_1_5__a">"Finalmente è arrivato il momento di lasciare la Tracia. Avete sopportato abbastanza le politiche Traciane e avete indugiato all\'ombra di un sistema di schiavi oppressivo abbastanza a lungo per i vostri gusti. Con un lungo viaggio davanti a voi, vi dirigete verso il quartiere dei commercianti per fare scorta di provviste dell\'ultimo minuto."</string>
 	<string name="chp17_1_5__c">Con la Tracia alle spalle, vi immergete ancora una volta nel Bosco Profondo. Il sole cocente che sorge sulla città alle vostre spalle viene oscurato in pochi istanti dalle fitte chiome della foresta, avvolgendovi in un torbido crepuscolo. I suoni delle fruste che scricchiolano e dei mercanti che barattano svaniscono presto, per essere sostituiti dall\'inquietante silenzio del bosco. Con una mano sulla lama e l\'altra sulla Strada del Filo, marciate nell\'oscurità.</string>
 	<string name="chp17_1_6__a">I primi giorni passano con un solo caso degno di nota.</string>
-	<string name="chp17_1_6__c">"All\'alba del quinto giorno di viaggio, raggiungete la fine della Strada del Filo, non lontano da Rifugio, il famigerato villaggio in cui eravate stati tenuti prigionieri solo poche settimane prima. Il pensiero degli occhi della Regina Errante perseguita ancora i vostri incubi. Mentre camminate, raggiungete la fine del filo, ancora rotto dalla vostra precedente visita. Fortunatamente, sapete che il villaggio si trova a ovest, al di là di una catena montuosa e, con l\'uso della bussola della vostra Libera Compagnia, dovreste essere in grado di trovare il villaggio e poi di nuovo la Strada del Filo. Estraendo la bussola dallo zaino, controllate la direzione. Voltandovi verso ovest, lasciate cadere la mano dalla Strada del Filo e vi immergete nella linea degli alberi verso il Rifugio.
+	<string name="chp17_1_6__c">"All\'alba del quinto giorno di viaggio, raggiungete la fine della Strada del Filo, non lontano dal Rifugio, il famigerato villaggio in cui eravate stati tenuti prigionieri solo poche settimane prima. Il pensiero degli occhi della Regina Errante perseguita ancora i vostri incubi. Mentre camminate, raggiungete la fine del filo, ancora rotto dalla vostra precedente visita. Fortunatamente, sapete che il villaggio si trova a ovest, al di là di una catena montuosa e, con l\'uso della bussola della vostra Libera Compagnia, dovreste essere in grado di trovare il villaggio e poi di nuovo la Strada del Filo. Estraendo la bussola dallo zaino, controllate la direzione. Voltandovi verso ovest, lasciate cadere la mano dalla Strada del Filo e vi immergete nella linea degli alberi verso il Rifugio.
 
-Dopo poco tempo, si alza un vento forte che scatena il caos tra i rami. L\'aria è elettrizzata dall\'elettricità statica e le orecchie fischiano per lo spostamento della pressione atmosferica. Quel poco di cielo che riuscite a vedere attraverso la chioma si sta rapidamente oscurando. Si sta preparando una tempesta. Mentre i venti vorticosi sollevano terra e rami sciolti, controllate ancora una volta la direzione. Poi si fa una pausa. La bussola sta girando."</string>
+Dopo poco tempo, si alza un vento forte che scatena il caos tra i rami. L\'aria è elettrizzata dall\'elettricità statica e le orecchie fischiano per lo spostamento della pressione atmosferica. Quel poco di cielo che riuscite a vedere attraverso la chioma si sta rapidamente oscurando. Si sta preparando una tempesta. Mentre i venti vorticosi sollevano terra e rami sciolti, controllate ancora una volta la direzione. Poi fate una pausa. La bussola sta girando."</string>
 	<string name="chp17_1_7__a">"I segreti dei meccanismi di una bussola sono accuratamente custoditi dai Sorveglianti, ma sebbene non siate a conoscenza del suo funzionamento interno, ricordate di aver visto un Fabbro dimostrare l\'effetto che una strana roccia metallica può avere su di essa, portando l\'ago a puntare ovunque la roccia fosse posizionata. Un ago che gira senza controllo, tuttavia, non è mai stato visto prima. Quando le cose non hanno più senso, giungete sempre alla stessa conclusione: stregoneria. Per prima cosa controllate che non sia la vostra prigioniera a creare il fenomeno e la trovate ancora al sicuro sotto gli effetti dell\'etere. Deve esserci qualcos\'altro a causarlo. Quando l\'aria comincia a vibrare di energia, vi rendete conto che c\'è qualcosa di molto sbagliato."</string>
 	<string name="chp17_1_8__c">"I segreti dei meccanismi di una bussola sono accuratamente custoditi dai Sorveglianti e non ne siete a conoscenza, nonostante il marchio sul polso. La bussola non vi ha mai portato fuori strada prima d\'ora, tuttavia non c\'è modo di determinare la vostra direzione con l\'ago che gira fuori controllo. Quando l\'aria comincia a vibrare di energia, vi rendete conto che qualcosa non va."</string>
-	<string name="chp17_1_9__a">"Grasse gocce di pioggia iniziano a scrosciare dal cielo mentre l\'ago continua a girare, ora in modo più irregolare. La tempesta infuria intorno a voi in tutta la sua forza, mentre i venti ululanti sferzano i mantelli. Riuscite a malapena a vedere un centimetro davanti al vostro viso, mentre i rami degli alberi sferzano selvaggiamente l\'aria. In tutto il tempo trascorso in questa Libera Compagnia, non avete mai sperimentato una tempesta così potente. Sembra che ci sia una forza rabbiosa e opprimente dietro il tempo, che gli dà una vita propria
+	<string name="chp17_1_9__a">"Grosse gocce di pioggia iniziano a scrosciare dal cielo mentre l\'ago continua a girare, ora in modo più irregolare. La tempesta infuria intorno a voi in tutta la sua forza, mentre i venti ululanti sferzano i mantelli. Riuscite a malapena a vedere un centimetro davanti al vostro viso, mentre i rami degli alberi sferzano selvaggiamente l\'aria. In tutto il tempo trascorso in questa Libera Compagnia, non avete mai sperimentato una tempesta così potente. Sembra che ci sia una forza rabbiosa e opprimente dietro il tempo, che gli dà una vita propria
 
-In circostanze come questa, siete addestrati a trovare un riparo e ad aspettare, ma con la strega prigioniera in vostra compagnia c\'è molto in gioco in un ritardo. Inoltre, non si sa se la bussola tornerà normale. Sapete che la catena montuosa adiacente al Rifugio si trova a ovest. Se riuscite a raggiungerla, potete tagliarla o girarci intorno per raggiungere il villaggio e ritrovare la Strada del Filo. Tuttavia, se proseguite senza sapere come orientarvi e andate nella direzione sbagliata, potreste facilmente ritrovarvi persi per sempre in questi boschi. Sia nel restare che nell\'andare, prendete in mano la vostra vita. Così, come avete fatto molte altre volte, decidete di agire."</string>
+In circostanze come questa, siete addestrati a trovare un riparo e ad aspettare, ma con la strega prigioniera in vostra compagnia c\'è molto in gioco in un ritardo. Inoltre, non sapete se la bussola tornerà normale. Sapete che la catena montuosa adiacente al Rifugio si trova a ovest. Se riuscite a raggiungerla, potete tagliarla o girarci intorno per raggiungere il villaggio e ritrovare la Strada del Filo. Tuttavia, se proseguite senza sapere come orientarvi e andate nella direzione sbagliata, potreste facilmente ritrovarvi persi per sempre in questi boschi. Sia nel restare che nell\'andare, prendete in mano la vostra vita. Così, come avete fatto molte altre volte, decidete di agire."</string>
 	<string name="chp17_22_10a__a">Riposando le vostre ossa stanche accanto al fuoco, strappate una pozza d\'acqua piovana dai vostri vestiti. Il calore del fuoco vi rilassa e per un attimo dimenticate il vento ululante che vi aspetta fuori.</string>
 	<string name="chp17_22_10a__c">"Dopo un po\' ti alzi. Non potete restare qui, sentite il demone del sangue nell\'"altro luogo". Tornerà presto. Ringraziando i padroni di casa, raccogliete la vostra attrezzatura e dite loro che la strada per il Rifugio dovrebbe essere libera una volta che avrete portato a termine la vostra missione. Con un ultimo sguardo al fuoco, tornate sotto la pioggia."</string>
 	<string name="chp17_22_11__a">"Non potete rimanere qui a lungo. Potete percepire il Demone del Sangue nell\'"altro luogo", e la pioggia rossa tornerà presto. Preparandovi ad andarvene, raccogliete la vostra attrezzatura e dite ai sopravvissuti che la strada per il Rifugio dovrebbe essere libera una volta che avrete portato a termine la vostra missione. Con un ultimo sguardo al fuoco, tornate sotto la pioggia."</string>
@@ -6232,7 +6232,7 @@ Dall\'altra parte della stanza, vedete una pila di provviste. Sembra che abbiano
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp17_22_4__a">La vostra giustizia è dura e rapida. Hai già decretato che il villaggio sarebbe stato epurato insieme a tutti coloro che erano complici dei suoi crimini. Non avevi altra scelta che completare il giudizio. Lasciando i corpi a marcire dove sono caduti, scoprite alcuni manufatti che gli uomini avevano recuperato dalle antiche rovine.</string>
+	<string name="chp17_22_4__a">La vostra giustizia è dura e rapida. Avete già decretato che il villaggio sarebbe stato epurato insieme a tutti coloro che erano complici dei suoi crimini. Non avevate altra scelta che completare il giudizio. Lasciando i corpi a marcire dove sono caduti, scoprite alcuni manufatti che gli uomini avevano recuperato dalle antiche rovine.</string>
 	<string name="chp17_22_4__c">Sentendo il Demone del Sangue lontano, non volete passare un altro momento nell\'ombra di questo posto. Per orientarvi ancora una volta, vi accingete a lasciare la città morta.</string>
 	<string name="chp17_22_5__a">Dite agli abitanti spaventati che il giudizio contro il loro villaggio è terminato e che sono liberi di andare. I sopravvissuti accalcati si sentono sollevati. Forse sono sfuggiti alla vostra epurazione per un motivo. O forse vi state solo rammollendo. In ogni caso, non avete alcun desiderio di trascorrere altro tempo in questa città morta. Mentre vi voltate per andarvene, notate una pila di provviste accatastate contro una parete interna. Tra queste c\'è un sacchetto di Maiden Blossom, un potente antidolorifico. Lasciando il resto ai sopravvissuti, requisite le erbe. Se volete sopravvivere a qualsiasi cosa vi aspetti nel Rifugio, avrete bisogno di tutta la forza che avete a disposizione.</string>
 	<string name="chp17_22_6__a">"Con loro sollievo, assicurate che non avete intenzione di prendere le loro provviste. Il gruppo si rilassa e vi propone di rimanere ad asciugarvi accanto al fuoco.
@@ -6248,11 +6248,11 @@ Uno degli abitanti del villaggio si scaglia con rabbia, brandendo un pugnale che
 
 Trascinandovi di nuovo in piano, vi preparate a partire."</string>
 	<string name="chp17_38_1__a">Davanti a noi si sente il rumore dell\'acqua che scorre. Quando gli alberi si aprono, si può vedere un antico letto di fiume che scende dalle montagne a ovest. Quello che un tempo era stato prosciugato per mille anni è ora una massa impetuosa di acqua e detriti larga una ventina di passi. Mentre la pioggia vi batte sul viso, valutate le vostre opzioni.</string>
-	<string name="chp17_38_2__a">"Guardando l\'acqua che scorre, vi rendete conto che le scelte sono limitate. Si può passare sopra o attraverso. Il legno galleggia e, con qualche ramo e le braccia legate, potreste riuscire a rimanere insieme abbastanza a lungo da nuotare fino all\'altra sponda. D\'altra parte, gli alberi che ondeggiano nel vento sopra il fiume passano abbastanza vicini l\'uno all\'altro da poter tentare di saltare tra i rami della chioma. La pioggia ricopre tutto e non si sa se i rami reggeranno, ma offre un percorso potenzialmente più asciutto. Nessuna delle due opzioni vi sembra buona, ma la peggiore sarebbe quella di provare a tornare indietro verso il Nemico del Sangue.
+	<string name="chp17_38_2__a">"Guardando l\'acqua che scorre, vi rendete conto che le scelte sono limitate. Si può passare sopra o attraverso. Il legno galleggia e, con qualche ramo e le braccia legate, potreste riuscire a rimanere insieme abbastanza a lungo da nuotare fino all\'altra sponda. D\'altra parte, gli alberi che ondeggiano nel vento sopra il fiume passano abbastanza vicini l\'uno all\'altro da poter tentare di saltare tra i rami della chioma. La pioggia ricopre tutto e non sapete se i rami reggeranno, ma offre un percorso potenzialmente più asciutto. Nessuna delle due opzioni vi sembra buona, ma la peggiore sarebbe quella di provare a tornare indietro verso il Nemico del Sangue.
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp17_38_3__a">"Guardando l\'acqua che scorre, vi rendete conto che le scelte sono limitate. Potete passare sopra o attraverso. Unendo le braccia potreste riuscire a rimanere insieme abbastanza a lungo da nuotare fino all\'altra sponda. D\'altra parte, gli alberi sopra il fiume passano abbastanza vicini l\'uno all\'altro da permettervi di saltare tra i rami della chioma. La pioggia ricopre tutto e non si sa se i rami reggeranno, ma offre un percorso potenzialmente più asciutto. Nessuna delle due opzioni vi sembra buona, ma la peggiore sarebbe quella di provare a tornare indietro verso il Folletto del Sangue.
+	<string name="chp17_38_3__a">"Guardando l\'acqua che scorre, vi rendete conto che le scelte sono limitate. Potete passare sopra o attraverso. Unendo le braccia potreste riuscire a rimanere insieme abbastanza a lungo da nuotare fino all\'altra sponda. D\'altra parte, gli alberi sopra il fiume passano abbastanza vicini l\'uno all\'altro da permettervi di saltare tra i rami della chioma. La pioggia ricopre tutto e non sapete se i rami reggeranno, ma offre un percorso potenzialmente più asciutto. Nessuna delle due opzioni vi sembra buona, ma la peggiore sarebbe quella di provare a tornare indietro verso il Folletto del Sangue.
 
 
 Scegliete un\'opzione:"</string>
@@ -6338,7 +6338,7 @@ Il fango umido e la pioggia vi bagnano mentre vi sforzate contro il peso dell\'a
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp17_epi_1__a">"La forma brutale del Capo Tribù giace in rovina, con lo Sciamano poco distante. I due sono quasi riusciti nel loro intento di eliminarvi. Quando finalmente avete abbattuto lo Sciamano, la tempesta si è dissolta, i tuoni lontani si sono placati e la grigia cortina di pioggia si è fermata. Le ombre tornarono al loro stato naturale ed il sole fece finalmente capolino da dietro le nuvole
+	<string name="chp17_epi_1__a">"La forma brutale del Capo Tribù giace in rovina, con lo Sciamano poco distante. I due sono quasi riusciti nel loro intento di eliminarvi. Quando finalmente avete abbattuto lo Sciamano, la tempesta si è dissolta, i tuoni lontani si sono placati e la grigia cortina di pioggia si è fermata. Le ombre tornarono al loro stato naturale ed il sole fa finalmente capolino da dietro le nuvole
 
 Per assicurarvi che non possano mai più risorgere, bruciate tutti i corpi insieme ai resti del Rifugio, asciugandovi accanto alle fiamme purificatrici. Il villaggio viene finalmente messo a riposo. L\'unica cosa positiva di tutto questo è che la vostra strega Traciana, Aurelia, è rimasta illesa. Ancora sotto gli effetti dell\'etere, la rimettete in piedi e la conducete alla Strada del Filo per Verum. Ora inizia la parte difficile."</string>
 	<string name="chp17m_1_1__a">"Storia a Tempo
@@ -6347,12 +6347,12 @@ La natura della tempesta cambia. Il vento si placa e per un attimo la pioggia ra
 	<string name="chp17m_1_1__c">Pensavate di essere pronti a tutto, fino a quando non vedete emergere dalla nebbia un bipede trasparente alto quindici metri e fatto di sangue che piove. Si muove con passi selvaggi e si fa strada fino a voi. Alzate le armi per difendervi, ma non hanno effetto: le grandi braccia della cosa le attraversano come se non ci fossero. Quando il Demone del Sangue entra in contatto con la vostra carne, il dolore lacera le vostre terminazioni nervose e voi gridate. Nello stesso momento una visione vi colpisce, penetrando nella vostra mente mentre la mano insanguinata attraversa il vostro corpo. Cercate di dargli un senso.</string>
 	<string name="chp17m_1_2__a">Storia a Tempo</string>
 	<string name="chp17m_1_3__a">Storia a Tempo</string>
-	<string name="chp17m_1_3__c">"Cercate di aguzzare la mente, sapendo che c\'è qualcosa nella visione. Con la forza della volontà si cristallizza un senso di chiarezza. Ondate di emozioni vi investono, emanate dal demone del sangue. La cosa vi disprezza. Una parola riverbera in continuazione: REVENGE... REVENGE... REVENGE!
+	<string name="chp17m_1_3__c">"Cercate di aguzzare la mente, sapendo che c\'è qualcosa nella visione. Con la forza della volontà si cristallizza un senso di chiarezza. Ondate di emozioni vi investono, emanate dal demone del sangue. La cosa vi disprezza. Una parola riverbera in continuazione: VENDETTA... VENDETTA... VENDETTA!
 
 Uscite dalla visione e vi ritrovate di nuovo nel mondo reale. In qualche modo il successo nel controllare la visione vi ha liberato. Ne siete felici, sapendo che non sareste sopravvissuti a lungo lì dentro con quella cosa. Mentre il terrore della visione svanisce, vi rendete conto di aver capito un\'altra cosa. La creatura non è scomparsa, è ancora lì, appena oltre il velo. Potete sentirla. Dovete mettere una certa distanza tra voi e qualsiasi cosa sia. Se l\'allucinazione dovesse ripresentarsi, lo farà anche lei."</string>
 	<string name="chp17m_1_4__a">"Storia a Tempo
 
-Cercate di aguzzare la mente, sapendo che c\'è qualcosa nella visione. Il dolore è immenso e la vostra mente si sente come se si stesse disfacendo. Sensazioni ed emozioni si agitano intorno a voi in un uragano di potenza. Mentre vi concentrate, qualcosa emana dal demone del sangue. Quella cosa vi disprezza. Una parola riverbera più e più volte: REVENGE... REVENGE... REVENGE!
+Cercate di aguzzare la mente, sapendo che c\'è qualcosa nella visione. Il dolore è immenso e la vostra mente si sente come se si stesse disfacendo. Sensazioni ed emozioni si agitano intorno a voi in un uragano di potenza. Mentre vi concentrate, qualcosa emana dal demone del sangue. Quella cosa vi disprezza. Una parola riverbera più e più volte: VENDETTA... VENDETTA... VENDETTA!
 
 Uscite dalla visione e vi ritrovate di nuovo nel mondo reale. In qualche modo il successo nel controllare la visione vi ha liberato. Ne siete felici, sapendo che non sareste sopravvissuti a lungo lì dentro con quella cosa. Mentre il terrore della visione svanisce, vi rendete conto di aver capito un\'altra cosa. La creatura non è scomparsa, è ancora lì, appena oltre il velo. Potete sentirla. Dovete mettere una certa distanza tra voi e qualsiasi cosa sia. Se l\'allucinazione dovesse ripresentarsi, lo farà anche lei."</string>
 	<string name="chp17m_2_1__a">"Storia a Tempo
@@ -6417,7 +6417,7 @@ Nell\'oscurità della vostra mente, qualcosa lampeggia dentro e fuori dall\'esis
 C\'era una donna al Rifugio, con le mani alzate e un pugnale. Sebbene non riusciste a identificarla, riusciste a vedere cosa stava facendo. Stava compiendo una sorta di rito di sangue tra i cadaveri. Ammucchiando i corpi al centro del villaggio, ne estraeva il sangue, il cui fluido cremisi vorticava intorno a lei in linee mutevoli. Poi arrivò la tempesta. In qualche modo l\'aveva creata lei. Non era il suo scopo, ma un sottoprodotto di qualcos\'altro. Un sottoprodotto del suo vero compito. Fate una pausa nella vostra spiegazione e guardate verso la linea degli alberi, sentite che il demone è quasi su di voi."</string>
 	<string name="chp17m_4_6__a">"Storia a Tempo
 
-Il tempo e lo spazio scorrono insieme, attorcigliandosi come un serpente che si mangia la coda. Si cade nel pantano delle visioni, il mare ribollente ci consuma. Cercate di nuotare, ma le visioni vi si schiantano contro. Aggrappati a un filo di sanità mentale, gridate alla luce morente dentro di voi
+Il tempo e lo spazio scorrono insieme, attorcigliandosi come un serpente che si mangia la coda. Cadete nel pantano delle visioni, il mare ribollente vi consuma. Cercate di nuotare, ma le visioni vi si schiantano contro. Aggrappati a un filo di sanità mentale, gridate alla luce morente dentro di voi
 
 Gli occhi si aprono e la bocca torna a essere la vostra. Questa situazione ha colpito solo te e ti affretti a spiegare le visioni che hai visto
 
@@ -6434,12 +6434,12 @@ Sta arrivando. Sta prendendo velocità, sta acquisendo forza. Il panico minaccia
 Mentre vi avvicinate alla vostra destinazione, sapete che la pioggia di sangue sta arrivando ancora una volta. La pioggia di sangue pulsa dalla tempesta e, mentre vi avvicinate al suo epicentro, gli effetti sono più forti. Stringendo le mani a pugno, vi inginocchiate e vi tenete pronti. Tuttavia, con l\'arrivo della pioggia di sangue, non riuscite a resistere. Sentite la sensazione di essere scaraventati nell\'"altro luogo" e vi accasciate nella nebbia cremisi, con tutta l\'aria ed il contenuto dello stomaco costretti a uscire da voi. Non sapete quanto potete sopportare ancora. Un ululato in lontananza attraversa il sangue, mentre il demone vi segue nell\'oscurità
 
 Alzandovi in piedi, cercate di concentrare la vostra volontà sulla fuga da questo luogo. Poi la nebbia cremisi vi sfiora e le visioni vi riempiono la mente, bloccando ogni speranza di fuga."</string>
-	<string name="chp17m_5_1__c">"Nella vostra mente si svolge una scena, ancora una volta di Rifugio. La tempesta si abbatte sulle nostre teste, ma nel villaggio non cade alcuna pioggia. È l\'occhio del ciclone, libero dalle forze elementari dell\'aldilà. Molti corpi sono ammassati in un anello minaccioso intorno alla struttura centrale del villaggio. Per la prima volta, la struttura ha un\'apertura. Guardando all\'interno, si può vedere un corpo spezzato, adagiato tra le ossa, ossa antiche e numerose. Inginocchiata all\'apertura della struttura, vedete una donna dai lunghi capelli neri intonare un\'invocazione. Il sangue sale dai cadaveri e confluisce nella figura che si trova all\'interno."</string>
+	<string name="chp17m_5_1__c">"Nella vostra mente si svolge una scena, ancora una volta di Rifugio. La tempesta vortica sopra di voi, ma nel villaggio non cade alcuna pioggia. È l\'occhio del ciclone, libero dalle forze elementari dell\'aldilà. Molti corpi sono ammassati in un anello minaccioso intorno alla struttura centrale del villaggio. Per la prima volta, la struttura ha un\'apertura. Guardando all\'interno, si può vedere un corpo martoriato, adagiato tra le ossa, ossa antiche e numerose. Inginocchiata all\'apertura della struttura, vedete una donna dai lunghi capelli neri intonare un\'invocazione. Il sangue sale dai cadaveri e confluisce nella figura che si trova all\'interno."</string>
 	<string name="chp17m_5_2__a">"Storia a Tempo
 
 La visione si ripete di nuovo.
 
-Nella vostra mente si svolge una scena, ancora una volta del Rifugio. La tempesta infuria sopra di noi, ma nel villaggio non cade la pioggia. È l\'occhio del ciclone, libero dalle forze elementari dell\'aldilà. Le ombre si allungano dai corpi ammassati in un anello minaccioso intorno alla struttura centrale del villaggio. Per la prima volta, la struttura ha un\'apertura. Guardando all\'interno, si può vedere un corpo deposto tra le ossa, ossa antiche e numerose. Inginocchiata all\'apertura della struttura, vedete una donna che intona un\'invocazione. Il sangue sale dai cadaveri e fluisce nella figura che vi si trova. La figura inizia a muoversi."</string>
+Nella vostra mente si svolge una scena, ancora una volta del Rifugio. La tempesta infuria sopra di voi, ma nel villaggio non cade la pioggia. È l\'occhio del ciclone, libero dalle forze elementari dell\'aldilà. Le ombre si allungano dai corpi ammassati in un anello minaccioso intorno alla struttura centrale del villaggio. Per la prima volta, la struttura ha un\'apertura. Guardando all\'interno, si può vedere un corpo deposto tra le ossa, ossa antiche e numerose. Inginocchiata all\'apertura della struttura, vedete una donna che intona un\'invocazione. Il sangue sale dai cadaveri e fluisce nella figura che vi si trova. La figura inizia a muoversi."</string>
 	<string name="chp17m_5_3__a">"Storia a Tempo
 
 Le visioni sono le stesse, ma in qualche modo diverse. Se solo riusciste a ricordare in che modo sono diverse."</string>
@@ -6553,7 +6553,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp18_1_24__a">"Basta una parola e l\'uomo viene arrestato. Sa di cosa si tratta e lo vedete implorare per le sue figlie. Sapete cosa accadrà loro e potete solo immaginare cosa accadrà a lui. Sapete anche che vedere un capitano trascinato via così poco prima della partenza non rafforza la fiducia delle truppe."</string>
 	<string name="chp18_1_24__c">Sapete di aver fatto la scelta giusta, anche se altri non lo sanno. Una volta partiti, se la peste si diffonde troppo rapidamente a Verum, nulla di ciò che fate avrà importanza e la città cadrà. Non si può rischiare.</string>
 	<string name="chp18_1_25__a">Decidete di non consegnare l\'uomo. Sapete che moriranno comunque presto e arrestare un capitano prima della partenza è una cattiva idea.</string>
-	<string name="chp18_1_26__a">"Ora tutto ha senso. La ricompensa che hai ricevuto dalla gilda a Tracia. Hai aiutato Elanna ad avvicinarsi al Re, a spiare le sue difese, a elaborare il suo piano. Hai accettato il denaro offerto dalla Gilda e ora il Re è morto
+	<string name="chp18_1_26__a">"Ora tutto ha senso. La ricompensa che avete ricevuto dalla gilda a Tracia. Avete aiutato Elanna ad avvicinarsi al Re, a spiare le sue difese, a elaborare il suo piano. Avete accettato il denaro offerto dalla Gilda e ora il Re è morto
 
 Non potete fare nulla per cambiare quello che è successo, ma avete ancora la ricompensa. Guardando il vostro zaino e la sacca di Iron valutate cosa fare con il denaro insanguinato. Potete tenerlo, sapendo quanto è costato?
 
@@ -6993,7 +6993,7 @@ La metà delle razioni, a questo punto del viaggio, ha senso: si preferisce aver
 Le truppe non capiscono perché non ricevono cibo. Ma voi lo sapete. Hanno ancora le forze e saranno felici di avere la pancia piena più avanti nel viaggio."</string>
 	<string name="chp18m_4_9__a">"Storia a Tempo
 
-Mentre vi preparate a marciare il giorno dopo, il conteggio mattutino risulta essere inferiore di qualche soldato. Non si sa se siano stati presi da qualcosa o se abbiano disertato durante la notte."</string>
+Mentre vi preparate a marciare il giorno dopo, il conteggio mattutino risulta essere inferiore di qualche soldato. Non sapete se siano stati presi da qualcosa o se abbiano disertato durante la notte."</string>
 	<string name="chp18m_5_0__a">"Storia a Tempo
 
 Le ultime serate sono state le più difficili. Il tempo stesso sembra essersi rivoltato contro di voi, alternando un\'afa soffocante a un freddo pungente in cui il respiro si appanna e bisogna continuare a muoversi per evitare che il freddo penetri nelle ossa. Durante la notte, gli alberi scricchiolano e si spezzano anche in assenza di vento, mettendo tutti in agitazione.
@@ -7087,7 +7087,7 @@ Non sarà possibile attraversare il cancello, ma si potrebbe riuscire a scalare 
 Scegliete un\'opzione:"</string>
 	<string name="chp19_12_2__a">"Portare tutti i soldati oltre il muro potrebbe essere un compito difficile, ma voi siete determinati a portarlo a termine. Radunate le truppe ed esaminate la rigida struttura in pietra del muro, cercando il punto migliore per arrampicarsi."</string>
 	<string name="chp19_12_3__a">Sfruttando le pietre rotte e le fessure del muro, riuscite agilmente a raggiungere la cima e ad assicurare una corda alle merlature, in modo che le altre squadre possano seguirvi più facilmente.</string>
-	<string name="chp19_12_4__a">La parete è bagnata e scivolosa per il muschio viscido che rende difficile la salita. Si scivola più volte, ma non si cade mai. La scalata richiede più tempo del previsto, ma alla fine raggiungete la cima e fissate una corda alle merlature in modo che le altre squadre possano seguirvi più facilmente.</string>
+	<string name="chp19_12_4__a">La parete è bagnata e scivolosa per il muschio viscido che rende difficile la salita. Scivolate più volte, ma non cadete mai. La scalata richiede più tempo del previsto, ma alla fine raggiungete la cima e fissate una corda alle merlature in modo che le altre squadre possano seguirvi più facilmente.</string>
 	<string name="chp19_12_5__a">"Le squadre iniziano a scalare la parete, che diventa un processo arduo perché non sono scalatori esperti. Proprio quando l\'ultima squadra è a metà della scalata, si sente un grido dal basso. Un soldato perde la presa e scivola lungo la corda atterrando su un altro soldato in basso. Riuscite a sentire lo schiocco delle ossa. Entrambi gli uomini hanno le gambe rotte e questa città non è il posto giusto per farsi male. Pensate al vostro prossimo ordine. Potete lasciare gli uomini o cercare di portarli con voi.
 
 
@@ -7312,7 +7312,7 @@ Come se percepisse la vostra distrazione, il Bosco Profondo sfrutta questo momen
 
 Scegliete un\'opzione:"</string>
 	<string name="chp19_1_7__a">Lancia l\'ordine di ritirata. I comandi scendono lungo la linea di difesa e i soldati iniziano ad arretrare in squadre organizzate, formando un semicerchio davanti alle porte della città. Liberandovi dal combattimento, cercate un modo per aprire gli alti cancelli di ferro, ma non lo trovate. Nessuna maniglia, nessuna leva, nessuna porta più piccola.</string>
-	<string name="chp19_1_8__a">"Nel frastuono della battaglia, emmettete un grido di battaglia, ordinando ai vostri soldati di non mollare la presa. Fedeli al vostro codice di guerrieri, vi opporrete qui. Non si sa quali orrori si nascondano dall\'altra parte del cancello di ferro della città. È molto meglio correre il rischio contro un nemico che si conosce bene."</string>
+	<string name="chp19_1_8__a">"Nel frastuono della battaglia, emmettete un grido di battaglia, ordinando ai vostri soldati di non mollare la presa. Fedeli al vostro codice di guerrieri, vi opporrete qui. Non sapete quali orrori si nascondano dall\'altra parte del cancello di ferro della città. È molto meglio correre il rischio contro un nemico che si conosce bene."</string>
 	<string name="chp19_1_8__c">Avevate sperato di piegare il nemico permettendogli di infrangersi contro di voi come l\'acqua sulla roccia. Ma non si tratta di un\'alluvione improvvisa. È qualcosa di mai visto prima. I combattimenti si intensificano rapidamente, mentre ondate di bestie si abbattono sulla linea difensiva in una valanga implacabile. I vostri uomini combattono con coraggio, ma non è sufficiente e presto vi rendete conto della disperazione di una lotta in piedi contro l\'orda infinita. Si possono perdere vite all\'interno della città abbandonata, ma rimanere qui è morte certa. Non avete altra scelta che trovare un modo per attraversare le porte della città.</string>
 	<string name="chp19_1_9__a">"Le urla dei vostri uomini morenti spingono la vostra frenetica ricerca. Le dita artigliano e fanno leva su ogni fessura e crepa della porta. Picchiate e spaccate le armi contro il cancello con disperazione, ma il freddo ferro si rifiuta di cedere. Altri uomini cadono sotto le onde mortali e le bestie riempiono rapidamente i vuoti lasciati. Con una determinazione cupa, tornate a combattere, colpendo e affettando con rabbia infuocata. Se dovete morire qui, così sia.
 
@@ -7484,7 +7484,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_9_7__c">"Con il corpo di Willem morto a terra, le ombre si ritirano ancora una volta. Eravate responsabili del giovane scudiero coraggioso e ora ha pagato il prezzo più alto per essersi fidato di voi. Non c\'è altro da dire mentre proseguite verso la Guglia, lasciandovi alle spalle il suo cadavere."</string>
 	<string name="chp19_9_8__c">"Ricordando ciò che Samil vi aveva mostrato, chiudete gli occhi e schiacciate una sfera di luce a terra, proprio di fronte a Willem. Il lampo luminoso che segue vi stordisce per qualche secondo, ma vi riprendete subito e trovate Willem in ginocchio, ansimante. Per fortuna, ora è anche libero dall\'influenza dell\'ombra
 
-\"L\'ho vista,\" dice, alzando gli occhi terrorizzati. \"Ho visto la Guida. Era... cambiata.\" Mentre aiutate il giovane a rimettersi in piedi, egli inizia a singhiozzare sommessamente. Non si sa con quali orrori le ombre gli abbiano stravolto la mente, reali o immaginari.
+\"L\'ho vista,\" dice, alzando gli occhi terrorizzati. \"Ho visto la Guida. Era... cambiata.\" Mentre aiutate il giovane a rimettersi in piedi, egli inizia a singhiozzare sommessamente. Non sapete con quali orrori le ombre gli abbiano stravolto la mente, reali o immaginari.
 
 Mentre la colonna avanza verso la Guglia, chiedete a uno dei soldati di sorvegliare il ragazzo."</string>
 	<string name="chp19_9_9__a">"Alleati o meno, sono sotto l\'incantesimo di un\'entità terribile e devono essere fermati prima che ci siano altre perdite di vite umane. Gridate alle truppe di ingaggiare. La forza innaturale che scorre nel corpo del vostro alleato gli conferisce una forza incredibile e riescono ad abbattere diversi dei vostri uomini prima che possiate abbatterli."</string>
@@ -7712,7 +7712,7 @@ Scendendo la corda, andate a ispezionare le carcasse. Una mezza dozzina sono spa
 Notate la lunghezza della coda, il colore dei denti e le zampe artigliate. Si trattava di un cucciolo, non di un esemplare adulto. Sapete che i ratti hanno decine di cuccioli... decine. Ma dov\'è la madre? Un urlo di donna trafigge il Bosco Profondo alle vostre spalle. Stai per scoprirlo."</string>
 	<string name="chp1_17_12__a">"L\'uomo si appoggia alla spada tremando visibilmente, poi si rialza e si riscuote.
 
-\"Mi hai salvato la vita. Grazie.\" L\'uomo si rivolge a voi mentre si ripulisce. \"Io sono Dane. Dovevo cercare di salvarla. Stupido pensare di poterlo fare. Erano così tanti. Da settimane lanciavano corpi dal muro e io ero troppo vigliacco per cercare di fermarli. Poi l\'hanno buttata giù. Era ancora viva. L\'ho vista strisciare. Poi sono arrivati i topi e l\'hanno trascinata tra gli alberi. Forse è ancora viva. Aiutatemi. Aiutatela.\"
+\"Mi avete salvato la vita. Grazie.\" L\'uomo si rivolge a voi mentre si ripulisce. \"Io sono Dane. Dovevo cercare di salvarla. Stupido pensare di poterlo fare. Erano così tanti. Da settimane lanciavano corpi dal muro e io ero troppo vigliacco per cercare di fermarli. Poi l\'hanno buttata giù. Era ancora viva. L\'ho vista strisciare. Poi sono arrivati i topi e l\'hanno trascinata tra gli alberi. Forse è ancora viva. Aiutatemi. Aiutatela.\"
 
 Ispezioni uno dei cadaveri dei ratti mentre lui ti spiega. Notate la lunghezza della coda, il colore dei denti e le zampe artigliate. Era un cucciolo, non adulto. Sapete che i ratti hanno decine di cuccioli... decine. Ma dov\'è la madre? Un urlo di donna trafigge il Bosco Profondo alle vostre spalle. State per scoprirlo."</string>
 	<string name="chp1_17_13__a">"Notate la lunghezza della coda, il colore dei denti e le zampe artigliate. Si trattava di un cucciolo, non di un animale adulto. Sapete che i ratti hanno decine di cuccioli... decine. Ma dov\'è la madre? Un urlo di donna trafigge il Bosco Profondo alle vostre spalle. State per scoprirlo."</string>
@@ -7776,7 +7776,7 @@ Avete il potere di requisire quest\'uomo se ha quello che ti serve.
 
 Scegliete un\'opzione:"</string>
 	<string name="chp1_20_2a__a">"Estraete facilmente il perno del chiavistello di ferro dalla palizzata. Randle si massaggia i polsi. \"Pace a Voi, amici miei. Sono in debito con voi.\" Gli dite quello che vi serve e lui accetta prontamente di dirvi quello che sa. \"C\'è un vecchio raccoglitore di cadaveri nei Burrows. Mi ha fatto cercare un compratore per una storia che sta vendendo. Dice di sapere chi è il responsabile delle morti. Vorrà un compenso adeguato, però.\""</string>
-	<string name="chp1_20_3__a">"\"Lasciarmi qui a marcire e a sguazzare? Hai fatto un giuramento! Dovresti proteggere il popolo! Io sono il popolo! Proteggetemi!\"
+	<string name="chp1_20_3__a">"\"Lasciarmi qui a marcire e a sguazzare? Avete fatto un giuramento! Dovreste proteggere il popolo! Io sono il popolo! Proteggetemi!\"
 
 Lo lasciate a farneticare nella gabbia.
 
@@ -7857,11 +7857,11 @@ Non è un granché a vedersi. Solo un\'altra faccia sudicia. Si muove nervosamen
 
 Scegliete un\'opzione:"</string>
 	<string name="chp1_24_2__a">"\"Suppongo di non avere scelta. Prenderò 2 Iron. Ora mangeranno per un po\'. Grazie.\""</string>
-	<string name="chp1_24_2__c">"\"Sono i morti che devi trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, il raccoglitore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
+	<string name="chp1_24_2__c">"\"Sono i morti che dovete trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, il raccoglitore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
 
 \"Bruciare è costoso, però. È difficile trovare persone che vadano nel Bosco Profondo a tagliare la legna. Soprattutto dopo che quel gruppo non è tornato. L\'esattore riceve Iron per ogni corpo che pulisce dalle strade. Non costa nulla gettare un corpo oltre il muro. Non è giusto, però. Non è questo il lavoro. Quel bastardo, Jeffit, mi ha fregato il lavoro. Ma l\'ho visto andare al muro e pagare quelle guardie alla torre più a est. Loro guardano dall\'altra parte e vanno oltre. Se trovi i corpi, trovi le risposte. E se vi capita di uccidere quel puttaniere che mi ha rubato il sostentamento, allora ben venga.\""</string>
 	<string name="chp1_24_3__a">"\"Ho perso un giovane una settimana fa e voi venite qui con tutti i vostri fronzoli a cercare di contrattare,\" dice l\'uomo indicando le vostre armi di ferro. Raddoppia il prezzo e non si muove."</string>
-	<string name="chp1_24_3__c">"\"Sono i morti che devi trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, il raccoglitore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
+	<string name="chp1_24_3__c">"\"Sono i morti che dovete trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, il raccoglitore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
 
 \"Bruciare è costoso, però. È difficile trovare persone che vadano nel Bosco Profondo a tagliare la legna. Soprattutto dopo che quel gruppo non è tornato. L\'esattore riceve Iron per ogni corpo che pulisce dalle strade. Non costa nulla gettare un corpo oltre il muro. Non è giusto, però. Non è questo il lavoro. Quel bastardo, Jeffit, mi ha fregato il lavoro. Ma l\'ho visto andare al muro e pagare quelle guardie alla torre più a est. Loro guardano dall\'altra parte e vanno oltre. Se trovi i corpi, trovi le risposte. E se vi capita di uccidere quel puttaniere che mi ha rubato il sostentamento, allora ben venga.\""</string>
 	<string name="chp1_24_4__c">"\"Io... non so cosa dire. Grazie a voi e a coloro che vegliano su di voi. Ho perso la mia bambina, Espa, una settimana fa,\" l\'uomo pronuncia, con una lacrima negli occhi. \"Questo potrebbe salvare gli altri.\"
@@ -7871,13 +7871,13 @@ Scegliete un\'opzione:"</string>
 \"Bruciare è costoso, però. È difficile trovare persone che vadano a tagliare nel bosco profondo. Soprattutto dopo che quel gruppo non è tornato. L\'esattore riceve Iron per ogni corpo che pulisce dalle strade. Non costa nulla gettare un corpo oltre il muro. Non è giusto, però. Non è questo il lavoro. Quel bastardo, Jeffit, mi ha fregato il lavoro. Ma l\'ho visto andare al muro e pagare quelle guardie alla torre più a est. Loro guardano dall\'altra parte e vanno oltre. Se trovi i corpi, trovi le risposte. E se vi capiterà di uccidere quel puttaniere che mi ha rubato il sostentamento, allora ben venga.\""</string>
 	<string name="chp1_24_5__a">"Circondate l\'uomo e puntate le armi. I suoi occhi guizzano tra di voi. Gli chiedete cosa sa. Rabbrividisce quando, attraverso la finestra, vi mettete in contatto visivo con la sua famiglia e annuisce, alzando le mani in segno di acquiescenza.
 
-\"Sono i morti che devi trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, l\'esattore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
+\"Sono i morti che dovete trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, l\'esattore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
 
 \"Bruciare è costoso, però. È difficile trovare persone che vadano nel Bosco Profondo a tagliare la legna. Soprattutto dopo che quel gruppo non è tornato. L\'esattore riceve Iron per ogni corpo che pulisce dalle strade. Non costa nulla gettare un corpo oltre il muro. Non è giusto, però. Non è questo il lavoro. Quel bastardo, Jeffit, mi ha fregato il lavoro. Ma l\'ho visto andare al muro e pagare quelle guardie alla torre più a est. Loro guardano dall\'altra parte e vanno oltre. Se trovi i corpi, trovi le risposte. E se vi capiterà di uccidere quel puttaniere che mi ha rubato il sostentamento, allora ben venga.\""</string>
 	<string name="chp1_24_6__a">"Circondate l\'uomo, con la testa nel mezzo mentre camminate lentamente intorno a lui. Lo incalzate per sapere cosa sa, ma guardando la sua famiglia, rimane in piedi. \"Ho perso un giovane una settimana fa e voi vienite da me in questo modo? Se volete sapere qualcosa dovete pagare il doppio. Branco di maledetti.\"
 
 Quest\'uomo vi sfida e non si lascia intimidire."</string>
-	<string name="chp1_24_6__c">"\"Sono i morti che devi trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, il raccoglitore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
+	<string name="chp1_24_6__c">"\"Sono i morti che dovete trovare. Le persone vivono, le persone muoiono,\" e fa un gesto verso i miseri senzatetto che si affacciano sul vicolo ai lati della strada. \"Quando lo fanno, il raccoglitore viene a sgomberare. Una volta ero io. Prendevo i corpi, prendevo i nomi se ne avevano, e li bruciavo. Allora non c\'erano malattie.\"
 
 \"Bruciare è costoso, però. È difficile trovare persone che vadano nel Bosco Profondo a tagliare la legna. Soprattutto dopo che quel gruppo non è tornato. L\'esattore riceve Iron per ogni corpo che pulisce dalle strade. Non costa nulla gettare un corpo oltre il muro. Non è giusto, però. Non è questo il lavoro. Quel bastardo, Jeffit, mi ha fregato il lavoro. Ma l\'ho visto andare al muro e pagare quelle guardie alla torre più a est. Loro guardano dall\'altra parte e vanno oltre. Se trovi i corpi, trovi le risposte. E se vi capita di uccidere quel puttaniere che mi ha rubato il sostentamento, allora ben venga.\""</string>
 	<string name="chp1_25_1__a">"Posizione 25 - Torre A
@@ -7972,13 +7972,13 @@ Con il volto severo, proseguite."</string>
 
 Quando entra nella luce tremolante delle vostre torce, emerge il volto di un uomo. A quanto pare, si tratta di un acchiapparatti.
 
-Voi!\" Grida, \"L\'avete visto?\" Si accorge delle vostre armi sguainate. \"L\'avete visto! Bene! Vieni, devi vedere questo.\" Si volta, ma poi guarda cautamente indietro.
+Voi!\" Grida, \"L\'avete visto?\" Si accorge delle vostre armi sguainate. \"L\'avete visto! Bene! Venite, dovete vedere questo.\" Si volta, ma poi guarda cautamente indietro.
 
 \"Non mangiate i topi. Sono miei,\" e vi guarda, mostrando i denti rotti.
 
 A quel punto, sguscia via dalla strada che ha percorso a una velocità sorprendente.
 
-Non è molto, ma è l\'unica cosa che hai. Lo segui.
+Non è molto, ma è l\'unica cosa che avete. Lo seguite.
 
 L\'omino è veloce e, in questo spazio ristretto, è difficile stargli dietro."</string>
 	<string name="chp1_4_7__a">Guadate le acque nel fango cercando di individuare una traccia. Le fogne sono un labirinto di tunnel incrociati. Più di una volta, da sotto il pelo dell\'acqua, si sentono dei morsi e, a un certo punto, uno sciame di piccole forme scure si abbatte su di noi.</string>
@@ -8103,7 +8103,7 @@ I soldati resistono come possono: questi uomini e queste donne combattono con la
 	<string name="chp20_2_2__a">La pioggia battente rende difficile vedere, ma si può dire che le aree a ovest e a nord-ovest sono assolutamente ferme e tranquille. Nessun assalto arriverà da quelle direzioni. All\'improvviso, si sente un forte rumore proveniente dal tunnel sottostante.</string>
 	<string name="chp20_2_3__a">Le aree a ovest e a nord-ovest sono assolutamente ferme e tranquille, nessun assalto proviene da lì. Ma se si guarda a nord-est, si vedono forme scure muoversi tra gli alberi. È probabile un assalto da quella direzione. Si sente anche un forte rumore proveniente dal tunnel sottostante, un altro punto che cercheranno di sfruttare. Non avete tutte le informazioni, ma dovete accontentarvi di quelle che avete.</string>
 	<string name="chp20_2_4__a">Le aree a ovest e a nord-ovest sono assolutamente ferme e tranquille, nessun attacco verrà da lì. Ma se guardate a nord-est, vedrete numerose sagome scure muoversi tra gli alberi. Il prossimo attacco arriverà molto probabilmente da quella direzione, assaltando il Bastione di destra e la Porta di Postern. Qualcosa di massiccio si sta muovendo anche verso le merlature settentrionali. Come se non bastasse, si sente anche un forte rumore proveniente dal tunnel sottostante, un altro punto che cercheranno di sfruttare.</string>
-	<string name="chp20_2_5__a">La pioggia battente rende impossibile vedere. Intorno alla fortezza, gli alberi ondeggiano svogliatamente, non si sa se per il vento o per l\'agitarsi delle creature sotto di loro. Non avete idea da dove arriverà il prossimo attacco. All\'improvviso, si sente un forte rumore proveniente dal tunnel sottostante.</string>
+	<string name="chp20_2_5__a">La pioggia battente rende impossibile vedere. Intorno alla fortezza, gli alberi ondeggiano svogliatamente, non sapete se per il vento o per l\'agitarsi delle creature sotto di loro. Non avete idea da dove arriverà il prossimo attacco. All\'improvviso, si sente un forte rumore proveniente dal tunnel sottostante.</string>
 	<string name="chp20_2_6__a">"Ondata 2: Assalto 1
 
 Il rumore del tunnel si fa sempre più forte, fino a quando le creature non schizzano al suo ingresso, proprio nel cuore di Raven\'s Reach."</string>
@@ -8119,7 +8119,7 @@ Assalti su assalti si abbattono sulle mura dell\'antica fortezza, i cumuli di cr
 Ai margini della vostra visione, scorgete un\'enorme bestia che carica verso il Bastione di Sinistra. I mostri più piccoli si trasformano in umide pozzanghere cremisi sotto il suo incedere, mentre ogni passo gigante lo avvicina alle antiche mura della fortezza."</string>
 	<string name="chp20_3_11__a">"Ondata 3: Assalto 6
 
-Insanguinati nel corpo e nelle armi, sembra che l\'assalto non finisca mai. Non si sa se le difese possono sopravvivere a un altro attacco di questa portata. È necessario terminare la pira al più presto."</string>
+Insanguinati nel corpo e nelle armi, sembra che l\'assalto non finisca mai. Non sapete se le difese possono sopravvivere a un altro attacco di questa portata. È necessario terminare la pira al più presto."</string>
 	<string name="chp20_3_12__a">"Mentre sentite le urla agonizzanti delle bestie rimaste fuori dalle mura della fortezza, improvvisamente sentite la terra tremare ancora una volta. Voltandovi verso la pira, vedete ondate di forza che si sprigionano da sotto la Strega Traciana. Si sta svegliando
 
 Entrando in azione con il calcio della vostra arma, rendete la donna ancora una volta incosciente. Sta diventando sempre più potente. Dovete eseguire il Richiamo il prima possibile."</string>
@@ -8220,7 +8220,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp20_6_5__c">Per un\'ultima volta, chiudete gli occhi e vi concentrate, lasciando che il potere scorra nelle vostre vene. Le fiamme roventi si sprigionano dalle vostre mani nella pira sottostante.</string>
 	<string name="chp20_6_6__c">Questo è il vostro compito, la vostra responsabilità. È un fardello pesante, ma lo porterete comunque, confortati dal fatto che nessun altro dovrà farlo. Avvicinandovi alla pira, accendete la legna e l\'ambra sotto i piedi delle streghe e le fiamme iniziano a salire.</string>
 	<string name="chp20_6_7__c">Non riuscite a farlo. Mentre la pioggia cade intorno a voi, abbassate la testa. Avete sopportato tanto per il Giuramento, ma non sopporterete questo. La torcia scintilla quando tocca terra. Prendendo fiato, alzate la testa per guardare i volti di coloro che avete risparmiato e poi vi bloccate. Aurelia, la Strega Traciana, vi sta fissando.</string>
-	<string name="chp20_6_8__a">"Le fiamme turbinano in un torrente di calore. Per trattenere il dolore, è necessario ogni grammo della vostra anima per resistere all\'impulso di spegnerle. Ogni fibra del vostro essere vi chiede di soffocare le fiamme con i vostri poteri, ma voi resistete. Non hai mai fatto il Giuramento, ma lo stai vivendo ora. Cercate forza nei volti delle tre streghe che avete risparmiato. La loro vita in cambio della vostra. Una buona morte. Quando i vostri occhi si posano finalmente sulla Strega Traciana, Aurelia, ti accorgi che lei ti sta fissando. È sveglia!
+	<string name="chp20_6_8__a">"Le fiamme turbinano in un torrente di calore. Per trattenere il dolore, è necessario ogni grammo della vostra anima per resistere all\'impulso di spegnerle. Ogni fibra del vostro essere vi chiede di soffocare le fiamme con i vostri poteri, ma voi resistete. Non avete mai fatto il Giuramento, ma lo state vivendo ora. Cercate forza nei volti delle tre streghe che avete risparmiato. La loro vita in cambio della vostra. Una buona morte. Quando i vostri occhi si posano finalmente sulla Strega Traciana, Aurelia, ti accorgi che lei ti sta fissando. È sveglia!
 
 Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe dal corpo della Traciana. Aurelia lancia un urlo di rabbia e la pira si squarcia. Le fiamme si spengono immediatamente e i resti delle altre streghe accanto a lei vengono dispersi sulle pareti dalle onde della forza. Aurelia si alza e potete vedere la pioggia che colpisce un nimbo d\'aria scintillante che rotola intorno a lei in una sfera di protezione telecinetica. Avete già affrontato streghe potenti in passato, ma questa donna potrebbe essere la più potente mai registrata. Librandovi al di sopra del suolo all\'interno della sua bolla cinetica, vedete l\'ira scritta a chiare lettere sul suo volto. È stata drogata e trascinata nel Bosco Profondo e non sa cosa stia succedendo. Gridate per cercare di farla ragionare, ma non sortisce alcun effetto. L\'unica cosa che sa è che per la prima volta è libera dal delirio e intende vendicarsi.
 
@@ -8336,7 +8336,7 @@ Chiunque sia Samil, è chiaro che non vi sta dicendo tutto quello che sa. Le \'r
 
 \"Naturalmente, dovrete dare la vostra vita per liberarmi,\" e continua con nonchalance. \"Ma questo lo sapete già, vero?\"
 
-Ha ragione. Non c\'è nessuno scenario in cui voi possiate immaginare di uscirne vivi. Infatti, nel momento in cui hai contratto la peste, una parte di te ha sentito suonare la campana in lontananza. Ora, tuona nelle vostre orecchie."</string>
+Ha ragione. Non c\'è nessuno scenario in cui voi possiate immaginare di uscirne vivi. Infatti, nel momento in cui avete contratto la peste, una parte di voi ha sentito suonare la campana in lontananza. Ora, tuona nelle vostre orecchie."</string>
 	<string name="chp21_2_17__a">\"Morte,\" Samil risponde in modo categorico. \"La vostra e quella di innumerevoli altri. La Peste devasterà la città ed il Bosco Profondo si ingozzerà. E voi... non lascerete mai questo posto. Migliaia di bocche affamate, desiderose di saziarsi della vostra carne, si stanno facendo strada attraverso il tunnel mentre parliamo. Non sarò in grado di trattenerli ancora a lungo e non c\'è altro modo per fuggire da questa tomba se non attraverso di loro.\"</string>
 	<string name="chp21_2_19__a">"Il ruggito dell\'orda di bestie che si precipita nel tunnel si fa sempre più forte. Vi precipitate verso l\'ingresso della caverna e vi accanite contro la pietra, la terra e le radici, facendo crollare il tunnel e sigillandovi all\'interno. Siete riusciti a guadagnare tempo. All\'improvviso, un pugno grande come un macigno si abbatte sul terreno dietro di voi e un ruggito senza bocca vi scuote le ossa. Kharnus, il padre degli A\'Dendri e creatore del Bosco Profondo, impazzito e sigillato in questa tomba vivente per centinaia di anni, si risveglia!
 
@@ -8360,7 +8360,7 @@ Più avanti si percepisce qualcosa che si muove. Qualcosa di grande. Avanzate co
 
 Parzialmente sommerso dalla terra e legato alle pareti della caverna da decine di spesse radici pulsanti, dorme un essere colossale. La figura massiccia si agita e si contorce come se fosse afflitta da incubi. La parte della creatura non sepolta sotto terra deve essere due volte più grande di qualsiasi cosa abbiate mai affrontato. Un tempo era chiaramente un A\'Dendri, anche se ora si è gonfiato fino a raggiungere proporzioni gigantesche. Contorta e deformata, ogni radice e vite della caverna riconduce a questa creatura, formando la sua stessa prigione. Infine, dal suo petto sporge un enorme masso d\'ambra che pulsa in sincronia con le vene sulle pareti. Guardando da vicino,vedete qualcosa muoversi sotto la sua superficie arancione vitrea.
 
-\"Magnifico, vero?\" una voce fin troppo familiare vi chiede. Voltandovi di scatto, trovate Samil al vostro fianco, che fissa il gigante addormentato. Rivolgendo le armi verso di lui, Samil si limita a sorridere. \"Prego. Dopo tutto quello che abbiamo passato insieme?\" sorride, passando in rassegna le armi come se non ci fossero. \"Queste non ti serviranno... non ancora, comunque. Devi prima imparare perché le impugni. Ogni cosa deve accadere a suo tempo.\"
+\"Magnifico, vero?\" una voce fin troppo familiare vi chiede. Voltandovi di scatto, trovate Samil al vostro fianco, che fissa il gigante addormentato. Rivolgendo le armi verso di lui, Samil si limita a sorridere. \"Prego. Dopo tutto quello che abbiamo passato insieme?\" sorride, passando in rassegna le armi come se non ci fossero. \"Queste non vi serviranno... non ancora, comunque. Dovete prima imparare perché le impugnate. Ogni cosa deve accadere a suo tempo.\"
 
 
 Scegliete un\'opzione:"</string>
@@ -8381,7 +8381,7 @@ Le spesse viti che incatenano il braccio destro di Kharnus si spezzano improvvis
 	<string name="chp21_2_2__a">"Riportando lo sguardo sull\'enorme essere, Samil parla con un tenero sorriso, \"Poverino. Una volta era il padre di un intero popolo. Un re che stava perdendo una guerra contro gli Uccisori di Alberi. Desiderava sconfiggere i suoi nemici. Così gli dissi come fare. Non ero che un sussurro quando venne da me per la prima volta. Niente di più che un tarlo nell\'orecchio. Gli diedi quello che mi aveva chiesto. Anche se non proprio nel modo in cui aveva voluto.\" Un sorriso si allarga sul volto di Samil mentre si volta verso di voi. \"Ora è il padre di un regno molto più grande,\" dice, alzando le mani per indicare l\'intero Bosco Profondo.
 
 Ricordate il racconto che avete letto nel diario del Sorvegliante. La storia della guerra con gli A\'Dendri per il \'Datore di Vita\'. Diceva che gli A\'Dendri stavano perdendo la guerra quando arrivò la follia, che spazzò via la loro città e, in punto di morte, il Bosco Profondo la seguì. Se quello che dice Samil è vero, l\'enorme A\'Dendri sepolto qui sotto la terra deve essere la causa di tutto. I nomi di Soonari e Kharnus riaffiorano nella vostra mente. Erano madre e padre del popolo A\'Dendri? Se è così, allora questo deve essere Kharnus, il progenitore della razza A\'Dendri e, a quanto pare, anche la fonte del Bosco Profondo. Tutto porta a lui. L\'uccisione di questa gigantesca creatura segnerebbe la fine del Bosco Profondo?"</string>
-	<string name="chp21_2_3__a">"\"Sai bene chi non sono,\" Samil risponde con un sorriso complice. \"È chiaro che non sono il vostro amico morto, ma questo è ormai ovvio.\"
+	<string name="chp21_2_3__a">"\"Sapete bene chi non sono,\" Samil risponde con un sorriso complice. \"È chiaro che non sono il vostro amico morto, ma questo è ormai ovvio.\"
 
 Ti guarda per un attimo, fissandoti con occhi ammalianti. \"Sono molte cose,\" continua. \"Sono colui che vi ha salvati nella città proibita. Sono colui che vi ha salvati nel bosco. Sono stato la vostra guida, vi ho spronato e spinto, portandovi qui. Potete chiamarmi una specie di benefattore. Un portatore di verità e un detentore di chiavi, ma in qualche modo non possiedo quella per le mie catene.\"
 
@@ -8555,7 +8555,7 @@ Il Satiro rabbrividisce, l\'odore di ghiaccio fuoriesce da una dozzina di tagli.
 Andate a vedere se qualcuna delle persone sugli alberi è ancora viva, ma le trovate morte da tempo, con i corpi spezzati e contorti. Sperate che siano morti in fretta. Una ricerca nell\'area circostante porta alla luce diversi oggetti."</string>
 	<string name="chp2_epi_1__c">"Perdendo velocemente la luce, vi affrettate a tornare a Bastone. Lì trovate Gamel il Fabbro che osserva dalle mura in attesa del vostro ritorno.
 
-"Ragazzo mio, l\'hai trovato?""</string>
+"Il mio ragazzo, l\'avete trovato?""</string>
 	<string name="chp2_epi_3__a">"Racconti a Gamel come il Satiro ha ucciso suo figlio. Una rabbia fuori dal comune sale in Gamel e la tristezza si riversa su di lui. sapevo che era morto. Lo sentivo nelle viscere. Lo sapevo. Perché non sono andato a cercarlo? Quella cosa è ancora viva da qualche parte. Giuro sul mio braccio buono che ucciderò quella creatura. Mi vendicherò, Libera Compagnia. Non mi importa quanto tempo ci vorrà o quanto sangue verrà versato. Verrò con voi""</string>
 	<string name="chp2_epi_3__c">La luce del giorno si è spenta e con la torcia d\'ambra tornate alla Quercia Spezzata per quello che si spera sia un sonno senza sogni.</string>
 	<string name="chp2_epi_4__a">"Mostrate a Gamel il medaglione e ditegli cosa bisognava fare per mettere al sicuro la Libera Compagnia.
@@ -8618,12 +8618,12 @@ Gamel, il Fabbro annuisce a malincuore quando entrate.
 
 \"Brutte giornate,\" Gamel sbuffa, pulendosi le mani dall\'olio su un asciugamano di pelle. \"Notti peggiori,\" continua, senza parlare con nessuno.
 
-\"Hai visto mio figlio? Tam?\" chiede, mentre gesticola stancamente verso le sue merci in esposizione. \"Vieni a dirmelo appena lo vedi, vero? È... fuori di sé. Urla nella notte come se l\'avesse preso una strega. Comunque... andiamo avanti. Fate i vostri affari.\""</string>
+\"Avete visto mio figlio? Tam?\" chiede, mentre gesticola stancamente verso le sue merci in esposizione. \"Vieni a dirmelo appena lo vedi, d\'accordo? È... fuori di sé. Urla nella notte come se l\'avesse preso una strega. Comunque... andiamo avanti. Fate i vostri affari.\""</string>
 	<string name="chp2a_20_1__a">"Posizione 20 - Le Gabbie (The Stockade)
 
 La prigioni sono vuote e una guardia solitaria si appoggia a una di esse, guardando con sospetto tutti i passanti mentre impugna la sua lancia. Quando vi vede, si alza un po\' più dritto.
 
-\"Miei signori, come posso servirvi?\" Dite di non essere il signore di nessuno e continuate a chiedergli della banda e dei circoli. \"Che io sia dannato se lo so, mio signore,\" risponde, incurante della vostra correzione. \"Diavolo, non so più cosa pensare. Non riesco nemmeno a proteggerli da loro stessi. Neanche dieci giorni fa, hanno portato qui questi due ladri. Li conosco. Non è una città così grande, sai? E li hanno messi in magazzino e in catene per il fine settimana. Vado a mangiare qualcosa a mezzogiorno e quando torno sono morti. Entrambi. Si sono strappati la lingua a morsi. Si sono sputati proprio lì e hanno cercato di tagliarsi i polsi con le cinghie. Che stregoneria è questa?\""</string>
+\"Miei signori, come posso servirvi?\" Dite di non essere il signore di nessuno e continuate a chiedergli della banda e dei circoli. \"Che io sia dannato se lo so, mio signore,\" risponde, incurante della vostra correzione. \"Diavolo, non so più cosa pensare. Non riesco nemmeno a proteggerli da loro stessi. Neanche dieci giorni fa, hanno portato qui questi due ladri. Li conosco. Non è una città così grande, sapete? E li hanno messi in magazzino e in catene per il fine settimana. Vado a mangiare qualcosa a mezzogiorno e quando torno sono morti. Entrambi. Si sono strappati la lingua a morsi. Si sono sputati proprio lì e hanno cercato di tagliarsi i polsi con le cinghie. Che stregoneria è questa?\""</string>
 	<string name="chp2a_24_1__a">"Posizione 24 - I Burrows
 
 Le strade strette sono piene di fango. Le finestre si chiudono e le porte sbattono quando vi avvicinate. Una donna anziana vi passa accanto zoppicando e sbuffando in modo derisorio.
@@ -8655,7 +8655,7 @@ Avvicinandosi, si capisce perché. La parola 'strega', frettolosamente scarabocc
 
 \"Siete venuti a prendere una strega?\" chiede, strofinando con più forza. \"È questo che vuole la folla, no? Se non lo fate voi, lo faranno loro. Non finirà bene per me, in ogni caso.\"
 
-Rimani all\'erta con questa donna, ma sai meglio di chiunque altro che solo una manciata di cacce alle streghe coinvolgono davvero una strega.
+Rimanete all\'erta con questa donna, ma sapete meglio di chiunque altro che solo una manciata di cacce alle streghe coinvolgono davvero una strega.
 
 
 Scegliete un\'opzione:"</string>
@@ -8773,13 +8773,13 @@ Scegliete un luogo dove andare:"</string>
 
 Il Fabbro annuisce a malincuore quando entrate.
 
-\"Brutte giornate,\" Gamel sbuffa, pulendosi le mani dall\'olio su un asciugamano di pelle. \"Notti peggiori,\" continua, senza parlare con nessuno.
+\"Brutte giornate,\" Gamel sbuffa, pulendosi le mani dall\'olio su un asciugamano di pelle. \"Notti peggiori\" continua, senza parlare con nessuno.
 
-\"Hai visto mio figlio? Tam?\" chiede mentre gesticola stancamente verso le sue merci in esposizione. \"Vieni a dirmelo appena lo vedi, vero? È... fuori di sé. Urla nella notte come se lo avesse preso una strega. Sai cosa sogno? Un dannato coltello da macellaio. Non uno forgiato da me, però. Non c\'è nessuna lavorazione. Questa cosa è crudele. Forse ne ho fatti un po\' troppi di recente, ma è tutto ciò che vedo. Comunque... andiamo avanti. Procedete con gli affari.\""</string>
+\"Avete visto mio figlio? Tam?\" chiede mentre gesticola stancamente verso le sue merci in esposizione. \"Venite a dirmelo appena lo vedete, d\'accordo? È... fuori di sé. Urla nella notte come se lo avesse preso una strega. Sapete cosa sogno? Un dannato COLTELLO DA MACELLAIO. Non uno forgiato da me, però. Non c\'è nessuna lavorazione. Questa cosa è crudele. Forse ne ho fatti un po\' troppi di recente, ma è tutto ciò che vedo. Comunque... andiamo avanti. Procedete con gli affari.\""</string>
 	<string name="chp2b_20_1__a">Posizione 20 - Le Gabbie (The Stockade)</string>
 	<string name="chp2b_20_2__a">"Le prigioni sono vuote e una guardia solitaria si appoggia a una di esse, guardando con sospetto tutti i passanti mentre impugna la sua lancia. Quando vi vede, si alza un po\' più dritto.
 
-\"Miei signori, come posso servirvi?\" Dite di non essere il signore di nessuno e chiedete degli strani sogni. \"Che io sappia, mio signore,\" risponde, incurante della vostra correzione. \"Però stanno accadendo cose strane. Non più tardi di dieci giorni fa, hanno portato qui questi due ladri. Li conosco. Non è una città così grande, sai? Li mettono in magazzino e li incatenano per il fine settimana. Vado a prendere una ciotola di patate a mezzogiorno e quando torno... morti. Entrambi. Si sono strappati la lingua a morsi. Si sono sputati proprio lì e hanno cercato di tagliarsi i polsi con le cinghie. Quale stregoneria lo fa?\"
+\"Miei signori, come posso servirvi?\" Dite di non essere il signore di nessuno e chiedete degli strani sogni. \"Che io sappia, mio signore,\" risponde, incurante della vostra correzione. \"Però stanno accadendo cose strane. Non più tardi di dieci giorni fa, hanno portato qui questi due ladri. Li conosco. Non è una città così grande, sapete? Li mettono in magazzino e li incatenano per il fine settimana. Vado a prendere una ciotola di patate a mezzogiorno e quando torno... morti. Entrambi. Si sono strappati la lingua a morsi. Si sono sputati proprio lì e hanno cercato di tagliarsi i polsi con le cinghie. Quale stregoneria lo fa?\"
 
 \"Oh. Ora che ci penso, mio signore, un ragazzo di una delle altre squadre ha parlato di sogni. Credo che oggi stiano osservando il muro.\""</string>
 	<string name="chp2b_20_3__a">Non sembra esserci nulla di nuovo da vedere.</string>
@@ -8888,7 +8888,7 @@ Lyceen siede accasciata su uno sgabello, con erbe, polveri e diverse pietre spar
 
 \"Siete venuti a prendere una strega?\" chiede, alzando lo sguardo dolorosamente. \"È questo che vuole la folla, no? Se non lo fate voi, lo faranno loro. Ho una collezione crescente di pietre che me lo dicono.\"
 
-Rimanete all\'erta con questa donna, ma sai meglio di chiunque altro che solo una manciata di cacce alle streghe coinvolgono davvero una strega.
+Rimanete all\'erta con questa donna, ma sapete meglio di chiunque altro che solo una manciata di cacce alle streghe coinvolgono davvero una strega.
 
 
 Scegliete un\'opzione:"</string>
@@ -8903,9 +8903,9 @@ Le raccontate i vostri sogni, come suggerito da Greycane. \"Molti di coloro che 
 
 Non appena menzionate i sogni alle guardie che avvicinate, queste vi guardano spaventate come se aveste il potere di vedere nelle loro menti.
 
-\"L\'hai vista?\" dice la guardia in un sussurro appena udibile. \"LA DONNA IN NERO. L\'abbiamo vista tutti. Ogni notte.\"
+\"L\'avete vista?\" dice la guardia in un sussurro appena udibile. \"LA DONNA IN NERO. L\'abbiamo vista tutti. Ogni notte.\"
 
-Quando lo incalzi, non ricorda un volto, un luogo o altro. Ma tutte le guardie hanno visto una DONNA IN NERO e tutte le guardie sono terrorizzate da lei, temendo che faccia loro qualcosa.
+Quando lo incalzate, non ricorda un volto, un luogo o altro. Ma tutte le guardie hanno visto una DONNA IN NERO e tutte le guardie sono terrorizzate da lei, temendo che faccia loro qualcosa.
 
 Quando chiedete maggiori dettagli, ogni guardia indietreggia. Quando una di loro si allontana, dietro di lui si trova Samil. Samil si allunga verso di voi e viene trascinato rapidamente nel nulla dal suono di un ticchettio della Strada del Filo."</string>
 	<string name="chp2b_6_1__a">"Posizione 6 - La chiesa
@@ -8926,13 +8926,13 @@ Scegliete un luogo dove andare:"</string>
 
 Celeste è pronta a rispondere quando chiedete di vederla. Arriva dai tunnel, sporca di terra e spazzolando un verme dalla tunica.
 
-\"Sai perché perdiamo il sonno lavorando qui sotto? Perché sappiamo che senza di noi l\'intera città crolla. Sogni? Vorrei ricordare l\'ultima volta che ho dormito abbastanza profondamente da averne uno. La mia preoccupazione ora è che nel lotto tre si stia diffondendo una sorta di ruggine nel letto di funghi. Se esce da quella grotta, non so cosa fare. Ora, se volete scusarmi, ho cose più importanti da fare rispetto ai sogni.\"
+\"Sapete perché perdiamo il sonno lavorando qui sotto? Perché sappiamo che senza di noi l\'intera città crolla. Sogni? Vorrei ricordare l\'ultima volta che ho dormito abbastanza profondamente da averne uno. La mia preoccupazione ora è che nel lotto tre si stia diffondendo una sorta di ruggine nel letto di funghi. Se esce da quella grotta, non so cosa fare. Ora, se volete scusarmi, ho cose più importanti da fare rispetto ai sogni.\"
 
 
 Scegliete un luogo dove andare:"</string>
 	<string name="chp3_0_1__c">"La luce fa capolino attraverso le stecche della vostra stanza a la Quercia Spezzata, svegliandovi da una buona notte di sonno, priva di incubi. Vi alzate, prendete la vostra attrezzatura e scendete al piano di sotto.
 
-Entrando nella sala principale, non ci sono applausi o bicchieri alzati per quello che hai fatto. Dopo la scomparsa del Satiro, non c\'era alcuna prova che poteste portare alla città del vostro successo. Senza una testa non ci sarebbe stata retribuzione. Tuttavia, vi consola sapere che la cosa è morta, o che è sparita da queste parti da molto tempo.
+Entrando nella sala principale, non ci sono applausi o bicchieri alzati per quello che avete fatto. Dopo la scomparsa del Satiro, non c\'era alcuna prova che poteste portare alla città del vostro successo. Senza una testa non ci sarebbe stata retribuzione. Tuttavia, vi consola sapere che la cosa è morta, o che è sparita da queste parti da molto tempo.
 
 La pace che avete provato al risveglio si trasforma in inquietudine quando osservate l\'atmosfera della sala. Gli avventori borbottano con rabbia e sembrano agitarsi per qualcosa che sta per accadere. Uomini e donne escono dalla locanda per unirsi a una processione di altri in strada, tutti diretti nella stessa direzione.
 
@@ -8971,7 +8971,7 @@ Qualcosa si accende nei suoi tremendi occhi. Le massicce zampe posteriori spingo
 	<string name="chp3_14_21__c">"La bestia sta attraversando la piazza della città. È arrivata da est, sfondando il muro esterno di Bastone, e ora curva alla sua destra. Per poter fuggire, è necessario allontanarsi da essa. Siete posizionati in modo da avere tre strade aperte."</string>
 	<string name="chp3_14_2__c">"Due guardie si fanno subito avanti e incrociano le loro lance davanti a voi, bloccandovi il cammino.
 
-\"Forse ci hai reso un grande servizio con i topi,\" dice il funzionario, interrompendo la sua lista di offese, \"ma questa strega deve essere bruciata da Bastone. Sangue per sangue, diritto per diritto. Il vostro lavoro è finito. Questo è nostro.\""</string>
+\"Forse ci avete reso un grande servizio con i topi,\" dice il funzionario, interrompendo la sua lista di offese, \"ma questa strega deve essere bruciata da Bastone. Sangue per sangue, diritto per diritto. Il vostro lavoro è finito. Questo è il nostro.\""</string>
 	<string name="chp3_14_4__a">"Le guardie puntano le loro lance sulla folla per farla indietreggiare. Più di una lancia è puntata verso di voi per tenervi fermi.
 
 Lyceen trasale e guarda la folla con rabbia, \"Non vi ho aiutato? Ho curato le vostre ferite e voi mi pagate con il fuoco?\"
@@ -9006,7 +9006,7 @@ Il fuoco sputa mentre si accende."</string>
 
 Si muove e cerca di allontanarsi mentre le fiamme crescono e le lambiscono i polpacci.
 
-\"Non hai idea di quello che hai fatto! Non posso aiutarvi e non posso fermare ciò che sta per accadere ora! Siete tutti condannati!\"
+\"Non avete idea di quello che avete fatto! Non posso aiutarvi e non posso fermare ciò che sta per accadere ora! Siete tutti condannati!\"
 
 Lei urla, ma è un suono che non avete mai sentito prima. Colpisce la base dei vostri crani. Un sibilo penetrante che vi fa trasalire. Molti tra la folla traballano quando l\'onda d\'urto investe la piazza della città. Le fiamme le arrivano alle gambe mentre continua il lamento osceno. Il suono si insinua nella spina dorsale e assale la mente mentre l\'odore di carne bruciata riempie la piazza. Un lamentoso urlo di richiamo raggiunge un crescendo empio. La sua gola dovrebbe essere squarciata da un simile rumore. Vi coprite le orecchie, ma il dolore non diminuisce.
 
@@ -9297,7 +9297,7 @@ Nei Sotterranei stanno correndo in cerca di riparo tante persone quante ne stann
 
 \"Non so dire quale sia la strada migliore,\" e lei vi dice con un filo di voce. \"Due gallerie sono crollate quando è arrivata quella cosa. Ce n\'erano... decine... un centinaio... sepolti.\"
 
-Sai che il Sottosuolo sarà una trappola mortale per tutti quelli rimasti.
+Sapete che il Sottosuolo sarà una trappola mortale per tutti quelli rimasti.
 
 
 Scegliete un\'opzione:
@@ -9395,7 +9395,7 @@ Intatta, forte, pulita.
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp4_35_2__a">"Qui c\'è una storia che si è persa nel tempo. Si vorrebbe pensare che sia successo qualcosa di grande. L\'erba è verde e pura accanto all\'albero. Qui è stato riposto un deposito di armi e armature. Non si sa per quanto tempo siano state protette dal Bosco Profondo."</string>
+	<string name="chp4_35_2__a">"Qui c\'è una storia che si è persa nel tempo. Si vorrebbe pensare che sia successo qualcosa di grande. L\'erba è verde e pura accanto all\'albero. Qui è stato riposto un deposito di armi e armature. Non sapete per quanto tempo siano state protette dal Bosco Profondo."</string>
 	<string name="chp4_35_3__a">"Nella strana follia del Bosco Profondo, c\'è qualcosa di profondamente inquietante nella pulizia di questo posto. Qualunque cosa sia, non vi dovete fidare. Il Bosco Profondo ha molti modi per uccidere un uomo, non ultime le sue bugie."</string>
 	<string name="chp4_45_1__c">"Siete vivi... persi, ma vivi. Tra la fuga dalla caduta di Bastone e l\'attacco dei Wyrm, siete stati costretti a tornare indietro. Per fortuna avete la vostra ancora di salvezza, la vostra bussola. Verum si trova a sud-est di Bastone, ma senza la guida della Strada del Filo, potreste essere lontani di parecchie leghe e non accorgervi di averla superata. Dovete trovarla. Le Strade del Filo furono tracciate centinaia di anni fa, durante le prime crociate, per riunire l\'umanità e reclamare la loro patria dal Bosco Profondo. Inevitabilmente furono costretti a rientrare nelle loro città e ora i fili sono tutto ciò che rimane in piedi di quelle sanguinose campagne. Costruiti sulle vecchie strade, si sa che corrono dritti quanto il Bosco Profondo permetteva.
 
@@ -9614,7 +9614,7 @@ Bevete un sorso. È fresco e rinfrescante e, soprattutto, non fa crescere nulla 
 
 Vi dirigete verso il quartiere nobile per incontrare Lord Rhiner. Inevitabilmente, vi imbattete in uno dei vecchi ponti di pietra che attraversano il fiume Sine, o almeno ciò che ne rimane. Molti anni fa il Bosco Profondo ha prosciugato il fiume ed ora 'Lo Scolo' ne prende il posto. Migliaia dei più poveri di Verum si accalcano lì, in baracche ammassate nel fango del letto del fiume, all\'ombra di navi un tempo grandiose, per sempre ormeggiate nel pantano
 
-\"Fumo di carne, l\'hai visto,\" scatta un uomo mentre salta da un punto vicino al ponte. Indossa una selezione di stracci e ratti che farebbe invidia a un acchiapparatti. I profeti di sventura non sono rari a Verum, è abbastanza facile avere ragione sulle previsioni di morte e distruzione con il Bosco Profondo alle porte. Cercate di liquidare l\'uomo, ma poi lui parla, \"E scappare dalla morsa... vi ha inseguito attraverso le mura finché non è caduta una città sulle vostre spalle.\" Questa parte del vostro racconto non era di dominio pubblico.
+\"Fumo di carne, l\'avete visto,\" scatta un uomo mentre salta da un punto vicino al ponte. Indossa una selezione di stracci e ratti che farebbe invidia a un acchiapparatti. I profeti di sventura non sono rari a Verum, è abbastanza facile avere ragione sulle previsioni di morte e distruzione con il Bosco Profondo alle porte. Cercate di liquidare l\'uomo, ma poi lui parla, \"E scappare dalla morsa... vi ha inseguito attraverso le mura finché non è caduta una città sulle vostre spalle.\" Questa parte del vostro racconto non era di dominio pubblico.
 
 \"Chi siete?\" chiedete
 
@@ -10136,7 +10136,7 @@ Se desiderate tornare al Giuramento Infranto per attendere la partenza della spe
 
 \"Siete qui per la spedizione di disboscamento,\" lei inizia sapendo di avere una sola via d\'uscita. \"È andata di traverso. Veloce. Male. Abbiamo toccato il bordo del Bosco Profondo. C\'era un ronzio. Ma non era uno sciame di zanzare. C\'erano urla. Morire. Era enorme. Le ali. Un pungiglione che attraversava gli uomini come un coltello in un fungo tenero. Gli uomini... scoppiarono. Ho tentato di passare dietro, ha sbandato e sono caduto. È così. Credo che mi abbia scagliato via con la coda. Quando mi sono svegliato, non c\'era più nulla. Molti corpi. Per lo più... squarciati. Ho lavorato a contratti migliori. Non eravamo pronti. Ho preso una bussola dai morti e sono tornato indietro. Contento adesso?\"
 
-Pensate di giudicare questa Cur, ma decidete di rilasciarla. L\'ultima cosa di cui hai bisogno è la gilda alle calcagna. Senza voltarvi indietro, vi dirigete verso la porta."</string>
+Pensate di giudicare questa Cur, ma decidete di rilasciarla. L\'ultima cosa di cui avete bisogno è la gilda alle calcagna. Senza voltarvi indietro, vi dirigete verso la porta."</string>
 	<string name="chp5b_9_8__e">"
 Scegliete un\'opzione:
 
@@ -10217,7 +10217,7 @@ Si mette a volteggiare, mentre i suoi piedi si muovono velocemente verso le scal
 
 \"È molto disponibile quando vuole qualcosa,\" Bram dice con sospetto, asciugando un boccale con un panno. \"Non è vero?\" dice Greycane con un sorriso, mentre osserva la donna salire le scale
 
-Il tavolo è stato sparecchiato e siete pronti a proseguire, ma Elanna non è ancora tornata. \"Il Re non aspetta nessuno, sai,\" dice Bram dopo un po\'. Vi alzate e state per andarvene quando appare Elanna, con un lungo e fluente abito perlato che le sta stretto mentre scende le scale. Dove si sia procurata un simile abito è una domanda da porsi in un altro momento, che pochi si preoccupano di porre mentre la osservano.
+Il tavolo è stato sparecchiato e siete pronti a proseguire, ma Elanna non è ancora tornata. \"Il Re non aspetta nessuno\" dice Bram dopo un po\'. Vi alzate e state per andarvene quando appare Elanna, con un lungo e fluente abito perlato che le sta stretto mentre scende le scale. Dove si sia procurata un simile abito è una domanda da porsi in un altro momento, che pochi si preoccupano di porre mentre la osservano.
 
 Greycane fa un passo in avanti, le solleva la mano e la bacia con un gesto di ammirazione. \"Forse per questo non gli dispiacerebbe aspettare,\" e sorride."</string>
 	<string name="chp6_7_6__a">"\"Voi non capite!\" scatta, con il fuoco negli occhi. Poi fa un respiro profondo e si mette a sfiorare con le dita un elaborato ciondolo per collana. Guarda ognuno di voi e la sua espressione si addolcisce. Annuisce bruscamente, imitando malamente le scuse e sorridendo a denti stretti. Gira sui tacchi e marcia severa al piano di sopra, nella stanza che le avete messo a disposizione.
@@ -10232,7 +10232,7 @@ Prende il suo strumento, se lo mette in spalla e si dirige verso la strada, ment
 Scegliete un\'opzione:"</string>
 	<string name="chp6_epi_1__a">"Posizione 10 - La Strada del Filo
 
-Il sangue che pulite dalle vostre lame è scuro e sciropposo, ha l\'odore dolcemente malato della carne marcia. I cadaveri contorti di corpi empi si contorcono ancora, mentre il sangue fuoriesce da essi. Avete trascorso nel Bosco Profondo più tempo di quanto molti osino sognare, quindi cosa sono queste cose che non avete mai visto o sentito? Forse l\'Ordine dei Draghi di Cistercia ne avrà notizia. Una cosa che sai è che questi boschi sono disseminati di corpi di uomini che non ne sapevano abbastanza.
+Il sangue che pulite dalle vostre lame è scuro e sciropposo, ha l\'odore dolcemente malato della carne marcia. I cadaveri contorti di corpi empi si contorcono ancora, mentre il sangue fuoriesce da essi. Avete trascorso nel Bosco Profondo più tempo di quanto molti osino sognare, quindi cosa sono queste cose che non avete mai visto o sentito? Forse l\'Ordine dei Draghi di Cistercia ne avrà notizia. Una cosa che sapete è che questi boschi sono disseminati di corpi di uomini che non ne sapevano abbastanza.
 
 Riponete le vostre armi. La Strada del Filo offre poco per consolarvi mentre vi dirigete verso Cistercia. Almeno non c\'è possibilità di rilassarsi ora."</string>
 	<string name="chp6a_28_10__a">"Il Signore si scusa semplicemente e respinge la domanda. Sarebbe inopportuno incalzarlo ulteriormente.
@@ -10475,7 +10475,7 @@ Scegliete un\'opzione:"</string>
 Scegliete un luogo dove andare:"</string>
 	<string name="chp6b_16_5__a">"I portuali combattono bene nonostante siano in numero inferiore. Sebbene sia una battaglia violenta, si conclude rapidamente. Due di loro giacciono senza vita sulla banchina. Il terzo vi guarda, con il sangue che gli cola dall\'angolo della bocca mentre si sforza di parlare, \"Maledetti sciocchi. Avete appena salvato un assassino. Lei..\"
 
-Un pugnale si conficca nell\'occhio del moribondo, uccidendolo prima che possa finire. La donna che hai appena salvato ti passa davanti in un baleno, strappa il pugnale dal cranio del morto e si precipita lungo il molo.
+Un pugnale si conficca nell\'occhio del moribondo, uccidendolo prima che possa finire. La donna che avete appena salvato vi passa davanti in un baleno, strappa il pugnale dal cranio del morto e si precipita lungo il molo.
 
 
 Scegliete un\'opzione:"</string>
@@ -10609,7 +10609,7 @@ Appoggiando una mano alla parete, questa traballa leggermente. Una leggera press
 
 Cogliendolo di sorpresa, alza lo sguardo e si gira goffamente verso di voi. Anche nel tenue bagliore ambrato della vostra torcia, potete vedere che è malato. Un occhio appare gonfio e un elaborato mosaico di vene nere, simili a radici, si estende sulle mani e sul collo.
 
-Il sacerdote inizia a tremare violentemente e a perdere il controllo di sé. Gli effetti della peste stanno accelerando. Ti supplica, \"Pensavo di avere più tempo, devi aiutarmi. Trova il capo speziale Corbus. La peste... non è mai stata vista prima.\"
+Il sacerdote inizia a tremare violentemente e a perdere il controllo di sé. Gli effetti della peste stanno accelerando. Ti supplica, \"Pensavo di avere più tempo, dovete aiutarmi. Trovate il capo speziale Corbus. La peste... non è mai stata vista prima.\"
 
 Interrotto da dolorosi crampi al corpo, il suo volto si contorce. Riesce a malapena a parlare, \"Se si vuole salvare la città, il contenuto di questo incensiere deve essere messo al sicuro e studiato... Ahhh!\" Si sente il rumore della pelle che scoppia mentre il sacerdote si contorce in modo innaturale.
 
@@ -10628,7 +10628,7 @@ L\'incensiere cade a terra mentre lui si inginocchia. Quando alza lo sguardo ver
 
 La contorta aberrazione arborea che era fratello Marus si alza, brandelli di carne si aggrappano tra i rami sporgenti. Con un movimento barcollante, si dirige verso la porta.
 
-Devi abbattere questa cosa prima che raggiunga la sala del trono."</string>
+Dovete abbattere questa cosa prima che raggiunga la sala del trono."</string>
 	<string name="chp6b_27_6__c">"Marus, o ciò che ne rimane, giace morto davanti a voi. L\'incensiere giace, intatto, in mezzo alla massa di radici e carne morta. Sapete che l\'incensiere non deve essere toccato e decidete che sarebbe meglio rintracciare il capo speziale Corbus.
 
 Alla fine del passaggio, una porta segreta conduce alla sala del trono del palazzo, dove è presente una grande udienza. Infilandovi nella massa di nobili riuniti, trovate Corbus e gli spiegate la situazione. Tra il marchio sul polso ed il nome 'Marus', sembra che abbiano lavorato insieme, e lui si affretta a soccorrervi.
@@ -10732,7 +10732,7 @@ Scegliete un\'opzione:"</string>
 Scegliete un\'opzione:"</string>
 	<string name="chp7_24_4__a">Il ragazzo stringe i denti, ma non può fare a meno di emettere grida di dolore quando i segni rossi gli attraversano la schiena ed il petto. Una tale disciplina in un ragazzo così giovane è ammirevole. Alla fine un colpo spacca la pelle e un rivolo di sangue scende lungo la schiena. È difficile da guardare, ma è il loro modo e la loro fede. Con l\'incoraggiamento del sacerdote, proseguite.</string>
 	<string name="chp7_24_5__a">Non volete vedere un bambino picchiato oggi. Ci sono affari da sbrigare. Passate oltre senza fermarvi.</string>
-	<string name="chp7_24_6__a">"Afferrate il ragazzo per il polso e lo allontanate dal cerchio. Quando i suoi piedi rompono la linea, comincia a piangere e non vi guarda. \"Hai fatto un torto al bambino, Oathsworn,\" dice il sacerdote, \"Ha lasciato il cerchio e ora è un peccatore e deve ricominciare, per non essere marchiato per i suoi peccati.\"
+	<string name="chp7_24_6__a">"Afferrate il ragazzo per il polso e lo allontanate dal cerchio. Quando i suoi piedi rompono la linea, comincia a piangere e non vi guarda. \"Avete fatto un torto al bambino, Oathsworn,\" dice il sacerdote, \"Ha lasciato il cerchio e ora è un peccatore e deve ricominciare, per non essere marchiato per i suoi peccati.\"
 
 Guardate le altre persone, i più umili e i più poveri, che mostrano sulle braccia e sul collo i segni di marchi lontani. Guardate il segno sul vostro polso. Conosci il peso delle decisioni passate. Con un ultimo sguardo al ragazzo, ve ne andate."</string>
 	<string name="chp7_24_7__a">\"Uscire dal cerchio significa cedere alla tentazione, spiega il sacerdote\". \"Se se ne va, sarà punito più severamente e sarà marchiato per il suo peccato, in modo che tutti conoscano la sua colpa per sempre.\" Con un ultimo sguardo al ragazzo, ve ne andate mentre i colpi della frusta cominciano a suonare di nuovo.</string>
@@ -11275,7 +11275,7 @@ Scegliete un\'opzione:"</string>
 
 \"Forse inizieranno a impiccare quelli che abbiamo ancora più velocemente,\" aggiunge un terzo.
 
-Devi guardare meglio quella mappa. Sai che se non avrai successo qui, non avrai un\'altra possibilità di ottenere quelle informazioni."</string>
+Dovete guardare meglio quella mappa. Sapete che se non avrete successo qui, non avrete un\'altra possibilità di ottenere quelle informazioni."</string>
 	<string name="chp7b_18_3__a">"Il gruppo si alza e si dirige verso l\'uscita, scrutando con cautela la mappa della guardia sul tavolo. Una volta usciti dalla taverna, trovate un pezzo di pergamena per registrare le informazioni che siete riusciti a raccogliere."</string>
 	<string name="chp7b_18_3__c">"
 Scegliete un\'opzione:
@@ -11350,7 +11350,7 @@ Scegliete un\'opzione:
 
 Se siete pronti a iniziare la fuga dalla prigione, scegliete l\'opzione superiore. Altrimenti, scegliete un luogo in cui recarvi."</string>
 	<string name="chp7b_19_4__a">"L\'espressione del suo viso vi dice che non le piace il vostro approccio. Sapete che se non avrete successo qui, non avrete un\'altra possibilità di ottenere quell\'informazione."</string>
-	<string name="chp7b_19_5__a">"Sembra cedere, ma sai che se non avrai successo ora, non ci sarà un\'altra possibilità per ottenere quelle informazioni."</string>
+	<string name="chp7b_19_5__a">"Sembra cedere, ma sapete che se non avrete successo ora, non ci sarà un\'altra possibilità per ottenere quelle informazioni."</string>
 	<string name="chp7b_19_6__a">"Sapete che se non avrete successo qui, non avrete un\'altra possibilità di ottenere quelle informazioni."</string>
 	<string name="chp7b_19_7__a">"Cecillia abbassa gli occhi verso la terra ai suoi piedi. \"Queste mani hanno già abbastanza sangue. La Beata Madre sa che non ne ho bisogno di altro,\" aggiunge, con rammarico nella voce. La rassicurate e alla fine accetta di aiutarvi. Descrive dettagliatamente la disposizione della stanza del sotterraneo a cui è stata assegnata."</string>
 	<string name="chp7b_19_7__c">"
@@ -11632,8 +11632,8 @@ Scegliete un\'opzione:"</string>
 	<string name="chp8_16_16__a">Il libro a cui si è attratti è vuoto. Non c\'è testo da nessuna parte, né all\'interno né all\'esterno. La vostra storia non è ancora stata scritta. Il vostro destino non è ancora deciso.</string>
 	<string name="chp8_16_17__a">Mentre la vostra Compagnia si riunisce, ognuno di voi deve riconciliare le visioni appena vissute. Una cosa è chiara a tutti: il passato può essere scritto, ma il futuro no. Ricordando il Giuramento, riaffermate la vostra presa sul qui e ora. Mentre pensate a dove andare, siete attratti da uno scaffale particolare.</string>
 	<string name="chp8_16_18__a">Guardate con odio bruciante negli occhi dell\'uomo mascherato, mentre gettate la spada nel fango in segno di disgusto. Un paio di guardie vi afferrano rapidamente per le braccia e vi trascinano fuori dall\'arena. Da questo momento in poi, giurate di versare solo il sangue di coloro che vi hanno messo in quest\'arena.</string>
-	<string name="chp8_16_19__a">Hai colpito con forza e precisione, ponendo rapidamente fine alla vita di tuo fratello. Almeno gli hai procurato una morte onorevole. I vostri padroni lo avrebbero semplicemente dato in pasto ai cani. È questo che li piace vedere. Un fratello che massacra un fratello per il loro divertimento. Giuri che la pagheranno per questo.</string>
-	<string name="chp8_16_1__a">"Nel momento in cui si posa la statua sulla mappa, si cade in un abisso, precipitando verso il basso nell\'oscurità senza alcun fondo in vista. Improvvisamente, iniziate a scorgere le guglie di un grande edificio sottostante. Si cade fino in fondo, per poi atterrare dolcemente sui propri piedi.
+	<string name="chp8_16_19__a">Hai colpito con forza e precisione, ponendo rapidamente fine alla vita di tuo fratello. Almeno gli hai procurato una morte onorevole. I vostri padroni lo avrebbero semplicemente dato in pasto ai cani. È questo che gli piace vedere. Un fratello che massacra un fratello per il loro divertimento. Giuri che la pagheranno per questo.</string>
+	<string name="chp8_16_1__a">"Nel momento in cui posate la statua sulla mappa, cadete in un abisso, precipitando verso il basso nell\'oscurità senza alcun fondo in vista. Improvvisamente, iniziate a scorgere le guglie di un grande edificio sottostante. Cadete fino in fondo, per poi atterrare dolcemente sui vostri piedi.
 	
 L\'edificio davanti a voi sembra essere una biblioteca. Le sue enormi porte di legno con disegni intricati si aprono lentamente, invitandovi a entrare."</string>
 	<string name="chp8_16_20__c">In alto, lontano dalla minaccia degli uomini e delle bestie, vi muovete abilmente tra i folti rami degli alberi del Bosco Profondo. Con il Wychwood alle spalle, vi lasciate alle spalle tutto ciò che avete conosciuto una volta per tutte. Nessun destino può essere peggiore di quello di non essere mai liberi.</string>
@@ -11664,7 +11664,7 @@ Il vostro libro."</string>
 	<string name="chp8_16_31__a">Tua madre sorride con orgoglio. Vede quanto ti impegni e sa che un giorno sarai una grande cacciatrice. Queste sono solo le prime lezioni di molte altre che ti insegnerà.</string>
 	<string name="chp8_16_32__c">Crescete e tessete, tirate e seminate, mentre create quest\'ultima generazione di Sentinelle. Essi costituiranno l\'ultima linea di difesa contro la marea in arrivo. Promettete di esigere un pesante tributo a tutti coloro che osano minacciare la vostra casa.</string>
 	<string name="chp8_16_33__c">Sapete dalle vostre radici che il potere da solo non sconfiggerà la marea in arrivo. Tutta la tua specie dovrà adattarsi, e così si inizia con questo alberello. La trasformi in un Ranger, destinato a grandi cose.</string>
-	<string name="chp8_16_34__a">"Stringendo i denti, lasciate cadere la taglia rubata. Le collane di gioielli e le coppe d\'oro cadono giù dal tetto spiovente. Mentre afferrate la mano di Darek, sussurrate: \"Mi devi un favore.\""</string>
+	<string name="chp8_16_34__a">"Stringendo i denti, lasciate cadere la taglia rubata. Le collane di gioielli e le coppe d\'oro cadono giù dal tetto spiovente. Mentre afferrate la mano di Darek, sussurrate: \"Ci devi un favore.\""</string>
 	<string name="chp8_16_34__c">Mettere la vita al posto del bottino. È stato il primo passo di questo viaggio, e ora guardatevi.</string>
 	<string name="chp8_16_35__a">Conosceva il rischio, ne avete parlato. Senza guardarvi indietro, correte avanti, non potete permettere che gli attaccamenti vi rallentino ora.</string>
 	<string name="chp8_16_35__c">La sua morte pesa su di voi, ma non quanto il ferro nella vostra borsa.</string>
@@ -12374,7 +12374,7 @@ Scegliete un\'opzione:"</string>
 	
 Dopo un lungo momento, Lina si raccoglie. \"Lo sento ancora dentro di me. Come vermi nello stomaco. Come faccio a non farlo uscire di nuovo?\" chiede.
 
-Le dici che non sai come fare, ma le prometti che sarai lì a proteggerla se dovesse succedere. Mentre guardate gli squarci carbonizzati nelle pareti causati dall\'esplosione di Luce Oscura, una parte di voi si chiede in che cosa vi siate appena cacciati."</string>
+Le dite che non sapete come fare, ma le promettete che sarete lì a proteggerla se dovesse succedere. Mentre guardate gli squarci carbonizzati nelle pareti causati dall\'esplosione di Luce Oscura, una parte di voi si chiede in che cosa vi siate appena cacciati."</string>
 	<string name="chp9_19_6__c">"La ragazza non può restare qui. L\'ultima cosa di cui avete bisogno è una bambina con strani poteri che fa buchi nella vostra locanda. Pensate di farla finita proprio qui, anche se vi ha condotto fuori da quel maledetto regno dell\'irrealtà. Siete in debito con lei. L\'Inquisizione potrebbe rintracciarla un giorno, ma con un po\' di fortuna riuscirà a nascondere ciò che è veramente e a trovare una parvenza di vita normale. Qualunque sia la sua sorte, dite a Lina che deve partire domattina. Mentre decidete il suo destino, gli occhi di Lina non incontrano mai i vostri. Le lacrime che le riempiono gli occhi dicono tutto quello che c\'è da sapere."</string>
 	<string name="chp9_19_8__a">"Dopo una notte, la locanda è piena di gente e sembra che mezza Verum sia stipata nella Quercia Spezzata. A quanto pare, si è sparsa la voce che questa zona della città è considerata relativamente libera dalla peste.
 	
@@ -14507,11 +14507,11 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 17 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop17_64_1__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2.</string>
 	<string name="pop17_64_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9.</string>
 	<string name="pop17_64_2__d">GUADAGNA 1 OGGETTO COMUNE DAL MAZZO DEGLI OGGETTI COMUNI.</string>
-	<string name="pop17_74_1a__b">AGGIUNGERE UN SEGNALINO ORARIO AL TRACCIATO DEL TEMPO.</string>
+	<string name="pop17_74_1a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop17_77_1__b">POSIZIONARE QUI LA TESSERA DELLA PALUDE.</string>
 	<string name="pop17_77_1__d">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 8.</string>
 	<string name="pop17_84_1__b">ESEGUIRE UNA PROVA DI ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 6).</string>
-	<string name="pop17_84_2a__b">AGGIUNGERE UN SEGNALINO ORARIO AL TRACCIATO DEL TEMPO.</string>
+	<string name="pop17_84_2a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop17_84_3a__b">ARCHIVIARE UN ALLEATO DA COMBATTIMENTO A CASO.</string>
 	<string name="pop17_84_3a__d">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop17_88_1__b">OGNI ALTRO INDOSSATORE ESEGUE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 3).</string>
@@ -14549,11 +14549,11 @@ SE IL DEMONE DEL SANGUE FINISCE SULLA STESSA TESSERA DELLA LIBERA COMPAGNIA, SEG
 	<string name="pop17m_3_9__b">"SPOSTARE IL DEMONE DEL SANGUE (SEGNALINO NUMERATO 1) DI 5 TESSERE VERSO LA LIBERA COMPAGNIA.
 
 SE IL DEMONE DEL SANGUE FINISCE SULLA STESSA TESSERA DELLA LIBERA COMPAGNIA, SEGUITE LE REGOLE DI ATTACCO DEL DEMONE DEL SANGUE."</string>
-	<string name="pop17m_4_2__b">"SCEGLIETE UN OATHSWORN COME 'L\'AFFLITTO'. GLI VERRANNO DATE QUATTRO PAROLE CHE DOVRANNO FIRMARE CON LE MANI O DISEGNARE SU CARTA PER ESSERE IDENTIFICATE DAL RESTO DEL GRUPPO. TUTTAVIA, UNA VOLTA INIZIATO IL GIOCO, NON POSSONO APRIRE GLI OCCHI NÉ USARE LA BOCCA. LE PAROLE NON POSSONO ESSERE SCRITTE E \"L\'AFFLITTO\" NON PUÒ SCRIVERE PAROLE, LETTERE O NUMERI SULLA CARTA
+	<string name="pop17m_4_2__b">"SCEGLIETE UN OATHSWORN COME 'L\'AFFLITTO'. GLI VERRANNO DATE QUATTRO PAROLE CHE DOVRÀ FAR CAPIRE CON LE MANI O DISEGNANDO SU CARTA PER ESSERE IDENTIFICATE DAL RESTO DEL GRUPPO. TUTTAVIA, UNA VOLTA INIZIATO IL GIOCO, NON PUÒ APRIRE GLI OCCHI NÉ PARLARE. LE PAROLE NON POSSONO ESSERE SCRITTE E \"L\'AFFLITTO\" NON PUÒ SCRIVERE PAROLE, LETTERE O NUMERI SULLA CARTA
 
 l\'AFFLITTO PUÒ INDICARE QUANDO IL GRUPPO È RIUSCITO A INDOVINARE UNA PAROLA ALZANDO IL POLLICE E PASSANDO ALLA PAROLA SUCCESSIVA. IL GRUPPO HA DUE MINUTI PER INDOVINARE TUTTE E QUATTRO LE PAROLE. I MEMBRI DEL GRUPPO CHE NON SONO 'L\'AFFLITTO' DEVONO TENERE IL CONTO DEL TEMPO UTILIZZANDO UN OROLOGIO/TIMER. IL TIMER DEI DUE MINUTI SCATTERÀ QUANDO \"L\'AFFLITTO\" INDICHERÀ DI ESSERE PRONTO.
 
-ORA, PASSATE L\'APP AL \'MALATO\' IN MODO CHE SOLO LUI VEDA LE QUATTRO PAROLE."</string>
+ORA, PASSATE L\'APP ALL\'\'AFFLITTO\' IN MODO CHE SOLO LUI VEDA LE QUATTRO PAROLE."</string>
 	<string name="pop17m_4_3__b">"DOVETE DECIFRARE LE 4 PAROLE QUI SOTTO.
 
 VNLZM CZFFDQ AKNNC RSNQL
@@ -14561,9 +14561,9 @@ VNLZM CZFFDQ AKNNC RSNQL
 SCRIVERE LE VOSTRE RISPOSTE E CONTINUATE."</string>
 	<string name="pop17m_4_4__b">"LE QUATTRO PAROLE CHE STATE CERCANDO DI TRASMETTERE AL VOSTRO GRUPPO SONO:
 
-DONNA PUGNALE TEMPESTA DI SANGUE
+DONNA, PUGNALE, TEMPESTA, SANGUE
 
-SE DIMENTICATE UNA DI QUESTE PAROLE POTETE APRIRE GLI OCCHI, MA SOLO PER CONTROLLARE LE PAROLE E POI CHIUDERLI IMMEDIATAMENTE
+SE DIMENTICHI UNA DI QUESTE PAROLE PUOI APRIRE GLI OCCHI, MA SOLO PER CONTROLLARE LE PAROLE E POI DEVI CHIUDERLI IMMEDIATAMENTE
 
 ORA INDICATE AL VOSTRO GRUPPO DI FAR PARTIRE IL TIMER."</string>
 	<string name="pop17m_4_5__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO BATTLEFLOW. MARCATE LA CASELLA \'EXTRA UNIQUE\' PER IL CAPITOLO 17 SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA</string>
@@ -14575,7 +14575,7 @@ SE IL DEMONE DEL SANGUE FINISCE SULLA STESSA TESSERA DELLA LIBERA COMPAGNIA, SEG
 SE IL DEMONE DEL SANGUE FINISCE SULLA STESSA TESSERA DELLA LIBERA COMPAGNIA, SEGUITE LE REGOLE DI ATTACCO DEL DEMONE DEL SANGUE."</string>
 	<string name="pop17m_5_1__b">QUALCOSA IN QUESTA VISIONE VI DICE CHE È IMPORTANTE.</string>
 	<string name="pop17m_5_3__b">CI SONO 5 DIFFERENZE TRA LE VISIONI. SCRIVERELE E POI CONTINUATE. NON SI POSSONO RILEGGERE LE VOCI.</string>
-	<string name="pop17m_5_4__b">"LE 5 DIFFERENZE ERANO: LA TEMPESTA CHE IN UNA VISIONE VIENE DETTA 'GIRARE' E NELL\'ALTRA 'INFURIARE', LA MENZIONE DELLE OMBRE SUI CORPI, IL CORPO ALL\'INTERNO DELLA STRUTTURA CHE NON È PIÙ ROTTO, I CAPELLI NERI DELLA DONNA CHE NON VENGONO DESCRITTI E LA FIGURA CHE INIZIA A MUOVERSI."</string>
+	<string name="pop17m_5_4__b">"LE 5 DIFFERENZE ERANO: LA TEMPESTA CHE IN UNA VISIONE 'VORTICA' E NELL\'ALTRA 'INFURIA', LA MENZIONE DELLE OMBRE SUI CORPI, IL CORPO ALL\'INTERNO DELLA STRUTTURA CHE NON È PIÙ MARTORIATO, I CAPELLI NERI DELLA DONNA CHE NON VENGONO DESCRITTI E LA FIGURA CHE INIZIA A MUOVERSI."</string>
 	<string name="pop17m_5_5__b">"TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.
 
 SENZA RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO, MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 17 SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
