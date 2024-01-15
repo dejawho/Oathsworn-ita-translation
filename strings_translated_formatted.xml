@@ -26,7 +26,7 @@
 	<string name="abc_shareactionprovider_share_with">Condividi con</string>
 	<string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
 	<string name="abc_toolbar_collapse_description">Crollo</string>
-	<string name="about_text">"Oathsworn Traduzione Italiana v17.0
+	<string name="about_text">"Oathsworn Traduzione Italiana v18.0
 
 Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
 	<string name="add_time">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -1318,10 +1318,10 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn18_24_2__a">1. Mantenete un ritmo attento</string>
 	<string name="btn18_24_2__b">2. Aumentate la velocità</string>
 	<string name="btn18_26_1__a">1. Fidatevi dell\'accusatore e mandate via la squadra con un po\' di razioni</string>
-	<string name="btn18_26_1__b">2. Fidatevi degli accusati e tenerli con l\'esercito</string>
-	<string name="btn18_26_1__c">3. Fidatevi dell\'accusatore e ucciderli per pietà</string>
+	<string name="btn18_26_1__b">2. Fidatevi degli accusati e teneteli nell'esercito</string>
+	<string name="btn18_26_1__c">3. Fidatevi dell\'accusatore e uccideteli per pietà</string>
 	<string name="btn18_26_7__a">1. Mandate soldati in avanscoperta</string>
-	<string name="btn18_26_7__b">2. Non rischiare i soldati</string>
+	<string name="btn18_26_7__b">2. Non rischiate i soldati</string>
 	<string name="btn18_27_1__a">1. Attaccate la creatura</string>
 	<string name="btn18_27_1__b">2. (Solo se avete almeno 1 bomba d\'ambra) Lanciate una bomba d\'ambra contro di essa</string>
 	<string name="btn18_27_1__c">3. Andate via prima che vi veda</string>
@@ -1335,7 +1335,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn18_47_1__a">Se 2 o più Oathsworn FALLISCONO</string>
 	<string name="btn18_47_1__b">Altrimenti</string>
 	<string name="btn18_64_1__a">1. Mandare soldati in avanscoperta</string>
-	<string name="btn18_64_1__b">2. Non rischiare i soldati</string>
+	<string name="btn18_64_1__b">2. Non rischiate i soldati</string>
 	<string name="btn18_65_1__a">"Se avete la parola chiave 'THIN FORMATION' sul vostro Foglio della Libera Compagnia"</string>
 	<string name="btn18_65_1__b">Altrimenti</string>
 	<string name="btn18_65_3__a">Se 3 o più hanno SUCCESSO</string>
@@ -1441,7 +1441,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn19_13_1__a">1. Attraversate il cancello verso la Guglia per un certo tempo</string>
 	<string name="btn19_13_1__b">2. Dirigetevi verso il Grande Albero per un certo periodo</string>
 	<string name="btn19_14_1__a">1. Sbirciate attraverso la porta</string>
-	<string name="btn19_14_1__b">2. (Solo se avete almeno 1 cubo di rifornimento) Esplorate l\'interno</string>
+	<string name="btn19_14_1__b">2. (Solo se avete almeno 1 cubo rifornimento) Esplorate l\'interno</string>
 	<string name="btn19_14_3__a">Se avete l\'alleato Quintus</string>
 	<string name="btn19_14_3__b">Se non possedete l\'alleato Quintus</string>
 	<string name="btn19_14_4__a">1. Dirigetevi verso la Guglia per un certo periodo</string>
@@ -4100,7 +4100,7 @@ Scegliete un\'opzione:"</string>
 Mentre il sangue cola sul suo corsetto intricato e ricamato, studiate il pugnale infilato nello stivale. La sua fattura ed il suo design sono inconfondibili per chi conosce le lame. È un "bacio tracio", l\'arma preferita della Gilda degli Assassini a Tracia."</string>
 	<string name="chp13_28_26__c">"Seguite i carcerieri nei sotterranei della prigione della Roccia Nera e vi assicurate che Elanna sia rinchiusa al sicuro. Dopo averla messa al sicuro dietro le sbarre, osservate con attenzione il pugnale che aveva con sé. La sua fattura ed il suo design sono inconfondibili per un esperto di lame. Si tratta di un "bacio tracio", l\'arma preferita della Gilda degli Assassini a Tracia."</string>
 	<string name="chp13_28_27__a">"Consegnando Elanna alle Guardie Reali, non manca di dire loro che è pericolosa e che deve essere trattata con cautela. Mentre la portano via, sentite gli uomini scherzare sui vostri avvertimenti e vedete un sorriso sul volto di Elanna. Consegnare una prigioniera così pericolosa alle guardie forse non è stata la scelta più sicura, ma avete questioni più urgenti di cui occuparvi. Mentre tornate in città, osservate con attenzione il pugnale che le avete confiscato, notando i sottili motivi incisi sulla sua superficie. L\'artigianato ed il design ornato sono inconfondibili per chi conosce le lame. Si tratta di un "bacio tracio", l\'arma preferita della Gilda degli Assassini a Tracia. Capite subito l\'errore e tornate di corsa dove avete lasciato Elanna con la squadra di guardia. Dopo aver perlustrato alcune strade vicine, finalmente trovate i corpi delle guardie sparsi in un vicolo vuoto e Elanna non si vede da nessuna parte."</string>
-	<string name="chp13_28_28__a">"I pezzi cominciano a combaciare. Elanna era ovviamente un\'agente della Gilda degli Assassini Traciani, e una spia molto radicata, presumibilmente risalente alla "maschera tracia" misteriosamente scartata e trovata presso il muro fuori Bastone. Deve essersi infiltrata a Bastone come pupilla di un nobile e poi si è diretta a Verum sotto la vostra protezione. Una volta qui, molto probabilmente si è messa a raccogliere informazioni sulle difese della città e sulle debolezze del palazzo, culminando poi nel vostro scontro di oggi. Forse non sapete ancora chi è stata mandata a uccidere, ma la sua Gilda è nota per occuparsi solo di "obiettivi di alto valore"
+	<string name="chp13_28_28__a">"I pezzi cominciano a combaciare. Elanna era ovviamente un\'agente della Gilda degli Assassini Traciani, e una spia molto radicata, presumibilmente risalente alla "Maschera Traciana" misteriosamente scartata e trovata presso il muro fuori Bastone. Deve essersi infiltrata a Bastone come pupilla di un nobile e poi si è diretta a Verum sotto la vostra protezione. Una volta qui, molto probabilmente si è messa a raccogliere informazioni sulle difese della città e sulle debolezze del palazzo, culminando poi nel vostro scontro di oggi. Forse non sapete ancora chi è stata mandata a uccidere, ma la sua Gilda è nota per occuparsi solo di "obiettivi di alto valore"
 
 Tuttavia, per il momento tutto questo deve aspettare. Ci sono questioni più urgenti di cui dovete occuparvi immediatamente: riportare l\'ordine in città e trovare le streghe per il Richiamo.
 
@@ -4350,7 +4350,7 @@ La vostra padronanza del Knock è migliorata dall\'ultimo incontro con gli A\'De
 
 Accompagnandovi in quello che potrebbe essere descritto solo come un cimitero, vi mostrano quanto grave sia stato il tributo. Alla base della loro imponente barricata di legno ci sono file su file di bellissimi fiori bianchi, ognuno dei quali rappresenta una vita A\'Dendri persa a causa della violenza. \"Siamo circondati. Abbiamo bisogno di aiuto,\" uno degli anziani batte il dito. \"Volete osservare il nostro pericolo?\""</string>
 	<string name="chp13_4_11__a">Sentite le urla rabbiose prima ancora di raggiungere le mura orientali. Guardando giù dai bastioni, osservate una folla di umani che lancia promesse di violenza mentre agita torce color ambra e armi di fortuna contro i Ranger che si trovano in cima alla barricata. La folla sembra mantenere una distanza di sicurezza per il momento, ma sapete che queste mura non reggeranno se troveranno abbastanza coraggio o disperazione per caricare.</string>
-	<string name="chp13_4_12__a">"Dalla cima del muro occidentale si domina quella che un tempo era una zona vivace della città. Ora è conosciuto come il quartiere della peste. Il tanfo di morte e decadenza è soffocante. Le pire ardono in ogni strada, con cadaveri carbonizzati e vittime della peste sparse ovunque. Alcuni sembrano ancora in movimento. I vostri ospiti A\'Dendri vi raccontano che anche qui gli infetti hanno cercato di sfondare il muro. La peste li ha in qualche modo cambiati e i singoli individui attaccano senza cervello il muro con rami e ossa
+	<string name="chp13_4_12__a">"Dalla cima del muro occidentale si domina quella che un tempo era una zona vivace della città. Ora è conosciuto come il quartiere della peste. Il tanfo di morte e decadenza è soffocante. Le pire ardono in ogni strada, con cadaveri carbonizzati e vittime della peste sparse ovunque. Alcuni sembrano ancora in movimento. I vostri ospiti A\'Dendri vi raccontano che anche qui gli infetti hanno cercato di sfondare il muro. La peste li ha in qualche modo cambiati e i singoli individui attaccano ciecamente il muro con rami e ossa
 
 \"I ranger cercano i sopravvissuti nelle strade della peste,\" un anziano comunica col Knock. \"Attaccato. Ora in trappola. Sei amico di A\'Dendri. Aiuterai a trovare i Ranger?\"
 
@@ -6083,7 +6083,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp16_4_3__a">"Quando i cadaveri che avete creato vengono rimossi dalla piazza, la risata del Pitone si attenua. \"Grazie per aver trattato con Rubeo. Ora il vostro pagamento. Venite, venite.\"
 
 Dopo che il palanchino è stato preparato, siete stati portati sul terreno del Pitone."</string>
-	<string name="chp16_4_3__c">"Il Pitone vi porta in una grande sala da banchetto dove un trono si trova su una predella all\'estremità della stanza. Ad esso è incatenata una donna trasandata in abiti nobiliari logori, chiaramente la vostra strega. Quando il personaggio mascherato si avvicina al trono, la strega lotta per sollevare lo sguardo, apparentemente esausta o forse sotto l\'effetto di qualche droga. All\'improvviso, la stanza inizia a tremare e si percepisce chiaramente l\'immenso potere emanato dalla donna. \"Ah, giusto in tempo,\" dice il Pitone, prendendo una piccola fiala da una borsa offerta da un servitore vicino. Spostatosi dietro la strega, una delle guardie personali prende in mano il guinzaglio della catena e lo strattona con forza, facendo inginocchiare la donna
+	<string name="chp16_4_3__c">"Il Pitone vi porta in una grande sala da banchetto dove un trono si trova su una pedana all\'estremità della stanza. Ad esso è incatenata una donna trasandata in abiti nobiliari logori, chiaramente la vostra strega. Quando il personaggio mascherato si avvicina al trono, la strega lotta per sollevare lo sguardo, apparentemente esausta o forse sotto l\'effetto di qualche droga. All\'improvviso, la stanza inizia a tremare e si percepisce chiaramente l\'immenso potere emanato dalla donna. \"Ah, giusto in tempo,\" dice il Pitone, prendendo una piccola fiala da una borsa offerta da un servitore vicino. Spostatosi dietro la strega, una delle guardie personali prende in mano il guinzaglio della catena e lo strattona con forza, facendo inginocchiare la donna
 
 Il Pitone versa quindi il contenuto della fiala nella gola della strega e le chiude la bocca. \"Oh Aurelia. Sei così dolce a provarci ogni volta.\" La strega si ammutolisce, fissando vacuamente in lontananza. \"Aether,\" dice il nobile, scuotendo la borsa per produrre il tintinnio delle fiale. \"Un potente sedativo, molto difficile da ottenere ed estremamente costoso,\" dice, con un sorriso. \"Bisogna tenere questa strega sotto controllo. Ha già rotto il collare da strega una volta. L\'ultima volta ha tolto la vita a trenta guardie prima che potessimo sottometterla.\" Sganciando la catena dal trono, trascina la strega dietro di sé e la porge a voi. \"Ora è vostra, Oathsworn, spero che voi non abbiate problemi con lei.\"
 
@@ -6477,21 +6477,21 @@ Scegliete un\'opzione:"</string>
 	<string name="chp18_16_1__a">All\'inizio del secondo giorno di assenza dal Filo, le piante intorno a voi si curvano e si piegano, formando un tunnel che si estende più di quanto si possa vedere, da est a ovest.</string>
 	<string name="chp18_16_1__c">Alcune liane penzolano dagli archi. Li lasciate in disparte, sapendo che il Bosco Profondo nasconde più minacce di quante se ne possano immaginare. Mentre vi voltate per controllare il resto dell\'esercito, notate un paio di soldati che si avvicinano a una delle viti più lunghe con diversi grandi fiori all\'estremità. Prima che abbiate la possibilità di gridare un avvertimento, le liane si allungano e si agganciano alle truppe. Quelli vicini gridano e indietreggiano confusi e terrorizzati.</string>
 	<string name="chp18_16_2__a">Diversi soldati si accaniscono sulle liane, cercando di tagliarle, ma sapete che non funzionerà mai. Non con gli strumenti che avete qui. Invece, afferrate le liane dall\'estremità e le piegate all\'indietro. Il sudore si spande sulla fronte mentre lotti contro la vegetazione assassina, srotolandola centimetro per centimetro per liberare i soldati prigionieri. Quando vedono quello che state facendo, gli altri vi aiutano e liberate la maggior parte delle vittime. Purtroppo, alcuni sono stati trascinati via nonostante i vostri sforzi.</string>
-	<string name="chp18_16_3__a">Mentre i soldati tagliano le viti e cercano di reciderle, sapete che non funzionerà mai. Non con gli strumenti che avete qui. Afferrate i viticci dall\'estremità e cercate di srotolarli, sforzandovi nello sforzo. Cominciate a fare qualche passo avanti, ma poi le liane secernono una specie di olio. Le brucia i palmi delle mani e perdete la presa mentre i soldati avviluppati cominciano a urlare. Sapendo di non poter fare più nulla per quegli uomini, ordinate agli arcieri di porre fine alle loro sofferenze.</string>
+	<string name="chp18_16_3__a">Mentre i soldati tagliano le viti e cercano di reciderle, sapete che non funzionerà mai. Non con gli strumenti che avete qui. Afferrate i viticci dall\'estremità e cercate di srotolarli, affaticandovi nello sforzo. Cominciate a fare qualche passo avanti, ma poi le liane secernono una specie di olio. Vi brucia i palmi delle mani e perdete la presa mentre i soldati avviluppati cominciano a urlare. Sapendo di non poter fare più nulla per quegli uomini, ordinate agli arcieri di porre fine alle loro sofferenze.</string>
 	<string name="chp18_16_3__c">È meglio andarsene in fretta.</string>
 	<string name="chp18_1_10__a">"L\'esercito ed il Re stanno aspettando fuori. Sapete che ci si aspetta che vi presentiate davanti a loro sul podio difronte al palazzo e che pronunciate un discorso per sollevare il loro spirito e per preparare i soldati alla marcia che li attende. In qualità di comandanti dell\'esercito, era prevedibile. D\'altra parte, potreste bere un ultimo bicchiere con i vostri alleati per rafforzare i legami di amicizia con le persone più vicine a voi. Dopotutto, sono le persone a cui avete affidato la vostra vita, e loro hanno fatto lo stesso con voi. Questa potrebbe essere la vostra ultima occasione per godervi un po\' di rifugio in pace.
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp18_1_11__a">Uscendo dalla tenda della Quercia Spezzata, vedete l\'esercito fuori. Sono in piedi sul campo di raduno di fronte al palazzo, tutti e trecento i soldati, uomini e donne in cotta di maglia lucida ed elmi di ferro, disposti in squadroni con le lance al fianco. Alcune mani tremanti indicano che potrebbero beneficiare di una spinta al morale. Più avanti è stato eretto un piccolo palco. Quando vi avvicinate alla predella, tutti gli occhi sono puntati su di voi. Scendendo le scale di legno, un mare di volti attende le vostre parole.</string>
+	<string name="chp18_1_11__a">Uscendo dalla tenda della Quercia Spezzata, vedete l\'esercito fuori. Sono in piedi sul campo di raduno di fronte al palazzo, tutti e trecento i soldati, uomini e donne in cotta di maglia lucida ed elmi di ferro, disposti in squadroni con le lance al fianco. Alcune mani tremanti indicano che potrebbero beneficiare di una spinta al morale. Più avanti è stato eretto un piccolo palco. Quando vi avvicinate alla pedana, tutti gli occhi sono puntati su di voi. Scendendo le scale di legno, un mare di volti attende le vostre parole.</string>
 	<string name="chp18_1_12__a">"Trascorrere del tempo con i vostri alleati sembra essere la cosa migliore da fare. Dopo tutto, questi sono gli uomini e le donne che saranno con voi fino alla fine, indipendentemente dai nemici che dovrete affrontare. Sono i compagni che sono rimasti al vostro fianco a prescindere dal pericolo, e meritano tutti un ultimo momento insieme prima di addentrarsi in un\'oscurità più profonda di quella che avete conosciuto.
 
 Si versa da bere e si raccontano storie. Si rievocano i ricordi, che diventano più grandiosi nel raccontarli di quanto non lo fossero in vita, come spesso accade per le storie. Si ride e, per un attimo, la tenda possiede una luce propria per allontanare l\'oscurità. Per un piccolo frammento di tempo, le battaglie sembrano appartenere al passato piuttosto che al futuro imminente."</string>
-	<string name="chp18_1_13__a">Terminato il suo discorso, si rivolge al resto della sua Libera Compagnia.</string>
+	<string name="chp18_1_13__a">Terminate il vostro discorso e vi rivolgete al resto della Libera Compagnia.</string>
 	<string name="chp18_1_14__a">"Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che la strada da percorrere è irta di pericoli e che la presenza di così tanti uomini risveglierà senza dubbio il Bosco Profondo della vostra presenza. Li incoraggiate a stare all\'erta e a seguire la formazione in ogni momento, ma le vostre parole hanno poco effetto. Vi rendete conto che non hanno problemi a credere nel pericolo che li attende, ma hanno bisogno di aiuto per credere nella missione
 
-Cambiando rotta, spostate la vostra attenzione sulle ragioni per cui stanno entrando nel Bosco Profondo. Verum e tutti i suoi abitanti sono in pericolo a causa della peste, ma c\'è una speranza, e quella speranza sono loro. Possono ribaltare la situazione e sconfiggere la peste. Hanno un solo compito: marciare nel Cuore di Tenebra. Se porteranno a termine questo compito, le loro famiglie, i loro amici e questa bella città sopravviveranno. Più parlate, più i loro volti diventano luminosi e, mentre concludete, i soldati sbattono le armi sulla lastra di pietra in un urrà militare. Sono pronti."</string>
-	<string name="chp18_1_15__a">Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che questa strada è irta di pericoli e che la presenza di così tanti uomini susciterà una forte reazione da parte del Bosco Profondo. Cercate di incoraggiarli a stare all\'erta e a seguire sempre la formazione, ma vedete che non ha molto effetto. Scendendo dalla predella e guardando il mare di volti, vi rendete conto che sono fin troppo consapevoli dei pericoli che li attendono. Troppo tardi, capite che non hanno problemi a credere nel pericolo, quello in cui avevano bisogno di aiuto era la missione.</string>
+Cambiando argomento, spostate la vostra attenzione sulle ragioni per cui stanno entrando nel Bosco Profondo. Verum e tutti i suoi abitanti sono in pericolo a causa della peste, ma c\'è una speranza, e quella speranza sono loro. Possono ribaltare la situazione e sconfiggere la peste. Hanno un solo compito: marciare nel Cuore di Tenebra. Se porteranno a termine questo compito, le loro famiglie, i loro amici e questa bella città sopravviveranno. Più parlate, più i loro volti diventano luminosi e, mentre concludete, i soldati sbattono le armi sulla lastra di pietra in un urrà militare. Sono pronti."</string>
+	<string name="chp18_1_15__a">Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che questa strada è irta di pericoli e che la presenza di così tanti uomini susciterà una forte reazione da parte del Bosco Profondo. Cercate di incoraggiarli a stare all\'erta e a seguire sempre la formazione, ma vedete che non ha molto effetto. Scendendo dalla pedana e guardando il mare di volti, vi rendete conto che sono fin troppo consapevoli dei pericoli che li attendono. Troppo tardi, capite che non hanno problemi a credere nel pericolo, quello in cui avevano bisogno di aiuto era la missione.</string>
 	<string name="chp18_1_16__a">"Tra la folla, in lontananza, si vedono le streghe che vengono condotte davanti alla colonna. Gli scherni della folla mostrano chiaramente il loro disprezzo per chiunque sia contaminato da poteri malefici.
 
 Sono tre. La prima è una strega maschio nel fiore degli anni, portata da un\'altra Libera Compagnia di Cistercia. La seconda è la giovane strega Aurelia, che avete portato dalla Tracia e che è ancora in preda al delirio dell\'etere. Accarezzando la borsa al vostro fianco, vi assicurate di avere ancora le preziose fiale che la terranno sotto controllo durante il viaggio. Infine, posate lo sguardo sulla vostra ex compagna. Ora è in catene e vi guarda con un profondo disprezzo negli occhi. Potete immaginare come si senta, ma la vostra decisione è stata presa per il bene comune. Per tutto il popolo di Verum. Per il Giuramento
@@ -6502,13 +6502,13 @@ Insieme alle streghe, le accompagnano tre guardiani, inviati direttamente da Roc
 Sono tre. Una coppia di fratelli, un uomo e una donna, portati da un\'altra Libera Compagnia di Cistercia e la giovane strega che avete portato dalla Tracia, ancora in preda al delirio dell\'etere. Accarezzando la borsa al vostro fianco, vi assicurate di avere ancora le preziose fiale che la terranno sotto controllo durante il viaggio.
 
 Insieme alle streghe, le accompagnano tre guardiani, inviati direttamente da Roccia Nera. Il loro compito è quello di tenere sotto controllo le streghe e di assicurarsi che arrivino al loro compito finale."</string>
-	<string name="chp18_1_18__a">"Con le streghe assicurate ai loro guardiani in testa alla colonna, vi dirigete verso la tenda di comando dove i capitani sono pronti per un ultimo briefing. La tenda, massiccia e decorata, non è difficile da trovare e, una volta entrati, vi trovate di fronte a un gruppo di capitani accalcati attorno a un tavolo con una grande mappa in pelle. Tutti sono accalcati a un\'estremità del tavolo, mentre l\'altra estremità è presidiata da un\'unica figura, un Sorvegliante. Vestito di un mantello nero e profondo, con il volto nascosto nell\'ombra del cappuccio, il volto del Sorvegliante è a dir poco inquietante. Si può capire perché i capitani abbiano scelto di dare molta importanza a questa creatura
+	<string name="chp18_1_18__a">"Con le streghe assicurate ai loro guardiani in testa alla colonna, vi dirigete verso la tenda di comando dove i capitani sono pronti per un ultimo briefing. La tenda, massiccia e decorata, non è difficile da trovare e, una volta entrati, vi trovate di fronte a un gruppo di capitani accalcati attorno a un tavolo con una grande mappa in pelle. Tutti sono accalcati a un\'estremità del tavolo, mentre l\'altra estremità è presidiata da un\'unica figura, un Sorvegliante. Vestito di uno spesso mantello nero, con il viso nascosto nell\'ombra del cappuccio, il volto del Sorvegliante è a dir poco inquietante. Si può capire perché i capitani abbiano scelto di dare molta importanza a questa creatura
 
 Con il saluto dei capitani riuniti, vi avvicinate al tavolo e studiate la mappa. Non avete mai visto una mappa così completa prima d\'ora. C\'è Verum, Cistercia, Tracia... Bastone ora giace in rovina... così come molte altre città che non avete mai visitato, tra cui Anvar e un\'enorme città contrassegnata solo da una X.
 
-Per la mezza campana successiva discutete del piano. La vostra destinazione è Raven\'s Reach, un\'antica fortezza che si trova a breve distanza dal Cuore di Tenebra. È la vostra migliore speranza di eseguire il Richiamo e di opporre resistenza al Bosco Profondo. Se tutto dovesse andare secondo i piani, le innumerevoli creature che avete visto volteggiare nel Cuore di Tenebra saranno attirate a Raven\'s Reach, permettendo ai sopravvissuti di entrare e trovare la cura per la peste. Gli A\'Dendri non hanno detto quale forma avrebbe assunto la cura, ma sono certi che la soluzione si trova nella grotta.
+Per alcuni minuti discutete del piano. La vostra destinazione è la Torre del Corvo, un\'antica fortezza che si trova a breve distanza dal Cuore di Tenebra. È la vostra migliore speranza di eseguire il Richiamo e di opporre resistenza al Bosco Profondo. Se tutto dovesse andare secondo i piani, le innumerevoli creature che avete visto volteggiare nel Cuore di Tenebra saranno attirate alla Torre del Corvo, permettendo ai sopravvissuti di entrare e trovare la cura per la peste. Gli A\'Dendri non hanno detto quale forma avrebbe assunto la cura, ma sono certi che la soluzione si trova nella grotta.
 
-Raven\'s Reach dista molti giorni di marcia da Verum, ma la Strada del Filo vi permetterà di fare almeno un po\' di strada. Dopodiché dovrete affidarvi alla bussola e ai punti di riferimento conosciuti. Sembra che a metà strada tra la fine della Strada del Filo e Raven\'s Reach si trovi una vecchia stazione della Libera Compagnia nota come Torre del Sale. È difendibile e ha resistito alla prova del tempo, sarà un buon posto per concludere la prima tappa del vostro viaggio. Da lì si prosegue verso Raven\'s Reach
+La Torre del Corvo dista molti giorni di marcia da Verum, ma la Strada del Filo vi permetterà di fare almeno un po\' di strada. Dopodiché dovrete affidarvi alla bussola e ai punti di riferimento conosciuti. Sembra che a metà strada tra la fine della Strada del Filo e la Torre del Corvo si trovi una vecchia stazione della Libera Compagnia nota come Torre del Sale. È difendibile e ha resistito alla prova del tempo, sarà un buon posto per concludere la prima tappa del vostro viaggio. Da lì si prosegue verso la Torre del Corvo
 
 Tracciando il percorso con il dito, si arriva all\'enorme città contrassegnata da una X sulla mappa. Un tempo aveva un nome, ma da allora è stato bruciato. \"Potremmo attraversare la città, per ridurre il tempo di viaggio,\" suggerisce un capitano
 
@@ -6516,7 +6516,7 @@ Tracciando il percorso con il dito, si arriva all\'enorme città contrassegnata 
 
 Sapete bene che non è il caso di interrogare un Sorvegliante. Qualunque siano le sue ragioni, il suo tono richiede sottomissione, un comando che tutti i presenti sono fin troppo pronti ad accettare. Sembra che dovrete fare il giro lungo della città
 
-Il briefing prosegue per un breve periodo, poi, al termine, sentite gli occhi del Sorvegliante soffermarsi su di voi e le macchie nere sulle vostre braccia. \"La vostra afflizione cresce,\" raspa. Con queste parole, produce una bottiglia di un liquido verdastro, simile a quello che vi ha guarito prima. \"Paracea. Per darvi più tempo.\" L\'ultima volta che ti era stato dato l\'intruglio ti era stato detto che era l\'unico, ma a quanto pare non era del tutto vero. Lo dite al Sorvegliante e la sua risposta vi fa correre un brivido lungo la schiena. \"Se non foste riusciti a recuperare la strega, sarebbe stato vero.\" A quanto pare siete ancora abbastanza utili da essere tenuti in vita
+Il briefing prosegue per un breve periodo, poi, al termine, sentite gli occhi del Sorvegliante soffermarsi su di voi e le macchie nere sulle vostre braccia. \"La vostra afflizione cresce,\" raspa. Con queste parole, estrae bottiglia di un liquido verdastro, simile a quello che vi ha guarito prima. \"Paracea. Per darvi più tempo.\" L\'ultima volta che ti era stato dato l\'intruglio ti era stato detto che era l\'unico, ma a quanto pare non era del tutto vero. Lo dite al Sorvegliante e la sua risposta vi fa correre un brivido lungo la schiena. \"Se non foste riusciti a recuperare la strega, sarebbe stato vero.\" A quanto pare siete ancora abbastanza utili da essere tenuti in vita
 
 Mentre lasciate la tenda, uno dei vostri capitani vi si avvicina. \"Mio signore, non ho potuto evitare di ascoltare. Avete un antidoto per la peste. Non ve lo chiederei, ma si tratta delle mie figlie, vedete. Sono state afflitte. Sono nascoste e non hanno molto tempo. Quello che avete in mano potrebbe salvarle. So che è chiedere molto, ma mi permettereste di darlo loro?
 
@@ -6527,7 +6527,7 @@ Scegliete un\'opzione:"</string>
 Raggiunti i grandi ponti che attraversano il letto prosciugato del fiume che divide il nord dal sud, vedete una nuova folla schierata davanti a voi, gli infetti. Centinaia di persone che camminano sul lato opposto del fiume. Come avevate previsto, le barricate vengono spostate e una piccola squadra armata di bombe d\'ambra attraversa il varco e inizia a stendere un tunnel di fuoco attraverso i quartieri della peste verso la Porta del Re.
 
 Il fuoco non durerà a lungo, quindi il corteo si muove a passo doppio attraverso il tunnel di fuoco, raggiungendo infine i grandi cancelli di Verum."</string>
-	<string name="chp18_1_19__c">"Al di là del cancello, il vostro esercito si forma come meglio può, affollandosi intorno alle mura. Molti di questi uomini e donne non sono mai stati nel Bosco Profondo prima d\'ora, che incombe con un\'oscurità sempre presente che raffredda l\'aria fino a quando il loro respiro può appannare il mezzogiorno. Voi ci siete abituati, ma alcuni soldati toccano il muro dietro di loro con una mano, tentando di lasciarlo andare, per evitare di perdersi.
+	<string name="chp18_1_19__c">"Al di là del cancello, il vostro esercito si forma come meglio può, affollandosi intorno alle mura. Molti di questi uomini e donne non sono mai stati nel Bosco Profondo prima d\'ora, che incombe con un\'oscurità sempre presente che raffredda l\'aria fino a quando la condensa del loro respiro non è così densa da poter essere tagliata con un coltello. Voi ci siete abituati, ma alcuni soldati toccano il muro dietro di loro con una mano, tentando di lasciarlo andare, per evitare di perdersi.
 
 L\'unico modo per far avanzare questo esercito è comandare. Senza sosta marciate nel Bosco Profondo alla testa di una colonna. Non vi voltate indietro, sicuri che i soldati vi seguiranno. A giudicare dal suono, lo fanno
 
@@ -6542,7 +6542,7 @@ Scegliete un\'opzione:"</string>
 
 Al calar della notte, vi dirigete verso l\'accampamento dell\'esercito situato di fronte al Palazzo. Ogni muscolo del vostro corpo trema per la stanchezza mentre vi muovete tra la folla di persone raccolte in questa piccola area della città. Abbassando lo sguardo sulle vostre mani, sentite la peste che si contorce dentro di voi e che diventa sempre più forte ogni giorno che passa."</string>
 	<string name="chp18_1_20__a">Siete sorpresi di vedere solo tre streghe. Lyceen, la strega che avevate salvato da Bastone e poi offerto per il Richiamo, è scomparsa. Chiedendo informazioni su di lei, scoprite che non è mai arrivata a Roccia Nera. A detta di tutti è scomparsa e nessuno sa perché. Un Inquisitore suggerisce che potrebbe essere stata salvata da qualcuno. Non riuscite a capire chi possa essere.</string>
-	<string name="chp18_1_21__a">"Terminato il briefing, avete un altro compito da svolgere. Spostandovi dove si stanno preparando i carri, fate il punto sull\'inventario. Alcuni carri sono già stati caricati, ma vi viene chiesto di portare la vostra esperienza per il resto. Le provviste saranno importanti, necessarie per resistere fino a Raven\'s Reach. La Guglia del Corvo ha anche fornito una serie di bombe d\'ambra che possono essere prese per respingere gli assalti del Bosco Profondo. Infine, in un viaggio come questo, il morale sarà un problema, quindi portare qualche barile di birra potrebbe essere utile più avanti. In qualità di comandanti dell\'esercito, la decisione finale sull\'equipaggiamento spetta a voi."</string>
+	<string name="chp18_1_21__a">"Terminato il briefing, avete un altro compito da svolgere. Spostandovi dove si stanno preparando i carri, fate il punto sull\'inventario. Alcuni carri sono già stati caricati, ma vi viene chiesto di portare la vostra esperienza per il resto. Le provviste saranno importanti, necessarie per resistere fino alla Torre del Corvo. La Guglia del Corvo ha anche fornito una serie di bombe d\'ambra che possono essere prese per respingere gli assalti del Bosco Profondo. Infine, in un viaggio come questo, il morale sarà un problema, quindi portare qualche barile di birra potrebbe essere utile più avanti. In qualità di comandanti dell\'esercito, la decisione finale sull\'equipaggiamento spetta a voi."</string>
 	<string name="chp18_1_21__c">Con i carri pronti e l\'esercito disposto dietro di voi, è finalmente arrivato il momento di partire.</string>
 	<string name="chp18_1_22__a">Date all\'uomo l\'antidoto destinato a voi. Sapete che per ora potete gestire la peste e che non la state ancora diffondendo ad altri. L\'uomo piange quando glielo consegnate e vi ringrazia. Gli chiedete di non dire a nessuno della cura per evitare dissensi tra le truppe, ma la voce della vostra generosità si diffonde rapidamente, anche se nessuno sa cosa avete fatto esattamente.</string>
 	<string name="chp18_1_23__a">"Sa che è dura, ma la sua vita è più importante delle figlie di quest\'uomo. Glielo neghi e prendi la Paracea per te."</string>
@@ -6569,7 +6569,7 @@ Non c\'è nulla che possiate fare per riportare indietro il Re e dovete guidare 
 
 Scegliete la prima opzione applicabile:"</string>
 	<string name="chp18_1_30__a">Quando dite all\'omone che dovrebbe rimanere qui con la sua famiglia, piange e mormora un sentito ringraziamento. Il suo martello può essere utile dove state andando, ma un uomo solo non farà la differenza. Si è guadagnato la pagnotta, più e più volte, e ora si è guadagnato di restare con la sua famiglia.</string>
-	<string name="chp18_1_31__a">"Midge è entusiasta e corre verso il ragazzo che avete trovato a Bastone. L\'orfano non ha ancora trovato la sua voce, ma l\'avete visto crescere sotto le cure di Greycane, Midge e Bram. Midge si inginocchia davanti al ragazzo e gli comunica la notizia che viaggerà con l\'esercito. Poi, con grande sorpresa di Midge, il ragazzo inizia a piangere. Midge è confuso e cerca di consolarlo. Gli spiega l\'importanza della missione ed il suo ruolo in essa. Il ragazzo cerca di fare un segnale in Knock, ma è troppo sconvolto per fare un gesto. Midge continua a parlare della missione, quando all\'improvviso il ragazzo sbotta: \"Stay.\" È la sua prima parola dopo tanto tempo. Tutti i presenti nella tenda sono affascinati dalla scena. Midge abbraccia il ragazzo e, dopo aver ritrovato la voce, dice: \"Non preoccuparti, piccolo uomo, ti prometto che tornerò.\"
+	<string name="chp18_1_31__a">"Midge è entusiasta e corre verso il ragazzo che avete trovato a Bastone. L\'orfano non ha ancora trovato la sua voce, ma l\'avete visto crescere sotto le cure di Greycane, Midge e Bram. Midge si inginocchia davanti al ragazzo e gli comunica la notizia che viaggerà con l\'esercito. Poi, con grande sorpresa di Midge, il ragazzo inizia a piangere. Midge è confuso e cerca di consolarlo. Gli spiega l\'importanza della missione ed il suo ruolo in essa. Il ragazzo cerca di fare un segnale in Knock, ma è troppo sconvolto per fare un gesto. Midge continua a parlare della missione, quando all\'improvviso il ragazzo sbotta: \"Rimani.\" È la sua prima parola dopo tanto tempo. Tutti i presenti nella tenda sono affascinati dalla scena. Midge abbraccia il ragazzo e, dopo aver ritrovato la voce, dice: \"Non preoccuparti, piccolo uomo, ti prometto che tornerò.\"
 
 Quando si ricongiunge a voi, gli dite che è meglio che non faccia promesse che potrebbe non essere in grado di mantenere."</string>
 	<string name="chp18_1_32__a">"Si rallegra della notizia e inizia a roteare la spada con selvaggi colpi di prova. Greycane alza una mano. \"Ehi, risparmiati per i mostri, ragazzo, ci taglierai una nuova finestra, brandendo la spada in quel modo.\" Midge inguaina la spada e, sorridendo, corre fuori."</string>
@@ -6600,7 +6600,7 @@ Scegliete la prima opzione applicabile:"</string>
 	<string name="chp18_1_41__a">Vedete che Finnian è allo stremo delle forze, proprio come voi. Ciononostante, inizia a medicare le vostre ferite non appena arrivate alla Quercia Spezzata. Sapete bene che non potete rifiutarvi, il suo fervore e la sua fede sono più forti che mai. Temete, tuttavia, che si affaticherà fino alla morte in questo modo, soprattutto per quello che sta per accadere.</string>
 	<string name="chp18_1_42__a">La corona ha inviato uno speziale per curare le vostre ferite. Avete solo una notte di riposo davanti a voi prima di dover ripartire, quindi è molto apprezzato. Seduti al vostro tavolo, lasciate che l\'uomo vi leghi, vi applichi pomate e unguenti, prima di salutarlo.</string>
 	<string name="chp18_1_43__a">Uscendo dalla tenda della Quercia Spezzata, vedete l\'esercito fuori. Sono in piedi sul campo di raduno di fronte al palazzo, tutti e trecento i soldati. Uomini e donne in cotta di maglia lucida ed elmi di ferro stanno in squadroni, con le lance al fianco. Alcune mani tremanti indicano che avrebbero bisogno di una spinta al morale. Più avanti, è stato eretto un piccolo palco dove vedete il Re in piedi, con due Sorveglianti che lo affiancano. Egli parla ai soldati del viaggio che dovranno intraprendere e vi presenta come loro comandanti. Quando salite sul palco, tutti gli occhi sono puntati su di voi. Scendendo le scale di legno, un mare di volti attende le vostre parole.</string>
-	<string name="chp18_1_44__a">Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che questa strada è irta di pericoli e che la presenza di così tanti uomini susciterà una forte reazione da parte del Bosco Profondo. Cercate di incoraggiarli a stare all\'erta e a rimanere sempre in formazione, ma le vostre parole hanno poco effetto. Scendendo dalla predella e guardando il mare di volti, vi rendete conto che sono fin troppo consapevoli dei pericoli che li attendono. Troppo tardi, capite che non hanno problemi a credere nel pericolo, quello di cui avevano bisogno era un aiuto per credere nella missione.</string>
+	<string name="chp18_1_44__a">Iniziate il vostro discorso e scegliete di dire all\'esercito la verità. Che questa strada è irta di pericoli e che la presenza di così tanti uomini susciterà una forte reazione da parte del Bosco Profondo. Cercate di incoraggiarli a stare all\'erta e a rimanere sempre in formazione, ma le vostre parole hanno poco effetto. Scendendo dalla pedana e guardando il mare di volti, vi rendete conto che sono fin troppo consapevoli dei pericoli che li attendono. Troppo tardi, capite che non hanno problemi a credere nel pericolo, quello di cui avevano bisogno era un aiuto per credere nella missione.</string>
 	<string name="chp18_1_45__a">I soldati iniziano a cantare e si sente la loro voce riecheggiare nella foresta oscura. Per un breve periodo, si sente che il loro spirito si è sollevato. Questo luogo non sentiva suoni simili da molto tempo.</string>
 	<string name="chp18_1_45__c">Come vi aspettavate, i suoni hanno un altro effetto ed il canto è risposto da stridii nel sottobosco mentre branchi di Scrabbler multiformi caricano la linea.</string>
 	<string name="chp18_1_46__a">"Interrompete la canzone con una parola e continuate a marciare, gli unici suoni che risuonano nel Bosco Profondo sono i tintinnii delle armature metalliche e le conversazioni sommesse. Non potete rischiare di fare più rumore del necessario, perché sapete che il Bosco Profondo reagirà sempre più forte alla vostra presenza
@@ -6636,9 +6636,9 @@ La delusione dura un attimo, ma poi Midge alza le spalle e sorride ancora una vo
 
 \"Un regalo d\'addio,\" Bram dice, \"Il meglio che Verum ha da offrire, per il meglio che Verum ha da offrire,\" dice, allungando una mano verso il cibo e poi verso di voi
 
-Greycane offre, \"Se non chiedete cosa c\'è nelle salsicce, avrete un pasto delizioso.\" Ma il suo scherzo è a metà. Conoscete tutti la verità della situazione. Questo pasto è il loro modo di dirsi addio, e questa volta non è come le altre. Questo è un vero addio. Anche se ci riuscite, non avete idea di cosa succederà, né se riuscirete a tornare."</string>
+\"Se non chiedete cosa c\'è nelle salsicce, avrete un pasto delizioso.\" dice Greycane, ma il suo è uno scherzo a metà. Conoscete tutti la verità della situazione. Questo pasto è il loro modo di dirsi addio, e questa volta non è come le altre. Questo è un vero addio. Anche se ci riuscite, non avete idea di cosa succederà, né se riuscirete a tornare."</string>
 	<string name="chp18_1_8__c">Dopo la migliore colazione che abbiate mai fatto da quando ve ne ricordate, osservate i presenti all\'interno della tenda. Molti sono i vostri alleati, seduti ai loro tavoli, che stanno ancora finendo i loro piatti. Mentre aspettate, guardate verso il lembo della tenda. L\'adunata è in attesa, così come la vostra responsabilità.</string>
-	<string name="chp18_1_9__a">"Con la morte del Re, si sa che il morale sarà basso. Non c\'è nessuno a spronare le truppe. Il re era giovane, ma carismatico. Sapete che ora si alzerebbe in piedi, sulla predella davanti al palazzo, e pronuncerebbe un discorso per risollevare gli animi e preparare i soldati alla marcia che li attende
+	<string name="chp18_1_9__a">"Con la morte del Re, si sa che il morale sarà basso. Non c\'è nessuno a spronare le truppe. Il re era giovane, ma carismatico. Sapete che ora si alzerebbe in piedi, sulla pedana davanti al palazzo, e pronuncerebbe un discorso per risollevare gli animi e preparare i soldati alla marcia che li attende
 
 Senza il re, avete una scelta. Potete intervenire e pronunciare quel discorso. In qualità di comandanti dell\'esercito, ve lo aspettereste. D\'altra parte, potreste bere un ultimo bicchiere con i vostri alleati per rafforzare i legami di amicizia con le persone più vicine a voi. Dopo tutto, queste sono le persone a cui avete affidato la vostra vita e che hanno fatto lo stesso con voi. Questa potrebbe essere la vostra ultima occasione per godervi un po\' di riparo in pace.
 
@@ -6700,7 +6700,7 @@ Proprio mentre state per ordinare ai soldati di riempire i boccali, però, scorg
 Scegliete un\'opzione:"</string>
 	<string name="chp18_27_2__c">Il combattimento è breve ma feroce e la creatura giace presto insanguinata nel fango. I soldati sono sollevati dall\'avere a disposizione acqua potabile fresca e sono ansiosi di riempire i loro boccali.</string>
 	<string name="chp18_27_3__c">"Scagliate la bomba nella boscaglia e la luce intensa ed il forte rumore vi assordano per un attimo. Quando i vostri sensi tornano, la carcassa della creatura giace lì, semidistrutta. I soldati sono sollevati dal fatto di avere acqua potabile fresca e sono ansiosi di riempire i loro boccali."</string>
-	<string name="chp18_32_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso mezza campana a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
+	<string name="chp18_32_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso alcuni minuti a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
 	<string name="chp18_32_2__a">Si trova un secondo simbolo, poi un terzo. Seguendo il sentiero, si arriva a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
 	<string name="chp18_32_3__a">Nonostante i vostri sforzi, non riuscite a trovare nulla. Forse questo sentiero è stato lasciato abbastanza tempo fa da non trovare più nulla. Nel Bosco Profondo si perdono continuamente sentieri. Tornate verso il resto dell\'esercito, prima di perdere anche questo sentiero.</string>
 	<string name="chp18_33_1__a">"Un\'altra lunga marcia sotto la cintura ed il Bosco Profondo inizia ancora una volta ad aprirsi davanti a voi. Il sud sembra libero e anche un sentiero a ovest si presenta come una possibile direzione. Si potrebbero inviare esploratori in ricognizione per confermare entrambi.
@@ -6713,7 +6713,7 @@ Scegliete un\'opzione:"</string>
 
 Scegliete un\'opzione:"</string>
 	<string name="chp18_37_2__c">Gli esploratori che sono andati a ovest affermano che il sentiero è libero. Gli esploratori che avete mandato a est tornano con strane notizie. Dicono di aver visto dei simboli incisi su alcuni alberi. Mentre ve li descrivono, vi rendete conto che forse stanno descrivendo glifi di un\'altra Libera Compagnia. La squadra inviata a sud riferisce che lì c\'è un vecchio villaggio in rovina e che si sono sentiti dei movimenti all\'interno.</string>
-	<string name="chp18_38_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso mezza campana a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
+	<string name="chp18_38_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso alcuni minuti a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
 	<string name="chp18_38_2__a">Si trova un secondo simbolo e poi un terzo. Seguendo il sentiero si arriva a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
 	<string name="chp18_38_3__a">Nonostante i vostri sforzi, non riuscite a trovare nulla. Forse questo sentiero è stato lasciato abbastanza tempo fa da non trovare più nulla. Nel Bosco Profondo si perdono continuamente sentieri. Tornate verso il resto dell\'esercito, prima di perdere anche questo sentiero.</string>
 	<string name="chp18_43_1__a">"La Foresta si dirada e la marcia diventa più facile per un certo periodo. Il suono lontano della vita animale che di solito accompagna la foresta è assente qui. I rumori della Foresta sono un promemoria costante del pericolo sempre presente, ma in qualche modo questo silenzio è più snervante. Proseguendo, si comincia a capire perché c\'è tanto silenzio. Ci sono ossa sul sentiero davanti a voi e, ai lati, se ne vedono altre tra gli alberi. Gli scheletri di grandi carnivori e di animali più piccoli disseminano l\'area.
@@ -6789,7 +6789,7 @@ Ordinate agli arcieri di liberarsi e le frecce colpiscono il ventre coriaceo del
 	<string name="chp18_85_1__a">La speranza inizia a sbocciare nell\'esercito. All\'inizio la si intravede solo tra gli alberi, ma quando il tunnel serpeggia verso ovest ed il bosco si apre in una radura, vedete una torre solitaria al centro, circondata da alte mura bianche. Un applauso si leva dalla fila. Avete finalmente trovato la Torre del Sale.</string>
 	<string name="chp18_85_1__c">"In alto sopra gli alberi, è uno spettacolo da vedere. Un frammento di civiltà che emerge dal mare caotico degli alberi. Nel raggio di una dozzina di passi dalle mura della Torre del Sale non cresce nulla, perché il sale infuso nella pietra e la terra la tengono a bada. Persino i mostri l\'hanno lasciata in disparte e nessun segno di denti o di artigli intacca le difese della struttura. Sebbene sia rimasta in piedi per secoli, sembra ancora forte e robusta, e sarete grati di trovarvi all\'interno delle sue mura. Finalmente avete raggiunto una certa sicurezza ed il punto intermedio del vostro viaggio verso il Cuore di Tenebra.
 
-Come se si prendesse gioco del vostro pensiero di sicurezza, il terreno intorno a voi inizia a rimbombare. Non sapete se sia una coincidenza o se il Wyrm senza cervello abbia percepito la vostra fuga. In ogni caso, sta venendo verso di voi, e sta venendo velocemente
+Come se si prendesse gioco del vostro pensiero di sicurezza, il terreno intorno a voi inizia a rimbombare. Non sapete se sia una coincidenza o se il Wyrm abbia percepito la vostra fuga. In ogni caso, sta venendo verso di voi, e sta venendo velocemente
 
 Invitate i vostri soldati a correre verso il santuario della torre. Se solo riusciste a raggiungerlo..
 
@@ -6801,7 +6801,7 @@ La speranza inizia a sbocciare nell\'esercito. All\'inizio la si intravede solo 
 	<string name="chp18_85_3__a">"Vi rialzate, pronti a combattere. I soldati intorno a voi sono confusi e potete vedere la paura sui loro volti mentre si allontanano dal Wyrm. La maggior parte dello schieramento è alle vostre spalle, ma l\'avanguardia del vostro esercito è nel vivo della battaglia. Tra le decine di soldati presenti, ne vedete uno che si oppone coraggiosamente al Wyrm, con la sua spada che fende avanti e indietro il fianco della creatura. Guardando il frontalino dell\'elmo del soldato, siete colpiti da un\'improvvisa consapevolezza. Riconoscete quegli occhi. È Midge!
 
 Il ragazzo aveva ignorato i vostri ordini di rimanere indietro e in qualche modo si era inserito nell\'esercito a vostra insaputa. Ora Midge è qui, proprio nel bel mezzo dell\'attacco del Wyrm. La frustrazione e la paura per il ragazzo aumentano in egual misura. Dovete salvarlo."</string>
-	<string name="chp18_85_5__a">"Con un grido di battaglia, caricate la bestia, sperando di attirare la sua attenzione. Se riuscite a tenerla lontana dall\'avanguardia, potrebbero raggiungere le mura mentre voi affrontate l\'enorme bestia. Da lì, potranno fare fuoco sulla parte superiore esposta del Wyrm e aumentare i danni che infliggerete. Inoltre, più si salva, più aumentano le possibilità di salvare Midge."</string>
+	<string name="chp18_85_5__a">"Con un grido di battaglia, caricate la bestia, sperando di attirare la sua attenzione. Se riuscite a tenerla lontana dall\'avanguardia, potrebbero raggiungere le mura mentre voi affrontate l\'enorme bestia. Da lì, potranno fare fuoco sulla parte superiore esposta del Wyrm e aumentare i danni che infliggerete. Inoltre, più se né, più aumentano le possibilità di sopravvivenza di Midge."</string>
 	<string name="chp18_85_6__a">Guardando alle vostre spalle, vedete che l\'esercito è terrorizzato. Questa bestia li perseguita da giorni e molti di loro la seguono nei loro incubi. Si difendono, ma non sono in grado di caricare con voi. Senza di loro, la lotta sarà più difficile.</string>
 	<string name="chp18_85_7__a">"Guardando alle vostre spalle, vedete l\'esercito che tiene duro. Questa bestia li ha perseguitati per giorni e molti di loro la seguono nei loro incubi. Eppure sono pronti a combatterla, il loro morale è forte
 
@@ -6828,10 +6828,10 @@ Scegliete un\'opzione:"</string>
 	<string name="chp18_86_4__c">"A questa distanza, non si può sbagliare con il dispositivo ambra.
 
 Si infrange contro la testa della creatura e si verifica l\'esplosione di luce rivelatrice. Prima che qualcuno possa fare qualcosa, la creatura ulula di dolore e la sua testa si agita in preda a una rabbia cieca, scaraventandovi all\'indietro. Diversi soldati vengono schiacciati nel caos e, a giudicare dal rimbombo del terreno, i brividi della bestia si estendono per tutta la lunghezza del corpo. Quando riuscite a rimettervi in piedi, la testa della bestia si ritira sottoterra e i tremori si attenuano di nuovo. Scossi, i soldati guardano spaventati la terra. Inutile dire che pochi di loro dormiranno molto stanotte."</string>
-	<string name="chp18_86_4__e">Per quanto riguarda te stesso, hai imparato a dormire sotto questo pericolo molto tempo fa. Ancora una volta ti sdrai, chiudi gli occhi ed entri in un sonno senza sogni, vuoto come il Vuoto.</string>
+	<string name="chp18_86_4__e">Per quanto riguarda te stesso, hai imparato a dormire sotto questo pericolo molto tempo fa. Ancora una volta ti sdrai, chiudi gli occhi ed entri in un sonno senza sogni, vuoto come il nulla.</string>
 	<string name="chp18_86_5__a">Impugnando saldamente le armi, si lancia un grido di battaglia e si lancia nel combattimento.</string>
 	<string name="chp18_86_5__c">"Mentre attaccate, sapete che il suo ventre è troppo spesso per le vostre armi. Concentrando tutti i vostri sforzi sui fianchi della bestia, colpite ancora e ancora, finché le vostre armi non scavano in profondità. La creatura ulula di dolore e la sua testa si agita in preda a una rabbia cieca, scaraventandovi all\'indietro. Diversi soldati vengono schiacciati nel caos e, a giudicare dal rimbombo del terreno, i sussulti della bestia si estendono per tutta la lunghezza del suo corpo. Quando riuscite a rimettervi in piedi, la testa della bestia si ritira sottoterra e i tremori si attenuano di nuovo. Scossi, i soldati guardano spaventati la terra: inutile dire che pochi di loro dormiranno molto stanotte."</string>
-	<string name="chp18_86_5__e">Per quanto riguarda te stesso, hai imparato a dormire sotto questo pericolo molto tempo fa. Ancora una volta ti sdrai, chiudi gli occhi ed entri in un sonno senza sogni, vuoto come il Vuoto.</string>
+	<string name="chp18_86_5__e">Per quanto riguarda te stesso, hai imparato a dormire sotto questo pericolo molto tempo fa. Ancora una volta ti sdrai, chiudi gli occhi ed entri in un sonno senza sogni, vuoto come il nulla.</string>
 	<string name="chp18_87_1__c">L\'infinito mare di alberi forma un tunnel che dà l\'impressione di essere un branco. Anche l\'esercito è in fibrillazione, come testimoniano le tracce di Wyrm tra gli alberi. Enormi buchi appaiono nella terra e gli alberi sono stati spostati dove le grandi bestie sono strisciate fuori dal terreno. Non si capisce perché i Wyrm siano più fitti qui, ma si sa che quello grosso è ancora là fuori da qualche parte. Le deboli vibrazioni vi fanno accelerare il passo, mentre incitate l\'esercito ad andare avanti. La Torre del Sale deve essere ormai vicina.</string>
 	<string name="chp18_epi_1__a">"Con un grande sussulto, la testa dell\'antico Wyrm crolla su un albero e giace immobile. Dopo giorni di schermaglie con la creatura, finalmente è morta. Non saprete mai perché non si sia ritirato nell\'ultimo incontro. Era come se volesse perdere la propria vita per impedirvi di raggiungere la vostra destinazione."</string>
 	<string name="chp18_epi_1__c">Mentre la polvere si deposita, la vostra mente si rivolge a Midge, che avevate perso di vista nel caos del combattimento e potete solo sperare che sia stato uno di quelli sopravvissuti allo scontro.</string>
@@ -6846,13 +6846,13 @@ Mentre gli altri corpi sono poco più che una perdita calcolata - vittime della 
 
 La mano si stringe in un pugno, tanto forte da far tremare il braccio. Non avete idea di quanto tempo siete rimasti lì, ma alla fine un soldato si avvicina e vi mette un braccio sulla spalla per riportarvi al presente.
 
-Sapendo che sarà tutto inutile se non riuscirete a portare a termine ciò che vi aspetta, tornate dentro. Dovete raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
+Sapendo che sarà tutto inutile se non riuscirete a portare a termine ciò che vi aspetta, tornate dentro. Dovete raggiungere la Torre del Corvo e poi il Cuore di Tenebra."</string>
 	<string name="chp18_epi_4__a">"Con sollievo trovate il ragazzo tra le mura. Vi rendete conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Dicendoglielo e dicendogli che ha fatto bene, sorride da un orecchio all\'altro
 
-La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
+La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere la Torre del Corvo e poi il Cuore di Tenebra."</string>
 	<string name="chp18_epi_5__a">"Con grande sollievo trovate il ragazzo tra quelli che presenti all\'interno delle mura. Vi aveva sfidato, ma non potete fargliene una colpa. Vedendo come ha affrontato il Wyrm, forse avete sbagliato a negargli un posto nell\'esercito. Ti rendi conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Quando glielo dici e gli dici che è stato bravo, lui sorride da un orecchio all\'altro
 
-La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere Raven\'s Reach e poi il Cuore di Tenebra."</string>
+La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere la Torre del Corvo e poi il Cuore di Tenebra."</string>
 	<string name="chp18m_1_0__a">"Storia a Tempo
 
 Al termine del vostro primo giorno di assenza dal Filo, si fa notte e dovete decidere come gestire le veglie notturne. Da Verum avete avuto un approccio più indulgente, permettendo ai soldati di dormire di più man mano che si abituavano alla marcia e ai terrori del Bosco Profondo. Ora che siete più avanti e che il Bosco Profondo si accorge sempre più della vostra presenza, dovete decidere se aumentare la guardia.
@@ -6955,7 +6955,7 @@ La strada da percorrere è ancora lunga e non si ha la certezza di poter fare ri
 I soldati possono sopravvivere per un po\' senza razioni. Non gli piacerà, ma lo accetteranno."</string>
 	<string name="chp18m_3_4__a">"Storia a Tempo
 
-Mentre mangiate le vostre razioni e discutete della giornata di marcia con i vostri capitani, improvvisamente sentite come se il terreno si stesse leggermente spostando. Guardate il vostro boccale e vedete che la superficie della bevanda trema come se avesse paura di ciò che sta per accadere. All\'inizio pensate che si tratti di un inferno fresco proveniente dal Bosco Profondo, ma un soldato mette a tacere questa idea quando si precipita verso di voi gridando
+Mentre mangiate le vostre razioni e discutete della giornata di marcia con i vostri capitani, improvvisamente sentite come se il terreno si stesse leggermente spostando. Guardate il vostro boccale e vedete che la superficie della bevanda trema come se avesse paura di ciò che sta per accadere. All\'inizio pensate che si tratti di una mostruosità proveniente dal Bosco Profondo, ma un soldato mette a tacere questa idea quando si precipita verso di voi gridando
 
 \"Miei signori, è la giovane strega, si sta svegliando!\" Vi precipitate e vedete che la strega di Tracia sta tremando, con gli occhi che si muovono dietro le palpebre. Non è ancora completamente sveglia e, prima che lo diventi, prendete l\'etere nella vostra borsa e le somministrate un\'altra dose del potente sedativo. Non dovrebbe averne bisogno per un po\' di tempo. Guardando la borsa quasi vuota, sperate di averne abbastanza."</string>
 	<string name="chp18m_4_0__a">"Storia a Tempo
@@ -7136,9 +7136,9 @@ Si potrebbero trascorrere anni in questa stanza, scavando nei suoi segreti. La c
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_15_17__a">"Entrando più a fondo, si trova una predella rialzata e una grande scrivania. Non avete trovato altri occupanti in questa stanza, ma qui vedete una figura solitaria, ammantata e incappucciata. La forma inconfondibile di un Sorvegliante
+	<string name="chp19_15_17__a">"Entrando più a fondo, si trova una pedana rialzata e una grande scrivania. Non avete trovato altri occupanti in questa stanza, ma qui vedete una figura solitaria, ammantata e incappucciata. La forma inconfondibile di un Sorvegliante
 
-Il Sorvegliante non si muove quando salite sulla predella e quando vi avvicinate alla scrivania capite perché. Anche il Sorvegliante è morto, con una mano scheletrica che riposa eternamente su un libro davanti a lui.
+Il Sorvegliante non si muove quando salite sulla pedana e quando vi avvicinate alla scrivania capite perché. Anche il Sorvegliante è morto, con una mano scheletrica che riposa eternamente su un libro davanti a lui.
 
 Cercando di non disturbare i morti, estraete con cautela il libro da sotto la mano del Sorvegliante. - sembra essere un diario, usato per registrare gli eventi che sono accaduti qui. Alcune pagine sono illeggibili, ma si riescono comunque a distinguere alcune annotazioni
 
@@ -7283,7 +7283,7 @@ Scegliete un\'opzione:"</string>
 
 Riportando lo sguardo alla città, si trova un regno dimenticato di edifici abbandonati, avvolti da una nebbia bassa. Un silenzio inquietante incombe sulla giungla di pietra e legno come una cappa, opprimente e densa. Dopo aver ordinato alle truppe di mantenere la posizione, salite sulla torre del Corpo di Guardia per avere una visione più ampia del paesaggio.
 
-Dal punto di osservazione elevato, guardate un mare di nebbia, interrotto solo dalle sagome scure di edifici, torri e colonne decorative. Anche attraverso la vista ostruita, si capisce che la città è più grande di Verum e che ci vorranno diversi giorni per attraversarla. Mentre discutete delle opzioni, un membro del gruppo scopre uno strano oggetto cilindrico in mezzo a un mucchio di stracci. Un pezzo di vetro copre ogni estremità del cilindro e, sollevando l\'oggetto verso l\'occhio, vedete il mondo in lontananza come se fosse proprio davanti a noi. Il dispositivo è davvero diverso da qualsiasi cosa abbiate mai visto prima, e con esso siete in grado di capire quanto sia grande questa città morta. Se volete arrivare a Raven\'s Reach, dovete trovare un modo per attraversarla.
+Dal punto di osservazione elevato, guardate un mare di nebbia, interrotto solo dalle sagome scure di edifici, torri e colonne decorative. Anche attraverso la vista ostruita, si capisce che la città è più grande di Verum e che ci vorranno diversi giorni per attraversarla. Mentre discutete delle opzioni, un membro del gruppo scopre uno strano oggetto cilindrico in mezzo a un mucchio di stracci. Un pezzo di vetro copre ogni estremità del cilindro e, sollevando l\'oggetto verso l\'occhio, vedete il mondo in lontananza come se fosse proprio davanti a noi. Il dispositivo è davvero diverso da qualsiasi cosa abbiate mai visto prima, e con esso siete in grado di capire quanto sia grande questa città morta. Se volete arrivare alla Torre del Corvo, dovete trovare un modo per attraversarla.
 
 Scrutando attraverso il nuovo dispositivo, osservate attentamente la pianta della città sottostante, notando i principali punti di riferimento. Il più evidente è un\'ampia voragine che segna gran parte della città, i cui bordi frastagliati si gettano in un abisso. Trovate anche delle sacche del  che si ergono al di sopra del banco di nuvole, dove gli alberi ripugnanti devono aver guadagnato terreno. Tra i resti sparsi degli edifici danneggiati, la nebbia appare più densa in alcune zone e si contorce come un essere vivente che vi fa drizzare le antenne. Cercando più lontano, cercate qualsiasi porta della città che possa fornire un punto di uscita, ma ne trovate solo una. Lontano, dall\'altra parte della città, riuscite a malapena a scorgere il Corpo di Guardia che ora è la vostra destinazione."</string>
 	<string name="chp19_1_13__c">"Per aiutarvi a orientarvi nella città, abbozzate una rapida mappa di riferimento su un pezzo di pergamena. Ci sono tre percorsi percorribili dalla vostra posizione attuale. Uno conduce a sinistra, passando davanti a un edificio tozzo, sottolineato da un paio di torri di forma quadrata. Un secondo percorso si dirige verso un\'imponente guglia nella zona centrale della città. L\'ultimo percorso conduce a destra, dove una grande ciminiera emerge dalle macerie. Qualunque sia il percorso, dovrete muovervi presto per mantenere i soldati sotto il vostro comando vigili e concentrati sulla missione.
@@ -7293,7 +7293,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_1_14__a">Ancora sotto gli effetti dell\'etere, la giovane strega Traciana Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Lo stesso non si può dire per l\'uomo che si tira dietro il guinzaglio come un cane irascibile. Per ora ignorate la sua impotente ribellione, sapendo che fareste lo stesso al loro posto. Tuttavia, l\'ultimo pezzo del carico prezioso è il più difficile da gestire. Vi siete detti che è per il bene del regno, eppure avete difficoltà a incontrare lo sguardo della vostra ex compagna. Anche se a questo punto lei obbedisce ai vostri ordini senza lottare, il dolore dietro i suoi occhi è difficile da sopportare. Il pensiero del Richiamo torna a farsi strada in voi e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
 	<string name="chp19_1_15__a">Ancora sotto gli effetti dell\'etere, la giovane strega Traciana Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Non si può dire lo stesso per i fratelli anziani, che tirano il guinzaglio come due cani arrabbiati. Per ora ignorate la loro impotente ribellione, sapendo che al loro posto fareste lo stesso. Il pensiero del Richiamo si risveglia in voi ancora una volta e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
 	<string name="chp19_1_16__a">Completati i preparativi, i vostri occhi scrutano le ombre, alla ricerca di segni di predatori in agguato, mentre gli ultimi della carovana si addentrano ancora una volta nel Bosco Profondo.</string>
-	<string name="chp19_1_1__a">"Vi svegliate di soprassalto, con il sapore metallico del sangue e del sale ancora in bocca. Guardando la fila di truppe, i loro volti esausti implorano una tregua, ma qualche benedetta ora di sonno è tutto ciò che potete permettervi per ora. Siete solo a metà strada per Raven\'s Reach e ci sono ancora chilometri e chilometri di Bosco Profondo mortale e implacabile da attraversare. La vostra presenza qui non farà altro che attirare altre bestie e incubi sulla vostra carovana più a lungo vi attarderete. Un altro attacco come quello subito dal Wyrm potrebbe distruggere il coraggio e la speranza dell\'esercito. Dovete rimettervi in marcia."</string>
+	<string name="chp19_1_1__a">"Vi svegliate di soprassalto, con il sapore metallico del sangue e del sale ancora in bocca. Guardando la fila di truppe, i loro volti esausti implorano una tregua, ma qualche benedetta ora di sonno è tutto ciò che potete permettervi per ora. Siete solo a metà strada per la Torre del Corvo e ci sono ancora chilometri e chilometri di Bosco Profondo mortale e implacabile da attraversare. La vostra presenza qui non farà altro che attirare altre bestie e incubi sulla vostra carovana più a lungo vi attarderete. Un altro attacco come quello subito dal Wyrm potrebbe distruggere il coraggio e la speranza dell\'esercito. Dovete rimettervi in marcia."</string>
 	<string name="chp19_1_1__c">"Il vostro numero si è ridotto da quando avete lasciato Verum: il Bosco Profondo miete vittime a ogni chilometro che percorrete in questo dominio infernale. Potete solo sperare di essere rimasti in numero sufficiente alla fine del viaggio. Quando i soldati si radunano all\'appello, portano avanti una scorta di armi e attrezzature che sono state trovate nascoste tra le macerie. Nonostante gli innumerevoli anni di esposizione alla pioggia e alla putrefazione, l\'equipaggiamento è in condizioni eccellenti. Potreste prendere gli oggetti per voi o distribuirli all\'esercito, aumentando senza dubbio il loro morale.
 
 
@@ -7303,7 +7303,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_1_4__a">"Il fruscio delle armi ed il tonfo degli stivali nel fango verde annunciano la partenza della carovana dalla Torre del Sale. Il vostro carico più prezioso sarà sotto la vostra responsabilità per il resto del viaggio. Prendete le tre catene di ferro scuro e trascinate le streghe in piedi."</string>
 	<string name="chp19_1_5__c">"Il primo tratto del viaggio sembra più tranquillo dei giorni precedenti, ma quando il sole raggiunge lo zenit, i fetidi boschi diventano sempre più inquieti. Vengono riferite piccole scaramucce, mentre le squadre abbattono branchi di creature con sempre maggiore frequenza, e sembra che un cambiamento stia avvenendo nel bosco. Iniziate a notarlo anche voi. All\'inizio si trattava solo dell\'occasionale strisciare di creature più piccole nel sottobosco, ma quel fruscio si è trasformato in una lontana sinfonia di ringhi e schiocchi di rami d\'albero. Sentite l\'ansia salire nelle truppe, quando all\'improvviso la gradita vista di mura di pietra grigia irrompe nell\'oscurità. Un grande cancello si erge sopra di voi e vi rendete conto di trovarvi di fronte a una grande città
 
-I soldati si sentono sollevati da questo segno di civiltà, ma l\'avvertimento del Sorvegliante pone fine a qualsiasi speranza di vivere la stessa esperienza. Questa deve essere la città proibita. Non c\'è sicurezza al suo interno e lui vi aveva avvertito di evitare la città morta, perché nessuno vi era mai entrato e aveva vissuto per raccontarlo. Potreste dirigervi a nord o a sud intorno alla città, entrambe le distanze sono simili e con il Bosco Profondo così com\'è, una delle due potrebbe non rappresentare un viaggio più sicuro dell\'altra. Riunite i capisquadra per decidere la linea d\'azione migliore, sapendo che la vostra destinazione, Raven\'s Reach, si trova poco più avanti
+I soldati si sentono sollevati da questo segno di civiltà, ma l\'avvertimento del Sorvegliante pone fine a qualsiasi speranza di vivere la stessa esperienza. Questa deve essere la città proibita. Non c\'è sicurezza al suo interno e lui vi aveva avvertito di evitare la città morta, perché nessuno vi era mai entrato e aveva vissuto per raccontarlo. Potreste dirigervi a nord o a sud intorno alla città, entrambe le distanze sono simili e con il Bosco Profondo così com\'è, una delle due potrebbe non rappresentare un viaggio più sicuro dell\'altra. Riunite i capisquadra per decidere la linea d\'azione migliore, sapendo che la vostra destinazione, la Torre del Corvo, si trova poco più avanti
 
 Come se percepisse la vostra distrazione, il Bosco Profondo sfrutta questo momento per colpire. Una marea frenetica di creature zannute e incubi artigliati irrompe dalla linea degli alberi. I capisquadra iniziano subito ad abbaiare comandi, mentre l\'istinto dei soldati prende rapidamente il sopravvento, formando una linea difensiva. Estraendo le armi, vi unite alla battaglia dove il combattimento è più feroce."</string>
 	<string name="chp19_1_5__e">Nonostante il breve lavoro della prima ondata, continuano ad arrivare sempre più mostri. Non avete mai visto il Bosco Profondo lanciare i suoi abomini in legioni coordinate come questa. Di solito si rosicchiano l\'un l\'altro, come gli intrusi, ma questo esercito di morte sembra unito da un unico scopo: uccidervi.</string>
@@ -7346,15 +7346,15 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_22_10__a">Sedric inizia a balzare, ma voi lo bloccate. Comincia a protestare, ma voi lo mettete a tacere con uno sguardo. Dietro di voi, il rumore dei piedi che sbattono e dei rami che si spezzano si fa sempre più vicino, mentre l\'orda si precipita nel Bosco Profondo. Non avete altra scelta che restare in piedi e combattere. Ordinando alle truppe di tenere le retrovie contro le creature più piccole, estraete le armi e fate un cenno a Sedric. La abbatterete insieme.</string>
 	<string name="chp19_22_11__a">Dietro di voi, il rumore dei piedi che sbattono e dei rami che si spezzano si fa sempre più vicino, mentre l\'orda si precipita nel Bosco Profondo. Non avete altra scelta che restare in piedi e combattere. Ordinando alle truppe di tenere le retrovie contro le creature più piccole, estraete le armi e vi preparate ad affrontare la matriarca della Covata.</string>
 	<string name="chp19_22_1__a">Finalmente liberi, guardate indietro verso la città e vedete l\'enorme nebbia scura che si contorce furiosamente mentre spessi viticci grandi come torri si arrampicano sulle mura della città, cercando disperatamente di sfuggire alla loro prigione. Migliaia di volti inorriditi e torturati urlano silenziosamente all\'interno della nube nera e ribollente che si dirige verso di voi. Tuttavia, non varca la soglia. Per fortuna, qualsiasi orrore dimori nella città sembra essere legato ad essa, confinando per sempre la sua malvagità all\'interno delle mura.</string>
-	<string name="chp19_22_1__c">"La fuga attraverso la città e la costante lotta contro la paura hanno prosciugato le vostre riserve, ma sapete che non potete ancora riposare. Lo sciame di bestie che vi ha attaccato all\'arrivo si sta dirigendo da questa parte e vi taglierà la strada tra non molto. Dovete raggiungere Raven\'s Reach entro il tramonto, se volete sopravvivere. Controllando il vostro equipaggiamento e contando rapidamente le vostre truppe, vi preparate a partire."</string>
+	<string name="chp19_22_1__c">"La fuga attraverso la città e la costante lotta contro la paura hanno prosciugato le vostre riserve, ma sapete che non potete ancora riposare. Lo sciame di bestie che vi ha attaccato all\'arrivo si sta dirigendo da questa parte e vi taglierà la strada tra non molto. Dovete raggiungere la Torre del Corvo entro il tramonto, se volete sopravvivere. Controllando il vostro equipaggiamento e contando rapidamente le vostre truppe, vi preparate a partire."</string>
 	<string name="chp19_22_2__a">Il vostro conteggio finale conta solo trentacinque soldati, solo una frazione di quelli con cui avete lasciato Verum. Dovranno essere sufficienti. La vostra unica consolazione è che questi uomini e donne coraggiosi sono i più duri e leali del gruppo. Sapendo cosa ci aspetta, dovrete chiedere loro ancora molto.</string>
 	<string name="chp19_22_3__a">"Il conteggio finale conta appena trenta soldati, solo un decimo della forza con cui avete lasciato Verum. Questi feriti ambulanti saranno i vostri fratelli e sorelle per la battaglia che vi attende. La migliore e ultima possibilità di sopravvivenza di Verum. Dovranno essere sufficienti."</string>
 	<string name="chp19_22_4__a">"Il conteggio finale conta solo venticinque soldati, solo una frazione di quelli con cui avete lasciato Verum. Il numero dei sopravvissuti è basso, ma almeno l\'intero esercito non è andato perduto. Questi uomini e queste donne dovranno essere sufficienti per la battaglia che ci attende. La migliore e ultima possibilità di sopravvivenza per Verum."</string>
-	<string name="chp19_22_5__a">"I soldati sono stanchi, ma Raven\'s Reach è a meno di una dozzina di furlong dalla porta della città. Controllando la bussola, ordinate ai resti del vostro esercito di muoversi a passo doppio. Mentre vi immergete di nuovo nel muro di alberi, sperate che il vostro orientamento sia corretto. Che lo sia o meno, non avete altra scelta che continuare ad avanzare.
+	<string name="chp19_22_5__a">"I soldati sono stanchi, ma la Torre del Corvo è a meno di una dozzina di furlong dalla porta della città. Controllando la bussola, ordinate ai resti del vostro esercito di muoversi a passo doppio. Mentre vi immergete di nuovo nel muro di alberi, sperate che il vostro orientamento sia corretto. Che lo sia o meno, non avete altra scelta che continuare ad avanzare.
 
 Spingendovi oltre i rami e le liane bagnate, vi inoltrate nel Bosco Profondo verso la fortezza. L\'aria è densa e piena di un silenzio pregnante. Poi uno stridio squarcia l\'oscurità a nord. L\'orda vi ha raggiunto e sta cercando di tagliarvi la strada. Spronate le vostre squadre a muoversi ancora più velocemente."</string>
-	<string name="chp19_22_6__a">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra di Raven\'s Reach ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
-	<string name="chp19_22_7__c">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra di Raven\'s Reach ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi, spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
+	<string name="chp19_22_6__a">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra della Torre del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
+	<string name="chp19_22_7__c">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra della Torre del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi, spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
 	<string name="chp19_22_8__a">"Brandendo un coltello in ogni mano, Sedric vi passa davanti. \"Grande madre dei topi,\" dice stupito. \"È bellissima ed è mia.\" Sollevando entrambe le lame, l\'acchiapparatti mezzo impazzito si arrotola, pronto a colpire.
 
 
@@ -7493,7 +7493,7 @@ Mentre la colonna avanza verso la Guglia, chiedete a uno dei soldati di sorvegli
 
 Mentre le truppe si fasciano le ferite e puliscono le armi, voi fate il punto sulla fortezza. Nel cortile interno trovate una serie di armamenti dimenticati da tempo, fortunatamente ancora utilizzabili. Ispezionate anche le difese rimanenti. Le trovate in stato di abbandono, ma dovrebbero reggere, anche dopo tutti questi anni. Soprattutto, le mura sono alte e ancora intatte. Questo è un posto come un altro per un\'ultima resistenza. Sembra che i Sorveglianti abbiano scelto bene.
 
-L\'intero destino di Verum ora riposa sulle vostre spalle. All\'interno delle mura di Raven\'s Reach, dovete prepararvi a scatenare il Richiamo. Mentre iniziano i preparativi, potete già sentire l\'orda che si alza in lontananza. Stanno arrivando.."</string>
+L\'intero destino di Verum ora riposa sulle vostre spalle. All\'interno delle mura della Torre del Corvo, dovete prepararvi a scatenare il Richiamo. Mentre iniziano i preparativi, potete già sentire l\'orda che si alza in lontananza. Stanno arrivando.."</string>
 	<string name="chp19m_1_0__a">"Storia a Tempo
 
 L\'oscurità arriva più velocemente di quanto avreste pensato e siete costretti ad accamparvi nella città abbandonata. Il crepuscolo sembra insolitamente freddo qui e sapete che ci sarà un vantaggio nel dormire con un tetto sopra la testa. Tuttavia, questo costringerebbe l\'esercito a dividersi tra le case e vi impedirebbe di reagire rapidamente a qualsiasi pericolo in avvicinamento.
@@ -8021,7 +8021,7 @@ Sollevate la testa mozzata della Nutrice verso il volto della guardia. Gli uomin
 Consegnate alla guardia la testa e prendete l'Iron."</string>
 	<string name="chp20_0_10__a">"Con le difese della fortezza valutate e la costruzione della pira in corso, iniziate a formulare un piano per trattenere le bestie fino a quando la pira non sarà completata. Non ci sono abbastanza uomini per presidiare ogni difesa contemporaneamente. Si utilizzerà invece una strategia adattiva, spostando squadre di soldati in posizioni chiave per rinforzare luoghi specifici, a seconda delle necessità. Piccole squadre che reagiscono rapidamente alle minacce consentono di utilizzare in modo efficiente la limitata manodopera disponibile e di guadagnare il tempo prezioso necessario per il Richiamo."</string>
 	<string name="chp20_0_10__c">Le squadre sono radunate davanti a voi, con i volti coperti dalla pioggia battente. Tutti hanno dimostrato più volte la loro competenza e lealtà. Non c\'è bisogno di dire cosa significa questa difesa... lo sanno. Non sarà una battaglia che potrete vincere. La missione consiste nel guadagnare tempo sufficiente affinché la pira sia completata ed il Richiamo possa attirare i mostri dal Cuore di Tenebra. Non c\'è più tempo per i grandi discorsi. Non c\'è più tempo per i grandi gesti. Mentre vi dirigete verso i merli, fate un cenno a coloro che incrociate e sapete che sarà l\'ultima volta che vedrete la maggior parte di loro.</string>
-	<string name="chp20_0_11__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli sul paesaggio e sulle bestie che circondano Raven\'s Reach, sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Non avendo nessun altro a disposizione, cercate una corritrice tra le file dei soldati e le ordinate di riportare il messaggio a Verum.
+	<string name="chp20_0_11__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli sul paesaggio e sulle bestie che circondano la Torre del Corvo, sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Non avendo nessun altro a disposizione, cercate una corritrice tra le file dei soldati e le ordinate di riportare il messaggio a Verum.
 
 Consegnate alla soldatessa la bussola del sangue che ti era stata data dai Sorveglianti, le rivolgete alcune parole di coraggio e la mettete in cammino."</string>
 	<string name="chp20_0_12__a">"Un caldo sorriso nasconde la stanchezza che si cela dietro gli occhi scuri e stanchi di Finnian. Il guaritore è stato oberato di lavoro negli ultimi giorni, riparando ferite e amministrando la Fede. Mentre passate, l\'uomo vi chiede se può fornirvi una preghiera di guarigione per aiutarvi a prepararvi alla battaglia imminente. Sebbene vi sia sicuramente utile un po\' di aiuto in più, sapete anche che lo sforzo consumerà molte delle forze residue di Finnian e potrebbe mettere a repentaglio la sua capacità di mantenere in vita alcuni dei soldati se le perdite sono elevate.
@@ -8032,14 +8032,14 @@ Scegliete un\'opzione:"</string>
 	<string name="chp20_0_13__c">Con l\'ultimo di voi guarito, Finnian crolla ai vostri piedi, la stanchezza gli ruba la coscienza. Lo portate rapidamente in un\'area della fortezza dove vengono curati i feriti. Ci vorrebbe un altro miracolo perché Finnian si riprenda, e non è detto che qui ne troverete altri. Adagiando delicatamente l\'uomo, tornate ai preparativi, sentendovi rinnovati.</string>
 	<string name="chp20_0_15__a">"Midge vi rivolge un sorriso ironico e sospettoso mentre lo guardate. Il ragazzo è veloce e più leggero di molti altri. Se c\'è qualcuno che può raggiungere Verum velocemente, è lui. Questa potrebbe anche essere la vostra ultima possibilità di salvare l\'orfano. Avete visto Midge crescere fino a diventare un giovane uomo forte, ma è troppo giovane per affrontare la morte oggi
 
-Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano Raven\'s Reach sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
+Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano la Torre del Corvo sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
 
 Vedendo che il ragazzo non è ancora convinto, provate un approccio diverso, ricordandogli una persona importante a Verum la cui vita è in bilico, il Ragazzo Muto. Le lacrime scorrono sulle guance sporche di Midge, che si rende conto della situazione e finalmente accetta.
 
 Consegnate a Midge la bussola del sangue che vi è stata data dai Sorveglianti e condividete con il ragazzo alcune parole di coraggio. Dopo averlo lasciato andare, vi soffermate al cancello principale per guardarlo scomparire nel Bosco Profondo."</string>
 	<string name="chp20_0_1__a">"La luce eterea della Strega soffoca il cielo da un orizzonte all\'altro. Nastri nebbiosi di verde, blu e viola danzano e cospirano sopra le nostre teste, proiettando un bagliore tenue e presagio sulla valle sottostante, ma in qualche modo rafforzando l\'oscurità dove si annidano le ombre. Non dovrebbe essere così. Il fenomeno - che precede la storia registrata - è arrivato troppo presto, un cattivo presagio per chi si occupa di superstizione.
 
-In piedi sui bastioni di Raven\'s Reach, si sente il rumore delle bestie in lontananza, come una tempesta in aumento. La Nutrice era stata solo la prima. Ne stanno arrivando altre. Molte altre. È come se l\'intero Bosco Profondo si muovesse per ostacolare i vostri sforzi, un\'intensa concentrazione su di voi che sembra provenire da ogni parte. Non siete i benvenuti qui. La vostra intrusione nel cuore del Bosco Profondo non sarà tollerata
+In piedi sui bastioni della Torre del Corvo, si sente il rumore delle bestie in lontananza, come una tempesta in aumento. La Nutrice era stata solo la prima. Ne stanno arrivando altre. Molte altre. È come se l\'intero Bosco Profondo si muovesse per ostacolare i vostri sforzi, un\'intensa concentrazione su di voi che sembra provenire da ogni parte. Non siete i benvenuti qui. La vostra intrusione nel cuore del Bosco Profondo non sarà tollerata
 
 Scuotendo la testa per schiarirla, ricordate a voi stessi la vostra missione. Eseguire il Richiamo, attirare i mostri dal Cuore di Tenebra ed entrare. L\'ultima possibilità di Verum si trova all\'interno. Il Richiamo deve avvenire ora.
 
@@ -8056,10 +8056,10 @@ Nel tempo necessario a scambiare uno sguardo con i vostri compagni, l\'Avi scomp
 	<string name="chp20_0_3__a">"Non c\'è tempo per riflettere su visioni o profezie. La vostra attenzione deve essere concentrata sulla missione da compiere. Mentre il suono dei vostri soldati che eseguono i loro ordini risuona in lontananza, vi dedicate al compito di inviare a Verum la notizia dei vostri progressi. La conoscenza è la migliore arma dell\'umanità contro il Bosco Profondo, e ciò che avete imparato servirà ad altri se doveste fallire qui. Purtroppo, la gabbia di corvi messaggeri è andata persa alle porte della città maledetta. Dovrete assegnare a qualcuno di cui vi fidate il compito di tornare a casa e consegnare il messaggio."</string>
 	<string name="chp20_0_4__a">"Midge vi rivolge un sorriso ironico e sospettoso mentre lo guardate. Il ragazzo è veloce e più leggero di molti altri. Se c\'è qualcuno che può raggiungere Verum velocemente, è lui. Questa potrebbe anche essere la vostra ultima possibilità di salvare l\'orfano. Avete visto Midge crescere fino a diventare un giovane uomo forte, ma è troppo giovane per affrontare la morte oggi
 
-Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano Raven\'s Reach sono informazioni di importanza cruciale. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
+Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano la Torre del Corvo sono informazioni di importanza cruciale. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
 
 Consegnate a Midge la bussola del sangue che vi è stata data dai Sorveglianti e scambiate con il ragazzo alcune parole di coraggio. Dopo averlo lasciato andare, vi fermate al cancello principale abbastanza a lungo per vederlo scomparire nel Bosco Profondo."</string>
-	<string name="chp20_0_5__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli del paesaggio e delle bestie che circondano Raven\'s Reach, sono informazioni di fondamentale importanza. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Qualcuno deve essere mandato a casa per consegnare il messaggio."</string>
+	<string name="chp20_0_5__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli del paesaggio e delle bestie che circondano la Torre del Corvo, sono informazioni di fondamentale importanza. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Qualcuno deve essere mandato a casa per consegnare il messaggio."</string>
 	<string name="chp20_0_5__c">Consegnate al vostro alleato la bussola del sangue che vi è stata data dai Sorveglianti e scambiate qualche parola di coraggio prima di lasciarli andare per la loro strada. Rimanete accanto al cancello principale abbastanza a lungo da guardarli scomparire nel Bosco Profondo.</string>
 	<string name="chp20_0_6__a">Su vostro ordine, i soldati hanno eretto un grande palo di legno al centro della fortezza e hanno iniziato ad ammassare intorno ad esso i materiali per la grande pira. La difesa delle fiamme sarà l\'aspetto più importante del Richiamo, a parte le streghe stesse, che incatenerete a un vicino palo per l\'autostop.</string>
 	<string name="chp20_0_7__a">"L\'odio bruciante negli occhi della vostra ex compagna mentre fissate le sue catene al palo dell\'autostop non lo dimenticherete presto. Non ha mai accettato di adempiere al suo giuramento in questo modo, ma il suo sacrificio potrebbe salvare un\'intera città
@@ -8081,7 +8081,7 @@ Continua raccontandovi di due grandi torri che vegliano sopra il recinto esterno
 
 Poi fa notare che il cortile interno contiene un\'armeria e una vecchia stalla. L\'armeria è crollata, tuttavia, con un po\' di scavo si può trovare qualcosa di utile all\'interno
 
-Conclude parlando dell\'unica grave debolezza delle vostre difese, un grande tunnel scavato sotto le mura della fortezza. Suppone che si tratti della breccia che ha causato la caduta di Raven\'s Reach molto tempo fa. Ringraziando l\'ufficiale, ordinate ai suoi soldati di allestire un sistema di allerta improvvisato all\'interno del tunnel, utilizzando rottami di vecchie armi e armature. Speriamo che vi aiuti a rilevare se qualcosa si infiltra da lì."</string>
+Conclude parlando dell\'unica grave debolezza delle vostre difese, un grande tunnel scavato sotto le mura della fortezza. Suppone che si tratti della breccia che ha causato la caduta della Torre del Corvo molto tempo fa. Ringraziando l\'ufficiale, ordinate ai suoi soldati di allestire un sistema di allerta improvvisato all\'interno del tunnel, utilizzando rottami di vecchie armi e armature. Speriamo che vi aiuti a rilevare se qualcosa si infiltra da lì."</string>
 	<string name="chp20_1_1__a">Un suono simile a un tuono rimbomba in lontananza. La prima ondata d\'attacco è quasi arrivata. E molte altre seguiranno. Ci sono diversi luoghi che devono essere difesi e voi siete tutto ciò che si frappone tra le creature ed il Richiamo. A qualunque costo, dovete prevalere.</string>
 	<string name="chp20_1_1__c">Secondo i rapporti dei vostri esploratori, il primo attacco arriverà da NORD. Dovrete difendere quel lato della fortezza e le BASTIONI.</string>
 	<string name="chp20_1_2__a">"Ondata 1: Assalto 1
@@ -8106,7 +8106,7 @@ I soldati resistono come possono: questi uomini e queste donne combattono con la
 	<string name="chp20_2_5__a">La pioggia battente rende impossibile vedere. Intorno alla fortezza, gli alberi ondeggiano svogliatamente, non sapete se per il vento o per l\'agitarsi delle creature sotto di loro. Non avete idea da dove arriverà il prossimo attacco. All\'improvviso, si sente un forte rumore proveniente dal tunnel sottostante.</string>
 	<string name="chp20_2_6__a">"Ondata 2: Assalto 1
 
-Il rumore del tunnel si fa sempre più forte, fino a quando le creature non schizzano al suo ingresso, proprio nel cuore di Raven\'s Reach."</string>
+Il rumore del tunnel si fa sempre più forte, fino a quando le creature non schizzano al suo ingresso, proprio nel cuore della Torre del Corvo."</string>
 	<string name="chp20_2_7__a">"Ondata 2: Assalto 2
 
 L\'assalto proviene da nord e nord-est, diretto verso il Bastione di destra. Gli alberi crollano mentre una grande mostruosità massiccia sbuca all\'improvviso dal bosco e si dirige verso i bastioni settentrionali."</string>
@@ -8234,7 +8234,7 @@ Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe 
 Nel disperato tentativo di riconquistare il vantaggio, i soldati rimasti caricano la strega all\'unisono. Aurelia li guarda con odio e, con entrambe le mani alzate, fa levitare le squadre rimanenti per una dozzina di metri in aria e le sbatte di nuovo a terra. Si sente il rumore delle ossa che si rompono mentre vengono schiacciate sulle lastre di pietra. Quando Aurelia alza le mani una seconda volta, ciò che si solleva in aria sono solo cadaveri che iniziano a orbitare intorno a lei
 
 Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Se non completate presto l\'Evocazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se l\'uccisione della strega causerà il Richiamo, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
-	<string name="chp20_epi_1__a">"Con un ultimo colpo, la strega cade, lo scudo telecinetico ha finalmente fallito. I suoi occhi si allargano, inarca la schiena e lancia un terribile urlo di morte. Le onde sonore si abbattono sulla base del vostro cranio, facendovi cadere. Il naso sanguina e la vista comincia a sfocarsi, mentre ogni cellula del vostro corpo minaccia di andare in pezzi. L\'avete già sentito, una vita fa a Bastone. Il Richiamo. Improvvisamente la terra inizia a tremare. Non per il Richiamo, ma in risposta ad esso. In una cacofonia di ululati e ruggiti, uno sciame senza numero tuona dal Cuore di Tenebra verso Raven\'s Reach. Ha funzionato!
+	<string name="chp20_epi_1__a">"Con un ultimo colpo, la strega cade, lo scudo telecinetico ha finalmente fallito. I suoi occhi si allargano, inarca la schiena e lancia un terribile urlo di morte. Le onde sonore si abbattono sulla base del vostro cranio, facendovi cadere. Il naso sanguina e la vista comincia a sfocarsi, mentre ogni cellula del vostro corpo minaccia di andare in pezzi. L\'avete già sentito, una vita fa a Bastone. Il Richiamo. Improvvisamente la terra inizia a tremare. Non per il Richiamo, ma in risposta ad esso. In una cacofonia di ululati e ruggiti, uno sciame senza numero tuona dal Cuore di Tenebra verso la Torre del Corvo. Ha funzionato!
 
 Non perdete tempo e vi precipitate nel tunnel che sapete vi condurrà all\'esterno. Al di là di esso, la strada è aperta verso il Cuore di Tenebra e la fine del vostro viaggio."</string>
 	<string name="chp21_1_10__c">"Di nuovo, mi vengono in mente le parole del vostro giuramento
@@ -8267,14 +8267,14 @@ Eppure la morte conoscerà il nostro nome.
 Siamo Oathsworn.
 
 Ventisei parole che ora vi definiscono. Insieme, vi riportano in superficie e voi inspirate l'aria. Il tunnel è rimasto com\'era, la visione è passata. Guardando avanti, il tunnel è terminato e davanti a voi c\'è una vasta caverna."</string>
-	<string name="chp21_1_1__a">"L\'urlo lamentoso della strega vi insegue nel tunnel sotto Raven\'s Reach, offuscandovi la vista e rendendo ogni passo un\'impresa di equilibrio. Il Richiamo ha funzionato come speravate e ogni mostro a portata del suo grido di morte ha risposto al suo richiamo. Potete sentire gli artigli ed il pesante calpestio delle bestie sopra di voi sopra l\'urlo che vi fa saltare le orecchie
+	<string name="chp21_1_1__a">"L\'urlo lamentoso della strega vi insegue nel tunnel sotto la Torre del Corvo, offuscandovi la vista e rendendo ogni passo un\'impresa di equilibrio. Il Richiamo ha funzionato come speravate e ogni mostro a portata del suo grido di morte ha risposto al suo richiamo. Potete sentire gli artigli ed il pesante calpestio delle bestie sopra di voi sopra l\'urlo che vi fa saltare le orecchie
 
 Poco dopo aver percorso la strada, tagliate le travi di sostegno che tengono aperto il passaggio, per bloccare le creature che vi inseguono. Tonnellate di roccia e sporcizia precipitano e all\'ultimo momento vedete una creatura simile a un lupo, che stava silenziosamente inseguendo la vostra fuga, inghiottita dalle macerie. Un raro colpo di fortuna. Sapete che vi resta poco tempo prima che gli effetti del Richiamo svaniscano e riprendete rapidamente la ricerca dell\'uscita del tunnel.
 
-Percorrendo il passaggio dimenticato, trovate decine di cadaveri putrefatti: gli ultimi difensori umani di Raven\'s Reach. La tomba è un tesoro di antiche armature e armi finemente forgiate. Vi prendete un momento per assicurarvi di essere il più possibile armati. Sapete che dovrete essere presenti dove state andando."</string>
+Percorrendo il passaggio dimenticato, trovate decine di cadaveri putrefatti: gli ultimi difensori umani della Torre del Corvo. La tomba è un tesoro di antiche armature e armi finemente forgiate. Vi prendete un momento per assicurarvi di essere il più possibile armati. Sapete che dovrete essere presenti dove state andando."</string>
 	<string name="chp21_1_2__a">"Davanti a voi, un puntino di luce vi guida finalmente verso un\'uscita nel Bosco Profondo. Emergendo, vi voltate a guardare la fortezza caduta. Non si sentono più le urla della Strega Traciana, ma un mare di carne, pellicce e ossa continua a lambire le mura di pietra in disfacimento, artigliandosi e scattando l\'uno contro l\'altro nel disperato tentativo di rispondere al richiamo del Richiamo. In qualche modo i suoi effetti non si sono ancora esauriti. Tuttavia, le bestie ululano e gridano in una cacofonia di morte che le parole non possono descrivere. All\'improvviso, si sente un tuono e vedete una fila di alberi in lontananza rovesciarsi mentre emerge la Rovina di Bastone. La sua forma grigia da tempesta attraversa il muro orientale della fortezza, polverizzando le difese che erano rimaste in piedi per secoli. Con l\'apparizione della gigantesca bestia, sapete che la strada è libera verso il Cuore di Tenebra. Dovete muovervi subito!
 
-Attraversando il Bosco Profondo, il suono della campana a morto di Raven Reach è attutito dagli alberi fitti e nauseabondi, e vi è concesso un raro momento di tregua. Solo pochi giorni fa, quasi trecento soldati hanno lasciato Verum e ora siete rimasti solo voi, una sola Libera Compagnia. Una sola Libera Compagnia e un\'ultima possibilità
+Attraversando il Bosco Profondo, il suono della funerea campana alla Torre del Corvo è attutito dagli alberi fitti e nauseabondi, e vi è concesso un raro momento di tregua. Solo pochi giorni fa, quasi trecento soldati hanno lasciato Verum e ora siete rimasti solo voi, una sola Libera Compagnia. Una sola Libera Compagnia e un\'ultima possibilità
 
 Poche centinaia di metri dopo, arrivate a una piccola radura e vedete il Cuore di Tenebra davanti a voi, come una cicatrice nera scavata nella terra. Mentre vi avvicinate alla caverna mortale, dolori acuti iniziano a trafiggervi le braccia. Abbassando lo sguardo, scoprite che le macchie nere sulla vostra pelle hanno iniziato a spuntare e a diffondersi. In qualche modo questo luogo sembra accelerare gli effetti della peste. Avete visto cosa succede a chi è nelle ultime fasi della malattia e questo pensiero vi disgusta. Vi sentite deboli e privi di speranza, ma sapete che dovete trovare un modo per resistere abbastanza a lungo da completare la vostra missione."</string>
 	<string name="chp21_1_3__a">"In piedi, sull\'orlo dell\'ingresso della caverna, vi scambiate uno sguardo con i vostri compagni. Non si può tornare indietro, per nessuno di voi ora. La sopravvivenza di Verum è nelle vostre mani. Accendete le vostre torce d\'ambra e muovete i primi passi nel cuore del Bosco Profondo.
@@ -8405,7 +8405,7 @@ Rivolgete la domanda all\'entità che indossa il volto di Samil. Lui vi rivolge 
 
 Quando gli chiedete di spiegare a quale scelta si riferisce, Samil si gira lentamente e scruta la cosa che si contorce all\'interno della grande pietra d\'ambra sepolta nel petto di Kharnus. \"L\'unica scelta che sia mai stata importante, naturalmente. La scelta di liberarmi.\"
 
-Un gemito profondo emerge improvvisamente dal gigante assopito, facendo tremare la terra. Si sta lentamente svegliando! Nello stesso momento, sentite il suono graffiante della grande orda che torna dal suo banchetto a Raven\'s Reach. Presto saranno su di voi. Avete solo pochi minuti preziosi per imparare il più possibile dall\'essere travestito da Samil."</string>
+Un gemito profondo emerge improvvisamente dal gigante assopito, facendo tremare la terra. Si sta lentamente svegliando! Nello stesso momento, sentite il suono graffiante della grande orda che torna dal suo banchetto alla Torre del Corvo. Presto saranno su di voi. Avete solo pochi minuti preziosi per imparare il più possibile dall\'essere travestito da Samil."</string>
 	<string name="chp21_epi_2__a">"Kharnus ruggisce di rabbia mentre la vostra Libera Compagnia lo attacca con tutto ciò che avete. Lavorando insieme, la vostra forma è impeccabile. Ondate di creature si abbattono su di voi, per poi essere respinte dai colpi mortali delle vostre armi. Quando uno di voi è minacciato, un altro si tuffa per proteggerlo, salvando vite e uccidendone altre. La caverna è un ossario di cadaveri, vegetazione marcia e caos. Onde di energia, del colore della Luce della Strega, si riversano dalle numerose ferite sul corpo di Kharnus. All\'interno della grande pietra d\'ambra, il volto di Samil si deforma e si contorce mentre il cristallo arancione inizia a rompersi. Denti digrignanti, artigli affilati e occhi assassini si abbattono su di voi a centinaia. È una marea di morte senza fine. Tuffandovi sotto il pugno di Kharnus, vi ritrovate accanto al torso del Sognatore Folle. È la vostra occasione. Con un ultimo potente colpo, sbattete la vostra arma contro la pietra d\'ambra che esplode.."</string>
 	<string name="chp21_epi_3__a">"Kharnus ruggisce di rabbia mentre la vostra Libera Compagnia lo attacca con tutto ciò che ha. Il gigante A\'Dendri sbatte i suoi pugni sul pavimento, sulle pareti e sul soffitto. Lavorando insieme, la vostra forma è impeccabile. Ondate di creature si abbattono su di voi, per poi essere respinte dai colpi mortali delle vostre armi. Quando uno di voi è minacciato, un altro si tuffa per proteggerlo, salvando vite e uccidendone altre. La caverna è un ossario di cadaveri, vegetazione marcia e caos. Onde di energia, del colore della Luce della Strega, si riversano dalle numerose ferite sul corpo di Kharnus, ma la sua immensa struttura resiste. Denti digrignanti, artigli affilati e occhi assassini si abbattono su di voi a centinaia. È una marea di morte senza fine. Dovete porre fine a tutto questo.
 
@@ -9609,7 +9609,7 @@ Uno specchio d\'acqua scintillante riflette chiaramente il cielo e gli alberi de
 Scegliete un\'opzione:"</string>
 	<string name="chp4m_9_2__a">"Storia a Tempo
 
-Bevete un sorso. È fresco e rinfrescante e, soprattutto, non fa crescere nulla dai vostri occhi. È sicuro."</string>
+Bevete un sorso. È rinfrescante e, soprattutto, non fa crescere nulla dai vostri occhi. È sicuro."</string>
 	<string name="chp5_14_1__a">"Posizione 14 - Ponte
 
 Vi dirigete verso il quartiere nobile per incontrare Lord Rhiner. Inevitabilmente, vi imbattete in uno dei vecchi ponti di pietra che attraversano il fiume Sine, o almeno ciò che ne rimane. Molti anni fa il Bosco Profondo ha prosciugato il fiume ed ora 'Lo Scolo' ne prende il posto. Migliaia dei più poveri di Verum si accalcano lì, in baracche ammassate nel fango del letto del fiume, all\'ombra di navi un tempo grandiose, per sempre ormeggiate nel pantano
@@ -9843,7 +9843,7 @@ Pochissime persone sembrano percorrere i sentieri delle Strade Verdi. Le strade 
 
 Ponti di rami si incrociano in alto, collegando appartamenti di livello superiore, mentre A\'Dendri senza bocca di tutte le sfumature di flora si legano e scivolano su sentieri non destinati a sostenere piedi umani. Due A\'Dendri si calano da una strada di liane e atterrano senza rumore di fronte a voi. Uno di essi esegue una rapida serie di colpetti e graffi sulla mano e sull\'avambraccio prima di sporgersi in avanti con aria interrogativa.
 
-L\'Araldo, sorprendentemente lucido, risponde. \"Non parlo Knock. Mi chiedo se ci stessero offrendo una torta. Mi piace la torta. Ma non importa, qui c\'è troppa vita e poca morte.\"
+L\'Araldo, sorprendentemente lucido, risponde. \"Non parlo col Knock. Mi chiedo se ci stessero offrendo una torta. Mi piace la torta. Ma non importa, qui c\'è troppa vita e poca morte.\"
 
 
 Scegliere un luogo dove andare:"</string>
@@ -10645,7 +10645,7 @@ Corbus si inchina in segno di supplica, \"È di grande importanza, sire.\" Proce
 
 La guardia del Re si precipita a sbarrare la strada al Re bambino e i suoi consiglieri indietreggiano inorriditi.
 
-Mentre entrate, vedete una forma ammantata spostarsi sulla predella dietro il trono.
+Mentre entrate, vedete una forma ammantata spostarsi sulla pedena dietro il trono.
 
 Un arco di fulmini accecanti esplode dalla figura ammantata."</string>
 	<string name="chp6b_27_9__a">Notate che la figura ammantata inserisce un piccolo tappo di sughero in una minuscola fiaschetta di liquido e lo infila abilmente sotto le sue vesti.</string>
@@ -12960,7 +12960,7 @@ POSIZIONATE I GETTONI POSIZIONE 4, 6, 13, 15 E 19."</string>
 AGGIUNGERE LE CARTE EVENTO CITTÀ 11, 12, 13 E 14 AL MAZZO EVENTI CITTÀ.
 
 AGGIUNGERE LE CARTE EVENTO DEEPWOOD 16, 17, 18 E 19 AL PROPRIO MAZZO EVENTI DEEPWOOD."</string>
-	<string name="pop10_3_1__b">"PERDERE 2 RAZIONI.
+	<string name="pop10_3_1__b">"PERDETE 2 RAZIONI.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW."</string>
 	<string name="pop10_3_1__d">ARCHIVIARE LA MAPPA DELLA CITTÀ DI VERUM. LASCIARE IL TRACCIATO DEL TEMPO DOV\'È.</string>
@@ -12979,7 +12979,7 @@ PER OGNI ALLEATO CHE NON MANGIA, IN ORDINE DECRESCENTE, VAI ALLA VOCE CORRISPOND
 	<string name="pop10_40_5__b">"UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO A CASO.
 
 PIAZZATE UN SEGNALINO TEMPO SULLA CARTA ALLEATO DI EDITH."</string>
-	<string name="pop10_40_6__b">"PERDERE 1 RAZIONE.
+	<string name="pop10_40_6__b">"PERDETE 1 RAZIONE.
 
 METTERE UN SEGNALINO TEMPO SULLA CARTA ALLEATO DI EDITH."</string>
 	<string name="pop10_40_7__b">POSIZIONARE UN SEGNALINO TEMPO SULLA CARTA ALLEATO DI EDITH.</string>
@@ -13014,8 +13014,8 @@ POTETE INIZIARE UN COMMERCIO CON LO SPEZIALE."</string>
 	<string name="pop10_76_1__d">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 3).</string>
 	<string name="pop10_76_2__b">IL DADO RAPPRESENTA L\'AVANZAMENTO DELLA CACCIA.</string>
 	<string name="pop10_77_2__b">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).</string>
-	<string name="pop10_77_3__b">PERDERE 1 RAZIONE.</string>
-	<string name="pop10_77_4__b">PERDERE 1 RAZIONE.</string>
+	<string name="pop10_77_3__b">PERDETE 1 RAZIONE.</string>
+	<string name="pop10_77_4__b">PERDETE 1 RAZIONE.</string>
 	<string name="pop10_77_4__d">ARCHIVIARE LA CARTA ALLEATO DI MERILLA.</string>
 	<string name="pop10_77_6__b">"UN OATHSWORN A CASO EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).
 
@@ -13024,7 +13024,7 @@ Se ha SUCCESSO, GUADAGNA UN SEGNALINO DIFESA.
 Se FALLISCE - PERDE 1 PUNTO FERITA."</string>
 	<string name="pop10_77_8__b">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).</string>
 	<string name="pop10_77_9__b">POSIZIONARE UN SEGNALINO TEMPO SULLA CARTA ALLEATO DI MERILLA.</string>
-	<string name="pop10_7_11__b">"PERDERE 10 IRON.
+	<string name="pop10_7_11__b">"PERDETE 10 IRON.
 
 TUTTI GLI OATHSWORN OTTENGONO UN SEGNALINO EMPOWERED X3."</string>
 	<string name="pop10_7_15__b">"OTTENETE LA CARTA ALLEATO 23 (GUIDE).
@@ -13059,7 +13059,7 @@ SIETE BRACCATI, IL DADO RAPPRESENTA L\'AVANZAMENTO DELLA CACCIA."</string>
 	<string name="pop10m_12_3__b">"UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA).
 
 PIAZZARE UN SEGNALINO TEMPO SULLA CARTA ALLEATO DI EDITH."</string>
-	<string name="pop10m_12_4__b">"PERDERE 1 RAZIONE.
+	<string name="pop10m_12_4__b">"PERDETE 1 RAZIONE.
 
 METTERE UN SEGNALINO TEMPO SULLA CARTA ALLEATO DI EDITH."</string>
 	<string name="pop10m_12_5__b">ARCHIVIARE LA CARTA DELL\'ALLEATO EDITH.</string>
@@ -14096,7 +14096,7 @@ POSIZIONATE IL SEGNALINO POSIZIONE 13 E RECARSI SUL POSTO."</string>
 	<string name="pop15a_16_24__b">LA LAMA (THE BLADE) TRACIANA GUADAGNA UN SEGNALINO REDRAW.</string>
 	<string name="pop15a_16_6__b">"DUE STRADE SI APRONO DAVANTI A VOI. CERCARE DI SALVARE LO SCHIAVO INTERFERENDO NELLA CULTURA DI QUESTA CITTÀ O CONTINUARE A GUARDARE, SENZA FARE NULLA CHE POSSA COMPROMETTERE LA POSSIBILITÀ DI TROVARE UNA STREGA."</string>
 	<string name="pop15a_16_8__b">GUADAGNA 15 IRON.</string>
-	<string name="pop15a_16_9__b">"PERDERE UN\'ARMA DALLA MANO O DALLO ZAINO.
+	<string name="pop15a_16_9__b">"PERDETE UN\'ARMA DALLA MANO O DALLO ZAINO.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW."</string>
 	<string name="pop15a_18_1__b">DECISIONE SEGRETA. COLPIRE L\'UOMO PRIMA CHE POSSA RAGGIUNGERVI O NON ESTRARRE ANCORA LE LAME. SE QUALCUNO SCEGLIE DI ABBATTERLO, LA LIBERA COMPAGNIA DEVE SCEGLIERE DI ABBATTERLO.</string>
@@ -14144,7 +14144,7 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 15 NEL LIBRO DEGLI INCONTRI - SIETE CADUTI 
 GLI OATHSWORN CHE FALLISCONO PERDONO 1 PUNTO FERITA."</string>
 	<string name="pop15b_13_2__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop15b_13_3__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).</string>
-	<string name="pop15b_13_5__b">PERDERE 15 IRON.</string>
+	<string name="pop15b_13_5__b">PERDETE 15 IRON.</string>
 	<string name="pop15b_13_5__d">GUADAGNARE IL SEGNALINO INDIZIO 3.</string>
 	<string name="pop15b_13_6__b">GUADAGNARE IL SEGNALINO INDIZIO 3.</string>
 	<string name="pop15b_13_7__b">"DUE OATHSWORN A CASO PERDONO UN SEGNALINO COMBATTIMENTO (A SCELTA).
@@ -14159,10 +14159,10 @@ GUADAGNATE IL SEGNALINO INDIZIO 3."</string>
 	<string name="pop15b_16_12__b">OTTENETE LA CARTA ALLEATO 41 (POLUS), AGGIUNGERE LA CARTA EVENTO DEEPWOOD 40 AL PROPRIO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 41 AL PROPRIO MAZZO EVENTI CITTÀ.</string>
 	<string name="pop15b_16_13__b">UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA).</string>
 	<string name="pop15b_16_15__b">POSIZIONARE IL SEGNALINO POSIZIONE 27 E RECARSI SUL POSTO</string>
-	<string name="pop15b_16_16__b">"PERDERE 15 IRON.
+	<string name="pop15b_16_16__b">"PERDETE 15 IRON.
 
 GUADAGNATE LA CARTA ALLEATO 41 (POLUS), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 40 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 41 AL VOSTRO MAZZO EVENTI CITTÀ."</string>
-	<string name="pop15b_16_17__b">"PERDERE 30 IRON.
+	<string name="pop15b_16_17__b">"PERDETE 30 IRON.
 
 GUADAGNATE LA CARTA ALLEATO 41 (POLUS), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 40 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 41 AL VOSTRO MAZZO EVENTI CITTÀ."</string>
 	<string name="pop15b_16_1__b">PRENDERE LA CARTA \'PATH B\'.</string>
@@ -14596,19 +14596,19 @@ SE IL DEMONE DEL SANGUE FINISCE SULLA STESSA TESSERA DELLA LIBERA COMPAGNIA, SEG
 	<string name="pop17m_8_1__b">TUTTI GLI OATHSWORN PERDONO UN SEGNALINO COMBATTIMENTO (A SCELTA).</string>
 	<string name="pop18_14_2__b">"TIRARE UN DADO PUNTI FERITA NON UTILIZZATO E APPLICARE IL SEGUENTE RISULTATO.
 
-1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
 3-6 - NON SUCCEDE NULLA, GLI ESPLORATORI TORNANO SANI E SALVI."</string>
 	<string name="pop18_16_1__b">"SE AVETE LA PAROLA CHIAVE 'THIN FORMATION', GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE) PERCHÉ LA VOSTRA FORMAZIONE FACILITA LA NAVIGAZIONE NEL TUNNEL DI VEGETAZIONE."</string>
 	<string name="pop18_16_1__d">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).</string>
-	<string name="pop18_16_3__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop18_16_3__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop18_1_11__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 7, AGGIUNGERE 2 AL RISULTATO SE LA CACCIATRICE O IL SACERDOTE SONO CON VOI).</string>
 	<string name="pop18_1_12__b">"OTTENETE UN TRATTO LIBERA COMPAGNIA A SCELTA
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1)."</string>
-	<string name="pop18_1_14__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
-	<string name="pop18_1_15__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).</string>
-	<string name="pop18_1_19__b">ARCHIVIARE LA MAPPA DI VERUM CITY. LASCIARE IL TRACCIATO DEL TEMPO DOV\'È.</string>
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1)."</string>
+	<string name="pop18_1_14__b">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
+	<string name="pop18_1_15__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).</string>
+	<string name="pop18_1_19__b">ARCHIVIARE LA MAPPA DI VERUM. LASCIARE IL TRACCIATO DEL TEMPO DOV\'È.</string>
 	<string name="pop18_1_1__b">"APRIRE LA BUSTA MISTERIOSA 'B' E POSIZIONARE LA MAPPA DI VERUM AL CENTRO DEL GIOCO. POSIZIONATE IL SEGNALINO DELLA VOSTRA LIBERA COMPAGNIA SULLA POSIZIONE 28. POSIZIONATE IL TRACCIATO DEL TEMPO DEL CAPITOLO 18A SOTTO LA MAPPA. PRENDETE LA CARTA \"PATH A\"."</string>
 	<string name="pop18_1_1__d">"AUMENTA DI 1 (MASSIMO 3) IL NUMERO ACCANTO A 'STADIO DELLA PESTE' SULLA SCHEDA DELLA LIBERA COMPAGNIA. SE È GIÀ A 3, TUTTI GLI OATHSWORN PERDONO UN SEGNALINO COMBATTIMENTO A LORO SCELTA."</string>
 	<string name="pop18_1_21__b">"PRENDERE 7 CUBI MIGHT DI QUALSIASI COLORE. QUESTI RAPPRESENTANO I 'RIFORNIMENTI'.
@@ -14619,7 +14619,7 @@ GLI ULTIMI CARRI POSSONO ESSERE CARICATI CON OTTO OGGETTI. SCEGLIETE COSA CARICA
 
 SCEGLIERE FINO A 8 DEI SEGUENTI OGGETTI:
 
-1 RIFORNIMENTO (MASSIMO 5), RAPPRESENTATO DA UN CUBO DI FORZA.
+1 RIFORNIMENTO (MASSIMO 5), RAPPRESENTATO DA UN CUBO Might.
 
 1 BARILE DI BIRRA (OGNI 2 BARILI SCELTI AUMENTA DI 1 IL MORALE SUL DADO MORALE).
 
@@ -14630,12 +14630,12 @@ SCEGLIERE FINO A 8 DEI SEGUENTI OGGETTI:
 1 CARTA CURA (DA INSERIRE NEL MAZZO DELLE FERITE).
 
 INOLTRE, POTETE AVVIARE UN COMMERCIO CON IL FABBRO E LO SPEZIALE."</string>
-	<string name="pop18_1_21__d">POSIZIONARE 3 DADI PUNTI FERITA INUTILIZZATI NELLE VICINANZE. IMPOSTARE CIASCUNO DI ESSI A 6. QUESTI (18 PUNTI) RAPPRESENTANO LE 18 SQUADRE DELLA VOSTRA ARMATA.</string>
+	<string name="pop18_1_21__d">POSIZIONARE 3 DADI PUNTI FERITA INUTILIZZATI NELLE VICINANZE. IMPOSTARE CIASCUNO DI ESSI A 6. QUESTI (18 PUNTI) RAPPRESENTANO I 18 SQUADRONI DELLA VOSTRA ARMATA.</string>
 	<string name="pop18_1_22__b">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18_1_23__b">SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA, DIMINUITE LO STADIO DI PESTE DI 1 (FINO A UN MINIMO DI 1).</string>
 	<string name="pop18_1_24__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).</string>
 	<string name="pop18_1_24__d">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
-	<string name="pop18_1_28__b">"PERDETE 60 IRON. RICORDATE CHE SE NON POTETE PERDERE IL IRON IN MONETE, POTETE PERDERE GLI OGGETTI NELLO ZAINO (VEDI 'GUADAGNARE E PERDERE IRON' NEL REGOLAMENTO DELLA STORIA)."</string>
+	<string name="pop18_1_28__b">"PERDETE 60 IRON. RICORDATE CHE SE NON POTETE PERDERE IRON IN MONETE, POTETE PERDERE GLI OGGETTI NELLO ZAINO (VEDI 'GUADAGNARE E PERDERE IRON' NEL REGOLAMENTO DELLA STORIA)."</string>
 	<string name="pop18_1_29__b">TUTTI GLI OATHSWORN PERDONO UN SEGNALINO COMBATTIMENTO A LORO SCELTA.</string>
 	<string name="pop18_1_30__b">"ARCHIVIA LA CARTA ALLEATO 4 O 45 (STEET)
 
@@ -14645,7 +14645,7 @@ TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO COMBATTIMENTO A LORO SCELTA."</strin
 	<string name="pop18_1_36__b">"ARCHIVIA LA CARTA ALLEATO 4 O 45 (STEET)
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO COMBATTIMENTO A LORO SCELTA."</string>
-	<string name="pop18_1_39__b">POSIZIONARE UN SEGNALINO AL CENTRO DEL CAMPO DI GIOCO CHE INDICHI 5. QUESTO È IL MORALE DELLE VOSTRE SQUADRE.</string>
+	<string name="pop18_1_39__b">POSIZIONARE UN SEGNALINO AL CENTRO DEL CAMPO DI GIOCO CHE INDICHI 5. QUESTO È IL MORALE DEI VOSTRI SQUADRONI.</string>
 	<string name="pop18_1_40__b">TUTTI GLI OATHSWORN RIMETTONO TUTTE LE CARTE FERITA, TRANNE LA CARTA PESTE E UN\'ALTRA CARTA A LORO SCELTA, NEL MAZZO FERITE E RIMESCOLANO IL MAZZO FERITE.</string>
 	<string name="pop18_1_41__b">TUTTI GLI OATHSWORN RIMETTONO TUTTE LE CARTE FERITA, TRANNE LA CARTA PESTE E UN\'ALTRA CARTA A LORO SCELTA, NEL MAZZO FERITE E RIMESCOLANO IL MAZZO FERITE.</string>
 	<string name="pop18_1_42__b">TUTTI GLI OATHSWORN RIMETTONO TUTTE LE CARTE FERITA, TRANNE LA CARTA PESTE E UN\'ALTRA CARTA A LORO SCELTA, NEL MAZZO FERITE E RIMESCOLANO IL MAZZO FERITE.</string>
@@ -14653,7 +14653,7 @@ TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO COMBATTIMENTO A LORO SCELTA."</strin
 	<string name="pop18_1_45__b">GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18_1_45__d">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9.</string>
 	<string name="pop18_1_46__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 9 (AGGIUNGERE 2 A OGNI RISULTATO, DATO CHE SI È PREPARATI).</string>
-	<string name="pop18_1_47__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop18_1_47__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop18_1_49__b">POSIZIONARE UN SEGNALINO TEMPO SUL TRACCIATO DEL TEMPO.</string>
 	<string name="pop18_1_4__b">TUTTI GLI OATHSWORN PERDONO UN SEGNALINO COMBATTIMENTO A LORO SCELTA.</string>
 	<string name="pop18_1_52__b">"SCRIVERE LA PAROLA CHIAVE 'THIN FORMATION' SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA."</string>
@@ -14667,110 +14667,110 @@ POSIZIONATE LE PRIME 5 TESSERE (COME MOSTRATO NELL\'IMMAGINE SOTTOSTANTE) E POSI
 IMPORTANTE: SE UTILIZZATE IL LIBRO DELLE STORIE, TENETE SEMPRE SEGNATA LA VOSTRA POSIZIONE E NON CHIUDETE MAI IL LIBRO DELLE STORIE QUANDO LEGGETE DAL DIARIO."</string>
 	<string name="pop18_1_6__b">GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18_1_8__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2.</string>
-	<string name="pop18_24_1__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+	<string name="pop18_24_1__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-SE AVETE LA PAROLA CHIAVE 'THIN FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDETE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
-	<string name="pop18_24_3__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+SE AVETE LA PAROLA CHIAVE 'THIN FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+	<string name="pop18_24_3__b">"PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
-	<string name="pop18_24_5__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+	<string name="pop18_24_5__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18_24_6__b">ESEGUIRE UNA VERIFICA DELL\'ASCOLTO (LISTENING CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop18_24_7__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10.</string>
 	<string name="pop18_24_7__d">"GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).
 
-GUADAGNATE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
-	<string name="pop18_24_8__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18_26_10__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+GUADAGNATE 1 RIFORNIMENTO (CUBO MIGHT)."</string>
+	<string name="pop18_24_8__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18_26_10__b">"PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
 	<string name="pop18_26_2__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4, AGGIUNGERE 1 AL RISULTATO SE IL SACERDOTE È CON VOI).</string>
-	<string name="pop18_26_3__b">PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1) . SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18_26_4__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE IL GUARDIANO È CON VOI).</string>
-	<string name="pop18_26_5__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
+	<string name="pop18_26_3__b">PERDETE 2 MORALIE (SUL DADO TRACCIATORE, MINIMO 1) . SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18_26_4__b">PERDETE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE IL GUARDIANO È CON VOI).</string>
+	<string name="pop18_26_5__b">"PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 
-PERDERE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
-	<string name="pop18_26_6__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+PERDETE 1 RIFORNIMENTO (CUBO MIGHT)."</string>
+	<string name="pop18_26_6__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
 	<string name="pop18_26_8__b">"TIRARE UN DADO PUNTI FERITA NON UTILIZZATO E APPLICARE IL SEGUENTE RISULTATO.
 
-1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
 3-6 - NON SUCCEDE NULLA, GLI ESPLORATORI TORNANO SANI E SALVI."</string>
-	<string name="pop18_26_9__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop18_27_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10. TUTTI GLI OATHSWORN GUADAGNANO 1 RISCOSSA DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE AVETE (ARROTONDATO PER DIFETTO).</string>
-	<string name="pop18_27_2__d">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop18_27_3__b">PERDERE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
-	<string name="pop18_27_3__d">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
+	<string name="pop18_26_9__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop18_27_2__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10. TUTTI GLI OATHSWORN GUADAGNANO 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO).</string>
+	<string name="pop18_27_2__d">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop18_27_3__b">PERDETE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
+	<string name="pop18_27_3__d">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
 	<string name="pop18_32_1__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 5). AGGIUNGETE 1 AL RISULTATO SE AVETE L\'OATHSWORN CACCIATRICE.</string>
 	<string name="pop18_32_2__b">PRENDETE I MAZZI DI OGGETTI UNICI PER I CAPITOLI 11, 12 E 13. SI OTTENGONO 2 OGGETTI QUALSIASI DA ESSI.</string>
 	<string name="pop18_33_2__b">"TIRARE UN DADO PUNTI FERITA NON UTILIZZATO E APPLICARE IL SEGUENTE RISULTATO.
 
-1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
 3-6 - NON SUCCEDE NULLA, GLI ESPLORATORI TORNANO SANI E SALVI."</string>
 	<string name="pop18_36_1__b">PESCATE E RISOLVETE UNA CARTA EVENTO DEEPWOOD. SE GUADAGNATE O PERDETE RAZIONI, GUADAGNATE O PERDETE INVECE PROVVISTE (FINO A UN MASSIMO DI 1).</string>
 	<string name="pop18_37_2__b">"TIRARE UN DADO PUNTI FERITA NON UTILIZZATO E APPLICARE IL SEGUENTE RISULTATO.
 
-1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
 3-6 - NON SUCCEDE NULLA, GLI ESPLORATORI TORNANO SANI E SALVI."</string>
 	<string name="pop18_38_1__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 5) AGGIUNGETE 1 AL RISULTATO SE POSSEDETE L\'OATHSWORN CACCIATRICE (HUNTRESS).</string>
 	<string name="pop18_38_2__b">PRENDETE I MAZZI DI OGGETTI UNICI PER I CAPITOLI 11, 12 E 13. SI OTTENGONO 2 OGGETTI QUALSIASI DA ESSI.</string>
-	<string name="pop18_43_2__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop18_43_3__b">"PERDERE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).
+	<string name="pop18_43_2__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop18_43_3__b">"PERDETE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).
 
 ESEGUIRE UNA PROVA DI PRECISIONE (ACCURACY CHECK, DIFFICOLTÀ 5). AGGIUNGETE 2 AL RISULTATO SE AVETE CON VOI LA CACCIATRICE O IL RANGER."</string>
 	<string name="pop18_43_4__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop18_43_6__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). SE FALLISCE, PERDE 1 PUNTO FERITA QUANDO I CUNICOLI TROVANO LA SUA CARNE.
 
-PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop18_43_7__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). SE AVETE CON VOI LA STREGA OATHSWORN, AGGIUNGETE UNO A OGNI RISULTATO. SE FALLISCONO, PERDONO 1 PUNTO FERITA QUANDO I CUNICOLI TROVANO LA VOSTRA CARNE.
 
-PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop18_43_8__b">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6). SE AVETE CON VOI LA STREGA OATHSWORN, AGGIUNGETE UNO A OGNI RISULTATO. SE FALLISCONO, PERDONO 1 PUNTO FERITA QUANDO I CUNICOLI TROVANO LA VOSTRA CARNE.
 
-PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop18_47_1__b">POSIZIONARE QUI LA TESSERA DEL VILLAGGIO IN ROVINA.</string>
-	<string name="pop18_47_1__d">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 14. OGNI OATHSWORN GUADAGNA 1 RISCOSSA DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 8 SQUADRE CHE POSSIEDE (ARROTONDATO PER DIFETTO).
+	<string name="pop18_47_1__d">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 14. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 8 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO).
 
-PRIMA DI ATTINGERE, PUOI PERDERE UNA BOMBA D\'AMBRA (SEGNALINO NUMERATO) PER RIDURRE DI 5 LA DIFESA DEL NEMICO."</string>
-	<string name="pop18_47_2__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+PRIMA DI PESCARE, PERDERE UNA BOMBA D\'AMBRA (SEGNALINO NUMERATO) PER RIDURRE DI 5 LA DIFESA DEL NEMICO."</string>
+	<string name="pop18_47_2__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-SE AVETE LA PAROLA CHIAVE 'THICK FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDETE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
-	<string name="pop18_47_3__b">"SE AVETE LA PAROLA CHIAVE 'THICK FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDI 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+SE AVETE LA PAROLA CHIAVE 'THICK FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+	<string name="pop18_47_3__b">"SE AVETE LA PAROLA CHIAVE 'THICK FORMATION' SULLA SCHEDA DELLA LIBERA COMPAGNIA, PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
 	<string name="pop18_54_1__b">PESCATE E RISOLVETE UNA CARTA EVENTO DEEPWOOD. SE GUADAGNATE O PERDETE RAZIONI, GUADAGNATE O PERDETE INVECE PROVVISTE (FINO A UN MASSIMO DI 1).</string>
 	<string name="pop18_58_1__b">PESCARE E RISOLVERE UNA CARTA EVENTO DEEPWOOD. SE GUADAGNATE O PERDETE RAZIONI, GUADAGNATE O PERDETE INVECE PROVVISTE (FINO A UN MASSIMO DI 1).</string>
 	<string name="pop18_64_2__b">"TIRARE UN DADO PUNTI FERITA NON UTILIZZATO E APPLICARE IL SEGUENTE RISULTATO.
 
-1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
+1-2 - GLI ESPLORATORI SUBISCONO PERDITE. PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).
 
 3-6 - NON SUCCEDE NULLA, GLI ESPLORATORI TORNANO SANI E SALVI."</string>
 	<string name="pop18_65_2__b">GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).</string>
-	<string name="pop18_65_3__b">OGNI OATHSWORN EFFETTUA UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 8). AGGIUNGERE 2 AL RISULTATO SE SIETE L\'URSUS WARBEAR. OGNI OATHSWORN GUADAGNA 1 RISCOSSA DA USARE DURANTE QUESTA PROVA PER OGNI 5 SQUADRONI CHE POSSIEDE (ARROTONDATO PER DIFETTO).</string>
+	<string name="pop18_65_3__b">OGNI OATHSWORN EFFETTUA UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 8). AGGIUNGERE 2 AL RISULTATO SE SIETE L\'URSUS WARBEAR. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTA PROVA PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO).</string>
 	<string name="pop18_65_6a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop18_65_7__b">PERDERE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop18_67_2__b">GUADAGNA 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
-	<string name="pop18_67_4__b">PERDERE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
+	<string name="pop18_65_7__b">PERDETE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop18_67_2__b">GUADAGNATE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
+	<string name="pop18_67_4__b">PERDETE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
 	<string name="pop18_67_4__d">"L\'USO DELLA BOMBA D\'AMBRA HA INDEBOLITO IL WYRM.
 
 ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 11. SE SI POSSIEDE LA PAROLA CHIAVE 'THICK FORMATION', AGGIUNGERE 2 A OGNI RISULTATO.
 
-OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE AVETE (ARROTONDATO PER DIFETTO)
+OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO)
 
-SE UN OATHSWORN FALLISCE, PERDE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+SE UN OATHSWORN FALLISCE, PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop18_67_5__b">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 15. SE AVETE LA PAROLA CHIAVE 'THICK FORMATION', AGGIUNGETE 2 AL RISULTATO. OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA UTILIZZARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSIEDE (ARROTONDATO PER DIFETTO).
 
-SE UN OATHSWORN FALLISCE, PERDE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+SE UN OATHSWORN FALLISCE, PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop18_74_1__b">GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18_85_1__b">GUADAGNANO 1 MORALE (SUL DADO TRACCIATORE).</string>
-	<string name="pop18_85_5__b">"SCRIVERE LA PAROLA CHIAVE 'AMBER BOMBS' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E REGISTRATE LA QUANTITÀ DI BOMBE D\'AMBRA (GETTONI NUMERATI) CHE AVETE ACCANTO AD ESSA.
+	<string name="pop18_85_5__b">"SCRIVERE LA PAROLA CHIAVE 'BOMBE D\'AMBRA' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E REGISTRATE LA QUANTITÀ DI BOMBE D\'AMBRA (GETTONI NUMERATI) CHE AVETE ACCANTO AD ESSA.
 
-SCRIVERE LA PAROLA CHIAVE 'SUPPLIES' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E REGISTRATE ACCANTO AD ESSA LA QUANTITÀ DI RIFORNIMENTI (CUBI MIGHT) CHE AVETE.
+SCRIVERE LA PAROLA CHIAVE 'PROVVISTE' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E REGISTRATE ACCANTO AD ESSA LA QUANTITÀ DI RIFORNIMENTI (CUBI MIGHT) CHE AVETE.
 
-SCRIVERE LA PAROLA CHIAVE 'SQUADS' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE LA QUANTITÀ DI SQUADRONI (RAPPRESENTATI DAI DADI PUNTO FERITA) CHE AVETE ACCANTO.
+SCRIVERE LA PAROLA CHIAVE 'SQUADRNI' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE LA QUANTITÀ DI SQUADRONI (RAPPRESENTATI DAI DADI PUNTO FERITA) CHE AVETE ACCANTO.
 
 SCRIVERE LA PAROLA CHIAVE 'MORALE' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E REGISTRATE LA QUANTITÀ DI MORALE (SUL DADO INDICATORE) CHE AVETE ACCANTO.
 
@@ -14782,18 +14782,18 @@ SE NON AVETE LO SCRIGNO MISTERIOSO, APRITE LA BUSTA MISTERIOSA 3.
 
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 18 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop18_85_6__b">MARCARE LA CASELLA \'AMBUSHED\' PER IL CAPITOLO 18 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
-	<string name="pop18_86_2__b">PERDERE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop18_86_3__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
+	<string name="pop18_86_2__b">PERDETE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop18_86_3__b">"PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 
-PERDERE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
-	<string name="pop18_86_4__b">PERDERE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
-	<string name="pop18_86_4__d">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).</string>
-	<string name="pop18_86_5__b">"ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12 (AGGIUNGETE 2 SE AVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA). OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE AVETE (ARROTONDATO PER DIFETTO).
+PERDETE 1 RIFORNIMENTO (CUBO MIGHT)."</string>
+	<string name="pop18_86_4__b">PERDETE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).</string>
+	<string name="pop18_86_4__d">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).</string>
+	<string name="pop18_86_5__b">"ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12 (AGGIUNGETE 2 SE AVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA). OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO).
 
 RIVELARE LA SCHEDA DELLE REGOLE SPECIALI PER L\'INCONTRO. MARCATE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 18 SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA."</string>
-	<string name="pop18_86_5__d">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18_86_5__d">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18_87_1__b">PESCARE E RISOLVERE UNA CARTA EVENTO DEEPWOOD. SE SI GUADAGNANO O PERDONO RAZIONI, GUADAGNA O PERDONO INVECE PROVVISTE (FINO A UN MASSIMO DI 1).</string>
-	<string name="pop18_epi_1__b">RIDURRE LA QUANTITÀ DI SQUADRE REGISTRATE SULLA SCHEDA DELLA LIBERA COMPAGNIA DI 1 PER OGNI 3 SOLDATI PERSI DURANTE L\'INCONTRO.</string>
+	<string name="pop18_epi_1__b">RIDURRE LA QUANTITÀ DI SQUADRONI REGISTRATE SULLA SCHEDA DELLA LIBERA COMPAGNIA DI 1 PER OGNI 3 SOLDATI PERSI DURANTE L\'INCONTRO.</string>
 	<string name="pop18_epi_3__b">"ARCHIVIA LA CARTA ALLEATO 1 (MIDGE).
 
 SCRIVERE LA PAROLA CHIAVE 'FAILURE' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA
@@ -14807,81 +14807,81 @@ CONTARE IL LIVELLO, IL BOTTINO E LE PERDITE."</string>
 	<string name="pop18_epi_5__b">"SE AVETE 6 O PIÙ MORALE REGISTRATO SULLA SCHEDA DELLA LIBERA COMPAGNIA, MARCATE LA CASELLA 'EXTRA UNIQUE' PER IL CAPITOLO 18 SULLA SCHEDA DELLA LIBERA COMPAGNIA
 
 CONTARE IL LIVELLO, IL BOTTINO E LE PERDITE."</string>
-	<string name="pop18m_1_1__b">"PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).
+	<string name="pop18m_1_1__b">"PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1).
 
 SCRIVERE LA PAROLA CHIAVE 'STRONG WATCH' SULLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop18m_1_2__b">"SCRIVERE LA PAROLA CHIAVE 'WEAK WATCH' SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA."</string>
-	<string name="pop18m_1_4__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
-	<string name="pop18m_1_5__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+	<string name="pop18m_1_4__b">PERDETE 2 RIFORNIMENTI (CUBI MIGHT).</string>
+	<string name="pop18m_1_5__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_1_6__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_2_12__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
+	<string name="pop18m_1_6__b">PERDETE 3 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_2_12__b">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop18m_2_13__b">UN OATHSWORN PERDE 2 PUNTI FERITA (A SCELTA).</string>
-	<string name="pop18m_2_13__d">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
-	<string name="pop18m_2_1__b">"PERDERE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).
+	<string name="pop18m_2_13__d">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
+	<string name="pop18m_2_1__b">"PERDETE 1 BOMBA D\'AMBRA (SEGNALINO NUMERATO).
 
 GUADAGNARE 1 MORALE (SUL DADO TRACCIATORE)."</string>
-	<string name="pop18m_2_2__b">"ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12 (AGGIUNGETE 2 SE AVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA). OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE AVETE (ARROTONDATO PER DIFETTO)."</string>
-	<string name="pop18m_2_4__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_3_1__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
-	<string name="pop18m_3_2__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+	<string name="pop18m_2_2__b">"ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12 (AGGIUNGETE 2 SE AVETE LA PAROLA CHIAVE 'STRONG WATCH' SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA). OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO)."</string>
+	<string name="pop18m_2_4__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_3_1__b">PERDETE 2 RIFORNIMENTI (CUBI MIGHT).</string>
+	<string name="pop18m_3_2__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_3_3__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
+	<string name="pop18m_3_3__b">PERDETE 3 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
 	<string name="pop18m_3_4__b">"COMPILATE UNA CASELLA ACCANTO ALLA PAROLA CHIAVE 'ETERE' SULLA VOSTRA SCHEDA LIBERA COMPAGNIA."</string>
 	<string name="pop18m_4_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6). SE FALLISCE, PERDE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_4_3__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_4_6__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
-	<string name="pop18m_4_7__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+	<string name="pop18m_4_3__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_4_6__b">PERDETE 2 RIFORNIMENTI (CUBI MIGHT).</string>
+	<string name="pop18m_4_7__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_4_8__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_4_9__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop18m_5_0__b">PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_5_1__b">"GUADAGNA 1 MORALE (SUL DADO TRACCIATORE)
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
+	<string name="pop18m_4_8__b">PERDETE 3 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_4_9__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop18m_5_0__b">PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_5_1__b">"GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE)
 
-PERDERE 3 RIFORNIMENTI (CUBI MIGHT)."</string>
-	<string name="pop18m_5_2__b">PERDERE 2 FORNITURE (CUBI MIGHT).</string>
-	<string name="pop18m_5_3__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+PERDETE 3 RIFORNIMENTI (CUBI MIGHT)."</string>
+	<string name="pop18m_5_2__b">PERDETE 2 RIFORNIMENTI (CUBI MIGHT).</string>
+	<string name="pop18m_5_3__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-PERDERE 2 MORALE (SUL DADO TRACCIATORE). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_5_4__b">PERDERE 4 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_6_3__b">"PERDERE 1 FORNITURA (CUBO MIGHT)
+PERDETE 2 MORALE (SUL DADO TRACCIATORE). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
+	<string name="pop18m_5_4__b">PERDETE 4 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_6_3__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT)
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
-	<string name="pop18m_6_4__b">PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_6_6__b">PERDERE 2 RIFORNIMENTI (CUBI MIGHT).</string>
-	<string name="pop18m_7_1__b">"PERDERE 2 FORNITURE (CUBI MIGHT).
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A VOSTRA SCELTA) PER OGNI MORALE CHE PERDERESTE SOTTO 1."</string>
+	<string name="pop18m_6_4__b">PERDETE 2 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_6_6__b">PERDETE 2 RIFORNIMENTI (CUBI MIGHT).</string>
+	<string name="pop18m_7_1__b">"PERDETE 2 RIFORNIMENTI (CUBI MIGHT).
 
-PERDERE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
-	<string name="pop18m_7_2__b">"PERDERE 1 FORNITURA (CUBO MIGHT).
+PERDETE 1 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+	<string name="pop18m_7_2__b">"PERDETE 1 RIFORNIMENTO (CUBO MIGHT).
 
-PERDERE 2 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
-	<string name="pop18m_7_3__b">PERDERE 3 MORALI (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
-	<string name="pop18m_8_0__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
+PERDETE 2 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1."</string>
+	<string name="pop18m_7_3__b">PERDETE 3 MORALE (SUL DADO TRACCIATORE, MINIMO 1). SE È GIÀ A 1, UN OATHSWORN A CASO PERDE UN SEGNALINO COMBATTIMENTO (A SCELTA) PER OGNI MORALE CHE SI PERDEREBBE SOTTO 1.</string>
+	<string name="pop18m_8_0__b">"PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 
-PERDERE 1 RIFORNIMENTO (CUBO DI POTENZE)."</string>
+PERDETE 1 RIFORNIMENTO (CUBO MIGHT)."</string>
 	<string name="pop19_10_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_10_2__b">"GUADAGNARE 2 CUBI DI RIFORNIMENTO.
+	<string name="pop19_10_2__b">"GUADAGNARE 2 CUBI RIFORNIMENTO.
 
 AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop19_10_3__b">"SCEGLIERE UNO: DUE OATHSWORN RECUPERANO 1 PUNTO FERITA PERSO CIASCUNO O AGGIUNGONO 2 CARTE CURA AL MAZZO DELLE FERITE
 
 AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop19_11_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_11_2__b">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
+	<string name="pop19_11_2__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
 	<string name="pop19_12_1a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_12_2__b">SCEGLIERE UN OATHSWORN PER EFFETTUARE UNA PROVA DI SCALATA (CLIMB CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE L\'OATHSWORN VIENE SCELTO).</string>
 	<string name="pop19_12_4__b">L\'OATHSWORN SCELTO PERDE 1 SEGNALINO COMBATTIMENTO (A SCELTA).</string>
-	<string name="pop19_12_6__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_12_6__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_12_7a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_13_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_13_2__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_13_2__d">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5).</string>
-	<string name="pop19_13_4__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_13_4__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_14_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_14_3__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+	<string name="pop19_14_3__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_14_3__d">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.</string>
 	<string name="pop19_15_10__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_15_11__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -14894,8 +14894,8 @@ AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO."</string>
 	<string name="pop19_15_21__b">"GUADAGNARE IL SEGNALINO INDIZIO 1.
 
 ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4)."</string>
-	<string name="pop19_15_22__b">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop19_15_23__b">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
+	<string name="pop19_15_22__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop19_15_23__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
 	<string name="pop19_15_24__b">"CONTROLLARE LA FASE DELLA PESTE SULLA SCHEDA DELLA LIBERA COMPAGNIA
 
 Se si trova allo \"STADIO 1,\" TUTTI GLI OATHSWORN guadagnano 1 PUNTO COLPO
@@ -14913,32 +14913,32 @@ EFFETTUARE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4, AGGIUNGERE
 EFFETTUARE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE AVETE SCELTO LA LAMA (THE BLADE))."</string>
 	<string name="pop19_15_3__b">IL VOSTRO GOLEM EFFETTUA UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10. GUADAGNA DUE  SU QUESTO ATTACCO.</string>
 	<string name="pop19_15_4__b">LA LAMA GUADAGNA UN SEGNALINO BATTLEFLOW.</string>
-	<string name="pop19_15_6__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10. OGNI OATHSWORN GUADAGNA 1 RISCOSSA DA USARE IN QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSIEDE (ARROTONDATO PER DIFETTO).</string>
-	<string name="pop19_15_7__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19_15_8__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_15_6__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE IN QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO).</string>
+	<string name="pop19_15_7__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_15_8__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_15_9__b">APRIRE IL DIARIO A PAGINA 71. RISOLVERE IL MISTERO DELLA PORTA E SCEGLIERE UNA DELLE OPZIONI SEGUENTI.</string>
 	<string name="pop19_16_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_17_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_17_2__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+	<string name="pop19_17_2__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_17_2__d">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO BATTLEFLOW.</string>
-	<string name="pop19_17_3__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19_17_4__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19_17_5__b">PERDERE 2 CUBI DI RIFORNIMENTO.</string>
+	<string name="pop19_17_3__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_17_4__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_17_5__b">PERDETE 2 CUBI RIFORNIMENTO.</string>
 	<string name="pop19_18_1a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_18_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO COMBATTIMENTO A LORO SCELTA.</string>
 	<string name="pop19_19_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_19_4__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
-	<string name="pop19_19_4__d">GUADAGNARE 2 CUBI DI RIFORNIMENTO.</string>
-	<string name="pop19_1_10__b">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 1 RISCOSSA DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRE CHE AVETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
+	<string name="pop19_19_4__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
+	<string name="pop19_19_4__d">GUADAGNARE 2 CUBI RIFORNIMENTO.</string>
+	<string name="pop19_1_10__b">"ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 
-PRENDETE 1 CUBO DI RIFORNIMENTO DAL CENTRO DEL GIOCO E POSIZIONATELO VICINO A VOI."</string>
+PRENDETE 1 CUBO RIFORNIMENTO DAL CENTRO DEL GIOCO E POSIZIONATELO VICINO A VOI."</string>
 	<string name="pop19_1_11__b">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10.</string>
-	<string name="pop19_1_11__d">ARCHIVIARE TUTTI I CUBI DI RIFORNIMENTO AL CENTRO DEL GIOCO.</string>
+	<string name="pop19_1_11__d">ARCHIVIARE TUTTI I CUBI RIFORNIMENTO AL CENTRO DEL GIOCO.</string>
 	<string name="pop19_1_12__b">"PRENDERE 1 CUBO RIFORNIMENTO DAL CENTRO DEL GIOCO E POSIZIONARLO VICINO A VOI.
 
-ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 1 RIFORNIMENTO DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRE CHE AVETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_1_12__d">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 10.</string>
-	<string name="pop19_1_12__f">ARCHIVIARE TUTTI I CUBI DI RIFORNIMENTO AL CENTRO DEL GIOCO.</string>
+	<string name="pop19_1_12__f">ARCHIVIARE TUTTI I CUBI RIFORNIMENTO AL CENTRO DEL GIOCO.</string>
 	<string name="pop19_1_13__b">"APRIRE IL DIARIO ALLE PAGINE 68/69. TENERE APERTA QUESTA PAGINA PER TUTTO IL CAPITOLO.
 
 SE SI VIENE MANDATI IN UN\'ALTRA PARTE DEL DIARIO, SI VIENE SEMPRE RIMANDATI AUTOMATICAMENTE ALLA PAGINA DELLA MAPPA
@@ -14947,35 +14947,35 @@ QUANDO SI SCEGLIE UNA DIREZIONE IN CUI MUOVERSI, CI SI DIRIGE IN LINEA RETTA IN 
 
 UNA VOLTA VISUALIZZATA LA MAPPA, CONTINUARE NELL\'APP."</string>
 	<string name="pop19_1_16__b">PESCARE UN EVENTO DEEPWOOD. SE SI TRATTA DELLA CARTA NUMERO 5-11, RIMESCOLATELA NEL MAZZO EVENTI DEEPWOOD E PESCATE UN ALTRO EVENTO.</string>
-	<string name="pop19_1_1__b">"RAPPRESENTARE LA QUANTITÀ DI SQUADRE, MORALE E RIFORNIMENTI REGISTRATI SULLA SCHEDA DELLA LIBERA COMPAGNIA UTILIZZANDO I SEGUENTI COMPONENTI:
+	<string name="pop19_1_1__b">"RAPPRESENTARE LA QUANTITÀ DI SQUADRONI, MORALE E RIFORNIMENTI REGISTRATI SULLA SCHEDA DELLA LIBERA COMPAGNIA UTILIZZANDO I SEGUENTI COMPONENTI:
 
-SQUADRE: PRENDETE UNA QUANTITÀ DI DADI PUNTI FERITA NON UTILIZZATI E RUOTATELI IN MODO CHE IL TOTALE DEI PUNTI MOSTRATI SIA UGUALE ALLA QUANTITÀ DI SQUADRE CHE AVETE
+SQUADRONI: PRENDETE UNA QUANTITÀ DI DADI PUNTI FERITA NON UTILIZZATI E RUOTATELI IN MODO CHE IL TOTALE DEI PUNTI MOSTRATI SIA UGUALE ALLA QUANTITÀ DI SQUADRONI CHE POSSEDETE
 
 MORALE: PRENDETE UN DADO TRACCIATORE E TRASFORMATELO IN BASE ALLA QUANTITÀ DI MORALE CHE AVETE.
 
-FORNITURE: PRENDETE UNA QUANTITÀ DI DADI FORZA INUTILIZZATI PARI ALLA QUANTITÀ DI RIFORNIMENTI CHE AVETE
+PROVVISTE: PRENDETE UNA QUANTITÀ DI DADI FORZA INUTILIZZATI PARI ALLA QUANTITÀ DI RIFORNIMENTI CHE AVETE
 
 METTETELI TUTTI DI FRONTE A VOI.
 
 POSIZIONATE IL TRACCIATO DEL TEMPO DEL CAPITOLO 19 AL CENTRO DEL GIOCO."</string>
 	<string name="pop19_1_2__b">RIVELA TUTTE LE CARTE OGGETTO DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 19 - GUADAGNA 4 OGGETTI QUALSIASI DA ESSO.</string>
-	<string name="pop19_1_3__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
+	<string name="pop19_1_3__b">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
 	<string name="pop19_1_5__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_1_5__d">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12. OGNI OATHSWORN GUADAGNA 1 RISCOSSA DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRE CHE AVETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_1_5__d">ESEGUIRE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 12. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_1_8__b">"TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO EMPOWERED X3
 
-ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 1 RISCOSSA DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRE CHE AVETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 1 REDRAW DA USARE DURANTE QUESTO COMBATTIMENTO PER OGNI 5 SQUADRONI CHE POSSEDETE (ARROTONDATO PER DIFETTO). INVECE DI PERDERE PUNTI FERITA, SE DUE O PIÙ FALLISCONO, PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_1_9__b">PRENDETE I CUBETTI DI RIFORNIMENTO DALLA LORO POSIZIONE E METTETELI TUTTI AL CENTRO DEL GIOCO.</string>
 	<string name="pop19_20_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_20_1__d">OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 4). OGNI OATHSWORN CHE FALLISCE PERDE UN PUNTO FERITA.</string>
 	<string name="pop19_20_2__b">"TUTTI GLI OATHSWORN EFFETTUANO UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5, 4 PER QUALSIASI A\'DENDRI E PER LA LAMA (THE BLADE)). OGNI OATHSWORN CHE FALLISCE PERDE 1 PUNTO FERITA
 
-PERDONO 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_20_3__b">ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 7). GUADAGNA 3 RIDISEGNI DA USARE PER QUESTA PROVA.</string>
-	<string name="pop19_20_4__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+	<string name="pop19_20_4__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_20_4__d">ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 7). AGGIUNGETE 2 AL RISULTATO PER IL TEMPO EXTRA CHE AVETE GUADAGNATO.</string>
 	<string name="pop19_20_5__b">ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 7). PER QUESTA PROVA PUOI USARE LA FORZA DI TUTTI GLI URSUS PRESENTI.</string>
-	<string name="pop19_20_7__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_20_7__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_20_8__b">"ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 7). PER QUESTA PROVA PUOI USARE LA FORZA DEL PROPRIO GOLEM."</string>
 	<string name="pop19_21_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_22_10__b">"RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 19 SULLA SCHEDA DELLA LIBERA COMPAGNIA.
@@ -14993,15 +14993,15 @@ SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 19 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop19_22_1__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.</string>
-	<string name="pop19_22_2__b">"CANCELLATE LA QUANTITÀ DI SQUADRE CHE AVETE SUL FOGLIO DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE AVETE '35 SOLDATI'
+	<string name="pop19_22_2__b">"CANCELLATE LA QUANTITÀ DI SQUADRONI CHE POSSEDETE SUL FOGLIO DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE POSSEDETE '35 SOLDATI'
 
-SCRIVERE LA QUANTITÀ DI CUBI DI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LIBERA COMPAGNIA:"</string>
-	<string name="pop19_22_3__b">"CANCELLATE LA QUANTITÀ DI SQUADRE CHE AVETE SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE AVETE '30 SOLDATI'
+SCRIVERE LA QUANTITÀ DI CUBI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LIBERA COMPAGNIA:"</string>
+	<string name="pop19_22_3__b">"CANCELLATE LA QUANTITÀ DI SQUADRONI CHE POSSEDETE SULLA SCHEDA DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE POSSEDETE '30 SOLDATI'
 
-SCRIVERE LA QUANTITÀ DI CUBI DI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LIBERA COMPAGNIA."</string>
-	<string name="pop19_22_4__b">"CANCELLATE LA QUANTITÀ DI SQUADRE CHE AVETE SUL FOGLIO DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE AVETE '25 SOLDATI'
+SCRIVERE LA QUANTITÀ DI CUBI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LIBERA COMPAGNIA."</string>
+	<string name="pop19_22_4__b">"CANCELLATE LA QUANTITÀ DI SQUADRONI CHE POSSEDETE SUL FOGLIO DELLA VOSTRA LIBERA COMPAGNIA E REGISTRATE CHE POSSEDETE '25 SOLDATI'
 
-SCRIVERE LA QUANTITÀ DI CUBI DI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LIBERA COMPAGNIA."</string>
+SCRIVERE LA QUANTITÀ DI CUBI RIFORNIMENTO CHE VI RESTANO SUL FOGLIO DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop19_22_5__b">OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 1, AGGIUNGERE 1 DIFFICOLTÀ PER OGNI SEGNALINO TEMPO SUPERIORE A 10 CHE SI HA SUL TRACCIATO DEL TEMPO).</string>
 	<string name="pop19_22_7__b">MARCARE LA CASELLA \'AMBUSHED\' PER IL CAPITOLO 19 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
 	<string name="pop19_22_9__b">"ARCHIVIA LA CARTA ALLEATO 2/37 (SEDRIC).
@@ -15016,97 +15016,97 @@ SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 19 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop19_2_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_2_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGETE 1 AL RISULTATO SE IL PRECURSORE DELL\'AVIAZIONE È CON VOI).</string>
-	<string name="pop19_2_2__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_2_2__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_3_1a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_3_2__b">"GUADAGNARE 1 FORNITURA (CUBO MIGHT)
+	<string name="pop19_3_2__b">"GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT)
 
-PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
 	<string name="pop19_4_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_4_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 5, AGGIUNGETE 1 AL RISULTATO SE IL PRECURSORE DELL\'AVIAZIONE È CON VOI).</string>
-	<string name="pop19_4_3__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19_4_5__b">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop19_4_5__d">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_4_3__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_4_5__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop19_4_5__d">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_5_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_5_1__d">GUADAGNATE 2 CUBI DI PROVVISTE. TUTTI I CUBI PROVVISTE ATTUALI RAPPRESENTANO ORA LE FONTI DI LUCE CHE AVETE CON VOI. LA RACCOLTA DI FONTI DI LUCE VI AIUTERÀ A PROTEGGERVI IN QUESTA CITTÀ.</string>
 	<string name="pop19_6_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_6_2__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+	<string name="pop19_6_2__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_6_2__d">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop19_6_3__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 5).</string>
-	<string name="pop19_6_5__b">GUADAGNARE 2 CUBI DI RIFORNIMENTO.</string>
+	<string name="pop19_6_5__b">GUADAGNARE 2 CUBI RIFORNIMENTO.</string>
 	<string name="pop19_6_5__d">RIVELA TUTTE LE CARTE OGGETTO DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 19 - GUADAGNA 2 OGGETTI QUALSIASI DA ESSO.</string>
-	<string name="pop19_6_6__b">GUADAGNARE 2 CUBI DI RIFORNIMENTO.</string>
+	<string name="pop19_6_6__b">GUADAGNARE 2 CUBI RIFORNIMENTO.</string>
 	<string name="pop19_6_6__d">RIVELA TUTTE LE CARTE OGGETTO DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 19 - GUADAGNA 1 OGGETTO QUALSIASI DA ESSO.</string>
-	<string name="pop19_6_6__f">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19_6_7__b">"GUADAGNARE 1 FORNITURA (CUBO MIGHT)
+	<string name="pop19_6_6__f">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_6_7__b">"GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT)
 
-PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
 	<string name="pop19_6_8__b">"RIVELA TUTTE LE CARTE OGGETTO DEL MAZZO OGGETTI COMUNI DEL CAPITOLO 19 - GUADAGNA 2 OGGETTI QUALSIASI DA ESSO.
 
-GUADAGNA 1 PROVVISTA (CUBO DI POTENZE)."</string>
-	<string name="pop19_6_9__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+GUADAGNA 1 PROVVISTA (CUBO MIGHT)."</string>
+	<string name="pop19_6_9__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_7_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_7_1__d">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5)
 
 OGNI OATHSWORN CHE FALLISCE PERDE 1 PUNTO FERITA."</string>
 	<string name="pop19_8_1a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_8_2__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+	<string name="pop19_8_2__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_8_2__d">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4).</string>
-	<string name="pop19_8_3__b">GUADAGNARE 2 CUBI DI RIFORNIMENTO.</string>
-	<string name="pop19_8_4__b">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop19_8_6__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19_8_7__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
-	<string name="pop19_9_10__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+	<string name="pop19_8_3__b">GUADAGNARE 2 CUBI RIFORNIMENTO.</string>
+	<string name="pop19_8_4__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop19_8_6__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19_8_7__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
+	<string name="pop19_9_10__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_9_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_9_1__d">ESEGUIRE UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 6).</string>
 	<string name="pop19_9_2__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_9_4__b">"PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
+	<string name="pop19_9_4__b">"PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)
 
 TUTTI GLI OATHSWORN PERDONO UN SEGNALINO COMBATTIMENTO A LORO SCELTA."</string>
 	<string name="pop19_9_6__b">PESCA UNA CARTA ALLEATO DA COMBATTIMENTO A CASO DAL SUO MAZZO ALLEATI.</string>
 	<string name="pop19_9_7__b">"ARCHIVIA LA CARTA ALLEATO 31 (WILLEM)
 
-PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
-	<string name="pop19_9_8__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+	<string name="pop19_9_8__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
 	<string name="pop19_9_9__b">"ARCHIVIARE L\'ALLEATO SCELTO PER IL COMBATTIMENTO
 
-PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_epi_1__b">"CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE
 
 INVECE DI PESCARE 4 OGGETTI COMUNI DURANTE IL SACCHEGGIO, SI POSSONO OTTENERE 8 OGGETTI COMUNI QUALSIASI DAL MAZZO DEGLI OGGETTI COMUNI DEL CAPITOLO 20."</string>
-	<string name="pop19m_1_10__b">PERDERE X SQUADRE (RAPPRESENTATE SUL DADO DEI PUNTI FERITA), DOVE X È 5 MENO LA QUANTITÀ DI MORALE CHE AVETE SUL VOSTRO DADO TRACCIATORE.</string>
+	<string name="pop19m_1_10__b">PERDETE X SQUADRONI (RAPPRESENTATE SUL DADO DEI PUNTI FERITA), DOVE X È 5 MENO LA QUANTITÀ DI MORALE CHE AVETE SUL VOSTRO DADO TRACCIATORE.</string>
 	<string name="pop19m_1_10__d">"RIMETTERE IL DADO TRACCIATORE DEL MORALE NELLA RISERVA, CANCELLARE LA PAROLA CHIAVE 'MORALE' E IL VALORE DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
-	<string name="pop19m_1_1__b">"PERDERE 1 CUBO DI RIFORNIMENTO.
+	<string name="pop19m_1_1__b">"PERDETE 1 CUBO RIFORNIMENTO.
 
-PERDERE 1 SQUADRA (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
-	<string name="pop19m_1_2__b">"PERDERE 1 CUBO DI RIFORNIMENTO.
+PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
+	<string name="pop19m_1_2__b">"PERDETE 1 CUBO RIFORNIMENTO.
 
-PERDERE 1 MORALE (DAL DADO DEL TRACCIATORE, MINIMO 1)."</string>
+PERDETE 1 MORALE (DAL DADO DEL TRACCIATORE, MINIMO 1)."</string>
 	<string name="pop19m_1_4__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 5, AGGIUNGERE 1 AL RISULTATO SE AVETE CON VOI UN URSUS).</string>
 	<string name="pop19m_1_5__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 6, AGGIUNGERE 1 AL RISULTATO SE LA CACCIATRICE È CON VOI).</string>
-	<string name="pop19m_1_6__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
-	<string name="pop19m_1_8__b">GUADAGNA 1 MORALE (SUL DADO TRACCIATORE).</string>
-	<string name="pop19m_2_1__b">"PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA)
+	<string name="pop19m_1_6__b">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
+	<string name="pop19m_1_8__b">GUADAGNATE 1 MORALE (SUL DADO TRACCIATORE).</string>
+	<string name="pop19m_2_1__b">"PERDETE 2 SQUADRONI (RAPPRESENTATE SUI DADI DEI PUNTI FERITA)
 
 OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). AGGIUNGERE 1 AL RISULTATO SE SIETE IL SACERDOTE (PRIEST) O IL PENITENTE. OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE UN SEGNALINO COMBATTIMENTO A CASO."</string>
-	<string name="pop19m_2_2__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
-	<string name="pop19m_2_2__d">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19m_2_3__b">PERDERE 2 CUBI DI RIFORNIMENTO.</string>
+	<string name="pop19m_2_2__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
+	<string name="pop19m_2_2__d">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19m_2_3__b">PERDETE 2 CUBI RIFORNIMENTO.</string>
 	<string name="pop19m_2_4__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 5).</string>
-	<string name="pop19m_2_5__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19m_2_6__b">PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA).</string>
-	<string name="pop19m_3_4__b">"PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA)
+	<string name="pop19m_2_5__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19m_2_6__b">PERDETE 2 SQUADRONI (RAPPRESENTATE SUI DADI DEI PUNTI FERITA).</string>
+	<string name="pop19m_3_4__b">"PERDETE 2 SQUADRONI (RAPPRESENTATE SUI DADI DEI PUNTI FERITA)
 
 OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 5). AGGIUNGERE 1 AL RISULTATO SE SIETE IL SACERDOTE (PRIEST) O IL PENITENTE. OGNI OATHSWORN CHE FALLISCE QUESTA PROVA PERDE UN SEGNALINO COMBATTIMENTO A CASO."</string>
-	<string name="pop19m_3_5__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
-	<string name="pop19m_3_5__d">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19m_3_6__b">PERDERE 2 CUBI DI RIFORNIMENTO.</string>
+	<string name="pop19m_3_5__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
+	<string name="pop19m_3_5__d">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19m_3_6__b">PERDETE 2 CUBI RIFORNIMENTO.</string>
 	<string name="pop19m_3_7__b">"RIEMPI UNA CASELLA ACCANTO ALLA PAROLA CHIAVE 'AETHER' SULLA VOSTRA SCHEDA LIBERA COMPAGNIA."</string>
-	<string name="pop19m_4_0__b">GUADAGNARE 1 FORNITURA (CUBO MIGHT).</string>
-	<string name="pop19m_4_1__b">PERDERE 1 CUBO DI RIFORNIMENTO.</string>
-	<string name="pop19m_4_1__d">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19m_4_2__b">PERDERE 2 CUBI DI RIFORNIMENTO.</string>
-	<string name="pop19m_4_3__b">PERDERE 1 SQUADRA (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
-	<string name="pop19m_5_0__b">PERDERE 2 SQUADRE (RAPPRESENTATE SUI DADI DEI PUNTI FERITA).</string>
+	<string name="pop19m_4_0__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
+	<string name="pop19m_4_1__b">PERDETE 1 CUBO RIFORNIMENTO.</string>
+	<string name="pop19m_4_1__d">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19m_4_2__b">PERDETE 2 CUBI RIFORNIMENTO.</string>
+	<string name="pop19m_4_3__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
+	<string name="pop19m_5_0__b">PERDETE 2 SQUADRONI (RAPPRESENTATE SUI DADI DEI PUNTI FERITA).</string>
 	<string name="pop19m_5_0__d">NELLA SEZIONE SUCCESSIVA, NON AGGIUNGERE IL TEMPO AL TRACCIATO DEL TEMPO QUANDO VIENE INDICATO.</string>
 	<string name="pop1_12_1__b">OGNI OATHSWORN PUÒ SCAMBIARE 1 IRON PER GUADAGNARE UN SEGNALINO ANIMUS +2 (UNA VOLTA).</string>
 	<string name="pop1_13_1__b">"GUADAGNARE IL SEGNALINO INDIZIO 1.
@@ -15184,16 +15184,16 @@ POI GUADAGNATE LA CARTA ALLEATO 1 (MIDGE)."</string>
 	<string name="pop1_22_9__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO PERMANENTE EMPOWERED X3. ANNOTATELO SULLA VOSTRA SCHEDA PERSONAGGIO.</string>
 	<string name="pop1_24_1b_b">EFFETTUARE UNA PROVA DI BARATTO (BARTERING CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop1_24_1c_b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 6).</string>
-	<string name="pop1_24_2__b">PERDERE 2 IRON.</string>
+	<string name="pop1_24_2__b">PERDETE 2 IRON.</string>
 	<string name="pop1_24_2__d">POSIZIONARE I GETTONI POSIZIONE 11, 17 e 25.</string>
-	<string name="pop1_24_3__b">PERDERE 6 IRON.</string>
+	<string name="pop1_24_3__b">PERDETE 6 IRON.</string>
 	<string name="pop1_24_3__d">PPOSIZIONARE I GETTONI POSIZIONE 11, 17 e 25.</string>
-	<string name="pop1_24_4__b">"PERDERE 6 IRON.
+	<string name="pop1_24_4__b">"PERDETE 6 IRON.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO EMPOWERED X3."</string>
 	<string name="pop1_24_4__d">POSIZIONARE I GETTONI POSIZIONE 11, 17 e 25.</string>
 	<string name="pop1_24_5__b">POSIZIONARE I GETTONI POSIZIONE 11, 17 e 25.</string>
-	<string name="pop1_24_6__b">PERDERE 6 IRON.</string>
+	<string name="pop1_24_6__b">PERDETE 6 IRON.</string>
 	<string name="pop1_24_6__d">POSIZIONARE I GETTONI POSIZIONE 11, 17 e 25.</string>
 	<string name="pop1_3_1__b">POTETE AVVIARE UN COMMERCIO CON LO SPEZIALE.</string>
 	<string name="pop1_4_11__b">GUADAGNATE LA CARTA ALLEATO 2 (SEDRIC), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 8 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 18 AL VOSTRO MAZZO EVENTI CITTÀ.</string>
@@ -15224,7 +15224,7 @@ SE NON AVETE LO SCRIGNO MISTERIOSO, APRITE LA BUSTA MISTERIOSA 1.
 
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 1 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop1_4_16__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 3).</string>
-	<string name="pop1_4_18__b">PERDERE 1 IRON E AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO (NON ATTIVARE ALCUN EFFETTO SUL TRACCIATO DEL TEMPO).</string>
+	<string name="pop1_4_18__b">PERDETE 1 IRON E AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO (NON ATTIVARE ALCUN EFFETTO SUL TRACCIATO DEL TEMPO).</string>
 	<string name="pop1_4_1__b">ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop1_4_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW.</string>
 	<string name="pop1_4_3__b">UN OATHSWORN PERDE 1 PUNTO FERITA CONTRO I RATTI ROGNOSI PRIMA DI ELIMINARLI. CONTATE OGNI OATHSWORN E TIRATE UN DADO PUNTO FERITA NON UTILIZZATO PER DETERMINARE CHI È LA VITTIMA.</string>
@@ -15243,7 +15243,7 @@ CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
 
 FORMARE LE SQUADRE REGOLARI:
 
-PRENDETE 10 DADI DA PUNTI FERITA NON UTILIZZATI, POSIZIONATELI VICINI E GIRATELI IN MODO CHE IL TOTALE DEI PIPS A FACCIA IN SU SIA UGUALE AL NUMERO DI SOLDATI CHE AVETE REGISTRATO SULLA SCHEDA DELLA LIBERA COMPAGNIA. DISTRIBUIRE I PUNTI FERITA IL PIÙ UNIFORMEMENTE POSSIBILE SUI DADI. OGNI DADO RAPPRESENTA UNA SQUADRA REGOLARE. ESEMPIO: JAMES HA 25 SOLDATI, QUINDI TRASFORMA I 10 DADI IN 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2 PER UN TOTALE DI 25.
+PRENDETE 10 DADI DA PUNTI FERITA NON UTILIZZATI, POSIZIONATELI VICINI E GIRATELI IN MODO CHE IL TOTALE DEI PIPS A FACCIA IN SU SIA UGUALE AL NUMERO DI SOLDATI CHE AVETE REGISTRATO SULLA SCHEDA DELLA LIBERA COMPAGNIA. DISTRIBUIRE I PUNTI FERITA IL PIÙ UNIFORMEMENTE POSSIBILE SUI DADI. OGNI DADO RAPPRESENTA UN SQUADRONE. ESEMPIO: JAMES HA 25 SOLDATI, QUINDI TRASFORMA I 10 DADI IN 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2 PER UN TOTALE DI 25.
 
 FORMARE SQUADRE DI COMPAGNIE LIBERE:
 
@@ -15320,7 +15320,7 @@ LE REGOLE PER QUESTI OGGETTI SI TROVANO SOTTO LE REGOLE DELL\'ASSEDIO NEL DIARIO
 
 SE AVETE SACRIFICATO DEGLI ALLEATI, ANDATE ALLE PAGINE 78-81 DEL DIARIO E LEGGETE LE SEZIONI CORRISPONDENTI."</string>
 	<string name="pop20_2_13__b">RIMUOVERE I CUBI DI BRECCIA DALLE POSTAZIONI 1 E 3.</string>
-	<string name="pop20_2_1__b">"ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4). AGGIUNGERE 1 PER OGNI SQUADRA SULLA POSIZIONE 9 (TORRE DI VEDETTA). MIGLIORE SARÀ IL RISULTATO DI QUESTO CONTROLLO, MAGGIORI SARANNO LE INFORMAZIONI OTTENUTE
+	<string name="pop20_2_1__b">"ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4). AGGIUNGERE 1 PER OGNI SQUADRONE SULLA POSIZIONE 9 (TORRE DI VEDETTA). MIGLIORE SARÀ IL RISULTATO DI QUESTO CONTROLLO, MAGGIORI SARANNO LE INFORMAZIONI OTTENUTE
 
 SE È PRESENTE UN OATHSWORN, I TRATTI GRATUITI DELLA COMPAGNIA POSSONO ESSERE UTILIZZATI PER QUESTO CONTROLLO."</string>
 	<string name="pop20_2_2__b">"SI POSSONO SPOSTARE LIBERAMENTE GLI ALLEATI TRA LE SQUADRE DI COMPAGNIE LIBERE.
@@ -15629,7 +15629,7 @@ POSIZIONATE IL SEGNALINO POSIZIONE 10 E RECARSI SUL POSTO."</string>
 	<string name="pop2_13_3__d">"POSIZIONARE IL SEGNALINO DI LIBERA COMPAGNIA SULLA POSIZIONE 13, MA NON POSIZIONARE IL SEGNALINO POSIZIONE SULLA MAPPA DELLA CITTÀ.
 
 TUTTI GLI OATHSWORN OTTENGONO UN SEGNALINO REDRAW."</string>
-	<string name="pop2_13_9__b">"PERDERE 1 IRON.
+	<string name="pop2_13_9__b">"PERDETE 1 IRON.
 
 POSIZIONARE IL SEGNALINO POSIZIONE 10 E RECARSI SUL POSTO."</string>
 	<string name="pop2_60_1__b">RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DEGLI INCONTRI. MARCARE LA CASELLA \'SPECIAL RULES\' DEL CAPITOLO 2 SULLA SCHEDA DELLA LIBERA COMPAGNIA.</string>
@@ -15951,7 +15951,7 @@ TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO REDRAW."</string>
 	<string name="pop3a_25_1__b">"SPOSTARE IL SEGNALINO BESTIA NELLA POSIZONE 20 E RIMUOVERE I GETTONI POSIZONE 20 E 27 DALLA MAPPA.
 
 POSIZIONARE I GETTONI POSIZIONE 15 E 16."</string>
-	<string name="pop3a_27_10__b">PERDERE LA MEDIA. ARCHIVIARE LA CARTA DELL\'ALLEATO MIDGE.</string>
+	<string name="pop3a_27_10__b">PERDETE MIDGE. ARCHIVIARE LA CARTA DELL\'ALLEATO MIDGE.</string>
 	<string name="pop3a_27_1__b">"PRENDERE LA CARTA 'PATH A', SE NON LA SI POSSIEDE GIÀ.
 
 RIMUOVETE TUTTI I GETTONI POSIZIONE DALLA MAPPA."</string>
@@ -16052,7 +16052,7 @@ RICOMINCIATE IL CAPITOLO RECUPERANDO I GETTONI E LE RAZIONI CHE AVEVATE."</strin
 	<string name="pop4_29_1__d">"OGNI OATHSWORN EFFETTUA UNA PROVA DI SOPRAVVIVENZA (SURVIVAL CHECK, DIFFICOLTÀ 3, GLI A\'DENDRI NON EFFETTUANO QUESTA PROVA)."</string>
 	<string name="pop4_29_2__b">SE NON AVETE CON VOI LA GROVE MAIDEN, SCEGLIETE UN OATHSWORN PER EFFETTUARE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICILE 5).</string>
 	<string name="pop4_29_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO EMPOWERED X3.</string>
-	<string name="pop4_29_5__b">PERDERE 1 RAZIONE.</string>
+	<string name="pop4_29_5__b">PERDETE 1 RAZIONE.</string>
 	<string name="pop4_29_7__b">L\'OATHSWORN CHE HA PRESO LA DECISIONE DEVE EFFETTUARE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop4_29_8__b">"OGNI OATHSWORN BLOCCATO NELLA PALUDE:
 
@@ -16123,7 +16123,7 @@ NON È NECESSARIO REGISTRARE LE RAZIONI."</string>
 RICOMINCIATE IL CAPITOLO, RECUPERANDO I GETTONI E LE RAZIONI CHE AVEVATE."</string>
 	<string name="pop4m_1_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
 	<string name="pop4m_1_3__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2.</string>
-	<string name="pop4m_1_3__d">PERDERE 1 SEGNALINO RIFUGIATO E 2 RAZIONI.</string>
+	<string name="pop4m_1_3__d">PERDETE 1 SEGNALINO RIFUGIATO E 2 RAZIONI.</string>
 	<string name="pop4m_2_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop4m_2_2__b">OGNI OATHSWORN GUADAGNA UN SEGNALINO BATTLEFLOW.</string>
 	<string name="pop4m_2_3__b">SCARTATE UN SEGNALINO RIFUGIATO E 2 RAZIONI A SCELTA, POICHÉ UN GRUPPO DI RIFUGIATI DECIDE DI LASCIARE IL GRUPPO PIUTTOSTO CHE CONSEGNARE LE PROPRIE RAZIONI. TUTTI GLI ALTRI ACCETTANO DI UNIRE IL LORO CIBO E LA LORO ACQUA.</string>
@@ -16131,11 +16131,11 @@ RICOMINCIATE IL CAPITOLO, RECUPERANDO I GETTONI E LE RAZIONI CHE AVEVATE."</stri
 	<string name="pop4m_4_1__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop4m_4_4__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
 	<string name="pop4m_4_6__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop4m_4_7__b">"PERDERE UN SEGNALINO RIFUGIATO.
+	<string name="pop4m_4_7__b">"PERDETE UN SEGNALINO RIFUGIATO.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2."</string>
 	<string name="pop4m_4_8__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO DIFESA.</string>
-	<string name="pop4m_4_9__b">PERDERE UN SEGNALINO RIFUGIATO.</string>
+	<string name="pop4m_4_9__b">PERDETE UN SEGNALINO RIFUGIATO.</string>
 	<string name="pop4m_6_1__b">LA LIBERA COMPAGNIA E OGNI SEGNALINO RIFUGIATO DEVE CONSUMARE 1 RAZIONE (1 PER L\'INTERA LIBERA COMPAGNIA). POTETE SCEGLIERE CHI NUTRIRE. SE LA LIBERA COMPAGNIA NON MANGIA, OGNI OATHSWORN PERDE 1 PUNTO FERITA. OGNI SEGNALINO RIFUGIATO CHE NON MANGIA È PERSO.</string>
 	<string name="pop4m_7_1__b">ESEGUIRE UNA PROVA DI BASE (DIFFICOLTÀ PARI AL NUMERO DI GETTONI RIFUGIATO CHE SI POSSIEDONO).</string>
 	<string name="pop4m_7_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2.</string>
@@ -16158,7 +16158,7 @@ POSIZIONATE I GETTONI POSIZIONE 2, 3, 4, 6, 9, 12, 13, 15, 19."</string>
 
 SE AVETE 5 O PIÙ RIFUGIATI, GUADAGNATE ANCHE UN TRATTO DI LIBERA COMPAGNIA (SEGNATELO SULLA SCHEDA DELLA LIBERA COMPAGNIA).
 
-PERDERE TUTTI I RIFUGIATI E LE RAZIONI. RIMETTERE TUTTI I GETTONI POSIZIONE E TEMPO NELLE SCORTE E CANCELLARE LE RAZIONI DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
+PERDETE TUTTI I RIFUGIATI E LE RAZIONI. RIMETTERE TUTTI I GETTONI POSIZIONE E TEMPO NELLE SCORTE E CANCELLARE LE RAZIONI DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop5_3_12__b">"OTTENERE UN TRATTO LIBERA COMPAGNIA (SEGNARLO SULLA SCHEDA LIBERA COMPAGNIA).
 
 POSIZIONARE IL SEGNALINO POSIZIONE 7 E RECARSI SUL POSTO."</string>
@@ -16235,12 +16235,12 @@ Se avete successo, il costo scende a 5 Iron.
 
 Se fallite, dovrete pagare 10 Iron per l\'informazione o andarvene."</string>
 	<string name="pop5b_13_3__b">POSIZIONARE IL SEGNALINO POSIZIONE 9.</string>
-	<string name="pop5b_17_1__b">PERDERE 1 IRON.</string>
+	<string name="pop5b_17_1__b">PERDETE 1 IRON.</string>
 	<string name="pop5b_17_1__d">OGNI OATHSWORN ESEGUE UNA PROVA DI VELOCITÀ (SPEED CHECK, DIFFICOLTÀ 5) PER VEDERE SE RIUSCITE A CATTURARE IL RAGAZZO. SE SIETE IL CUR, UN ESULE O UN RANGER, AGGIUNGI 1 AL TUO RISULTATO.</string>
 	<string name="pop5b_17_2__b">TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO BATTLEFLOW.</string>
 	<string name="pop5b_17_2__d">LASCIATE CHE JONAS SI UNISCA A VOI PER 3 IRON O LO MANDATE VIA? NON VI DIRÀ QUELLO CHE VOLETE SAPERE SENZA ASSUMERLO.</string>
 	<string name="pop5b_17_3__b">NON È POSSIBILE RACCOGLIERE TUTTE LE INFORMAZIONI DI CUI SI HA BISOGNO, MA SI POSSONO TROVARE ALTRI VANTAGGI IN CITTÀ CHE AIUTANO A PREPARARSI PER IL DOMANI.</string>
-	<string name="pop5b_17_4__b">"PERDERE 3 IRON.
+	<string name="pop5b_17_4__b">"PERDETE 3 IRON.
 
 GUADAGNATE LA CARTA ALLEATO 15 (JONAS), AGGIUNGETE LA CARTA EVENTO DEEPWOOD 28 AL VOSTRO MAZZO EVENTI DEEPWOOD E LA CARTA EVENTO CITTÀ 25 AL VOSTRO MAZZO EVENTI CITTÀ.
 
@@ -16314,7 +16314,7 @@ POSIZIONARE IL SEGNALINO POSIZIONE 10 E RECARSI SUL POSTO."</string>
 	<string name="pop6_7_5__b">POSIZIONARE IL SEGNALINO POSIZIONE 14 E RECARSI SUL POSTO.</string>
 	<string name="pop6_7_6__b">POSIZIONARE IL SEGNALINO POSIZIONE 14 E RECARSI SUL POSTO.</string>
 	<string name="pop6_7_7__b">POSIZIONARE IL SEGNALINO POSIZIONE 14 E RECARSI SUL POSTO.</string>
-	<string name="pop6_7_8__b">"PERDERE 4 IRON.
+	<string name="pop6_7_8__b">"PERDETE 4 IRON.
 
 ARCHIVIA LA CARTA ALLEATO HARLBECK E GUADAGNA LA CARTA ALLEATO 16."</string>
 	<string name="pop6_epi_1__b">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
@@ -16776,13 +16776,13 @@ TIRARE UN DADO PUNTI FERITA NON UTILIZZATO (PER QUESTO TIRO SI POSSONO USARE I G
 	<string name="pop8_epi_10__b">CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE.</string>
 	<string name="pop8_epi_3__b">GUADAGNA 8 IRON.</string>
 	<string name="pop8_epi_4__b">SCRIVERE LA PAROLA CHIAVE \"LINA\" SUL VOSTRO FOGLIO DELLA LIBERA COMPAGNIA.</string>
-	<string name="pop8_epi_7__b">"PERDERE LA CARTA OGGETTO UNICA VENERATED PLATE.
+	<string name="pop8_epi_7__b">"PERDERE LA CARTA OGGETTO UNICO VENERATED PLATE (SE LA SI POSSIEDE)
 
 GUADAGNATE 20 IRON."</string>
 	<string name="pop8_epi_8__b">"PERDERE LA CARTA OGGETTO UNICO VENERATED PLATE (SE LA SI POSSIEDE)
 
 GUADAGNATE 20 IRON."</string>
-	<string name="pop8_epi_8__d">POTETE TENERE QUINTUS COME ALLEATO. IN QUESTO CASO, AGGIUNGETE LA CARTA EVENTO 31 DI DEEPWOOD AL VOSTRO MAZZO EVENTI DI DEEPWOOD E LA CARTA EVENTO 29 DI CITY AL VOSTRO MAZZO EVENTI DI CITY. SE RIFIUTATE DI PRENDERLO, ARCHIVIATE LA CARTA ALLEATO QUINTUS.</string>
+	<string name="pop8_epi_8__d">POTETE TENERE QUINTUS COME ALLEATO. IN QUESTO CASO, AGGIUNGETE LA CARTA EVENTO 31 DI DEEPWOOD AL VOSTRO MAZZO EVENTI DI DEEPWOOD E LA CARTA EVENTO 29 CITTÀ AL VOSTRO MAZZO EVENTI CITTÀ. SE RIFIUTATE DI PRENDERLO, ARCHIVIATE LA CARTA ALLEATO QUINTUS.</string>
 	<string name="pop8_epi_9__b">"PERDERE LA CARTA OGGETTO UNICO VENERATED PLATE (SE LA SI POSSIEDE)
 
 GUADAGNATE 20 IRON."</string>
@@ -16944,7 +16944,7 @@ ESEGUIRE UNA PROVA DI FORZA (MIGHT CHECK, DIFFICOLTÀ 7), A QUESTA PROVA PUOI AG
 	<string name="pop9a_6_1__b">POSIZIONARE I GETTONI POSIZIONE 2, 11, 12 E 17 SULLA MAPPA.</string>
 	<string name="pop9a_7_1__b">ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop9a_7_2__b">POSIZIONARE IL SEGNALINO POSIZIONE 10.</string>
-	<string name="pop9a_8_2__b">PERDERE 8 IRON.</string>
+	<string name="pop9a_8_2__b">PERDETE 8 IRON.</string>
 	<string name="pop9a_8_2__d">POSIZIONARE IL SEGNALINO POSIZIONE 15.</string>
 	<string name="pop9a_8_3__b">ESEGUIRE UNA PROVA DI MINACCIA (THREATENING CHECK, DIFFICOLTÀ 6, 5 SE L\'URSUS È CON VOI).</string>
 	<string name="pop9a_8_4__b">POSIZIONARE IL SEGNALINO POSIZIONE 15.</string>
@@ -16995,12 +16995,12 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 9 NEL LIBRO DEGLI INCONTRI - SUBITE UN\'IMB
 	<string name="pop9b_7_2__b">POSIZIONARE IL SEGNALINO POSIZIONE 3.</string>
 	<string name="pop9b_9_2__b">EFFETTUARE UNA PROVA DI BARATTO (BARTERING CHECK, DIFFICOLTÀ 5).</string>
 	<string name="pop9b_9_3__b">GUADAGNARE IL SEGNALINO INDIZIO 3.</string>
-	<string name="pop9b_9_4__b">"PERDERE 10 IRON.
+	<string name="pop9b_9_4__b">"PERDETE 10 IRON.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2.
 
 GUADAGNATE IL SEGNALINO INDIZIO 3."</string>
-	<string name="pop9b_9_5__b">"PERDERE 20 IRON.
+	<string name="pop9b_9_5__b">"PERDETE 20 IRON.
 
 TUTTI GLI OATHSWORN GUADAGNANO UN SEGNALINO ANIMUS +2.
 
