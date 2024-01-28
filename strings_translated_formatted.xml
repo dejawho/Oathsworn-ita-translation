@@ -26,7 +26,7 @@
 	<string name="abc_shareactionprovider_share_with">Condividi con</string>
 	<string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
 	<string name="abc_toolbar_collapse_description">Crollo</string>
-	<string name="about_text">"Oathsworn Traduzione Italiana v18.0
+	<string name="about_text">"Oathsworn Traduzione Italiana v19.0
 
 Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
 	<string name="add_time">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -1489,13 +1489,13 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn19_1_10__b">2. Abbandonare il resto dei rifornimenti</string>
 	<string name="btn19_1_13__a">1. Dirigetevi verso le Torri Quadrate per un periodo</string>
 	<string name="btn19_1_13__b">2. Dirigetevi verso la Guglia per un certo periodo</string>
-	<string name="btn19_1_13__c">3. Dirigetevi verso il Camino per un certo periodo</string>
+	<string name="btn19_1_13__c">3. Dirigetevi verso la Ciminiera per un certo periodo</string>
 	<string name="btn19_1_1__a">1. Tenete l\'equipaggiamento per voi</string>
 	<string name="btn19_1_1__b">2. Distribuite l\'equipaggiamento</string>
 	<string name="btn19_1_4__a">Se avete la parola chiave BETRAYED</string>
 	<string name="btn19_1_4__b">Se non avete la parola chiave BETRAYED</string>
 	<string name="btn19_1_6__a">1. Cercate di entrare in città</string>
-	<string name="btn19_1_6__b">2. Resistete al vostro pericolo</string>
+	<string name="btn19_1_6__b">2. Tenete la posizione</string>
 	<string name="btn19_1_9__a">1. Cercate di ottenere più rifornimenti</string>
 	<string name="btn19_1_9__b">2. Abbandonate i rifornimenti</string>
 	<string name="btn19_20_1__a">1. Raggiungere la cima del muro e saltare giù</string>
@@ -1516,9 +1516,9 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn19_22_8__b">Trattenetelo</string>
 	<string name="btn19_3_1a__a">1. Mandate alcune squadre nelle case</string>
 	<string name="btn19_3_1a__b">2. Proseguite lungo la strada</string>
-	<string name="btn19_4_4__a">1. Mandate squadre a scavare</string>
+	<string name="btn19_4_4__a">1. Mandate le squadre a rovistare</string>
 	<string name="btn19_4_4__b">2. Continuate a muovervi</string>
-	<string name="btn19_5_1__a">1. Dirigetevi verso il camino per un certo periodo</string>
+	<string name="btn19_5_1__a">1. Dirigetevi verso la Ciminiera per un certo periodo</string>
 	<string name="btn19_5_1__b">2. Dirigetevi verso la Guglia per un certo periodo</string>
 	<string name="btn19_5_1__c">3. Dirigetevi verso le Torri Quadrate per un periodo</string>
 	<string name="btn19_6_1__a">1. (Solo se avete di almeno 1 cubo di rifornimento) Cercate all\'interno dell\'edificio</string>
@@ -1527,11 +1527,11 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn19_6_2__a">Se avete avuto SUCCESSO con un risultato pari o superiore a 6</string>
 	<string name="btn19_6_4__a">1. Dirigetevi verso il Corpo di Guardia per un po\' di tempo</string>
 	<string name="btn19_6_4__b">2. Dirigetevi verso la Guglia per un certo periodo</string>
-	<string name="btn19_7_1__a">1. Dirigetevi verso il camino per un certo periodo</string>
+	<string name="btn19_7_1__a">1. Dirigetevi verso la Ciminiera per un certo periodo</string>
 	<string name="btn19_7_1__b">2. Dirigetevi verso le Torri Quadrate per un periodo</string>
 	<string name="btn19_8_1a__a">1. (Solo se avete almeno 1 Cubo di rifornimento) Entrate</string>
 	<string name="btn19_8_1a__b">2. Proseguite lungo la strada</string>
-	<string name="btn19_8_5__a">1. Riducete la vostra squadra</string>
+	<string name="btn19_8_5__a">1. Sterminate lo squadrone</string>
 	<string name="btn19_8_5__b">2. (Solo se avete almeno 1 cubo di rifornimento) Storditeli distruggendo una delle sfere ai loro piedi</string>
 	<string name="btn19_9_2__a">Se avete l\'alleato Willem</string>
 	<string name="btn19_9_2__b">Se non avete l\'alleato Willem</string>
@@ -3268,7 +3268,7 @@ Dopo una lunga camminata senza sosta, vedete davanti a voi alcuni alberi massicc
 A terra, ci sono alcune biocostruzioni molto grandi al lavoro. Un tipo, con due braccia muscolose e mani molto grandi, sta sradicando giovani alberi. Un altro raggiunge la terra, allentandola con le sue braccia tentacolari che scavano rapidamente.
 
 Il suono del Knock della Guida vi strappa dalla vista affascinante, \"Matriarca si incontra lì,\" indicando l\'albero bianco. \"Non ora. Più tardi. Permesso dato. Camminate liberamente.\" Qualcosa nel suo volto vi dice che dubita molto del concetto di libertà. Percepite chiaramente la sua paura."</string>
-	<string name="chp11b_15_2__a">"Dopo aver accertato che avete compreso le regole, i Ranger se ne vanno, lasciandovi soli per la prima volta da quando siete entrati nel Wychwood. Osservando l\'ambiente circostante, decidete quali aree volete esplorare. Il tempo a disposizione è limitato e si può visitare ogni luogo una sola volta. Intorno al palazzo stesso ci sono grandi strutture cresciute dal suolo con A\'Dendri che si muovono tra di esse, molti dei quali sono armati o carichi di strani oggetti. Lontano dalla maestosità ornata del palazzo, nel bosco circostante, si trova un\'altra vasta struttura, che sembra antica e abbandonata. Sembra promettere bene, anche se non sapete esattamente perché. Infine, al vostro fianco, scorre un bel ruscello che potrebbe portare a qualcosa."</string>
+	<string name="chp11b_15_2__a">"Dopo aver accertato che avete compreso le regole, i Ranger se ne vanno, lasciandovi soli per la prima volta da quando siete entrati nel Wychwood. Osservando l\'ambiente circostante, decidete quali aree volete esplorare. Il tempo a disposizione è limitato e si può visitare ogni luogo una sola volta. Intorno al palazzo stesso ci sono grandi strutture cresciute dal suolo con A\'Dendri che si muovono tra di esse, molti dei quali sono armati o carichi di strani oggetti. Lontano dalla maestosità ornata del palazzo, nel bosco circostante, trovate un\'altra vasta struttura, che sembra antica e abbandonata. Sembra promettere bene, anche se non sapete esattamente perché. Infine, al vostro fianco, scorre un bel ruscello che potrebbe portare a qualcosa."</string>
 	<string name="chp11b_15_3__a">"Fate per muovervi, ma i Ranger vi fermano. \"Dicono: 'Lasciate le armi qui', spiega la guida\" utilizzando il Knock.
 
 Non ve lo aspettavate. In tutti gli insediamenti umani, il "Patto" ha garantito agli Oathsworn il diritto di portare sempre le armi. Ma questo non è un insediamento umano e voi siete in forte inferiorità numerica. Guardate i ranger e le grandi biocostruzioni vicine e decidete che rinunciare alle armi è l\'unica opzione sensata. Dopo tutto, siete qui per chiedere l\'aiuto degli A\'Dendri. Così vi preparate tutti a lasciare le armi. Tutti tranne Cyprian.
@@ -4376,7 +4376,7 @@ Scegliete un\'opzione:"</string>
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp13_5_2__a">"Se gli infetti qui arrivano in superficie, non sapete in quanti potrebbero morire. Aiutate rapidamente i soldati a far passare il bestiame e mettete delle cariche d\'ambra alle spesse colonne di legno che sorreggono l\'ingresso del tunnel. Mentre gli ultimi capi di bestiame vengono fatti passare, afferrate una torcia infuocata e vi tenete pronti. Pochi istanti dopo, un gruppo di guardie appare dalle tenebrose profondità, impegnato in una ritirata di combattimento. Dall\'ombra, vedete un\'ondata di umani infetti che si accavallano l\'uno sull\'altro mentre si fanno strada verso l\'ingresso. Altre tre guardie vengono trascinate sotto l\'ondata e, mentre la linea difensiva inizia a rompersi, uno dei soldati lancia l\'ordine di 'correre'
+	<string name="chp13_5_2__a">"Se gli infetti qui arrivano in superficie, non sapete in quanti potrebbero morire. Aiutate rapidamente i soldati a far passare il bestiame e mettete delle cariche d\'ambra alle spesse colonne di legno che sorreggono l\'ingresso del tunnel. Mentre gli ultimi capi di bestiame vengono fatti passare, afferrate una torcia infuocata e vi tenete pronti. Pochi istanti dopo, un gruppo di guardie appare dalle tenebrose profondità, impegnato in una ritirata di combattimento. Dall\'ombra, vedete un\'ondata di umani infetti che si accavallano l\'uno sull\'altro mentre si fanno strada verso l\'ingresso. Altre tre guardie vengono trascinate sotto l\'ondata e, mentre la linea difensiva inizia a rompersi, uno dei soldati lancia l\'ordine di 'ritirata'
 
 Improvvisamente, un\'altra ondata di cittadini infetti emerge da un tunnel laterale e si dirige verso di voi. La nuova minaccia raggiungerà l\'ingresso prima delle guardie in ritirata e, dagli sguardi terrorizzati delle guardie, se ne rendono conto anche loro. \"Aspettate!\" un soldato grida. \"Per favore!\" Ma non c\'è tempo per riflettere. Le uniche opzioni sono far saltare l\'ingresso ora, intrappolando le guardie insieme agli infetti, oppure farsi strada verso le guardie e trascinarle fuori da soli."</string>
 	<string name="chp13_5_4__a">Uno di voi si lancia nell\'oscurità del tunnel e dove va uno, vanno tutti. Estraendo le armi, vi precipitate dietro di loro e affrontate gli infetti a testa alta, scartando i corpi appestati e abbattendoli per raggiungere le guardie al di là. I combattimenti sono caotici e pericolosi, con la paura di essere toccati sempre presente.</string>
@@ -6701,7 +6701,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp18_27_2__c">Il combattimento è breve ma feroce e la creatura giace presto insanguinata nel fango. I soldati sono sollevati dall\'avere a disposizione acqua potabile fresca e sono ansiosi di riempire i loro boccali.</string>
 	<string name="chp18_27_3__c">"Scagliate la bomba nella boscaglia e la luce intensa ed il forte rumore vi assordano per un attimo. Quando i vostri sensi tornano, la carcassa della creatura giace lì, semidistrutta. I soldati sono sollevati dal fatto di avere acqua potabile fresca e sono ansiosi di riempire i loro boccali."</string>
 	<string name="chp18_32_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso alcuni minuti a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
-	<string name="chp18_32_2__a">Si trova un secondo simbolo, poi un terzo. Seguendo il sentiero, si arriva a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
+	<string name="chp18_32_2__a">Trovate un secondo simbolo, poi un terzo. Seguendo il sentiero, arrivate a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
 	<string name="chp18_32_3__a">Nonostante i vostri sforzi, non riuscite a trovare nulla. Forse questo sentiero è stato lasciato abbastanza tempo fa da non trovare più nulla. Nel Bosco Profondo si perdono continuamente sentieri. Tornate verso il resto dell\'esercito, prima di perdere anche questo sentiero.</string>
 	<string name="chp18_33_1__a">"Un\'altra lunga marcia sotto la cintura ed il Bosco Profondo inizia ancora una volta ad aprirsi davanti a voi. Il sud sembra libero e anche un sentiero a ovest si presenta come una possibile direzione. Si potrebbero inviare esploratori in ricognizione per confermare entrambi.
 
@@ -6714,7 +6714,7 @@ Scegliete un\'opzione:"</string>
 Scegliete un\'opzione:"</string>
 	<string name="chp18_37_2__c">Gli esploratori che sono andati a ovest affermano che il sentiero è libero. Gli esploratori che avete mandato a est tornano con strane notizie. Dicono di aver visto dei simboli incisi su alcuni alberi. Mentre ve li descrivono, vi rendete conto che forse stanno descrivendo glifi di un\'altra Libera Compagnia. La squadra inviata a sud riferisce che lì c\'è un vecchio villaggio in rovina e che si sono sentiti dei movimenti all\'interno.</string>
 	<string name="chp18_38_1__a">Tra i sinuosi alberi del Bosco Profondo trovate simboli intagliati nella corteccia. Vecchi simboli della Libera Compagnia. Per come è fatto il Bosco Profondo, è impossibile che i sentieri durino, ma gli Oathsworn hanno scoperto molto tempo fa che le incisioni sugli alberi stessi durano più a lungo. Non avete idea di quanto tempo sia passato da quando una Libera Compagnia ha lasciato questo segno, ma sapete che è un segno di qualcosa che un tempo era ritenuto importante. Dopo aver trascorso alcuni minuti a cercare il prossimo indizio, iniziate a chiedervi se forse si tratta di un sentiero dimenticato.</string>
-	<string name="chp18_38_2__a">Si trova un secondo simbolo e poi un terzo. Seguendo il sentiero si arriva a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
+	<string name="chp18_38_2__a">Trovate un secondo simbolo e poi un terzo. Seguendo il sentiero arrivate a un cumulo di pietre. Spostando le rocce, trovate un cadavere e un cesto di equipaggiamento. Non avete dubbi che i resti siano appartenuti a uno dei vostri compagni. Dopo avergli dato il giusto rispetto, cercate tra i resti qualcosa di utile. Qualsiasi membro di una Libera Compagnia non si aspetterebbe altro.</string>
 	<string name="chp18_38_3__a">Nonostante i vostri sforzi, non riuscite a trovare nulla. Forse questo sentiero è stato lasciato abbastanza tempo fa da non trovare più nulla. Nel Bosco Profondo si perdono continuamente sentieri. Tornate verso il resto dell\'esercito, prima di perdere anche questo sentiero.</string>
 	<string name="chp18_43_1__a">"La Foresta si dirada e la marcia diventa più facile per un certo periodo. Il suono lontano della vita animale che di solito accompagna la foresta è assente qui. I rumori della Foresta sono un promemoria costante del pericolo sempre presente, ma in qualche modo questo silenzio è più snervante. Proseguendo, si comincia a capire perché c\'è tanto silenzio. Ci sono ossa sul sentiero davanti a voi e, ai lati, se ne vedono altre tra gli alberi. Gli scheletri di grandi carnivori e di animali più piccoli disseminano l\'area.
 
@@ -7079,7 +7079,7 @@ Proseguendo, notate un enorme albero che si erge sopra la nebbia in lontananza, 
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_12_1a__c">"Il percorso si interrompe bruscamente davanti a un alto muro che sembra essere l\'anello interno della città. Proprio dietro di esso, la Guglia si protende verso il cielo. Mucchi di cadaveri giacciono davanti a un imponente cancello di metallo che sbarra la strada e si vedono centinaia di graffi e sangue secco sparsi sulle pareti. Sembra che queste persone abbiano cercato disperatamente di farsi strada con gli artigli. Si può solo immaginare cosa stessero cercando di fuggire. O forse cercavano disperatamente di raggiungere qualcosa dall\'altra parte?
+	<string name="chp19_12_1a__c">"Il percorso si interrompe bruscamente davanti a un alto muro che sembra essere l\'anello interno della città. Proprio dietro di esso, la Guglia si protende verso il cielo. Mucchi di cadaveri giacciono davanti a un imponente cancello di metallo che sbarra la strada e si vedono centinaia di graffi e sangue secco sparsi sulle pareti. Sembra che queste persone abbiano cercato disperatamente di farsi strada con le unghie. Si può solo immaginare cosa stessero cercando di fuggire. O forse cercavano disperatamente di raggiungere qualcosa dall\'altra parte?
 
 Non sarà possibile attraversare il cancello, ma si potrebbe riuscire a scalare il muro. L\'unica alternativa è seguire la strada lungo il muro a sinistra e sperare di trovare un\'altra via d\'accesso.
 
@@ -7130,49 +7130,49 @@ Sebbene sia un sollievo vedere la rinnovata fede di Quintus, una parte di voi si
 
 Il gruppo sale cautamente le scale, sbirciando nelle stanze periferiche mentre si sale verso l\'apice. All\'interno delle stanze trovate resti umani pesantemente decomposti, le cui ossa si polverizzano quando vengono disturbate. Stranamente, questi cadaveri non sono stati conservati come quelli trovati in altre parti della città, alcuni sembrano seduti in un riposo silenzioso, come se fossero morti sulla loro poltrona. Molti sono semplicemente caduti in piedi e nessuno presenta i danni indicativi di combattimento che ricoprono quelli all\'esterno. Il mistero si infittisce man mano che si raggiunge la cima
 
-In cima alla scalinata centrale si trova una grande porta ornata che si apre su una grande rotonda. Questa sala circolare è il culmine della torre. Gli innumerevoli scaffali di libri e pergamene che vi sono conservati inducono a pensare che si tratti di una sorta di archivio, ma si capisce subito che è molto di più. Dispositivi e meccanismi dalle forme più svariate si trovano su tavoli riccamente intagliati, mentre altre strane macchine sono appese ad armature metalliche fissate a pesanti basi.
+In cima alla scalinata centrale trovate una grande porta ornata che si apre su una grande sala. Questa sala circolare è il culmine della torre. Gli innumerevoli scaffali di libri e pergamene che vi sono conservati inducono a pensare che si tratti di una sorta di archivio, ma si capisce subito che è molto di più. Dispositivi e meccanismi dalle forme più svariate si trovano su tavoli riccamente intagliati, mentre altre strane macchine sono appese ad armature metalliche fissate a pesanti basi.
 
 Si potrebbero trascorrere anni in questa stanza, scavando nei suoi segreti. La conoscenza nascosta qui potrebbe essere utile a una Libera Compagnia. Sfortunatamente, non avete nemmeno un giorno da dedicare al tempo, che è il bene più prezioso in questa città abbandonata.
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_15_17__a">"Entrando più a fondo, si trova una pedana rialzata e una grande scrivania. Non avete trovato altri occupanti in questa stanza, ma qui vedete una figura solitaria, ammantata e incappucciata. La forma inconfondibile di un Sorvegliante
+	<string name="chp19_15_17__a">"Entrando più a fondo, trovate una pedana rialzata e una grande scrivania. Non avete trovato altri occupanti in questa stanza, ma qui vedete una figura solitaria, ammantata e incappucciata. La forma inconfondibile di un Sorvegliante
 
 Il Sorvegliante non si muove quando salite sulla pedana e quando vi avvicinate alla scrivania capite perché. Anche il Sorvegliante è morto, con una mano scheletrica che riposa eternamente su un libro davanti a lui.
 
 Cercando di non disturbare i morti, estraete con cautela il libro da sotto la mano del Sorvegliante. - sembra essere un diario, usato per registrare gli eventi che sono accaduti qui. Alcune pagine sono illeggibili, ma si riescono comunque a distinguere alcune annotazioni
 
-l\'opportunità era troppo grande per essere ignorata. Con una vita infinita, avremmo potuto unire l\'umanità, portando la ragione ed il Triumvirato a tutti. Così saremmo stati pronti quando 'sarebbe arrivato'. Che arroganza, che follia..."
+\"...l\'opportunità era troppo grande per essere ignorata. Con una vita infinita, avremmo potuto unire l\'umanità, portando la ragione ed il Triumvirato a tutti. Così saremmo stati pronti quando \'sarebbe arrivato\'. Che arroganza, che follia...\"
 
-La voce si interrompe e riprende qualche pagina dopo.
+Il testo si interrompe e riprende qualche pagina dopo.
 
-liak fu scelto. Fu mandato da Soonari e Kharnus, porgendo loro una mano tesa mentre nascondeva l\'altra. Gli A\'Dendri non sospettarono mai la sua vera missione e lui riuscì a recuperare il Generatore di Vita. Naturalmente alla fine scoprirono la verità, ma non aveva più importanza. L\'unica cosa che ci interessava era la promessa che conteneva..."
+\"...Liak fu scelto. Fu mandato da Soonari e Kharnus, porgendo loro una mano tesa mentre nascondeva l\'altra. Gli A\'Dendri non sospettarono mai la sua vera missione e lui riuscì a recuperare il Donatore di Vita. Naturalmente alla fine scoprirono la verità, ma non aveva più importanza. L\'unica cosa che ci interessava era l\'opportunità che prometteva...\"
 
-Ci sono altre pagine indistinguibili prima che la voce riprenda.
+Ci sono altre pagine indistinguibili prima che la storia riprenda.
 
-\'... La guerra era stata prevista e prevista. Le loro forze erano in inferiorità numerica, la loro strategia era stata superata. Non potevano opporsi ai Luminarchi o ai Golem. Le perdite sono rientrate nei parametri e gli A\'Dendri hanno subito perdite molto più pesanti. Il fine giustificava il..."
+\"... La guerra era stata prevista e anticipata. Le loro forze erano in inferiorità numerica, la loro strategia superata. Non potevano opporsi ai Luminarchi o ai Golem. Le perdite sono rientrate nei parametri e gli A\'Dendri hanno subito perdite molto più pesanti. Il fine giustificava i...\"
 
 C\'è un\'altra interruzione nel testo.
 
-\'... La vittoria era quasi a portata di mano quando la follia si è abbattuta su di noi. Era qualcosa nell\'aria. In un solo giorno, l\'intera città andò perduta. Non sappiamo da dove provenisse, ma i suoi effetti furono immediati e letali. La gente iniziò a scannarsi a vicenda, colpendo la propria gente come se fossero nemici giurati. Si massacrarono a vicenda nelle strade e nelle loro case. I Golem tennero i cancelli della Guglia, uccidendone a centinaia. I corpi si accumulavano, anche se qui eravamo al sicuro. Il Generatore di Vita ci proteggeva, ma eravamo murati nella nostra torre. Poi arrivarono i boschi"
+\"... La vittoria era quasi a portata di mano quando la follia si è abbattuta su di noi. Era qualcosa nell\'aria. In un solo giorno, l\'intera città andò perduta. Non sappiamo da dove provenisse, ma i suoi effetti furono immediati e letali. La gente iniziò a scannarsi a vicenda, colpendo la propria gente come se fossero nemici giurati. Si massacrarono a vicenda nelle strade e nelle loro case. I Golem tennero i cancelli della Guglia, uccidendone a centinaia. I corpi si accumulavano, anche se qui eravamo al sicuro. Il Donatore di Vita ci proteggeva, ma eravamo murati nella nostra torre. Poi arrivarono i boschi\"
 
-Dalla Guglia potevamo vederlo, un\'escrescenza nera che sminuzzava la terra. Villaggi, campi, strade e fiumi, tutto consumato. Il regno crollò e la città cadde con esso. Tutti coloro che si allontanarono dalla sicurezza della Guglia caddero nella follia. Avevamo un solo mezzo per sopravvivere"
+\"Dalla Guglia potevamo vederlo, un\'escrescenza nera che sminuzzava la terra. Villaggi, campi, strade e fiumi, tutto consumato. Il regno crollò e la città cadde con esso. Tutti coloro che si allontanarono dalla sicurezza della Guglia caddero nella follia. Avevamo un solo mezzo per sopravvivere\"
 
 Dopo altre due pagine, il testo continua.
 
-\'... il legame di sangue era debole con i primi tre soggetti, ma il quarto aprì un portale abbastanza grande per il passaggio. Mentre gli altri passavano a Verum, io ho mantenuto il legame. La conoscenza deve sopravvivere anche se muoio..."
+\"... il legame di sangue era debole con i primi tre soggetti, ma il quarto aprì un portale abbastanza grande per il passaggio. Mentre gli altri passavano a Verum, io ho mantenuto il legame. La conoscenza deve sopravvivere anche se muoio...\"
 
 Un\'altra interruzione.
 
-\'... Le ombre sono sorte in città e i morti non marciscono, c\'è un qualche collegamento. Gli esperimenti condotti oltre la Guglia hanno dato risultati negativi. I servitori rimasti mostrano segni di trauma..."
+\"... Le ombre sono sorte in città e i morti non marciscono, c\'è un qualche collegamento. Gli esperimenti condotti oltre la Guglia hanno dato risultati negativi. I servitori rimasti mostrano segni di trauma...\"
 
 Altro testo illeggibile.
 
-\'... abbiamo dovuto uccidere i servitori. La fame ha roso le loro menti e non si poteva permettere che distruggessero la conoscenza custodita qui. Se stai leggendo questo testo, forse il grande compito è finalmente completato..."
+\"... abbiamo dovuto uccidere i servitori. La fame ha roso le loro menti e non potevamo permettere che distruggessero la conoscenza custodita qui. Se stai leggendo questo testo, forse il grande compito è finalmente completato...\"
 
 Un\'altra pausa conduce alla voce finale
 
-\'... sono qui da solo da molti anni ormai. Il dono del Datore di Vita ora è la mia maledizione. Presto mi toglierò la vita, ma temo ciò che mi aspetta nell\'aldilà. Vorrei che l\'insegnamento del Triumvirato fosse vero. Vorrei che tornassimo alla polvere e al nulla. Quanto ci siamo sbagliati..."
+\"... sono qui da solo da molti anni ormai. Ciò che ho ottenuto dal Donatore di Vita ora è la mia maledizione. Presto mi toglierò la vita, ma temo ciò che mi aspetta nell\'aldilà. Vorrei che l\'insegnamento del Triumvirato fosse vero. Vorrei che tornassimo alla polvere e al nulla. Quanto ci siamo sbagliati...\"
 
 Chiudendo lentamente il diario, cercate di dare un senso a ciò che avete letto. Che cosa avevano fatto i Sorveglianti?
 
@@ -7231,7 +7231,7 @@ Da dove vi trovate, potete ancora vedere le torri del Corpo di Guardia e, un po\
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_17_1__c">"Muovendosi rapidamente per le strade, si fa attenzione a non sbagliare strada e a non finire intrappolati dall\'immenso muro di nebbia scura che si alza alla propria destra. Il percorso vi porta infine a un imponente edificio a cupola con uno strano meccanismo d\'acciaio davanti a voi. Una serie di grandi anelli di ferro pendono da lunghe aste che ruotano l\'una intorno all\'altra, mentre una dozzina di sfere di ferro ruotano al loro interno. Questo luogo sembra essere stato un istituto di istruzione o un archivio di qualche tipo. Potreste trovare informazioni utili sulla città al suo interno.
+	<string name="chp19_17_1__c">"Muovendovi rapidamente per le strade, fate attenzione a non sbagliare strada e a non finire intrappolati dall\'immenso muro di nebbia scura che si alza alla propria destra. Il percorso vi porta infine a un imponente edificio a cupola con uno strano meccanismo d\'acciaio davanti a voi. Una serie di grandi anelli di ferro pendono da lunghe aste che ruotano l\'una intorno all\'altra, mentre una dozzina di sfere di ferro ruotano al loro interno. Questo luogo sembra essere stato un istituto di istruzione o un archivio di qualche tipo. Potreste trovare informazioni utili sulla città al suo interno.
 
 
 Scegliete un\'opzione:"</string>
@@ -7267,7 +7267,7 @@ Scegliete un\'opzione:"</string>
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_19_4__c">Non lontano nel tunnel, si trova una scorta di sfere luminose.</string>
+	<string name="chp19_19_4__c">Non lontano nel tunnel, trovate una scorta di sfere luminose.</string>
 	<string name="chp19_19_4__e">Con le nuove provviste, tornate all\'esterno e proseguite per la strada.</string>
 	<string name="chp19_1_10__a">Al di sopra della mischia, ordinate alle vostre truppe di non mollare fino a quando i carri non saranno passati. Vedendo l\'incertezza nei loro occhi, vi tuffate di nuovo nella mischia, rafforzando la linea. Spalla a spalla, i vostri uomini si schierano con voi mentre il primo carro attraversa in fretta il cancello.</string>
 	<string name="chp19_1_10__c">"Dopo aver messo al sicuro il primo carro, valutate la battaglia. Ci sono ancora altri rifornimenti che non hanno attraversato il cancello, ma la marea di mostri aumenta. All\'improvviso, un urlo che scuote l\'anima scuote l\'aria, trafiggendo i timpani. Qualcosa di enorme si sta avvicinando.
@@ -7279,13 +7279,13 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_1_12__a">Mentre un\'ondata di setole, artigli e zanne si abbatte sulla vostra linea, inviate una squadra verso l\'altro carro. Uno dei soldati viene improvvisamente trascinato a terra sotto la pressione di artigli e zanne con un urlo straziante. Fortunatamente è sufficiente a distrarre le bestie vicine, permettendo al resto della squadra di raggiungere le provviste incontaminate. Gridate ai soldati di sbrigarsi mentre sentite la marea di bestie che sale.</string>
 	<string name="chp19_1_12__c">Mentre abbattete un grottesco incubo dalla pelle di ossidiana, l\'urlo terrificante si fa più forte. È in quel momento che notate una serie di occhi gialli e maligni che si aggirano tra l\'orda di mostri. Una Nutrice, la più grande che abbiate mai incontrato, schiaccia le creature più piccole sotto i piedi e sbatte le altre da parte con ampie oscillazioni della sua potente coda. Se colpisce ora il cancello della città, non riuscirete mai a chiuderlo. Dovete trattenerla abbastanza a lungo da far passare gli ultimi soldati e le ultime provviste.</string>
 	<string name="chp19_1_12__e">All\'ultimo momento, vi staccate dalla battaglia e vi tuffate attraverso il cancello proprio mentre questo si chiude con un colpo secco. Le spesse porte di ferro si incastrano con un fragoroso clangore. Tutte le provviste rimaste dall\'altra parte della porta sono ormai perse per sempre.</string>
-	<string name="chp19_1_13__a">"Alzandosi in piedi, si sentono le grida sommesse e gli artigli mortali che si abbattono furiosamente sull\'alto cancello di ferro. Il suono è stranamente ovattato, come se la città stessa si rifiutasse di essere disturbata da qualcosa di esterno. Le spesse porte e le alte mura di pietra saranno sufficienti a trattenere la tempesta, almeno per ora. Guardando i volti stanchi e spaventati del vostro esercito, ne manca uno in modo sospetto: quello di Samil. Sapete cosa avete visto, anche se è difficile da credere. Qualunque sia la verità su Samil, sapete di essere vivi grazie a lui.
+	<string name="chp19_1_13__a">"Alzandovi in piedi sentite le grida sommesse e gli artigli mortali che si abbattono furiosamente sull\'alto cancello di ferro. Il suono è stranamente ovattato, come se la città stessa si rifiutasse di essere disturbata da qualcosa di esterno. Le spesse porte e le alte mura di pietra saranno sufficienti a trattenere la tempesta, almeno per ora. Guardando i volti stanchi e spaventati del vostro esercito, ne manca uno in modo sospetto: quello di Samil. Sapete cosa avete visto, anche se è difficile da credere. Qualunque sia la verità su Samil, sapete di essere vivi grazie a lui.
 
-Riportando lo sguardo alla città, si trova un regno dimenticato di edifici abbandonati, avvolti da una nebbia bassa. Un silenzio inquietante incombe sulla giungla di pietra e legno come una cappa, opprimente e densa. Dopo aver ordinato alle truppe di mantenere la posizione, salite sulla torre del Corpo di Guardia per avere una visione più ampia del paesaggio.
+Riportando lo sguardo alla città, trovate un regno dimenticato di edifici abbandonati, avvolti da una nebbia bassa. Un silenzio inquietante incombe sulla giungla di pietra e legno come una cappa, opprimente e densa. Dopo aver ordinato alle truppe di mantenere la posizione, salite sulla torre del Corpo di Guardia per avere una visione più ampia del paesaggio.
 
 Dal punto di osservazione elevato, guardate un mare di nebbia, interrotto solo dalle sagome scure di edifici, torri e colonne decorative. Anche attraverso la vista ostruita, si capisce che la città è più grande di Verum e che ci vorranno diversi giorni per attraversarla. Mentre discutete delle opzioni, un membro del gruppo scopre uno strano oggetto cilindrico in mezzo a un mucchio di stracci. Un pezzo di vetro copre ogni estremità del cilindro e, sollevando l\'oggetto verso l\'occhio, vedete il mondo in lontananza come se fosse proprio davanti a noi. Il dispositivo è davvero diverso da qualsiasi cosa abbiate mai visto prima, e con esso siete in grado di capire quanto sia grande questa città morta. Se volete arrivare alla Torre del Corvo, dovete trovare un modo per attraversarla.
 
-Scrutando attraverso il nuovo dispositivo, osservate attentamente la pianta della città sottostante, notando i principali punti di riferimento. Il più evidente è un\'ampia voragine che segna gran parte della città, i cui bordi frastagliati si gettano in un abisso. Trovate anche delle sacche del  che si ergono al di sopra del banco di nuvole, dove gli alberi ripugnanti devono aver guadagnato terreno. Tra i resti sparsi degli edifici danneggiati, la nebbia appare più densa in alcune zone e si contorce come un essere vivente che vi fa drizzare le antenne. Cercando più lontano, cercate qualsiasi porta della città che possa fornire un punto di uscita, ma ne trovate solo una. Lontano, dall\'altra parte della città, riuscite a malapena a scorgere il Corpo di Guardia che ora è la vostra destinazione."</string>
+Scrutando attraverso il nuovo dispositivo, osservate attentamente la pianta della città sottostante, notando i principali punti di riferimento. Il più evidente è un\'ampia voragine che segna gran parte della città, i cui bordi frastagliati si gettano in un abisso. Trovate anche delle parti del Bosco Profondo che si ergono al di sopra del banco di nuvole, dove gli alberi ripugnanti devono aver guadagnato terreno. Tra i resti sparsi degli edifici danneggiati, la nebbia appare più densa in alcune zone e si contorce come un essere vivente che vi fa drizzare le antenne. Cercando più lontano, cercate qualsiasi porta della città che possa fornire un punto di uscita, ma ne trovate solo una. Lontano, dall\'altra parte della città, riuscite a malapena a scorgere il Corpo di Guardia che ora è la vostra destinazione."</string>
 	<string name="chp19_1_13__c">"Per aiutarvi a orientarvi nella città, abbozzate una rapida mappa di riferimento su un pezzo di pergamena. Ci sono tre percorsi percorribili dalla vostra posizione attuale. Uno conduce a sinistra, passando davanti a un edificio tozzo, sottolineato da un paio di torri di forma quadrata. Un secondo percorso si dirige verso un\'imponente guglia nella zona centrale della città. L\'ultimo percorso conduce a destra, dove una grande ciminiera emerge dalle macerie. Qualunque sia il percorso, dovrete muovervi presto per mantenere i soldati sotto il vostro comando vigili e concentrati sulla missione.
 
 
@@ -7311,7 +7311,7 @@ Come se percepisse la vostra distrazione, il Bosco Profondo sfrutta questo momen
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp19_1_7__a">Lancia l\'ordine di ritirata. I comandi scendono lungo la linea di difesa e i soldati iniziano ad arretrare in squadre organizzate, formando un semicerchio davanti alle porte della città. Liberandovi dal combattimento, cercate un modo per aprire gli alti cancelli di ferro, ma non lo trovate. Nessuna maniglia, nessuna leva, nessuna porta più piccola.</string>
+	<string name="chp19_1_7__a">Lanciate l\'ordine di ritirata. Il comando scende lungo la linea di difesa e i soldati iniziano ad arretrare in squadre organizzate, formando un semicerchio davanti alle porte della città. Liberandovi dal combattimento, cercate un modo per aprire gli alti cancelli di ferro, ma non lo trovate. Nessuna maniglia, nessuna leva, nessuna porta più piccola.</string>
 	<string name="chp19_1_8__a">"Nel frastuono della battaglia, emmettete un grido di battaglia, ordinando ai vostri soldati di non mollare la presa. Fedeli al vostro codice di guerrieri, vi opporrete qui. Non sapete quali orrori si nascondano dall\'altra parte del cancello di ferro della città. È molto meglio correre il rischio contro un nemico che si conosce bene."</string>
 	<string name="chp19_1_8__c">Avevate sperato di piegare il nemico permettendogli di infrangersi contro di voi come l\'acqua sulla roccia. Ma non si tratta di un\'alluvione improvvisa. È qualcosa di mai visto prima. I combattimenti si intensificano rapidamente, mentre ondate di bestie si abbattono sulla linea difensiva in una valanga implacabile. I vostri uomini combattono con coraggio, ma non è sufficiente e presto vi rendete conto della disperazione di una lotta in piedi contro l\'orda infinita. Si possono perdere vite all\'interno della città abbandonata, ma rimanere qui è morte certa. Non avete altra scelta che trovare un modo per attraversare le porte della città.</string>
 	<string name="chp19_1_9__a">"Le urla dei vostri uomini morenti spingono la vostra frenetica ricerca. Le dita artigliano e fanno leva su ogni fessura e crepa della porta. Picchiate e spaccate le armi contro il cancello con disperazione, ma il freddo ferro si rifiuta di cedere. Altri uomini cadono sotto le onde mortali e le bestie riempiono rapidamente i vuoti lasciati. Con una determinazione cupa, tornate a combattere, colpendo e affettando con rabbia infuocata. Se dovete morire qui, così sia.
@@ -7350,7 +7350,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_22_2__a">Il vostro conteggio finale conta solo trentacinque soldati, solo una frazione di quelli con cui avete lasciato Verum. Dovranno essere sufficienti. La vostra unica consolazione è che questi uomini e donne coraggiosi sono i più duri e leali del gruppo. Sapendo cosa ci aspetta, dovrete chiedere loro ancora molto.</string>
 	<string name="chp19_22_3__a">"Il conteggio finale conta appena trenta soldati, solo un decimo della forza con cui avete lasciato Verum. Questi feriti ambulanti saranno i vostri fratelli e sorelle per la battaglia che vi attende. La migliore e ultima possibilità di sopravvivenza di Verum. Dovranno essere sufficienti."</string>
 	<string name="chp19_22_4__a">"Il conteggio finale conta solo venticinque soldati, solo una frazione di quelli con cui avete lasciato Verum. Il numero dei sopravvissuti è basso, ma almeno l\'intero esercito non è andato perduto. Questi uomini e queste donne dovranno essere sufficienti per la battaglia che ci attende. La migliore e ultima possibilità di sopravvivenza per Verum."</string>
-	<string name="chp19_22_5__a">"I soldati sono stanchi, ma la Torre del Corvo è a meno di una dozzina di furlong dalla porta della città. Controllando la bussola, ordinate ai resti del vostro esercito di muoversi a passo doppio. Mentre vi immergete di nuovo nel muro di alberi, sperate che il vostro orientamento sia corretto. Che lo sia o meno, non avete altra scelta che continuare ad avanzare.
+	<string name="chp19_22_5__a">"I soldati sono stanchi, ma la Torre del Corvo è a circa 2 chilometri dalla porta della città. Controllando la bussola, ordinate ai resti del vostro esercito di muoversi a passo doppio. Mentre vi immergete di nuovo nel muro di alberi, sperate che il vostro orientamento sia corretto. Che lo sia o meno, non avete altra scelta che continuare ad avanzare.
 
 Spingendovi oltre i rami e le liane bagnate, vi inoltrate nel Bosco Profondo verso la fortezza. L\'aria è densa e piena di un silenzio pregnante. Poi uno stridio squarcia l\'oscurità a nord. L\'orda vi ha raggiunto e sta cercando di tagliarvi la strada. Spronate le vostre squadre a muoversi ancora più velocemente."</string>
 	<string name="chp19_22_6__a">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra della Torre del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
@@ -7373,10 +7373,10 @@ Il percorso vi porta infine sul bordo della grande voragine che avete individuat
 \"Li ha presi,\" dice la guardia. \"Li ha trascinati in quella casa come se fossero niente. È successo tutto così in fretta.\" Nessuna delle guardie è in grado di spiegare cosa hanno visto. Prendendo alcune torce, perlustrate la piccola casa, ma non trovate alcuna traccia della squadra o di ciò che li ha presi."</string>
 	<string name="chp19_2_2__c">"La città può sembrare vuota, ma il vostro istinto vi dice che c\'è qualcos\'altro in agguato e che tutti sono in allarme. Al calar della notte, sospettate che la situazione possa solo peggiorare
 
-Non avendo modo di attraversare la voragine, ordinate alla colonna di aggirarla e di tornare indietro in direzione della massiccia struttura a camino che avete notato prima."</string>
+Non avendo modo di attraversare la voragine, ordinate alla colonna di aggirarla e di tornare indietro in direzione della massiccia Ciminiera che avete notato prima."</string>
 	<string name="chp19_2_3__a">"Con la coda dell\'occhio intravedete un movimento. Estraete le armi e vi dirigete verso di esso, pronti a combattere. Lanciate un avvertimento al resto delle truppe, ma non arriva nulla. Sarà la quiete innaturale di questo luogo, ma siete certi di aver visto qualcosa. Questa città ha tutti i nervi a fior di pelle. Al calar della notte, sospettate che la situazione non potrà che peggiorare.
 
-Non avendo modo di attraversare la voragine, ordinate alla colonna di aggirarla e di tornare indietro in direzione della massiccia struttura a camino che avete notato prima."</string>
+Non avendo modo di attraversare la voragine, ordinate alla colonna di aggirarla e di tornare indietro in direzione della massiccia Ciminiera che avete notato prima."</string>
 	<string name="chp19_3_1a__c">"Guidate la colonna lungo un\'ampia strada, fiancheggiata su entrambi i lati da file di edifici a tre e quattro piani. Il lavoro in pietra che caratterizza il viale e le case è al di là di qualsiasi abilità che abbiate mai visto prima. La città doveva essere uno spettacolo magnifico prima della sua distruzione.
 
 Gli edifici hanno un design più decorato di quelli di Verum. Sembrano anche molto più antichi, eppure i vetri delle finestre di queste case sono perfettamente chiari, non deformati come quelli a cui siete abituati. Quasi tutte le finestre che si incontrano sono piene di mobili di ottima fattura, apparentemente non intaccati dal tempo
@@ -7394,7 +7394,7 @@ Scegliete un\'opzione:"</string>
 Anche se la perquisizione della casa non produce cibo per il sostentamento, trovate alcune vecchie lanterne. La città può sembrare vuota, ma il vostro istinto vi dice che c\'è qualcos\'altro in agguato e che tutti sono nervosi. Al calar della notte, sospettate che la situazione non potrà che peggiorare e queste lanterne potrebbero tornarvi utili."</string>
 	<string name="chp19_4_1__c">"Passando per le strade vuote, notate che gli edifici hanno un design più decorato di quelli di Verum. Sembrano anche molto più antichi, eppure i vetri delle finestre di queste case sono perfettamente chiari, non deformati come quelli a cui siete abituati. Quasi tutte le finestre che si incontrano sono piene di mobili di ottima fattura, apparentemente non intaccati dal tempo
 
-Alla fine del viale, trovate un\'ampia area invasa da alberi e piante. Tuttavia, non si tratta degli alberi malati e malati del Bosco Profondo. Sembrano 'sani'. Non sembrano nemmeno destinati al raccolto. Queste persone hanno deliberatamente incoraggiato la crescita nella loro città per qualche motivo. La stranezza della vista evoca qualcosa in voi. Una sensazione di qualcosa di perduto da tempo. Cercate di capirlo, ma siete interrotti dalle vostre fantasticherie quando delle forme scure catturano il vostro sguardo.
+Alla fine del viale, trovate un\'ampia area invasa da alberi e piante. Tuttavia, non si tratta degli alberi contorti e malati del Bosco Profondo. Sembrano 'sani'. Non sembrano nemmeno destinati al raccolto. Queste persone hanno deliberatamente incoraggiato la crescita nella loro città per qualche motivo. La stranezza della vista evoca qualcosa in voi. Una sensazione di qualcosa di perduto da tempo. Cercate di capirlo, ma siete interrotti dalle vostre fantasticherie quando delle forme scure catturano il vostro sguardo.
 
 A distanza, nel mezzo dell\'area piantumata, vedete quello che sembra un campo di cadaveri. Sapevate che la città era morta da tempo e, alla vista, vi chiedete perché. Improvvisamente una strana sensazione vi assale."</string>
 	<string name="chp19_4_2__a">Con la coda dell\'occhio intravedete un movimento. Estraete le armi e ordinate alle truppe una formazione stretta. In attesa di un attacco, non arriva nulla. Sarà la quiete innaturale di questo luogo, ma avete la sensazione che qualcuno o qualcosa vi stia osservando. Le ombre qui sembrano più scure di quanto dovrebbero essere, più minacciose in qualche modo. Questa città mette tutti in allarme. Al calar della notte, sospettate che la situazione possa solo peggiorare.</string>
@@ -7411,11 +7411,11 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_4_5__c">Ordinando alla squadra di entrare in una seconda casa, passano alcuni minuti senza che il gruppo di ricerca si faccia vivo. I soldati rimasti si scambiano sguardi di sconforto mentre voi prendete delle torce e vi dirigete nell\'edificio. La vostra indagine non trova alcuna traccia della squadra o di ciò che l\'ha portata via.</string>
 	<string name="chp19_4_5__e">L\'imponente ciminiera che avevate usato come punto di riferimento è ormai fuori dalla vostra vista. Per fortuna, potete ancora scorgere la sagoma delle due Torri Quadrate in lontananza, alla vostra sinistra. Al vostro comando, la colonna inverte la direzione e si dirige verso le due torri.</string>
 	<string name="chp19_4_6__a">Decidete di proseguire piuttosto che passare il tempo a rovistare nelle case. Prima si esce da questa città, meglio è. Cercando di orientarvi, vi rendete conto che l\'enorme ciminiera che avevate usato come punto di riferimento ora non è più visibile. Per fortuna riuscite ancora a scorgere la sagoma delle due Torri Quadrate in lontananza, alla vostra sinistra. Al vostro comando, la colonna inverte la direzione e si dirige verso le due torri.</string>
-	<string name="chp19_5_1__c">"Seguendo un ampio viale, si arriva a una grande piazza con una fontana prosciugata al centro. L\'ornata fontana di pietra è circondata da una dozzina di piccoli piedistalli, ciascuno con un pallido globo incastonato sulla sommità. Solo nei quartieri più ricchi di Cistercia avete visto luoghi simili in cui l\'acqua scorre liberamente. Avvicinandosi, vedete Samil, seduto casualmente accanto a uno dei piedistalli
+	<string name="chp19_5_1__c">"Seguendo un ampio viale, si arriva a una grande piazza con una fontana prosciugata al centro. L\'ornata fontana di pietra è circondata da una dozzina di piccoli piedistalli, ciascuno con un pallido globo incastonato sulla sommità. Solo nei quartieri più ricchi di Cistercia avete visto luoghi simili in cui l\'acqua scorre liberamente. Avvicinandovi, vedete Samil, seduto casualmente accanto a uno dei piedistalli
 
 Osservate il vostro compagno morto mentre allunga un dito magro per toccare la sfera, che inizia immediatamente a irradiare una brillante luminescenza di morbido calore sull\'area. Con un sorriso ironico, vi guarda negli occhi e spinge la sfera dal piedistallo. La sfera si schianta a terra in un\'esplosione di luce accecante, che vi stordisce e vi disorienta. Quando finalmente la vostra vista ritorna, Samil non c\'è più.
 
-Raccogliendo con cautela alcune sfere, riesci a illuminarle ruotando i loro coperchi di vetro. Che cosa le spinga a emettere luce è un mistero, ma è chiaro che c\'è qualcosa di meraviglioso in questa città morta. Con un numero sufficiente di queste sfere, dovreste essere in grado di trattenere le ombre incombenti. Non avete idea di come Samil ne fosse a conoscenza, ma ancora una volta sembra essere apparso con un aiuto proprio quando ne avevate più bisogno."</string>
+Raccogliendo con cautela alcune sfere, riesci a farle illuminare illuminarle ruotando i loro coperchi di vetro. Che cosa le spinga a emettere luce è un mistero, ma è chiaro che c\'è qualcosa di meraviglioso in questa città morta. Con un numero sufficiente di queste sfere, dovreste essere in grado di trattenere le ombre incombenti. Non avete idea di come Samil ne fosse a conoscenza, ma ancora una volta sembra essere apparso con un aiuto proprio quando ne avevate più bisogno."</string>
 	<string name="chp19_5_1__e">"Mentre esaminate il paesaggio, la nebbia è più leggera e vi permette di individuare i tre punti di riferimento che avete annotato sulla vostra mappa. Sembra che le Torri Quadrate e l\'imponente ciminiera si trovino alla stessa distanza dalla vostra posizione attuale, mentre la Guglia verso il centro della città è più lontana.
 
 
@@ -7436,9 +7436,9 @@ Scegliete un\'opzione:"</string>
 
 Scegliete un\'opzione:"</string>
 	<string name="chp19_6_5__a">Ordinate i gruppi di ricerca in gruppi ristretti, assicurandovi che tutti rimangano all\'interno di un piccolo cerchio di luce della torcia, e dopo aver aperto alcune casse riuscite a trovare un certo numero di sfere non danneggiate.</string>
-	<string name="chp19_6_5__c">Proseguendo nella vecchia fucina, si trova anche una grande rastrelliera con armi e attrezzi ancora ordinatamente disposti su di essa.</string>
+	<string name="chp19_6_5__c">Proseguendo nella vecchia fucina, trovate anche una grande rastrelliera con armi e attrezzi ancora ordinatamente disposti su di essa.</string>
 	<string name="chp19_6_6__a">Ordinate le squadre di ricerca in gruppi ristretti, assicurandovi che tutti rimangano all\'interno di un piccolo cerchio di luce della torcia, e dopo aver aperto alcune casse riuscite a trovare un certo numero di sfere non danneggiate.</string>
-	<string name="chp19_6_6__c">Proseguendo nella vecchia fucina, si trova anche una piccola rastrelliera con alcuni pezzi di equipaggiamento ancora ordinatamente disposti su di essa.</string>
+	<string name="chp19_6_6__c">Proseguendo nella vecchia fucina, trovate anche una piccola rastrelliera con alcuni pezzi di equipaggiamento ancora ordinatamente disposti su di essa.</string>
 	<string name="chp19_6_6__e">Una volta terminate le ricerche, vi dirigete all\'esterno per riorganizzarvi e vi accorgete che una delle squadre non è più uscita. Li chiamate, ma vi risponde solo un silenzio affamato.</string>
 	<string name="chp19_6_7__a">La vecchia fucina è cavernosa, con scaffali e attrezzature dappertutto, ma niente di tutto ciò è utile, tranne una singola sfera luminosa. Una volta terminata la ricerca, vi dirigete all\'esterno per riorganizzarvi e vi accorgete che una delle squadre non è più uscita. Li chiamate, ma vi risponde solo un silenzio affamato.</string>
 	<string name="chp19_6_8__a">Durante la ricerca all\'esterno dell\'edificio fate attenzione a non disturbare nessuno dei cadaveri. I loro occhi gelati sembrano osservare ogni vostra mossa. All\'interno di una cassa, riuscite a trovare alcune armi e attrezzature utili e una sfera luminosa.</string>
@@ -7455,10 +7455,10 @@ Quando passate davanti a quella che sembra una vecchia locanda, leggete l\'inseg
 
 Scegliete un\'opzione:"</string>
 	<string name="chp19_8_2__a">Date fuoco ad alcune delle torce d\'ambra rimaste e vi dirigete all\'interno dell\'edificio.</string>
-	<string name="chp19_8_2__c">La luce delle vostre torce tremolanti illumina la scena con un tenue bagliore ambrato, mentre osservate altri cadaveri stranamente conservati, accasciati sui tavoli e stesi sul pavimento. Tuttavia, attraversando la sala del rubinetto, scoprite le prove di una violenta lotta. I resti degli uomini e delle donne qui presenti sono segnati da ferite feroci, ma tutto ciò che ha valore nella stanza appare intatto. Qualunque cosa sia accaduta, gli assalitori non si sono curati dei beni.</string>
+	<string name="chp19_8_2__c">La luce delle vostre torce tremolanti illumina la scena con un tenue bagliore ambrato, mentre osservate altri cadaveri stranamente conservati, accasciati sui tavoli e stesi sul pavimento. Tuttavia, attraversando la sala delle spine, scoprite le prove di una violenta lotta. I resti degli uomini e delle donne qui presenti sono segnati da ferite feroci, ma tutto ciò che ha valore nella stanza appare intatto. Qualunque cosa sia accaduta, gli assalitori non si sono curati dei beni.</string>
 	<string name="chp19_8_3__a">Cercando dietro il bancone, trovate una piccola cassa di legno con alcune sfere luminose. Saranno sicuramente utili.</string>
 	<string name="chp19_8_4__a">La ricerca porta alla luce un\'unica sfera luminosa e poco altro. Ci sono diverse vecchie botti di birra, ma non osate bere da nulla di ciò che si trova in questo cimitero.</string>
-	<string name="chp19_8_5__a">"Tornando verso l\'ingresso dell\'edificio, non trovate traccia dell\'altra squadra che si è unita alla vostra ricerca in questo locale. Pensate che si siano già incamminati verso l\'esterno, quando un senso di terrore vi invade improvvisamente. Girandovi lentamente, scoprite che le truppe vi fissano in un cupo silenzio e riconoscete immediatamente lo sguardo nei loro occhi. L\'avete già visto negli occhi della Guida. L\'Uomo Ombra! Le mani delle truppe si muovono lentamente verso le eliche delle loro spade, le loro menti non sono più in grado di agire di propria volontà.
+	<string name="chp19_8_5__a">"Tornando verso l\'ingresso dell\'edificio, non trovate traccia dell\'altra squadra che si è unita alla vostra ricerca in questo locale. Pensate che si siano già incamminati verso l\'esterno, quando un senso di terrore vi invade improvvisamente. Girandovi lentamente, scoprite che le truppe vi fissano in un cupo silenzio e riconoscete immediatamente lo sguardo nei loro occhi. L\'avete già visto negli occhi della Guida. L\'Uomo Ombra! Le mani delle truppe si muovono lentamente verso le else delle loro spade, le loro menti non sono più in grado di agire di propria volontà.
 
 
 Scegliete un\'opzione:"</string>
@@ -7502,11 +7502,11 @@ L\'oscurità arriva più velocemente di quanto avreste pensato e siete costretti
 Scegliete un\'opzione:"</string>
 	<string name="chp19m_1_10__a">"Storia a Tempo
 
-\"Che il Verum sia dannato!\" grida, abbastanza forte da essere udito da tutti. \"Non morirò qui!"
+\"Che Verum sia dannata!\" grida, abbastanza forte da essere udito da tutti. \"Non morirò qui!"
 
 Questo luogo non si limita ad attaccare i vostri corpi. Lo sentite voi stessi, insinuarsi sulla superficie della vostra mente come una malattia. La follia e la paura saturano questo luogo come la nebbia
 
-\"Non ho firmato per questo. È ora di andarcene. Chi viene a casa con me?\" Diversi soldati si alzano al suo richiamo e seguono il Capitano mentre se ne va. Non riuscite a ucciderli, influenzati come sono dalla misteriosa malvagità che infesta questo luogo. I loro destini sono stati segnati nel momento in cui si sono allontanati. Il Bosco Profondo reclamerà sicuramente le loro vite molto presto."</string>
+\"Non mi sono arruolata per questo. È ora di andarcene. Chi viene a casa con me?\" Diversi soldati si alzano al suo richiamo e seguono il Capitano mentre se ne va. Non riuscite a ucciderli, influenzati come sono dalla misteriosa malvagità che infesta questo luogo. I loro destini sono stati segnati nel momento in cui si sono allontanati. Il Bosco Profondo reclamerà sicuramente le loro vite molto presto."</string>
 	<string name="chp19m_1_10__c">Mentre i soldati distrutti dalla paura se ne vanno, rivolgete la vostra attenzione a quelli rimasti. Sono i più forti e saldi del lotto e, in quanto Oathsworn, sapete che si può fare molto con pochi uomini validi. Qualunque cosa accada, essi combatteranno fino alla fine.</string>
 	<string name="chp19m_1_1__a">"Storia a Tempo
 
@@ -7560,7 +7560,7 @@ Il capitano Mylar non si lascia intimorire dalle vostre parole. Con una rapida o
 
 Rivolgendovi all\'esercito, spiegate che le bestie del Bosco Profondo sono ancora là fuori, oltre le mura, a caccia di tutti, e che anche se possono morire andando avanti, tornare indietro è morte certa. Verum morirà sicuramente di peste se la vostra missione dovesse fallire, e loro con essa. Non avete intenzione di lasciare che ciò accada.
 
-Le sue parole hanno un effetto notevole sui soldati in fondo, ma il capitano Mylar non si scompone."</string>
+Le vostre parole hanno un effetto notevole sui soldati in fondo, ma il capitano Mylar non si scompone."</string>
 	<string name="chp19m_1_9__a">"Storia a Tempo
 
 Rivolgendovi all\'esercito, spiegate che le bestie del Bosco Profondo sono ancora là fuori, oltre le mura, a caccia di tutti, e che anche se possono morire andando avanti, tornare indietro è morte certa. Verum morirà sicuramente di peste se la vostra missione dovesse fallire, e loro con essa. Non avete intenzione di lasciare che ciò accada.
@@ -7994,7 +7994,7 @@ Ti guarda quasi emozionato. Annuisce, \"Lasciate che Sedric si unisca alla grand
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp1_4_9__c">"Dopo diverse ore, si trova un incrocio che costeggia il muro esterno della città. Si può vedere il Bosco Profondo attraverso il buco in cui una mastodontica pietra di fondazione si è in qualche modo spostata. Le tracce di sangue si concentrano in questo punto da tutte le direzioni, come se corpi o parti di corpi fossero stati spinti attraverso la fessura. Le tracce attraversano l\'apertura e si inoltrano nel Bosco Profondo. Tra le macchie di sangue si distinguono le tracce di diverse impronte di piedi artigliati. Si ha la netta impressione che ci sia più di una di queste cose.
+	<string name="chp1_4_9__c">"Dopo diverse ore, trovate un incrocio che costeggia il muro esterno della città. Si può vedere il Bosco Profondo attraverso il buco in cui una mastodontica pietra di fondazione si è in qualche modo spostata. Le tracce di sangue si concentrano in questo punto da tutte le direzioni, come se corpi o parti di corpi fossero stati spinti attraverso la fessura. Le tracce attraversano l\'apertura e si inoltrano nel Bosco Profondo. Tra le macchie di sangue si distinguono le tracce di diverse impronte di piedi artigliati. Si ha la netta impressione che ci sia più di una di queste cose.
 
 
 Scegliete un\'opzione:"</string>
@@ -8380,7 +8380,7 @@ Il Sognatore Folle, Kharnus, ruggisce nella sua follia. Si agita da una parte al
 Le spesse viti che incatenano il braccio destro di Kharnus si spezzano improvvisamente. Si sta liberando! Davanti a voi, la grande testa cornea di Kharnus rotola in avanti, fissando su di voi i suoi grandi occhi folli. È giunto il momento di adempiere al vostro ultimo giuramento."</string>
 	<string name="chp21_2_2__a">"Riportando lo sguardo sull\'enorme essere, Samil parla con un tenero sorriso, \"Poverino. Una volta era il padre di un intero popolo. Un re che stava perdendo una guerra contro gli Uccisori di Alberi. Desiderava sconfiggere i suoi nemici. Così gli dissi come fare. Non ero che un sussurro quando venne da me per la prima volta. Niente di più che un tarlo nell\'orecchio. Gli diedi quello che mi aveva chiesto. Anche se non proprio nel modo in cui aveva voluto.\" Un sorriso si allarga sul volto di Samil mentre si volta verso di voi. \"Ora è il padre di un regno molto più grande,\" dice, alzando le mani per indicare l\'intero Bosco Profondo.
 
-Ricordate il racconto che avete letto nel diario del Sorvegliante. La storia della guerra con gli A\'Dendri per il \'Datore di Vita\'. Diceva che gli A\'Dendri stavano perdendo la guerra quando arrivò la follia, che spazzò via la loro città e, in punto di morte, il Bosco Profondo la seguì. Se quello che dice Samil è vero, l\'enorme A\'Dendri sepolto qui sotto la terra deve essere la causa di tutto. I nomi di Soonari e Kharnus riaffiorano nella vostra mente. Erano madre e padre del popolo A\'Dendri? Se è così, allora questo deve essere Kharnus, il progenitore della razza A\'Dendri e, a quanto pare, anche la fonte del Bosco Profondo. Tutto porta a lui. L\'uccisione di questa gigantesca creatura segnerebbe la fine del Bosco Profondo?"</string>
+Ricordate il racconto che avete letto nel diario del Sorvegliante. La storia della guerra con gli A\'Dendri per il \'Donatore di Vita\'. Diceva che gli A\'Dendri stavano perdendo la guerra quando arrivò la follia, che spazzò via la loro città e, in punto di morte, il Bosco Profondo la seguì. Se quello che dice Samil è vero, l\'enorme A\'Dendri sepolto qui sotto la terra deve essere la causa di tutto. I nomi di Soonari e Kharnus riaffiorano nella vostra mente. Erano madre e padre del popolo A\'Dendri? Se è così, allora questo deve essere Kharnus, il progenitore della razza A\'Dendri e, a quanto pare, anche la fonte del Bosco Profondo. Tutto porta a lui. L\'uccisione di questa gigantesca creatura segnerebbe la fine del Bosco Profondo?"</string>
 	<string name="chp21_2_3__a">"\"Sapete bene chi non sono,\" Samil risponde con un sorriso complice. \"È chiaro che non sono il vostro amico morto, ma questo è ormai ovvio.\"
 
 Ti guarda per un attimo, fissandoti con occhi ammalianti. \"Sono molte cose,\" continua. \"Sono colui che vi ha salvati nella città proibita. Sono colui che vi ha salvati nel bosco. Sono stato la vostra guida, vi ho spronato e spinto, portandovi qui. Potete chiamarmi una specie di benefattore. Un portatore di verità e un detentore di chiavi, ma in qualche modo non possiedo quella per le mie catene.\"
@@ -8399,7 +8399,7 @@ Improvvisamente, nell\'ombra alle spalle di Kharnus, vedete delle piccole punte 
 
 Ma il loro mondo stava morendo. I confini delle loro foreste venivano spinti sempre più indietro dal Bosco Profondo e loro cercavano disperatamente di sopravvivere. Le persone disperate fanno cose disperate. Potreste aver fatto lo stesso?"</string>
 	<string name="chp21_2_8__a">"Non riuscite a trovare una logica nelle scelte fatte dagli A\'Dendri. L\'unica cosa di cui siete certi è che vi hanno ingannato per farvi venire qui ad affrontare un mostro da loro creato. Forse voi avreste fatto lo stesso? I confini delle loro foreste venivano spinti sempre più indietro dal Bosco Profondo e loro cercavano disperatamente di sopravvivere. Le persone disperate fanno cose disperate."</string>
-	<string name="chp21_2_9__a">"E che dire di questo essere che finge di essere Samil? Potete capire perché gli A\'Dendri vi vogliano qui, ma che dire di lui? Se le sue menzogne hanno davvero portato Kharnus a bere da questa cosiddetta 'Fonte di Vita', dando così vita al Bosco Profondo, allora perché vi ha convocati qui per distruggere la sua creazione? C\'è qualcosa che non vi è stato detto
+	<string name="chp21_2_9__a">"E che dire di questo essere che finge di essere Samil? Potete capire perché gli A\'Dendri vi vogliano qui, ma che dire di lui? Se le sue menzogne hanno davvero portato Kharnus a bere da questa cosiddetto 'Donatore di Vita', dando così vita al Bosco Profondo, allora perché vi ha convocati qui per distruggere la sua creazione? C\'è qualcosa che non vi è stato detto
 
 Rivolgete la domanda all\'entità che indossa il volto di Samil. Lui vi rivolge uno sguardo serio, scegliendo con cura le parole successive. \"Siete qui per fare una scelta. Una scelta che deve essere reale. C\'è potere nella menzogna, ma molto di più nella verità,\" risponde sdegnosamente. \"Quindi, è necessario che vi venga detta la verità, per poter decidere liberamente. Solo allora avrà il potere necessario.\"
 
@@ -8484,7 +8484,7 @@ Vi guardate l\'un l\'altro. Samil arriva per ultimo, come sempre. Si asciuga la 
 
 Non c\'è bisogno di discutere, raccogliete le vostre cose e scendete al piano di sotto per schiarirvi le idee. Vedere Samil morire di nuovo ha scosso tutti, anche se la prima volta non era stato così. Il vostro vecchio fratello d\'armi era morto sulla strada per Bastone e nessuno aveva visto cosa gli era successo allora. Una cosa è certa, però. Quello è stato più di un semplice incubo."</string>
 	<string name="chp2_13_3__c">Vi tuffate nella copertura del bosco, sbattendo le braccia per liberare il sentiero da liane e coperte, mentre vi ritrovate improvvisamente sdraiati nel materasso di paglia della Quercia Spezzata.</string>
-	<string name="chp2_13_3__e">"Vi guardate rapidamente intorno. Ognuno di voi, ora sveglio di soprassalto, siede tra coperte e cuscini umidi di sudore. Alcune delle lenzuola sono sporche di sangue, dove vi siete strappati la pelle con gli artigli. Uno sguardo reciproco conferma che avete visto tutti la stessa cosa.
+	<string name="chp2_13_3__e">"Vi guardate rapidamente intorno. Ognuno di voi, ora sveglio di soprassalto, siede tra coperte e cuscini umidi di sudore. Alcune delle lenzuola sono sporche di sangue, dove vi siete strappati la pelle con le unghie. Uno sguardo reciproco conferma che avete visto tutti la stessa cosa.
 
 Non c\'è bisogno di discutere: raccogliete le vostre cose e scendete al piano di sotto per schiarirvi le idee. Vedere Samil morire di nuovo ha scosso tutti, anche se la prima volta non era stato così; nessuno aveva visto cosa gli era successo allora. Una cosa è certa: quello è stato più di un semplice incubo."</string>
 	<string name="chp2_13_4__a">"Mentre finite un piatto condiviso di formaggio e radici preparato con cura dal locandiere Bram, Greycane, il cantastorie e proprietario della Quercia Spezzata, attraversa la sala affollata e si siede al vostro tavolo sfoggiando uno sguardo gioviale.
@@ -8642,7 +8642,7 @@ Soddisfatti che i documenti confermino tutto ciò che vi è stato detto, tornate
 
 Uscendo dall\'Archivio, vedete un uomo malandato in piedi in un vicolo dall\'altra parte della strada che fissa un muro, ondeggiando in un vento che nessuno sente.
 
-Avvicinandosi,vedete che sta fissando due grandi cerchi arancioni dipinti con cura sul muro del vicolo."</string>
+Avvicinandovi,vedete che sta fissando due grandi cerchi arancioni dipinti con cura sul muro del vicolo."</string>
 	<string name="chp2a_2_1a__c">"
 Scegliete un\'opzione:
 
@@ -8681,9 +8681,9 @@ Una serie di appigli sono stati scavati nelle pareti del pozzo, formando una sca
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp2a_50_2__a">"Lasciate cadere la torcia accesa nel buco e scintilla sul pavimento di pietra a circa 6 metri di profondità. Lì sotto c\'è una stanza. Si sente una voce e un rapido scalpiccio. Il posto è questo. Si sale frettolosamente nel pozzo e si scende nel condotto.
+	<string name="chp2a_50_2__a">"Lasciate cadere la torcia accesa nel buco e scintilla sul pavimento di pietra a circa 6 metri di profondità. Lì sotto c\'è una stanza. Sentite una voce e un rapido scalpiccio. Il posto è questo. Vi arrampicate frettolosamente nel pozzo e scendete nel condotto.
 
-In fondo si trova una stanza buia illuminata solo dalla luce della torcia. La luce si riflette su un migliaio di occhi arancioni sparsi sul pavimento, sulle pareti e sul soffitto. Tutti gli occhi si concentrano su un\'unica sedia e un tavolo al centro della stanza. Si intravedono mappe e inchiostri e una candela solitaria accende il fumo nell\'aria stagnante.
+In fondo trovate stanza buia illuminata solo dalla luce della torcia. La luce si riflette su un migliaio di occhi arancioni sparsi sul pavimento, sulle pareti e sul soffitto. Tutti gli occhi si concentrano su un\'unica sedia e un tavolo al centro della stanza. Si intravedono mappe e inchiostri e una candela solitaria accende il fumo nell\'aria stagnante.
 
 In un angolo della stanza c\'è una figura, ovviamente il Pifferaio, che si arrampica su un buco in un angolo. Le dita sanguinano e dalla sua gola esce un tono disumanamente profondo. \"È mio e lo ucciderò, non lo avrete.\" Gli occhi brillano di arancione per un momento, poi la figura si muove attraverso il piccolo foro in una camera adiacente."</string>
 	<string name="chp2a_50_3__a">Gli appigli sono scialbi e poco adatti. Si scende il più silenziosamente possibile.</string>
@@ -8838,7 +8838,7 @@ Capendo che il colpo non arriverà a segno, la donna urla e, come una posseduta,
 Vi concentrate sulla donna vicino al falegname, che è circondato da diversi strumenti di intaglio ed esempi del suo mestiere. Vi avvicinate alla donna, poi sentite un urlo alla vostra destra.</string>
 	<string name="chp2b_30_15__a">"Storia a Tempo
 
-Sfrecciate per il vicolo, siete determinati a rintracciare l\'assassino. Questa strega? O qualunque cosa fosse. Non ci vuole molto. Il vicolo conduce al muro esterno e mentre correte lungo il sentiero dritto vedete una figura in cima al muro. Avvicinandosi, vi rendete conto che si tratta di una donna vestita di nero che ondeggia in un vento che nessun altro sente. Perché non sta scappando? La domanda è muta mentre scendete la scala di pietra.
+Sfrecciate per il vicolo, siete determinati a rintracciare l\'assassino. Questa strega? O qualunque cosa fosse. Non ci vuole molto. Il vicolo conduce al muro esterno e mentre correte lungo il sentiero dritto vedete una figura in cima al muro. Avvicinandovi, vi rendete conto che si tratta di una donna vestita di nero che ondeggia in un vento che nessun altro sente. Perché non sta scappando? La domanda è muta mentre scendete la scala di pietra.
 
 Samil è in piedi accanto alla donna. Si china, le sussurra all\'orecchio e fa un gesto verso il Bosco Profondo come per offrirle un posto a sedere. La donna annuisce sorridendo e si avvicina al bordo."</string>
 	<string name="chp2b_30_1__a">"Storia a Tempo
@@ -8869,7 +8869,7 @@ Scegliete un\'opzione:"</string>
 Vi concentrate sui vecchietti. Sono un colpevole improbabile, ma forse è quello che Samil vuole farvi credere. Li osservate per un breve periodo, cercando di cogliere qualche indizio. Poi sentite un urlo provenire dal centro del mercato."</string>
 	<string name="chp2b_30_8__a">"Storia a Tempo
 
-Al centro del mercato c\'è una folla di persone riunite intorno a qualcosa. Se si separa la folla, si trova il corpo di un uomo, con un coltello da macellaio che sporge dal petto. Siete arrivati troppo tardi. Samil scuote la testa con disapprovazione, come a dire che un altro corpo giace ora ai vostri piedi accanto al suo. Poi, con un forte ticchettio sul filo, viene trascinato nel nulla.
+Al centro del mercato c\'è una folla di persone riunite intorno a qualcosa. Sparpagliando la folla trovate il corpo di un uomo, con un coltello da macellaio che sporge dal petto. Siete arrivati troppo tardi. Samil scuote la testa con disapprovazione, come a dire che un altro corpo giace ora ai vostri piedi accanto al suo. Poi, con un forte ticchettio sul filo, viene trascinato nel nulla.
 
 Chiedete se qualcuno ha visto l\'assassino e una donna anziana vi indica un vicolo. \"È andata di là!\""</string>
 	<string name="chp2b_30_9__a">"Storia a Tempo
@@ -9190,14 +9190,14 @@ Non potete sfuggirgli. È troppo vicino. Un senso di certezza, di fatalità, si 
 Con la faccia triste, raccogliete da terra una torcia infuocata."</string>
 	<string name="chp3a_17_6__c">"Imbracciata l\'arma, sollevate la torcia in alto e tornate a caricare sulla breccia.
 
-La bestia, vedendo la fiamma che si dirige verso di lei, si ritrae per un attimo e questo è tutto ciò che vi serve per sfrecciare in un vicolo laterale. La possente creatura si rialza e distrugge una terrazza di case, prima di inseguirvi con gli artigli.
+La bestia, vedendo la fiamma che si dirige verso di lei, si ritrae per un attimo e questo è tutto ciò che vi serve per sfrecciare in un vicolo laterale. La possente creatura si rialza e distrugge una schiera di case, prima di inseguirvi con gli artigli.
 
 Sentite il resto della Libera Compagnia che si dà alla fuga, senza sprecare un secondo della preziosa occasione che avete offerto loro. La bestia tuona dietro di voi, ma voi siete stranamente tranquilli. Fate un centinaio di passi prima che vi raggiunga. La gente passa tutti gli anni a cercare di trovare un senso alla vita e voi lo trovate ora.... in una buona morte."</string>
 	<string name="chp3a_17_7__a">"La bestia avanza a passi da gigante, con il fumo che esce dalle narici. Vi girate per correre e vedete il volto truce di Harlbeck che lo fissa, con la torcia in mano.
 
 \"Spero che ti strozzerai ingoiandomi\" dice e carica la cosa.
 
-La bestia, vedendo la fiamma che si dirige verso di lei, si ritrae per un attimo e questo è tutto ciò di cui Harlbeck ha bisogno per sfrecciare in un vicolo laterale. La possente creatura si impenna e schiaccia una terrazza di case prima di avventarsi sul guardiano.
+La bestia, vedendo la fiamma che si dirige verso di lei, si ritrae per un attimo e questo è tutto ciò di cui Harlbeck ha bisogno per sfrecciare in un vicolo laterale. La possente creatura si impenna e schiaccia una schiera di case prima di avventarsi sul guardiano.
 
 L\'ultima guardia di Bastone vi ha salvato. Non avete tempo da perdere. Scendendo di corsa lungo le pietre della breccia, riuscite a fuggire nel Bosco Profondo. Mentre lo fate, sapete che l\'urlo finale gorgogliante che sentite dalla strada sarà nei vostri incubi per mesi."</string>
 	<string name="chp3a_17_8__a">"\"Non è rimasto nulla\", ansima Harlbeck. \"Solo noi\". Fa cenno alle poche guardie rimaste in piedi, con i tabarri strappati ed il sangue mescolato al fango del Bosco Profondo. \"Ma le nostre lance sono vostre, se ci volete,\" dicono."</string>
@@ -9640,7 +9640,7 @@ L\'Araldo riporta lo sguardo sulla folla. Sembra che dobbiate proseguire verso i
 
 Guarda rapidamente di lato, come se ci fosse stato un forte rumore. Seguendo il suo sguardo non c\'è nulla.
 
-\"Lo so, lo so. Ma non so dove. Dico che lo so, ma non lo so. È ora di andare. Il Verum è vasto e i ricordi sono tanti. Proseguite.\"
+\"Lo so, lo so. Ma non so dove. Dico che lo so, ma non lo so. È ora di andare. Verum è vasta e i ricordi sono tanti. Proseguite.\"
 
 \"Dove andiamo?\" chiedete.
 
@@ -9744,7 +9744,7 @@ Bram ne beve un sorso anche lui, e dice: \"Ha bisogno di un po\' di cose, le far
 
 Greycane si guarda alle spalle, notandovi. \"Sì, buongiorno, prima sono arrivate delle notizie, sembra che ci sia un contratto. C\'è abbastanza tempo per questo, però. So che alcuni degli altri vogliono parlare con voi.\""</string>
 	<string name="chp5_7_3__a">Parlate una volta con ogni alleato:</string>
-	<string name="chp5_7_4__a">"Il ragazzo muto di Bastone e Midge si siedono accanto al camino a giocare a Piramidi. I ragazzi lo fanno spesso e, sebbene il ragazzo muto non parli, in questi giorni sorride molto di più. Midge ha cercato di insegnargli alcune frasi nella strana lingua del battito delle mani che Midge ha imparato dagli A\'Dendri nelle Strade Verdi. Dopo la chiusura delle porte, spazza via e sembra soddisfatto e, cosa più importante, sicuro."</string>
+	<string name="chp5_7_4__a">"Il ragazzo muto di Bastone e Midge si siedono accanto al camino per giocare a Piramidi. I ragazzi lo fanno spesso e, sebbene il ragazzo muto non parli, in questi giorni sorride molto di più. Midge ha cercato di insegnargli alcune frasi nella strana lingua del battito delle mani che Midge ha imparato dagli A\'Dendri nelle Strade Verdi. Dopo la chiusura delle porte, spazza via e sembra soddisfatto e, cosa più importante, sicuro."</string>
 	<string name="chp5_7_5__a">Dane, da poco tornato da una pattuglia notturna con la guardia locale, siede con la donna che ora sapete essere Jocie. Sussurrano in toni sommessi, ridono e si stuzzicano a vicenda durante il pasto. Più di una volta si sono allontanati per le strade di Verum solo per perdersi l\'uno nell\'altra.</string>
 	<string name="chp5_7_6__a">"Lyceen vi fa cenno di avvicinarvi a un tavolo dove taglia delle erbe fresche. \"Avete visto cosa sono e mi avete comunque permesso di restare qui... grazie.\" Lyceen parla lentamente. \"Volevo ripagarvi. C\'era abbastanza spazio per un giardino di erbe sul tetto, così ho iniziato a piantare. Ho dell\'ambra, quindi le piante cresceranno a breve. Potrò curare le vostre ferite e rendere un servizio alla città.\""</string>
 	<string name="chp5_7_7__a">"Celeste, vestita di tutto punto, è più pulita che mai.
@@ -10864,7 +10864,7 @@ Non riuscite a togliervi dalla testa la sensazione che ci sia ancora qualcosa ch
 
 Vedendovi, Finnian vi offre un leggero sorriso che non raggiunge i suoi occhi. \"I mendicanti saranno pronti a partire come promesso, ve lo assicuro. Grazie, Oathsworn. Avrei voluto restare più a lungo con voi, ma devo a Padre Pyren la pace di sapere che la sua famiglia sarà accudita. Torneremo a Verum con voi, e poi dovrò assicurarmi che siano al sicuro. Capisci.\" Annuisci in segno di rispetto per la responsabilità che il giovane si assume volentieri, non tutti i giuramenti sono accompagnati da un marchio."</string>
 	<string name="chp7_epi_4__a">"Trovate Finnian in un\'area ben lontana dalla carneficina, che consola una madre e le sue due giovani figlie. Supponete che si tratti della famiglia di Padre Pyren, poiché sembrano felicissime della notizia che Finnian condivide. Per fortuna, devono essere state nelle gabbie e hanno risparmiato il destino di molti altri. Sembrano incolumi. Vedendovi, Finnian vi rivolge un ampio sorriso. \"I mendicanti saranno pronti a partire come promesso, ve lo assicuro. Non appena sarete pronti. Grazie, Oathsworn.\" Almeno non è stata tutta una perdita."</string>
-	<string name="chp7_epi_5__a">"Avvicinandosi a uno di quelli ancora afflitti, notate che sembra dormiente, come se camminasse nel sonno. Ulteriori domande rivelano che il Veneratore è arrivato al villaggio ieri e ha iniziato subito a radunare tutti in gabbia. Subito dopo sono iniziati i sacrifici. Sembra che ogni volta che uccideva una vittima, acquisiva il potere su uno dei suoi parenti stretti o dei suoi cari. Il pensiero fa arricciare le labbra in segno di disgusto: quelli che non ha ucciso li ha costretti a sopprimere. Ora ne rimangono solo pochi, un intero villaggio decimato.
+	<string name="chp7_epi_5__a">"Avvicinandovi a uno di quelli ancora afflitti, notate che sembra dormiente, come se camminasse nel sonno. Ulteriori domande rivelano che il Veneratore è arrivato al villaggio ieri e ha iniziato subito a radunare tutti in gabbia. Subito dopo sono iniziati i sacrifici. Sembra che ogni volta che uccideva una vittima, acquisiva il potere su uno dei suoi parenti stretti o dei suoi cari. Il pensiero fa arricciare le labbra in segno di disgusto: quelli che non ha ucciso li ha costretti a sopprimere. Ora ne rimangono solo pochi, un intero villaggio decimato.
 
 Come se le cose non potessero andare peggio per i sopravvissuti, all\'improvviso sentite qualcosa che nessun genitore vorrebbe sentire. \"I bambini!\" grida una donna. \"Se ne sono andati!\""</string>
 	<string name="chp7a_10_1__a">"Posizione 10 - Il Fabbro
@@ -10904,7 +10904,7 @@ Camminando lungo le incredibili strutture, si ascolta una conversazione tra due 
 Scegliete un luogo dove andare:"</string>
 	<string name="chp7a_16_1__a">"Posizione 16 - Villaggio
 
-I piccoli villaggi che circondano Cistercia sono collegati alla città principale da tratti ben curati della Strada del Filo che potete seguire facilmente. Si trova un piccolo villaggio nel Bosco Profondo, protetto da una recinzione di legno. Gli abitanti del villaggio svolgono le loro normali attività e non hanno visto nulla."</string>
+I piccoli villaggi che circondano Cistercia sono collegati alla città principale da tratti ben curati della Strada del Filo che potete seguire facilmente. Trovate un piccolo villaggio nel Bosco Profondo, protetto da una recinzione di legno. Gli abitanti del villaggio svolgono le loro normali attività e non hanno visto nulla."</string>
 	<string name="chp7a_17_1__a">"Posizione 17 - Ordine dei Draghi
 
 Avete sentito parlare dell\'Ordine dei Draghi. Proprio come voi, sono cacciatori. Se le storie sono vere, sono anche dannatamente bravi. Forse conoscono il Veneratore e forse sanno che tipo di creatura vi ha attaccato sulla strada fuori Verum."</string>
@@ -10939,7 +10939,7 @@ I campi si estendono davanti a voi. Non siete abituati a vedere questo tipo di d
 
 Le storie che si sentono raccontare dai contadini qui sono quelle di un\'ombra che si aggira nella notte e di contadini scomparsi la mattina dopo. Senza una descrizione accurata da cui partire, decidete di perlustrare la zona alla ricerca di altri indizi."</string>
 	<string name="chp7a_20_2__a">"In un campo vicino, accanto a un ponte che attraversa un piccolo ruscello, scoprite una serie di impronte ancora visibili nel terreno fangoso. Sono grandi il doppio di quelle di un uomo medio e provengono chiaramente da piedi corazzati. Seguendole, sembrano condurre verso est."</string>
-	<string name="chp7a_20_3__a">"Si esamina la zona, ma non si trova nulla di interessante. Probabilmente i contadini erano solo spaventati dal buio pesto delle notti senza luna e dalla loro immaginazione iperattiva.
+	<string name="chp7a_20_3__a">"Esaminate la zona, ma non trovate nulla di interessante. Probabilmente i contadini erano solo spaventati dal buio pesto delle notti senza luna e dalla loro immaginazione iperattiva.
 
 
 Scegliete un luogo dove andare:"</string>
@@ -11431,7 +11431,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp8_10_1__a">"Posizione 10 - La stanza
 	
 La vostra realtà si sposta e vi ritrovate ancora una volta ai margini della foresta."</string>
-	<string name="chp8_10_20__c">"Il primo libro che prendete in mano ha un\'immagine di Verum sul fronte e tutte le pagine al suo interno sono vuote. Il secondo libro ha in copertina il disegno di un Veneratore, splendidamente rappresentato, ed il suo contenuto è scritto in una lingua che non comprendete. Sfogliandolo, si trova l\'immagine di un villaggio in rovina con uno scheletro nel suo ultimo riposo.
+	<string name="chp8_10_20__c">"Il primo libro che prendete in mano ha un\'immagine di Verum sul fronte e tutte le pagine al suo interno sono vuote. Il secondo libro ha in copertina il disegno di un Veneratore, splendidamente rappresentato, ed il suo contenuto è scritto in una lingua che non comprendete. Sfogliandolo, trovate l\'immagine di un villaggio in rovina con uno scheletro nel suo ultimo riposo.
 	
 Sembra che nell\'immagine sia nascosta una parola.
 
@@ -11473,7 +11473,7 @@ La scatola contiene pile di carte e una serie di piccoli oggetti rotondi di un m
 
 Scegliete un\'opzione:"</string>
 	<string name="chp8_10_32__a">Il pezzo di mappa strappato che avete trovato si adatta perfettamente. Quando lo ricongiungete al resto della mappa, la vostra realtà cambia e vi commuovete ancora una volta.</string>
-	<string name="chp8_10_34__c">"Il primo libro che prendete in mano ha un\'immagine di Verum sul fronte e tutte le pagine al suo interno sono vuote. Il secondo libro ha in copertina il disegno di un Veneratore, splendidamente rappresentato, ed il suo contenuto è scritto in una lingua che non comprendete. Sfogliandolo, si trova l\'immagine di un villaggio in rovina con uno scheletro nel suo ultimo riposo.
+	<string name="chp8_10_34__c">"Il primo libro che prendete in mano ha un\'immagine di Verum sul fronte e tutte le pagine al suo interno sono vuote. Il secondo libro ha in copertina il disegno di un Veneratore, splendidamente rappresentato, ed il suo contenuto è scritto in una lingua che non comprendete. Sfogliandolo, trovate l\'immagine di un villaggio in rovina con uno scheletro nel suo ultimo riposo.
 	
 Sembra che nell\'immagine sia nascosta una parola.
 
@@ -11731,7 +11731,7 @@ Terminato il combattimento, cercate il bambino che avete salvato, ma scoprite ch
 \"Ora è libero. Al riparo dai suoi occhi,\" fa eco alla voce di Lina, ma la ragazza non si vede da nessuna parte.
 
 \"Penso di potervi riportare indietro.\" Improvvisamente, si sente un movimento di risucchio ed il mondo si contorce ancora una volta."</string>
-	<string name="chp8_1_10__a">"La Strada del Filo non conduce a Bastone come la prima volta che avete vissuto questo momento. Invece, in una piccola radura, si trova una minuscola capanna. Avvicinandovi, trovate una bambina che canta la filastrocca che avete sentito spesso in questo luogo.
+	<string name="chp8_1_10__a">"La Strada del Filo non conduce a Bastone come la prima volta che avete vissuto questo momento. Invece, in una piccola radura, trovate una minuscola capanna. Avvicinandovi, trovate una bambina che canta la filastrocca che avete sentito spesso in questo luogo.
 	
 Mentre canta, danza e salta in cerchio. Il solco consumato nella terra e la pelle nuda dei suoi piedi vi dicono che ha saltato per molto tempo.
 
@@ -12029,7 +12029,7 @@ See a shadow, hear the thud.
 
 Hear the silence, see your blood.
 
-Attraverso la nebbia, vedete due sfere arancioni in lontananza. Avvicinandosi, scoprite che sono un paio di lanterne ambrate avvolte in ferro che ondeggiano sopra un palo con due cartelli. Nessuno dei due cartelli ha una scritta e ognuno indica la direzione opposta.
+Attraverso la nebbia, vedete due sfere arancioni in lontananza. Avvicinandovi, scoprite che sono un paio di lanterne ambrate avvolte in ferro che ondeggiano sopra un palo con due cartelli. Nessuno dei due cartelli ha una scritta e ognuno indica la direzione opposta.
 
 Mentre vi chiedete da che parte andare, i bambini continuano a cantare la filastrocca.
 
@@ -12109,7 +12109,7 @@ Vi mettete all\'inseguimento, navigando con attenzione nel labirinto di fitti ra
 
 Oltrepassando l\'ampio varco, vedete quattro piattaforme, ognuna sospesa in alto da una serie di corde. Notate che la rete di corde può essere ricondotta a uno strano meccanismo contenente una serie di leve situato sul ramo dove vi trovate ora. Tirando una delle leve, alcune piattaforme si alzano e si abbassano. Ne provate altre per vedere a quali leve corrispondono le varie piattaforme. Vi rendete conto che ogni leva può essere tirata una sola volta. Dovrete decidere l\'ordine corretto di attivazione delle leve per riuscire ad attraversarle prima che si resettino."</string>
 	<string name="chp8_7_5__c">Le piattaforme sono perfettamente posizionate per permettervi di attraversare il varco. Ma prima che possiate raggiungere l\'altra sponda, vedete il bambino fuggire e scomparire in un boschetto di rami.</string>
-	<string name="chp8_7_6__a">Ci vuole un po\' di tempo, ma alla fine si trova la sequenza che sposta le piattaforme in una posizione che permette di attraversare il varco. Ma quando si arriva dall\'altra parte il bambino è già scomparso.</string>
+	<string name="chp8_7_6__a">Ci vuole un po\' di tempo, ma alla fine trovate la sequenza che sposta le piattaforme in una posizione che permette di attraversare il varco. Ma quando si arriva dall\'altra parte il bambino è già scomparso.</string>
 	<string name="chp8_8_10__c">"Il ricordo del viaggio che avete fatto alla Pietra del Giuramento molto tempo fa è fresco nella vostra mente come il giorno in cui l\'avete vissuto. Ricordate la misteriosa figura in nero che ha accolto il vostro arrivo, l\'anima solitaria sempre presente a guardia della pietra. È lui che assiste al vostro giuramento e vi imprime il marchio sul polso.
 	
 Questa volta, quando arrivate con il vostro gruppo, la figura misteriosa non si vede da nessuna parte. La Pietra del Giuramento stessa, fortunatamente, si trova ancora nella radura, incontaminata dalla corruzione del Bosco Profondo. Con grande sorpresa, vedete una bambina nascosta dietro la massiccia pietra. La ragazzina si rannicchia impaurita mentre vi avvicinate lentamente e le porgete la mano. Con riluttanza, la prendete."</string>
@@ -12120,7 +12120,7 @@ Questa volta, quando arrivate con il vostro gruppo, la figura misteriosa non si 
 	
 Ricordate questa parte del sentiero. È sulla strada per la Pietra del Giuramento. È l\'ultima prova che tutti gli iniziati affrontano prima di ricevere il marchio. Basterà un altro giorno e una notte nel Bosco Profondo. Dovreste essere soli, ma non lo siete. La vostra Compagnia è insieme e condivide questa esperienza."</string>
 	<string name="chp8_8_7__a">Vedete le lettere sul dorso mescolarsi e riordinarsi per dire: \"Read Another (Continua a Leggere)\". Mentre il libro comincia a disintegrarsi tra le vostre mani, perdete i sensi prima che un urlo vi faccia svegliare: il vostro stesso urlo. Vi ritrovate distesi nel fango del Bosco Profondo. Cercate di alzarvi, ma vi rendete subito conto che le gambe non ci sono. Sopra di voi si staglia un\'ombra. Vi girate appena in tempo per vedere una bocca spalancata che vi morde il viso. Improvvisamente, vi ritrovate di nuovo al sicuro nella biblioteca, con tutti i vostri arti al loro posto.</string>
-	<string name="chp8_8_8__a">Prendete il libro dallo scaffale. Nel farlo, le lettere sul dorso si risistemano e si legge: \"Missing Map (Mappa Mancante)\". Il libro in sé non ha nulla di scritto, ma sfogliandolo si trova un pezzo di carta incastrato tra le pagine. Potrebbe essere il pezzo mancante della mappa sul tavolo.</string>
+	<string name="chp8_8_8__a">Prendete il libro dallo scaffale. Nel farlo, le lettere sul dorso si risistemano e si legge: \"Missing Map (Mappa Mancante)\". Il libro in sé non ha nulla di scritto, ma sfogliandolo trovate un pezzo di carta incastrato tra le pagine. Potrebbe essere il pezzo mancante della mappa sul tavolo.</string>
 	<string name="chp8_8_9__a">"Le lettere riordinate sul dorso del libro recitano: \"Try Again (Prova Ancora)\". Un attacco di tosse vi coglie all\'improvviso, mentre insetti strisciano dalla vostra bocca. Siete sepolti nel terreno fino al collo, mentre sciami di insetti e mosche carnivore vi inghiottono la testa. I corpi viscidi degli insetti vi riempiono la gola, rendendovi impossibile respirare. Il mondo intorno a voi diventa nero prima che riprendiate conoscenza nei confini della biblioteca."</string>
 	<string name="chp8_9_1__a">"Posizione 9 - La scultura sulle colline
 	
@@ -14898,9 +14898,9 @@ ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 4)."</string>
 	<string name="pop19_15_23__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
 	<string name="pop19_15_24__b">"CONTROLLARE LA FASE DELLA PESTE SULLA SCHEDA DELLA LIBERA COMPAGNIA
 
-Se si trova allo \"STADIO 1,\" TUTTI GLI OATHSWORN guadagnano 1 PUNTO COLPO
+Se si trova allo \"STADIO 1\", TUTTI GLI OATHSWORN GUADAGNANO 1 PUNTO FERITA
 
-Se si trova allo \"STADIO 2\" o \"STADIO 3,\"DECREMENTARE DI 1 PUNTO IL NUMERO ACCANTO ALLO STADIO DELLA PIAGA."</string>
+Se si trova allo \"STADIO 2\" o \"STADIO 3\", DECREMENTARE DI 1 PUNTO IL NUMERO ACCANTO ALLO STADIO DELLA PESTE."</string>
 	<string name="pop19_15_25__b">OGNI OATHSWORN PUÒ ARCHIVIARE UNA DELLE SUE CARTE FERITA.</string>
 	<string name="pop19_15_27a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_15_29__b">ARCHIVIARE LA CARTA ALLEATO 22 (IL GOLEM).</string>
@@ -14943,7 +14943,7 @@ ESEGUITE UN ROUND DI COMBATTIMENTO CONTRO LA DIFESA 13. OGNI OATHSWORN GUADAGNA 
 
 SE SI VIENE MANDATI IN UN\'ALTRA PARTE DEL DIARIO, SI VIENE SEMPRE RIMANDATI AUTOMATICAMENTE ALLA PAGINA DELLA MAPPA
 
-QUANDO SI SCEGLIE UNA DIREZIONE IN CUI MUOVERSI, CI SI DIRIGE IN LINEA RETTA IN QUELLA DIREZIONE DAL PUNTO IN CUI CI SI TROVA E SI PERCORRE UNA DISTANZA PARI ALLA MISURA 'PER SEGNALINO TEMPO - DISTANZA PERCORSA' SULLA MAPPA.
+QUANDO SI SCEGLIE UNA DIREZIONE IN CUI MUOVERSI, CI SI DIRIGE IN LINEA RETTA IN QUELLA DIREZIONE DAL PUNTO IN CUI CI SI TROVA E SI PERCORRE UNA DISTANZA PARI AL RAPPORTO 'SEGNALINO TEMPO / DISTANZA PERCORSA' SULLA MAPPA.
 
 UNA VOLTA VISUALIZZATA LA MAPPA, CONTINUARE NELL\'APP."</string>
 	<string name="pop19_1_16__b">PESCARE UN EVENTO DEEPWOOD. SE SI TRATTA DELLA CARTA NUMERO 5-11, RIMESCOLATELA NEL MAZZO EVENTI DEEPWOOD E PESCATE UN ALTRO EVENTO.</string>
@@ -14951,9 +14951,9 @@ UNA VOLTA VISUALIZZATA LA MAPPA, CONTINUARE NELL\'APP."</string>
 
 SQUADRONI: PRENDETE UNA QUANTITÀ DI DADI PUNTI FERITA NON UTILIZZATI E RUOTATELI IN MODO CHE IL TOTALE DEI PUNTI MOSTRATI SIA UGUALE ALLA QUANTITÀ DI SQUADRONI CHE POSSEDETE
 
-MORALE: PRENDETE UN DADO TRACCIATORE E TRASFORMATELO IN BASE ALLA QUANTITÀ DI MORALE CHE AVETE.
+MORALE: PRENDETE UN DADO TRACCIATORE E GIRATELO IN BASE ALLA QUANTITÀ DI MORALE CHE AVETE.
 
-PROVVISTE: PRENDETE UNA QUANTITÀ DI DADI FORZA INUTILIZZATI PARI ALLA QUANTITÀ DI RIFORNIMENTI CHE AVETE
+RIFORNIMENTI: PRENDETE UNA QUANTITÀ DI CUBI MIGHT INUTILIZZATI PARI ALLA QUANTITÀ DI RIFORNIMENTI CHE AVETE
 
 METTETELI TUTTI DI FRONTE A VOI.
 
@@ -14980,7 +14980,7 @@ PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_21_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_22_10__b">"RIVELARE LA SCHEDA DELLE REGOLE SPECIALI DELL\'INCONTRO. MARCARE LA CASELLA \'SPECIAL RULES\' PER IL CAPITOLO 19 SULLA SCHEDA DELLA LIBERA COMPAGNIA.
 
-SE AVETE IL FORZIERE MISTERIOSO, APRITE LA SCATOLA MISTERIOSA 19.
+SE AVETE IL FORZIERE MISTERIOSO, APRITE LA SCATOLA MISTERIOSA 1.
 
 SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 
@@ -15015,14 +15015,14 @@ SE NON AVETE IL FORZIERE DEL MISTERO, APRITE LA BUSTA DEL MISTERO 1.
 
 PROCEDERE ALL\'INCONTRO DEL CAPITOLO 19 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop19_2_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_2_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGETE 1 AL RISULTATO SE IL PRECURSORE DELL\'AVIAZIONE È CON VOI).</string>
+	<string name="pop19_2_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 6, AGGIUNGETE 1 AL RISULTATO SE L\'AVI HARBINGER È CON VOI).</string>
 	<string name="pop19_2_2__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_3_1a__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
 	<string name="pop19_3_2__b">"GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT)
 
 PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
 	<string name="pop19_4_1__b">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
-	<string name="pop19_4_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 5, AGGIUNGETE 1 AL RISULTATO SE IL PRECURSORE DELL\'AVIAZIONE È CON VOI).</string>
+	<string name="pop19_4_1__d">ESEGUITE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 5, AGGIUNGETE 1 AL RISULTATO SE L\'AVI HARBINGER È CON VOI).</string>
 	<string name="pop19_4_3__b">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
 	<string name="pop19_4_5__b">GUADAGNARE 1 RIFORNIMENTO (CUBO MIGHT).</string>
 	<string name="pop19_4_5__d">PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA).</string>
@@ -15072,7 +15072,7 @@ PERDETE 1 SQUADRONE (RAPPRESENTATA SUI DADI DEI PUNTI FERITA)."</string>
 PERDETE 1 SQUADRONE (RAPPRESENTATA SUL DADO DEI PUNTI FERITA)."</string>
 	<string name="pop19_epi_1__b">"CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE
 
-INVECE DI PESCARE 4 OGGETTI COMUNI DURANTE IL SACCHEGGIO, SI POSSONO OTTENERE 8 OGGETTI COMUNI QUALSIASI DAL MAZZO DEGLI OGGETTI COMUNI DEL CAPITOLO 20."</string>
+INVECE DI PESCARE 4 OGGETTI COMUNI DURANTE IL CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE, SI POSSONO OTTENERE 8 OGGETTI COMUNI QUALSIASI DAL MAZZO DEGLI OGGETTI COMUNI DEL CAPITOLO 20."</string>
 	<string name="pop19m_1_10__b">PERDETE X SQUADRONI (RAPPRESENTATE SUL DADO DEI PUNTI FERITA), DOVE X È 5 MENO LA QUANTITÀ DI MORALE CHE AVETE SUL VOSTRO DADO TRACCIATORE.</string>
 	<string name="pop19m_1_10__d">"RIMETTERE IL DADO TRACCIATORE DEL MORALE NELLA RISERVA, CANCELLARE LA PAROLA CHIAVE 'MORALE' E IL VALORE DALLA SCHEDA DELLA LIBERA COMPAGNIA."</string>
 	<string name="pop19m_1_1__b">"PERDETE 1 CUBO RIFORNIMENTO.
@@ -15253,7 +15253,7 @@ APRITE IL DIARIO ALLE PAGINE 72-76 E LEGGETE LE REGOLE DELL\'ASSEDIO."</string>
 	<string name="pop20_0_13__b">OGNI OATHSWORN PUÒ RIMETTERE UNA CARTA FERITA NEL MAZZO DELLE FERITE. POI RIMESCOLA IL MAZZO FERITE.</string>
 	<string name="pop20_0_13__d">ARCHIVIA LA CARTA ALLEATO 20/48 (FINNIAN).</string>
 	<string name="pop20_0_15__b">ARCHIVIA LA CARTA ALLEATO 1 (MIDGE).</string>
-	<string name="pop20_0_2__b">IL PRECURSORE GUADAGNA UN SEGNALINO RIAVVOLGIMENTO.</string>
+	<string name="pop20_0_2__b">L\'AVI HARBINGER GUADAGNA UN SEGNALINO REDRAW.</string>
 	<string name="pop20_0_4__b">ARCHIVIA LA CARTA ALLEATO 1 (MIDGE).</string>
 	<string name="pop20_0_5__b">SCEGLIETE UN ALLEATO UMANO DA COMBATTIMENTO E RIMUOVETELO DAL GIOCO. PORTERÀ LA NOTIZIA A VERUM.</string>
 	<string name="pop20_0_9__b">"APRIRE LA BUSTA MISTERIOSA \'H\' E POSIZIONARE IL SUO CONTENUTO AL CENTRO DEL GIOCO. QUESTO CAPITOLO NON UTILIZZA IL TRACCIATO DEL TEMPO."</string>
