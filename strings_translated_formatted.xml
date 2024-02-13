@@ -26,7 +26,7 @@
 	<string name="abc_shareactionprovider_share_with">Condividi con</string>
 	<string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
 	<string name="abc_toolbar_collapse_description">Crollo</string>
-	<string name="about_text">"Oathsworn Traduzione Italiana v19.0
+	<string name="about_text">"Oathsworn Traduzione Italiana v21.1
 
 Produttori di giochi artigianali. Lavoriamo a Oathsworn da cinque anni. Questo è il nostro gioco di punta e vorremmo presentarvi il team."</string>
 	<string name="add_time">AGGIUNGERE UN SEGNALINO TEMPO AL TRACCIATO DEL TEMPO.</string>
@@ -1679,7 +1679,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn21_2_18__b">2. Chiedete cosa succederà se vi rifiutate di rilasciare Samil</string>
 	<string name="btn21_2_18__c">3. Chiedete perché la vostra scelta è importante</string>
 	<string name="btn21_2_18__d">4. Chiedete perché Samil ha scelto la vostra Libera Compagnia</string>
-	<string name="btn21_2_18__e">5. Chiedere da dove proviene la peste a Verum</string>
+	<string name="btn21_2_18__e">5. Chiedete da dove proviene la peste di Verum</string>
 	<string name="btn21_2_18__f">6. Chiedete se Samil può controllare l\'orda in arrivo per darvi più tempo</string>
 	<string name="btn21_2_18__g">7. Chiedete maggiori informazioni su chi è Samil</string>
 	<string name="btn21_2_18__h">"8. Chiedete maggiori informazioni sulle debolezze di Kharnus"</string>
@@ -1895,7 +1895,7 @@ Vladimir ha la passione di disegnare cavalieri e altre diavolerie medievali. Att
 	<string name="btn5b_9_3__b">Attendete la partenza della forza lavoro</string>
 	<string name="btn5b_9_4__a">Cercate di costringerla a dirvi quello che sa..</string>
 	<string name="btn5b_9_4__b">Andate via senza fare scenate</string>
-	<string name="btn5b_9_6__a">Se due o più Nipoti hanno successo</string>
+	<string name="btn5b_9_6__a">Se due o più Oathsworn hanno successo</string>
 	<string name="btn5b_9_6__b">Se meno di due Oathsworn hanno successo</string>
 	<string name="btn5b_9_7__a">"Ritornate alla Quercia Spezzata per attendere la partenza della spedizione"</string>
 	<string name="btn5b_9_8__a">Se avete il Segnalino Indizio 1</string>
@@ -5490,7 +5490,7 @@ Scegliere un luogo dove andare:"</string>
 	<string name="chp15b_20_4__a">L\'orrore rivela la verità. Il Pitone sta sperimentando sui propri Senza Volto un qualche tipo di veleno, e ne conserva persino i corpi per nasconderlo. Forse questo spiega le consegne notturne alla Cattedrale. I barili entrano e non escono. È il momento di capire perché.</string>
 	<string name="chp15b_21_1__a">"Posizione 21 - Terreno dei Pitone
 
-Entrando nel complesso dei Pitone, pesantemente sorvegliato, si ha la sensazione di entrare nella tana di una vipera. I camminamenti serpeggiano tra topiari sapientemente curati che raffigurano corpi arrotolati e zanne di vipere. Acquedotti poco profondi irrigano i giardini della tenuta e alimentano numerose fontane con acque scroscianti che mascherano le conversazioni indiscrete da orecchie indiscrete. Ogni aspetto del maniero evoca una qualità maliziosa e serpentina che ricorda a tutti di camminare con cautela qui, anche ai Nipoti
+Entrando nel complesso dei Pitone, pesantemente sorvegliato, si ha la sensazione di entrare nella tana di una vipera. I camminamenti serpeggiano tra topiari sapientemente curati che raffigurano corpi arrotolati e zanne di vipere. Acquedotti poco profondi irrigano i giardini della tenuta e alimentano numerose fontane con acque scroscianti che mascherano le conversazioni indiscrete da orecchie indiscrete. Ogni aspetto del maniero evoca una qualità maliziosa e serpentina che ricorda a tutti di camminare con cautela qui, anche agli Oathsworn
 
 Poco dopo essere entrati nella tenuta, una squadra di guardie mascherate si avvicina, sbarrandovi la strada. Brandire il vostro Marchio dell\'Oath non serve a farle cambiare idea e diventa chiaro che non vi sarà permesso di andare avanti senza combattere. Optando per un approccio diplomatico, vi allontanate e cercate altri mezzi per raccogliere le informazioni di cui avete bisogno. Forse i Quartieri dei Servi saranno più utili."</string>
 	<string name="chp15b_23_1__a">"Posizione 23 - Terreno dei Lignja
@@ -6506,9 +6506,9 @@ Insieme alle streghe, le accompagnano tre guardiani, inviati direttamente da Roc
 
 Con il saluto dei capitani riuniti, vi avvicinate al tavolo e studiate la mappa. Non avete mai visto una mappa così completa prima d\'ora. C\'è Verum, Cistercia, Tracia... Bastone ora giace in rovina... così come molte altre città che non avete mai visitato, tra cui Anvar e un\'enorme città contrassegnata solo da una X.
 
-Per alcuni minuti discutete del piano. La vostra destinazione è la Torre del Corvo, un\'antica fortezza che si trova a breve distanza dal Cuore di Tenebra. È la vostra migliore speranza di eseguire il Richiamo e di opporre resistenza al Bosco Profondo. Se tutto dovesse andare secondo i piani, le innumerevoli creature che avete visto volteggiare nel Cuore di Tenebra saranno attirate alla Torre del Corvo, permettendo ai sopravvissuti di entrare e trovare la cura per la peste. Gli A\'Dendri non hanno detto quale forma avrebbe assunto la cura, ma sono certi che la soluzione si trova nella grotta.
+Per alcuni minuti discutete del piano. La vostra destinazione è il Forte del Corvo, un\'antica fortezza che si trova a breve distanza dal Cuore di Tenebra. È la vostra migliore speranza di eseguire il Richiamo e di opporre resistenza al Bosco Profondo. Se tutto dovesse andare secondo i piani, le innumerevoli creature che avete visto volteggiare nel Cuore di Tenebra saranno attirate al Forte del Corvo, permettendo ai sopravvissuti di entrare e trovare la cura per la peste. Gli A\'Dendri non hanno detto quale forma avrebbe assunto la cura, ma sono certi che la soluzione si trova nella grotta.
 
-La Torre del Corvo dista molti giorni di marcia da Verum, ma la Strada del Filo vi permetterà di fare almeno un po\' di strada. Dopodiché dovrete affidarvi alla bussola e ai punti di riferimento conosciuti. Sembra che a metà strada tra la fine della Strada del Filo e la Torre del Corvo si trovi una vecchia stazione della Libera Compagnia nota come Torre del Sale. È difendibile e ha resistito alla prova del tempo, sarà un buon posto per concludere la prima tappa del vostro viaggio. Da lì si prosegue verso la Torre del Corvo
+il Forte del Corvo dista molti giorni di marcia da Verum, ma la Strada del Filo vi permetterà di fare almeno un po\' di strada. Dopodiché dovrete affidarvi alla bussola e ai punti di riferimento conosciuti. Sembra che a metà strada tra la fine della Strada del Filo e il Forte del Corvo si trovi una vecchia stazione della Libera Compagnia nota come Torre del Sale. È difendibile e ha resistito alla prova del tempo, sarà un buon posto per concludere la prima tappa del vostro viaggio. Da lì si prosegue verso il Forte del Corvo
 
 Tracciando il percorso con il dito, si arriva all\'enorme città contrassegnata da una X sulla mappa. Un tempo aveva un nome, ma da allora è stato bruciato. \"Potremmo attraversare la città, per ridurre il tempo di viaggio,\" suggerisce un capitano
 
@@ -6542,7 +6542,7 @@ Scegliete un\'opzione:"</string>
 
 Al calar della notte, vi dirigete verso l\'accampamento dell\'esercito situato di fronte al Palazzo. Ogni muscolo del vostro corpo trema per la stanchezza mentre vi muovete tra la folla di persone raccolte in questa piccola area della città. Abbassando lo sguardo sulle vostre mani, sentite la peste che si contorce dentro di voi e che diventa sempre più forte ogni giorno che passa."</string>
 	<string name="chp18_1_20__a">Siete sorpresi di vedere solo tre streghe. Lyceen, la strega che avevate salvato da Bastone e poi offerto per il Richiamo, è scomparsa. Chiedendo informazioni su di lei, scoprite che non è mai arrivata a Roccia Nera. A detta di tutti è scomparsa e nessuno sa perché. Un Inquisitore suggerisce che potrebbe essere stata salvata da qualcuno. Non riuscite a capire chi possa essere.</string>
-	<string name="chp18_1_21__a">"Terminato il briefing, avete un altro compito da svolgere. Spostandovi dove si stanno preparando i carri, fate il punto sull\'inventario. Alcuni carri sono già stati caricati, ma vi viene chiesto di portare la vostra esperienza per il resto. Le provviste saranno importanti, necessarie per resistere fino alla Torre del Corvo. La Guglia del Corvo ha anche fornito una serie di bombe d\'ambra che possono essere prese per respingere gli assalti del Bosco Profondo. Infine, in un viaggio come questo, il morale sarà un problema, quindi portare qualche barile di birra potrebbe essere utile più avanti. In qualità di comandanti dell\'esercito, la decisione finale sull\'equipaggiamento spetta a voi."</string>
+	<string name="chp18_1_21__a">"Terminato il briefing, avete un altro compito da svolgere. Spostandovi dove si stanno preparando i carri, fate il punto sull\'inventario. Alcuni carri sono già stati caricati, ma vi viene chiesto di portare la vostra esperienza per il resto. Le provviste saranno importanti, necessarie per resistere fino al Forte del Corvo. La Guglia del Corvo ha anche fornito una serie di bombe d\'ambra che possono essere prese per respingere gli assalti del Bosco Profondo. Infine, in un viaggio come questo, il morale sarà un problema, quindi portare qualche barile di birra potrebbe essere utile più avanti. In qualità di comandanti dell\'esercito, la decisione finale sull\'equipaggiamento spetta a voi."</string>
 	<string name="chp18_1_21__c">Con i carri pronti e l\'esercito disposto dietro di voi, è finalmente arrivato il momento di partire.</string>
 	<string name="chp18_1_22__a">Date all\'uomo l\'antidoto destinato a voi. Sapete che per ora potete gestire la peste e che non la state ancora diffondendo ad altri. L\'uomo piange quando glielo consegnate e vi ringrazia. Gli chiedete di non dire a nessuno della cura per evitare dissensi tra le truppe, ma la voce della vostra generosità si diffonde rapidamente, anche se nessuno sa cosa avete fatto esattamente.</string>
 	<string name="chp18_1_23__a">"Sa che è dura, ma la sua vita è più importante delle figlie di quest\'uomo. Glielo neghi e prendi la Paracea per te."</string>
@@ -6846,13 +6846,13 @@ Mentre gli altri corpi sono poco più che una perdita calcolata - vittime della 
 
 La mano si stringe in un pugno, tanto forte da far tremare il braccio. Non avete idea di quanto tempo siete rimasti lì, ma alla fine un soldato si avvicina e vi mette un braccio sulla spalla per riportarvi al presente.
 
-Sapendo che sarà tutto inutile se non riuscirete a portare a termine ciò che vi aspetta, tornate dentro. Dovete raggiungere la Torre del Corvo e poi il Cuore di Tenebra."</string>
+Sapendo che sarà tutto inutile se non riuscirete a portare a termine ciò che vi aspetta, tornate dentro. Dovete raggiungere il Forte del Corvo e poi il Cuore di Tenebra."</string>
 	<string name="chp18_epi_4__a">"Con sollievo trovate il ragazzo tra le mura. Vi rendete conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Dicendoglielo e dicendogli che ha fatto bene, sorride da un orecchio all\'altro
 
-La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere la Torre del Corvo e poi il Cuore di Tenebra."</string>
+La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere il Forte del Corvo e poi il Cuore di Tenebra."</string>
 	<string name="chp18_epi_5__a">"Con grande sollievo trovate il ragazzo tra quelli che presenti all\'interno delle mura. Vi aveva sfidato, ma non potete fargliene una colpa. Vedendo come ha affrontato il Wyrm, forse avete sbagliato a negargli un posto nell\'esercito. Ti rendi conto che non è più un ragazzo. Dopo tutto quello che ha passato, restando fermo sulle sue scelte, il termine 'ragazzo' non gli si addice più. L\'ha superato e Midge è diventato un uomo sotto i vostri occhi. Quando glielo dici e gli dici che è stato bravo, lui sorride da un orecchio all\'altro
 
-La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere la Torre del Corvo e poi il Cuore di Tenebra."</string>
+La sua sopravvivenza è una piccola vittoria, di quelle che tengono viva la speranza qui nel verde. Dite all\'esercito di riposare, perché sapete che avrete bisogno di tutta la speranza possibile per raggiungere il Forte del Corvo e poi il Cuore di Tenebra."</string>
 	<string name="chp18m_1_0__a">"Storia a Tempo
 
 Al termine del vostro primo giorno di assenza dal Filo, si fa notte e dovete decidere come gestire le veglie notturne. Da Verum avete avuto un approccio più indulgente, permettendo ai soldati di dormire di più man mano che si abituavano alla marcia e ai terrori del Bosco Profondo. Ora che siete più avanti e che il Bosco Profondo si accorge sempre più della vostra presenza, dovete decidere se aumentare la guardia.
@@ -7238,7 +7238,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_17_2__a">Attivando una sfera luminosa, vi avventurate con cautela all\'interno.</string>
 	<string name="chp19_17_2__c">"Al centro dell\'edificio a cupola si trova un enorme dispositivo oculare, molto simile a quello cilindrico più piccolo trovato in altre parti della città. L\'apparecchio sembra puntare solo verso il cielo e trovate varie carte e mappe di stelle sparse sui tavoli vicini, oltre a vecchi documenti che fanno riferimento a un\'"aurora"
 
-Studiando attentamente gli appunti, vi rendete conto che stanno parlando dei flussi di luci colorate che appaiono nel cielo a ogni luna nuova. Le conoscete come la Luce delle Streghe, il fenomeno temuto da tutta l\'umanità che si dice rafforzi il potere delle streghe e provochi il risveglio di cose oscure sotto gli alberi del Bosco Profondo. Alcuni credono che si tratti di semplici miti raccontati per spaventare i bambini, ma voi lo sapete bene. Le imprese libere possono sempre aspettarsi più lavoro quando splende la Luce delle Streghe. La maggior parte delle persone sceglie di rimanere in casa quando si verifica il fenomeno, ma sembra che gli abitanti di questo regno abbandonato lo abbiano studiato da vicino.
+Studiando attentamente gli appunti, vi rendete conto che stanno parlando dei flussi di luci colorate che appaiono nel cielo a ogni luna nuova. Li conoscete come la Luce della Strega, il fenomeno temuto da tutta l\'umanità che si dice rafforzi il potere delle streghe e provochi il risveglio di cose oscure sotto gli alberi del Bosco Profondo. Alcuni credono che si tratti di semplici miti raccontati per spaventare i bambini, ma voi lo sapete bene. Le Libere Compagnie possono sempre aspettarsi più lavoro quando splende la Luca della Strega. La maggior parte delle persone sceglie di rimanere in casa quando si verifica il fenomeno, ma sembra che gli abitanti di questo regno abbandonato lo abbiano studiato da vicino.
 
 In uno dei documenti si legge:
 
@@ -7283,7 +7283,7 @@ Scegliete un\'opzione:"</string>
 
 Riportando lo sguardo alla città, trovate un regno dimenticato di edifici abbandonati, avvolti da una nebbia bassa. Un silenzio inquietante incombe sulla giungla di pietra e legno come una cappa, opprimente e densa. Dopo aver ordinato alle truppe di mantenere la posizione, salite sulla torre del Corpo di Guardia per avere una visione più ampia del paesaggio.
 
-Dal punto di osservazione elevato, guardate un mare di nebbia, interrotto solo dalle sagome scure di edifici, torri e colonne decorative. Anche attraverso la vista ostruita, si capisce che la città è più grande di Verum e che ci vorranno diversi giorni per attraversarla. Mentre discutete delle opzioni, un membro del gruppo scopre uno strano oggetto cilindrico in mezzo a un mucchio di stracci. Un pezzo di vetro copre ogni estremità del cilindro e, sollevando l\'oggetto verso l\'occhio, vedete il mondo in lontananza come se fosse proprio davanti a noi. Il dispositivo è davvero diverso da qualsiasi cosa abbiate mai visto prima, e con esso siete in grado di capire quanto sia grande questa città morta. Se volete arrivare alla Torre del Corvo, dovete trovare un modo per attraversarla.
+Dal punto di osservazione elevato, guardate un mare di nebbia, interrotto solo dalle sagome scure di edifici, torri e colonne decorative. Anche attraverso la vista ostruita, si capisce che la città è più grande di Verum e che ci vorranno diversi giorni per attraversarla. Mentre discutete delle opzioni, un membro del gruppo scopre uno strano oggetto cilindrico in mezzo a un mucchio di stracci. Un pezzo di vetro copre ogni estremità del cilindro e, sollevando l\'oggetto verso l\'occhio, vedete il mondo in lontananza come se fosse proprio davanti a noi. Il dispositivo è davvero diverso da qualsiasi cosa abbiate mai visto prima, e con esso siete in grado di capire quanto sia grande questa città morta. Se volete arrivare al Forte del Corvo, dovete trovare un modo per attraversarla.
 
 Scrutando attraverso il nuovo dispositivo, osservate attentamente la pianta della città sottostante, notando i principali punti di riferimento. Il più evidente è un\'ampia voragine che segna gran parte della città, i cui bordi frastagliati si gettano in un abisso. Trovate anche delle parti del Bosco Profondo che si ergono al di sopra del banco di nuvole, dove gli alberi ripugnanti devono aver guadagnato terreno. Tra i resti sparsi degli edifici danneggiati, la nebbia appare più densa in alcune zone e si contorce come un essere vivente che vi fa drizzare le antenne. Cercando più lontano, cercate qualsiasi porta della città che possa fornire un punto di uscita, ma ne trovate solo una. Lontano, dall\'altra parte della città, riuscite a malapena a scorgere il Corpo di Guardia che ora è la vostra destinazione."</string>
 	<string name="chp19_1_13__c">"Per aiutarvi a orientarvi nella città, abbozzate una rapida mappa di riferimento su un pezzo di pergamena. Ci sono tre percorsi percorribili dalla vostra posizione attuale. Uno conduce a sinistra, passando davanti a un edificio tozzo, sottolineato da un paio di torri di forma quadrata. Un secondo percorso si dirige verso un\'imponente guglia nella zona centrale della città. L\'ultimo percorso conduce a destra, dove una grande ciminiera emerge dalle macerie. Qualunque sia il percorso, dovrete muovervi presto per mantenere i soldati sotto il vostro comando vigili e concentrati sulla missione.
@@ -7293,7 +7293,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_1_14__a">Ancora sotto gli effetti dell\'etere, la giovane strega Traciana Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Lo stesso non si può dire per l\'uomo che si tira dietro il guinzaglio come un cane irascibile. Per ora ignorate la sua impotente ribellione, sapendo che fareste lo stesso al loro posto. Tuttavia, l\'ultimo pezzo del carico prezioso è il più difficile da gestire. Vi siete detti che è per il bene del regno, eppure avete difficoltà a incontrare lo sguardo della vostra ex compagna. Anche se a questo punto lei obbedisce ai vostri ordini senza lottare, il dolore dietro i suoi occhi è difficile da sopportare. Il pensiero del Richiamo torna a farsi strada in voi e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
 	<string name="chp19_1_15__a">Ancora sotto gli effetti dell\'etere, la giovane strega Traciana Aurelia è la più accondiscendente delle tre. Il suo passo è più lento, ma almeno il composto le ha rubato la voglia di combattere. Non si può dire lo stesso per i fratelli anziani, che tirano il guinzaglio come due cani arrabbiati. Per ora ignorate la loro impotente ribellione, sapendo che al loro posto fareste lo stesso. Il pensiero del Richiamo si risveglia in voi ancora una volta e cercate di reprimere la scelta incombente. Ricordate a voi stessi che avete degli ordini da seguire, ma l\'inquietudine non si cura della vostra razionalizzazione. Vi allontanate dalle streghe, lasciando la scelta aperta.</string>
 	<string name="chp19_1_16__a">Completati i preparativi, i vostri occhi scrutano le ombre, alla ricerca di segni di predatori in agguato, mentre gli ultimi della carovana si addentrano ancora una volta nel Bosco Profondo.</string>
-	<string name="chp19_1_1__a">"Vi svegliate di soprassalto, con il sapore metallico del sangue e del sale ancora in bocca. Guardando la fila di truppe, i loro volti esausti implorano una tregua, ma qualche benedetta ora di sonno è tutto ciò che potete permettervi per ora. Siete solo a metà strada per la Torre del Corvo e ci sono ancora chilometri e chilometri di Bosco Profondo mortale e implacabile da attraversare. La vostra presenza qui non farà altro che attirare altre bestie e incubi sulla vostra carovana più a lungo vi attarderete. Un altro attacco come quello subito dal Wyrm potrebbe distruggere il coraggio e la speranza dell\'esercito. Dovete rimettervi in marcia."</string>
+	<string name="chp19_1_1__a">"Vi svegliate di soprassalto, con il sapore metallico del sangue e del sale ancora in bocca. Guardando la fila di truppe, i loro volti esausti implorano una tregua, ma qualche benedetta ora di sonno è tutto ciò che potete permettervi per ora. Siete solo a metà strada per il Forte del Corvo e ci sono ancora chilometri e chilometri di Bosco Profondo mortale e implacabile da attraversare. La vostra presenza qui non farà altro che attirare altre bestie e incubi sulla vostra carovana più a lungo vi attarderete. Un altro attacco come quello subito dal Wyrm potrebbe distruggere il coraggio e la speranza dell\'esercito. Dovete rimettervi in marcia."</string>
 	<string name="chp19_1_1__c">"Il vostro numero si è ridotto da quando avete lasciato Verum: il Bosco Profondo miete vittime a ogni chilometro che percorrete in questo dominio infernale. Potete solo sperare di essere rimasti in numero sufficiente alla fine del viaggio. Quando i soldati si radunano all\'appello, portano avanti una scorta di armi e attrezzature che sono state trovate nascoste tra le macerie. Nonostante gli innumerevoli anni di esposizione alla pioggia e alla putrefazione, l\'equipaggiamento è in condizioni eccellenti. Potreste prendere gli oggetti per voi o distribuirli all\'esercito, aumentando senza dubbio il loro morale.
 
 
@@ -7303,7 +7303,7 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_1_4__a">"Il fruscio delle armi ed il tonfo degli stivali nel fango verde annunciano la partenza della carovana dalla Torre del Sale. Il vostro carico più prezioso sarà sotto la vostra responsabilità per il resto del viaggio. Prendete le tre catene di ferro scuro e trascinate le streghe in piedi."</string>
 	<string name="chp19_1_5__c">"Il primo tratto del viaggio sembra più tranquillo dei giorni precedenti, ma quando il sole raggiunge lo zenit, i fetidi boschi diventano sempre più inquieti. Vengono riferite piccole scaramucce, mentre le squadre abbattono branchi di creature con sempre maggiore frequenza, e sembra che un cambiamento stia avvenendo nel bosco. Iniziate a notarlo anche voi. All\'inizio si trattava solo dell\'occasionale strisciare di creature più piccole nel sottobosco, ma quel fruscio si è trasformato in una lontana sinfonia di ringhi e schiocchi di rami d\'albero. Sentite l\'ansia salire nelle truppe, quando all\'improvviso la gradita vista di mura di pietra grigia irrompe nell\'oscurità. Un grande cancello si erge sopra di voi e vi rendete conto di trovarvi di fronte a una grande città
 
-I soldati si sentono sollevati da questo segno di civiltà, ma l\'avvertimento del Sorvegliante pone fine a qualsiasi speranza di vivere la stessa esperienza. Questa deve essere la città proibita. Non c\'è sicurezza al suo interno e lui vi aveva avvertito di evitare la città morta, perché nessuno vi era mai entrato e aveva vissuto per raccontarlo. Potreste dirigervi a nord o a sud intorno alla città, entrambe le distanze sono simili e con il Bosco Profondo così com\'è, una delle due potrebbe non rappresentare un viaggio più sicuro dell\'altra. Riunite i capisquadra per decidere la linea d\'azione migliore, sapendo che la vostra destinazione, la Torre del Corvo, si trova poco più avanti
+I soldati si sentono sollevati da questo segno di civiltà, ma l\'avvertimento del Sorvegliante pone fine a qualsiasi speranza di vivere la stessa esperienza. Questa deve essere la città proibita. Non c\'è sicurezza al suo interno e lui vi aveva avvertito di evitare la città morta, perché nessuno vi era mai entrato e aveva vissuto per raccontarlo. Potreste dirigervi a nord o a sud intorno alla città, entrambe le distanze sono simili e con il Bosco Profondo così com\'è, una delle due potrebbe non rappresentare un viaggio più sicuro dell\'altra. Riunite i capisquadra per decidere la linea d\'azione migliore, sapendo che la vostra destinazione, il Forte del Corvo, si trova poco più avanti
 
 Come se percepisse la vostra distrazione, il Bosco Profondo sfrutta questo momento per colpire. Una marea frenetica di creature zannute e incubi artigliati irrompe dalla linea degli alberi. I capisquadra iniziano subito ad abbaiare comandi, mentre l\'istinto dei soldati prende rapidamente il sopravvento, formando una linea difensiva. Estraendo le armi, vi unite alla battaglia dove il combattimento è più feroce."</string>
 	<string name="chp19_1_5__e">Nonostante il breve lavoro della prima ondata, continuano ad arrivare sempre più mostri. Non avete mai visto il Bosco Profondo lanciare i suoi abomini in legioni coordinate come questa. Di solito si rosicchiano l\'un l\'altro, come gli intrusi, ma questo esercito di morte sembra unito da un unico scopo: uccidervi.</string>
@@ -7346,15 +7346,15 @@ Scegliete un\'opzione:"</string>
 	<string name="chp19_22_10__a">Sedric inizia a balzare, ma voi lo bloccate. Comincia a protestare, ma voi lo mettete a tacere con uno sguardo. Dietro di voi, il rumore dei piedi che sbattono e dei rami che si spezzano si fa sempre più vicino, mentre l\'orda si precipita nel Bosco Profondo. Non avete altra scelta che restare in piedi e combattere. Ordinando alle truppe di tenere le retrovie contro le creature più piccole, estraete le armi e fate un cenno a Sedric. La abbatterete insieme.</string>
 	<string name="chp19_22_11__a">Dietro di voi, il rumore dei piedi che sbattono e dei rami che si spezzano si fa sempre più vicino, mentre l\'orda si precipita nel Bosco Profondo. Non avete altra scelta che restare in piedi e combattere. Ordinando alle truppe di tenere le retrovie contro le creature più piccole, estraete le armi e vi preparate ad affrontare la matriarca della Covata.</string>
 	<string name="chp19_22_1__a">Finalmente liberi, guardate indietro verso la città e vedete l\'enorme nebbia scura che si contorce furiosamente mentre spessi viticci grandi come torri si arrampicano sulle mura della città, cercando disperatamente di sfuggire alla loro prigione. Migliaia di volti inorriditi e torturati urlano silenziosamente all\'interno della nube nera e ribollente che si dirige verso di voi. Tuttavia, non varca la soglia. Per fortuna, qualsiasi orrore dimori nella città sembra essere legato ad essa, confinando per sempre la sua malvagità all\'interno delle mura.</string>
-	<string name="chp19_22_1__c">"La fuga attraverso la città e la costante lotta contro la paura hanno prosciugato le vostre riserve, ma sapete che non potete ancora riposare. Lo sciame di bestie che vi ha attaccato all\'arrivo si sta dirigendo da questa parte e vi taglierà la strada tra non molto. Dovete raggiungere la Torre del Corvo entro il tramonto, se volete sopravvivere. Controllando il vostro equipaggiamento e contando rapidamente le vostre truppe, vi preparate a partire."</string>
+	<string name="chp19_22_1__c">"La fuga attraverso la città e la costante lotta contro la paura hanno prosciugato le vostre riserve, ma sapete che non potete ancora riposare. Lo sciame di bestie che vi ha attaccato all\'arrivo si sta dirigendo da questa parte e vi taglierà la strada tra non molto. Dovete raggiungere il Forte del Corvo entro il tramonto, se volete sopravvivere. Controllando il vostro equipaggiamento e contando rapidamente le vostre truppe, vi preparate a partire."</string>
 	<string name="chp19_22_2__a">Il vostro conteggio finale conta solo trentacinque soldati, solo una frazione di quelli con cui avete lasciato Verum. Dovranno essere sufficienti. La vostra unica consolazione è che questi uomini e donne coraggiosi sono i più duri e leali del gruppo. Sapendo cosa ci aspetta, dovrete chiedere loro ancora molto.</string>
 	<string name="chp19_22_3__a">"Il conteggio finale conta appena trenta soldati, solo un decimo della forza con cui avete lasciato Verum. Questi feriti ambulanti saranno i vostri fratelli e sorelle per la battaglia che vi attende. La migliore e ultima possibilità di sopravvivenza di Verum. Dovranno essere sufficienti."</string>
 	<string name="chp19_22_4__a">"Il conteggio finale conta solo venticinque soldati, solo una frazione di quelli con cui avete lasciato Verum. Il numero dei sopravvissuti è basso, ma almeno l\'intero esercito non è andato perduto. Questi uomini e queste donne dovranno essere sufficienti per la battaglia che ci attende. La migliore e ultima possibilità di sopravvivenza per Verum."</string>
-	<string name="chp19_22_5__a">"I soldati sono stanchi, ma la Torre del Corvo è a circa 2 chilometri dalla porta della città. Controllando la bussola, ordinate ai resti del vostro esercito di muoversi a passo doppio. Mentre vi immergete di nuovo nel muro di alberi, sperate che il vostro orientamento sia corretto. Che lo sia o meno, non avete altra scelta che continuare ad avanzare.
+	<string name="chp19_22_5__a">"I soldati sono stanchi, ma il Forte del Corvo è a circa 2 chilometri dalla porta della città. Controllando la bussola, ordinate ai resti del vostro esercito di muoversi a passo doppio. Mentre vi immergete di nuovo nel muro di alberi, sperate che il vostro orientamento sia corretto. Che lo sia o meno, non avete altra scelta che continuare ad avanzare.
 
 Spingendovi oltre i rami e le liane bagnate, vi inoltrate nel Bosco Profondo verso la fortezza. L\'aria è densa e piena di un silenzio pregnante. Poi uno stridio squarcia l\'oscurità a nord. L\'orda vi ha raggiunto e sta cercando di tagliarvi la strada. Spronate le vostre squadre a muoversi ancora più velocemente."</string>
-	<string name="chp19_22_6__a">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra della Torre del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
-	<string name="chp19_22_7__c">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra della Torre del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi, spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
+	<string name="chp19_22_6__a">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra del Forte del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
+	<string name="chp19_22_7__c">"Scattate tra gli alberi, perdendo ogni senso di sottigliezza perché sapete che stanno venendo a prendervi. Superata una collina, vedete finalmente le alte mura di pietra del Forte del Corvo ergersi davanti a voi. Siete quasi arrivati al cancello, quando la Madre della Covata sfonda un albero davanti a voi, spezzandolo in due. La cosa è enorme, una matriarca della sua razza molto più grande di quelle che avete combattuto prima. Dozzine di occhi affamati si contorcono sul suo dorso ed il malessere vi assale quando il fetore putrido della cosa vi colpisce. Il cancello è proprio di fronte a voi, ma la grande forma della Nutrice si frappone tra voi e la sicurezza della fortezza."</string>
 	<string name="chp19_22_8__a">"Brandendo un coltello in ogni mano, Sedric vi passa davanti. \"Grande madre dei topi,\" dice stupito. \"È bellissima ed è mia.\" Sollevando entrambe le lame, l\'acchiapparatti mezzo impazzito si arrotola, pronto a colpire.
 
 
@@ -7493,7 +7493,7 @@ Mentre la colonna avanza verso la Guglia, chiedete a uno dei soldati di sorvegli
 
 Mentre le truppe si fasciano le ferite e puliscono le armi, voi fate il punto sulla fortezza. Nel cortile interno trovate una serie di armamenti dimenticati da tempo, fortunatamente ancora utilizzabili. Ispezionate anche le difese rimanenti. Le trovate in stato di abbandono, ma dovrebbero reggere, anche dopo tutti questi anni. Soprattutto, le mura sono alte e ancora intatte. Questo è un posto come un altro per un\'ultima resistenza. Sembra che i Sorveglianti abbiano scelto bene.
 
-L\'intero destino di Verum ora riposa sulle vostre spalle. All\'interno delle mura della Torre del Corvo, dovete prepararvi a scatenare il Richiamo. Mentre iniziano i preparativi, potete già sentire l\'orda che si alza in lontananza. Stanno arrivando.."</string>
+L\'intero destino di Verum ora riposa sulle vostre spalle. All\'interno delle mura del Forte del Corvo, dovete prepararvi a scatenare il Richiamo. Mentre iniziano i preparativi, potete già sentire l\'orda che si alza in lontananza. Stanno arrivando.."</string>
 	<string name="chp19m_1_0__a">"Storia a Tempo
 
 L\'oscurità arriva più velocemente di quanto avreste pensato e siete costretti ad accamparvi nella città abbandonata. Il crepuscolo sembra insolitamente freddo qui e sapete che ci sarà un vantaggio nel dormire con un tetto sopra la testa. Tuttavia, questo costringerebbe l\'esercito a dividersi tra le case e vi impedirebbe di reagire rapidamente a qualsiasi pericolo in avvicinamento.
@@ -8019,9 +8019,9 @@ Sollevate la testa mozzata della Nutrice verso il volto della guardia. Gli uomin
 \"Bene... ben fatto. Sono stato incaricato di darvi questo Iron come pagamento e di dirvi che Lord Davenish vi avrebbe incontrato domani mattina. Ha pagato il vostro alloggio alla Locanda della Quercia Spezzata durante il vostro soggiorno. Vi suggerisco di ritirarvi lì ora, perché Sua Signoria non tollererà un ritardo domani.\"
 
 Consegnate alla guardia la testa e prendete l'Iron."</string>
-	<string name="chp20_0_10__a">"Con le difese della fortezza valutate e la costruzione della pira in corso, iniziate a formulare un piano per trattenere le bestie fino a quando la pira non sarà completata. Non ci sono abbastanza uomini per presidiare ogni difesa contemporaneamente. Si utilizzerà invece una strategia adattiva, spostando squadre di soldati in posizioni chiave per rinforzare luoghi specifici, a seconda delle necessità. Piccole squadre che reagiscono rapidamente alle minacce consentono di utilizzare in modo efficiente la limitata manodopera disponibile e di guadagnare il tempo prezioso necessario per il Richiamo."</string>
+	<string name="chp20_0_10__a">"Con le difese della fortezza valutate e la costruzione della pira in corso, iniziate a formulare un piano per trattenere le bestie fino a quando la pira non sarà completata. Non ci sono abbastanza uomini per presidiare ogni difesa contemporaneamente. Andrà invece utilizzata una strategia adattiva, spostando squadre di soldati in posizioni chiave per rinforzare luoghi specifici, a seconda delle necessità. Piccole squadre che reagiscono rapidamente alle minacce consentono di utilizzare in modo efficiente la limitata manodopera disponibile e di guadagnare il tempo prezioso necessario per il Richiamo."</string>
 	<string name="chp20_0_10__c">Le squadre sono radunate davanti a voi, con i volti coperti dalla pioggia battente. Tutti hanno dimostrato più volte la loro competenza e lealtà. Non c\'è bisogno di dire cosa significa questa difesa... lo sanno. Non sarà una battaglia che potrete vincere. La missione consiste nel guadagnare tempo sufficiente affinché la pira sia completata ed il Richiamo possa attirare i mostri dal Cuore di Tenebra. Non c\'è più tempo per i grandi discorsi. Non c\'è più tempo per i grandi gesti. Mentre vi dirigete verso i merli, fate un cenno a coloro che incrociate e sapete che sarà l\'ultima volta che vedrete la maggior parte di loro.</string>
-	<string name="chp20_0_11__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli sul paesaggio e sulle bestie che circondano la Torre del Corvo, sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Non avendo nessun altro a disposizione, cercate una corritrice tra le file dei soldati e le ordinate di riportare il messaggio a Verum.
+	<string name="chp20_0_11__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli sul paesaggio e sulle bestie che circondano il Forte del Corvo, sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Non avendo nessun altro a disposizione, cercate una corritrice tra le file dei soldati e le ordinate di riportare il messaggio a Verum.
 
 Consegnate alla soldatessa la bussola del sangue che ti era stata data dai Sorveglianti, le rivolgete alcune parole di coraggio e la mettete in cammino."</string>
 	<string name="chp20_0_12__a">"Un caldo sorriso nasconde la stanchezza che si cela dietro gli occhi scuri e stanchi di Finnian. Il guaritore è stato oberato di lavoro negli ultimi giorni, riparando ferite e amministrando la Fede. Mentre passate, l\'uomo vi chiede se può fornirvi una preghiera di guarigione per aiutarvi a prepararvi alla battaglia imminente. Sebbene vi sia sicuramente utile un po\' di aiuto in più, sapete anche che lo sforzo consumerà molte delle forze residue di Finnian e potrebbe mettere a repentaglio la sua capacità di mantenere in vita alcuni dei soldati se le perdite sono elevate.
@@ -8032,20 +8032,20 @@ Scegliete un\'opzione:"</string>
 	<string name="chp20_0_13__c">Con l\'ultimo di voi guarito, Finnian crolla ai vostri piedi, la stanchezza gli ruba la coscienza. Lo portate rapidamente in un\'area della fortezza dove vengono curati i feriti. Ci vorrebbe un altro miracolo perché Finnian si riprenda, e non è detto che qui ne troverete altri. Adagiando delicatamente l\'uomo, tornate ai preparativi, sentendovi rinnovati.</string>
 	<string name="chp20_0_15__a">"Midge vi rivolge un sorriso ironico e sospettoso mentre lo guardate. Il ragazzo è veloce e più leggero di molti altri. Se c\'è qualcuno che può raggiungere Verum velocemente, è lui. Questa potrebbe anche essere la vostra ultima possibilità di salvare l\'orfano. Avete visto Midge crescere fino a diventare un giovane uomo forte, ma è troppo giovane per affrontare la morte oggi
 
-Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano la Torre del Corvo sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
+Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano il Forte del Corvo sono informazioni fondamentali. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
 
 Vedendo che il ragazzo non è ancora convinto, provate un approccio diverso, ricordandogli una persona importante a Verum la cui vita è in bilico, il Ragazzo Muto. Le lacrime scorrono sulle guance sporche di Midge, che si rende conto della situazione e finalmente accetta.
 
 Consegnate a Midge la bussola del sangue che vi è stata data dai Sorveglianti e condividete con il ragazzo alcune parole di coraggio. Dopo averlo lasciato andare, vi soffermate al cancello principale per guardarlo scomparire nel Bosco Profondo."</string>
-	<string name="chp20_0_1__a">"La luce eterea della Strega soffoca il cielo da un orizzonte all\'altro. Nastri nebbiosi di verde, blu e viola danzano e cospirano sopra le nostre teste, proiettando un bagliore tenue e presagio sulla valle sottostante, ma in qualche modo rafforzando l\'oscurità dove si annidano le ombre. Non dovrebbe essere così. Il fenomeno - che precede la storia registrata - è arrivato troppo presto, un cattivo presagio per chi si occupa di superstizione.
+	<string name="chp20_0_1__a">"La brillantezza eterea della Luce della Strega avvolge il cielo da un orizzonte all\'altro. Nastri nebbiosi di verde, blu e viola danzano e cospirano sopra le nostre teste, proiettando un bagliore tenue e presagio sulla valle sottostante, ma in qualche modo rafforzando l\'oscurità dove si annidano le ombre. Non dovrebbe essere così. Il fenomeno - stando alla storia registrata - è arrivato troppo presto, un cattivo presagio per chi si occupa di superstizione.
 
-In piedi sui bastioni della Torre del Corvo, si sente il rumore delle bestie in lontananza, come una tempesta in aumento. La Nutrice era stata solo la prima. Ne stanno arrivando altre. Molte altre. È come se l\'intero Bosco Profondo si muovesse per ostacolare i vostri sforzi, un\'intensa concentrazione su di voi che sembra provenire da ogni parte. Non siete i benvenuti qui. La vostra intrusione nel cuore del Bosco Profondo non sarà tollerata
+In piedi sui bastioni del Forte del Corvo, si sente il rumore delle bestie in lontananza, come una tempesta in aumento. La Nutrice era stata solo la prima. Ne stanno arrivando altre. Molte altre. È come se l\'intero Bosco Profondo si muovesse per ostacolare i vostri sforzi, un\'intensa concentrazione su di voi che sembra provenire da ogni parte. Non siete i benvenuti qui. La vostra intrusione nel cuore del Bosco Profondo non sarà tollerata
 
 Scuotendo la testa per schiarirla, ricordate a voi stessi la vostra missione. Eseguire il Richiamo, attirare i mostri dal Cuore di Tenebra ed entrare. L\'ultima possibilità di Verum si trova all\'interno. Il Richiamo deve avvenire ora.
 
-Le nuvole scure si addensano sopra di noi e presto seguirà una pioggia battente. Avete poco tempo per prepararvi. Le difese devono essere rafforzate e la pira deve essere costruita prima che il Richiamo abbia inizio. Mentre distribuite i compiti ai vostri soldati, un lampo accecante attraversa il cielo, delineando una figura scura appollaiata sul ciglione della torre centrale del forte. Piccoli occhi brillanti vi guardano attraverso l\'oscurità, mentre un secondo fulmine colpisce il cielo, illuminando quello che sembra essere un corto becco che sporge dalla testa della figura. Un Avi
+Le nuvole scure si addensano sopra di voi e presto seguirà una pioggia battente. Avete poco tempo per prepararvi. Le difese devono essere rafforzate e la pira deve essere costruita prima che il Richiamo abbia inizio. Mentre distribuite i compiti ai vostri soldati, un lampo accecante attraversa il cielo, delineando una figura scura appollaiata sul ciglione della torre centrale del forte. Piccoli occhi brillanti vi guardano attraverso l\'oscurità, mentre un secondo fulmine colpisce il cielo, illuminando quello che sembra essere un corto becco che sporge dalla testa della figura. Un Avi
 
-Improvvisamente, una voce si registra nella vostra mente, femminile e cupa, \"L\'Oscurità chiama il vostro nome. Lo sentiamo anche noi. Come sopra, così sotto. La fine dei sentieri si avvicina, dove la follia è ragione e la ragione è follia. Tenebre o Morte sarà la vostra scelta, e sarà la vostra scelta. Nessun altro. Scegliete con saggezza, Segnati, perché il mondo gira su di voi.\"
+Improvvisamente, una voce si registra nella vostra mente, femminile e cupa, \"L\'Oscurità chiama il vostro nome. Lo sentiamo anche noi. Come sopra, così sotto. La fine dei sentieri si avvicina, dove la follia è ragione e la ragione è follia. Tenebre o Morte sarà la vostra scelta, e vostra soltanto. Nessun altro. Scegliete con saggezza, Marchiati, perché il mondo si basa su di essa.\"
 
 I pensieri turbinano nella vostra mente mentre inviate parole senza voce in risposta agli Avi, chiedendo loro di parlare chiaramente e di spiegare a quale scelta si riferisce. I feroci occhi aviari vi guardano con profonda consapevolezza.
 
@@ -8056,18 +8056,18 @@ Nel tempo necessario a scambiare uno sguardo con i vostri compagni, l\'Avi scomp
 	<string name="chp20_0_3__a">"Non c\'è tempo per riflettere su visioni o profezie. La vostra attenzione deve essere concentrata sulla missione da compiere. Mentre il suono dei vostri soldati che eseguono i loro ordini risuona in lontananza, vi dedicate al compito di inviare a Verum la notizia dei vostri progressi. La conoscenza è la migliore arma dell\'umanità contro il Bosco Profondo, e ciò che avete imparato servirà ad altri se doveste fallire qui. Purtroppo, la gabbia di corvi messaggeri è andata persa alle porte della città maledetta. Dovrete assegnare a qualcuno di cui vi fidate il compito di tornare a casa e consegnare il messaggio."</string>
 	<string name="chp20_0_4__a">"Midge vi rivolge un sorriso ironico e sospettoso mentre lo guardate. Il ragazzo è veloce e più leggero di molti altri. Se c\'è qualcuno che può raggiungere Verum velocemente, è lui. Questa potrebbe anche essere la vostra ultima possibilità di salvare l\'orfano. Avete visto Midge crescere fino a diventare un giovane uomo forte, ma è troppo giovane per affrontare la morte oggi
 
-Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano la Torre del Corvo sono informazioni di importanza cruciale. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
+Vi supplica di restare, ma voi gli dite che questo incarico è troppo importante per rinunciarvi. La notizia di ciò che è accaduto nella città abbandonata e i dettagli del paesaggio e delle bestie che circondano il Forte del Corvo sono informazioni di importanza cruciale. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà
 
 Consegnate a Midge la bussola del sangue che vi è stata data dai Sorveglianti e scambiate con il ragazzo alcune parole di coraggio. Dopo averlo lasciato andare, vi fermate al cancello principale abbastanza a lungo per vederlo scomparire nel Bosco Profondo."</string>
-	<string name="chp20_0_5__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli del paesaggio e delle bestie che circondano la Torre del Corvo, sono informazioni di fondamentale importanza. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Qualcuno deve essere mandato a casa per consegnare il messaggio."</string>
+	<string name="chp20_0_5__a">"Le notizie su ciò che è accaduto nella città abbandonata, così come i dettagli del paesaggio e delle bestie che circondano il Forte del Corvo, sono informazioni di fondamentale importanza. Se la vostra missione qui fallisce, Verum dovrà prepararsi a ciò che verrà. Qualcuno deve essere mandato a casa per consegnare il messaggio."</string>
 	<string name="chp20_0_5__c">Consegnate al vostro alleato la bussola del sangue che vi è stata data dai Sorveglianti e scambiate qualche parola di coraggio prima di lasciarli andare per la loro strada. Rimanete accanto al cancello principale abbastanza a lungo da guardarli scomparire nel Bosco Profondo.</string>
-	<string name="chp20_0_6__a">Su vostro ordine, i soldati hanno eretto un grande palo di legno al centro della fortezza e hanno iniziato ad ammassare intorno ad esso i materiali per la grande pira. La difesa delle fiamme sarà l\'aspetto più importante del Richiamo, a parte le streghe stesse, che incatenerete a un vicino palo per l\'autostop.</string>
-	<string name="chp20_0_7__a">"L\'odio bruciante negli occhi della vostra ex compagna mentre fissate le sue catene al palo dell\'autostop non lo dimenticherete presto. Non ha mai accettato di adempiere al suo giuramento in questo modo, ma il suo sacrificio potrebbe salvare un\'intera città
+	<string name="chp20_0_6__a">Su vostro ordine, i soldati hanno eretto un grande palo di legno al centro della fortezza e hanno iniziato ad ammassare intorno ad esso i materiali per la grande pira. La difesa delle fiamme sarà l\'aspetto più importante del Richiamo, a parte le streghe stesse, che incatenerete a un vicino palo.</string>
+	<string name="chp20_0_7__a">"L\'odio bruciante negli occhi della vostra ex compagna mentre fissate le sue catene al palo non lo dimenticherete presto. Non ha mai accettato di adempiere al suo giuramento in questo modo, ma il suo sacrificio potrebbe salvare un\'intera città
 
 Le altre due streghe non oppongono resistenza mentre le legate al palo. L\'uomo di Cistercia si limita a fissare imbronciato la pira mentre lo mettete al sicuro. La strega di Tracia, ancora sotto l\'effetto dell\'etere, richiede uno sforzo minimo per essere bloccata. Ora è calma, ma avete dovuto somministrarle l\'ultima dose di etere nella città proibita. Potete solo sperare che la tenga sotto controllo abbastanza a lungo
 
 Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Finora, il Richiamo era stato solo un compito lontano, alla fine di una lunga serie di altri eventi. La terribile scelta è stata rimandata, mentre avete sempre sperato che si trovasse un\'altra strada. Che in qualche modo non si sarebbe arrivati a questo. Tuttavia, fissando la pira davanti a voi, vi rendete conto di essere fuori tempo massimo. Le miriadi di scelte si stanno riducendo a un\'unica domanda. Potete sacrificare uno per salvare molti? Dovrete decidere al più presto."</string>
-	<string name="chp20_0_8__a">"Per prima cosa leghi i fratelli di Cistercia al palo dell\'autostop. Il fratello e la sorella si scambiano sguardi silenziosi e luttuosi mentre la fredda catena di ferro sigilla i loro destini. Il terzo e ultimo sacrificio, la strega di Tracia, è ancora sotto l\'effetto dell\'etere e richiede uno sforzo minimo per essere assicurato. Ora è calma, ma avete dovuto somministrarle l\'ultima dose di etere nella città proibita. Potete solo sperare che la tenga sotto controllo abbastanza a lungo
+	<string name="chp20_0_8__a">"Per prima cosa leghi i fratelli di Cistercia al palo. Il fratello e la sorella si scambiano sguardi silenziosi e luttuosi mentre la fredda catena di ferro sigilla i loro destini. Il terzo e ultimo sacrificio, la strega di Tracia, è ancora sotto l\'effetto dell\'etere e richiede uno sforzo minimo per essere assicurato. Ora è calma, ma avete dovuto somministrarle l\'ultima dose di etere nella città proibita. Potete solo sperare che la tenga sotto controllo abbastanza a lungo
 
 Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Finora, il Richiamo era stato solo un compito lontano, alla fine di una lunga serie di altri eventi. La terribile scelta è stata rimandata, mentre avete sempre sperato che si trovasse un\'altra strada. Che in qualche modo non si sarebbe arrivati a questo. Tuttavia, fissando la pira davanti a voi, vi rendete conto di essere fuori tempo massimo. Le miriadi di scelte si stanno riducendo a un\'unica domanda. Potete sacrificare uno per salvare molti? Dovrete decidere al più presto."</string>
 	<string name="chp20_0_9__a">"Un orribile stridio in lontananza vi distoglie dai vostri pensieri. Avete contato i secondi trascorsi dalle ultime grida dell\'orda e si stanno avvicinando. Velocemente
@@ -8075,15 +8075,15 @@ Mentre la pira continua a prendere forma, ti colpisce la realtà del momento. Fi
 Lo sciame sarà enorme, molto più grande di quello che vi ha spinto nella città proibita. Almeno questa volta avete una fortezza a proteggervi, anche se è vecchia e fatiscente. Speriamo che li tenga a bada abbastanza a lungo da completare la pira."</string>
 	<string name="chp20_0_9__c">"Mentre ascoltate, un ufficiale vi saluta. Avevate mandato i suoi uomini a perlustrare il forte per individuare eventuali pericoli residui e per fare il punto della situazione.
 
-Inizia dicendo che un tempo le mura esterne erano una difesa imponente. Sono state intaccate dal tempo e dal Bosco Profondo, ma dovrebbero reggere finché le presidierete adeguatamente e non ci saranno brecce altrove. A questo punto, siete grati per le pietre forti che si frappongono tra voi ed il Bosco Profondo
+Inizia dicendo che un tempo le mura esterne erano una difesa imponente. Sono state intaccate dal tempo e dal Bosco Profondo, ma dovrebbero reggere finché le presidierete adeguatamente e non ci saranno brecce altrove. A questo punto, siete grati per le solide pietre che si frappongono tra voi ed il Bosco Profondo
 
 Continua raccontandovi di due grandi torri che vegliano sopra il recinto esterno, una delle quali è dotata di grossi tubi di bronzo, puntati verso il limite della linea degli alberi. Dovevano essere una sorta di potente arma usata per tenere le bestie lontane dalle mura. La seconda torre sarà il punto di osservazione perfetto per i vostri soldati, poiché la sua altezza offre una vista senza ostacoli del perimetro della fortezza, permettendo loro di vedere da dove si avvicinano le creature.
 
 Poi fa notare che il cortile interno contiene un\'armeria e una vecchia stalla. L\'armeria è crollata, tuttavia, con un po\' di scavo si può trovare qualcosa di utile all\'interno
 
-Conclude parlando dell\'unica grave debolezza delle vostre difese, un grande tunnel scavato sotto le mura della fortezza. Suppone che si tratti della breccia che ha causato la caduta della Torre del Corvo molto tempo fa. Ringraziando l\'ufficiale, ordinate ai suoi soldati di allestire un sistema di allerta improvvisato all\'interno del tunnel, utilizzando rottami di vecchie armi e armature. Speriamo che vi aiuti a rilevare se qualcosa si infiltra da lì."</string>
+Conclude parlando dell\'unica grave debolezza delle vostre difese, un grande tunnel scavato sotto le mura della fortezza. Suppone che si tratti della breccia che ha causato la caduta del Forte del Corvo molto tempo fa. Ringraziando l\'ufficiale, ordinate ai suoi soldati di allestire un sistema di allerta improvvisato all\'interno del tunnel, utilizzando rottami di vecchie armi e armature. Speriamo che vi aiuti a rilevare se qualcosa si infiltra da lì."</string>
 	<string name="chp20_1_1__a">Un suono simile a un tuono rimbomba in lontananza. La prima ondata d\'attacco è quasi arrivata. E molte altre seguiranno. Ci sono diversi luoghi che devono essere difesi e voi siete tutto ciò che si frappone tra le creature ed il Richiamo. A qualunque costo, dovete prevalere.</string>
-	<string name="chp20_1_1__c">Secondo i rapporti dei vostri esploratori, il primo attacco arriverà da NORD. Dovrete difendere quel lato della fortezza e le BASTIONI.</string>
+	<string name="chp20_1_1__c">Secondo i rapporti dei vostri esploratori, il primo attacco arriverà da NORD. Dovrete difendere quel lato della fortezza ed i BASTIONI.</string>
 	<string name="chp20_1_2__a">"Ondata 1: Assalto 1
 
 Con le truppe schierate, prendete posizione e aspettate l\'attacco. Il Bosco Profondo si è improvvisamente ammutolito, con la pausa pregnante che precede ogni battaglia. Inizia con una leggera brezza fresca e un fruscio dal sottobosco. Poi, in un\'esplosione di orrore, vedete il bosco prendere vita. Forme oscure si liberano in una tempesta di artigli, tentacoli e denti scintillanti che grondano acido e saliva."</string>
@@ -8106,7 +8106,7 @@ I soldati resistono come possono: questi uomini e queste donne combattono con la
 	<string name="chp20_2_5__a">La pioggia battente rende impossibile vedere. Intorno alla fortezza, gli alberi ondeggiano svogliatamente, non sapete se per il vento o per l\'agitarsi delle creature sotto di loro. Non avete idea da dove arriverà il prossimo attacco. All\'improvviso, si sente un forte rumore proveniente dal tunnel sottostante.</string>
 	<string name="chp20_2_6__a">"Ondata 2: Assalto 1
 
-Il rumore del tunnel si fa sempre più forte, fino a quando le creature non schizzano al suo ingresso, proprio nel cuore della Torre del Corvo."</string>
+Il rumore del tunnel si fa sempre più forte, fino a quando le creature non schizzano al suo ingresso, proprio nel cuore del Forte del Corvo."</string>
 	<string name="chp20_2_7__a">"Ondata 2: Assalto 2
 
 L\'assalto proviene da nord e nord-est, diretto verso il Bastione di destra. Gli alberi crollano mentre una grande mostruosità massiccia sbuca all\'improvviso dal bosco e si dirige verso i bastioni settentrionali."</string>
@@ -8136,12 +8136,12 @@ I soldati nel cortile si arrampicano rapidamente sulla pira per sottomettere la 
 
 Dal vostro punto di osservazione, sembra che il Nord Est sia più tranquillo del Nord Ovest. A parte questo, è chiaro che il prossimo assalto arriverà da ogni altra parte
 
-Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un soldato vicino alla pira vi chiama: \"Signore! La strega tracia! Si sta svegliando!\"
+Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un soldato vicino alla pira vi chiama: \"Signore! La strega traciana! Si sta svegliando!\"
 
 Istintivamente cercate la borsa con l\'etere, ma improvvisamente vi ricordate che non ce n\'è più. Dovrete trovare un altro modo per assicurarvi che la strega rimanga incosciente."</string>
 	<string name="chp20_3_3__a">"Ad ogni creatura uccisa, il Bosco Profondo sembra diventare sempre più vivo. Si possono vedere i rami degli alberi maledetti piegarsi e raggiungere le pareti, affamati di sangue. Ovunque si guardi, le creature si aggirano nell\'ombra, in attesa di un\'occasione per colpire. Il prossimo assalto arriverà da quasi tutte le direzioni, ma mentre seguite i movimenti delle creature, siete certi che non attaccheranno la Porta Posteriore e i Bastioni Orientali.
 
-Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un soldato vicino alla pira vi chiama: \"Signore! La strega tracia! Si sta svegliando!\"
+Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un soldato vicino alla pira vi chiama: \"Signore! La strega traciana! Si sta svegliando!\"
 
 Istintivamente cercate la borsa con l\'etere, ma improvvisamente vi ricordate che non ce n\'è più. Dovrete trovare un altro modo per assicurarvi che la strega rimanga incosciente."</string>
 	<string name="chp20_3_4__a">"Ad ogni creatura uccisa, il Bosco Profondo sembra diventare sempre più vivo. Si possono vedere i rami degli alberi maledetti piegarsi e raggiungere le pareti, affamati di sangue. Ovunque si guardi, le creature si aggirano nell\'ombra, aspettando la loro occasione per colpire. Il prossimo assalto arriverà da quasi tutte le direzioni, ma mentre seguite i movimenti delle creature, siete certi che non attaccheranno la Porta Posteriore e i Bastioni Orientali
@@ -8153,7 +8153,7 @@ Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un sol
 Istintivamente cercate la borsa con l\'etere, ma improvvisamente vi ricordate che non ce n\'è più. Dovrete trovare un altro modo per assicurarvi che la strega rimanga incosciente."</string>
 	<string name="chp20_3_5__a">"Ad ogni creatura uccisa, il Bosco Profondo sembra diventare sempre più vivo. Si possono vedere i rami degli alberi maledetti piegarsi e raggiungere le pareti, affamati di sangue. Ovunque si guardi, le creature si aggirano nell\'ombra, in attesa di un\'occasione per colpire. Il prossimo assalto potrebbe arrivare da qualsiasi direzione, o da tutte.
 
-Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un soldato vicino alla pira vi chiama: \"Signore! La strega tracia! Si sta svegliando!\"
+Mentre ridisponete le truppe per difendervi meglio dalla prossima ondata, un soldato vicino alla pira vi chiama: \"Signore! La strega traciana! Si sta svegliando!\"
 
 Istintivamente cercate la borsa con l\'etere, ma improvvisamente vi ricordate che non ce n\'è più. Dovrete trovare un altro modo per assicurarvi che la strega rimanga incosciente."</string>
 	<string name="chp20_3_6__a">"Ondata 3: Assalto 1
@@ -8203,11 +8203,11 @@ La prima cosa che si sente è uno stridore di orecchie, seguito da un ruggito gu
 	<string name="chp20_5_8__a">Ondata 5: Assalto 4</string>
 	<string name="chp20_5_9__a">"Un terribile suono di cracking scuote l\'aria mentre un\'orda di mostri fa breccia nelle vostre difese e si dirige verso la pira. Solo poche guardie si frappongono tra l\'avanzata della sventura e l\'ultima speranza di Verum."</string>
 	<string name="chp20_6_10__a">Vi avvicinate alle figure sulla pira, con la torcia d\'ambra in mano. L\'unico crimine che hanno commesso è quello di essere nati con poteri malefici. Eppure, siete qui a dover emettere la sentenza definitiva. Siete Oathsworn per proteggere l\'umanità, non carnefici. Eppure oggi siete chiamati ad esserlo, vi viene chiesto di sacrificare i pochi per i molti.</string>
-	<string name="chp20_6_12__a">"Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe dal corpo del Traciana. Aurelia lancia un urlo di rabbia e la pira si squarcia. Le fiamme si spengono immediatamente e i resti delle altre streghe accanto a lei vengono dispersi sulle pareti dalle onde della forza. Aurelia si alza dalle rovine della pira e potete vedere la pioggia che colpisce un nimbo di aria scintillante che le rotola intorno in una sfera di protezione telecinetica. Avete già affrontato streghe potenti in passato, ma questa donna potrebbe essere la più potente mai registrata. Librandovi al di sopra del suolo all\'interno della sua bolla cinetica, vedete l\'ira scritta a chiare lettere sul suo volto. È stata drogata e trascinata nel Bosco Profondo e non sa cosa stia succedendo. Gridate per cercare di farla ragionare, ma non sortisce alcun effetto. L\'unica cosa che sa è che per la prima volta è libera dal delirio e intende vendicarsi.
+	<string name="chp20_6_12__a">"Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe dal corpo della Traciana. Aurelia lancia un urlo di rabbia e la pira si squarcia. Le fiamme si spengono immediatamente e i resti delle altre streghe accanto a lei vengono dispersi sulle pareti dalle onde della forza. Aurelia si alza dalle rovine della pira e potete vedere la pioggia che colpisce un nimbo di aria scintillante che le rotola intorno in una sfera di protezione telecinetica. Avete già affrontato streghe potenti in passato, ma questa donna potrebbe essere la più potente mai registrata. Librandovi al di sopra del suolo all\'interno della sua bolla cinetica, vedete l\'ira scritta a chiare lettere sul suo volto. È stata drogata e trascinata nel Bosco Profondo e non sa cosa stia succedendo. Gridate per cercare di farla ragionare, ma non sortisce alcun effetto. L\'unica cosa che sa è che per la prima volta è libera dal delirio e intende vendicarsi.
 
 Nel disperato tentativo di riguadagnare il vantaggio, i soldati rimasti caricano la strega all\'unisono. Cercate di fermarli, ma è troppo tardi. Aurelia li guarda con odio e, con entrambe le mani alzate, fa levitare le squadre rimanenti per una dozzina di metri in aria e le sbatte di nuovo a terra. Si sente il rumore delle ossa che si rompono mentre vengono schiacciate sulle lastre di pietra. Quando Aurelia alza le mani una seconda volta, ciò che si solleva in aria sono solo cadaveri che iniziano a orbitare intorno a lei
 
-Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Dallo sguardo si capisce che Aurelia non cede e che se non completerete presto l\'Esaltazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se uccidere la strega causerà il Richiamo, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
+Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Dallo sguardo si capisce che Aurelia non cede e che se non completerete presto il Richiamo, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se uccidere la strega causerà il Richiamo, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
 	<string name="chp20_6_1__a">La pira</string>
 	<string name="chp20_6_1__c">Ora o mai più. La fortezza può cadere, ma il Richiamo è pronto. Durante una breve pausa nella battaglia, ne approfittate per correre verso la pira. Attraversando il cortile, la pioggia si riversa in un diluvio così forte da coprire il suono della morte e degli stridori che vi circondano.</string>
 	<string name="chp20_6_2__c">Non c\'è più tempo. La pira non è ancora completa, ma sapete che la fortezza non può reggere oltre. Attraversando di corsa il cortile, la pioggia si riversa in un diluvio così forte da coprire il suono della morte e degli stridori che vi circondano.</string>
@@ -8226,7 +8226,7 @@ Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe 
 
 Nel disperato tentativo di riguadagnare il vantaggio, i soldati rimasti caricano la strega all\'unisono. Aurelia li guarda con odio e, con entrambe le mani alzate, fa levitare le squadre rimanenti per una dozzina di metri in aria e le sbatte di nuovo a terra. Si sente il rumore delle ossa che si rompono mentre vengono schiacciate sulle lastre di pietra. Quando Aurelia alza le mani una seconda volta, ciò che si solleva in aria sono solo cadaveri che iniziano a orbitare intorno a lei
 
-Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Dallo sguardo della strega si capisce che Aurelia non cede e che se non completate al più presto l\'Esaltazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se uccidere la strega causerà il Richiamo, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
+Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Dallo sguardo della strega si capisce che Aurelia non cede e che se non completate al più presto il Richiamo, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se uccidere la strega causerà il Richiamo, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
 	<string name="chp20_6_9__a">"Il minimo che si possa fare è onorare le anime condannate guardandole negli occhi mentre vanno incontro al loro destino. Quando il vostro sguardo cade su Aurelia, la Strega Traciana, vi bloccate. Lei vi sta fissando. È sveglia!
 
 Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe dal corpo della Traciana. Aurelia lancia un urlo di rabbia e la pira si squarcia. Le fiamme si spengono immediatamente e i resti delle altre streghe accanto a lei vengono dispersi sulle pareti dalle onde della forza. Aurelia si alza dalle rovine della pira e potete vedere la pioggia che colpisce un nimbo di aria scintillante che le rotola intorno in una sfera di protezione telecinetica. Avete già affrontato streghe potenti in passato, ma questa donna potrebbe essere la più potente mai registrata. Librandovi al di sopra del suolo all\'interno della sua bolla cinetica, vedete l\'ira scritta a chiare lettere sul suo volto. È stata drogata e trascinata nel Bosco Profondo e non sa cosa stia succedendo. L\'unica cosa che sa è che per la prima volta è libera dal delirio e intende vendicarsi.
@@ -8234,10 +8234,10 @@ Atterrate a tre metri di distanza mentre l\'esplosione di forza cinetica erompe 
 Nel disperato tentativo di riconquistare il vantaggio, i soldati rimasti caricano la strega all\'unisono. Aurelia li guarda con odio e, con entrambe le mani alzate, fa levitare le squadre rimanenti per una dozzina di metri in aria e le sbatte di nuovo a terra. Si sente il rumore delle ossa che si rompono mentre vengono schiacciate sulle lastre di pietra. Quando Aurelia alza le mani una seconda volta, ciò che si solleva in aria sono solo cadaveri che iniziano a orbitare intorno a lei
 
 Lo sforzo di uccidere i vostri soldati ha indebolito la strega e vi accorgete che mancano pochi secondi prima che la prossima ondata di mostri colpisca le mura della fortezza. Se non completate presto l\'Evocazione, ogni speranza di allontanare l\'orda di bestie molto più grande dal Cuore di Tenebra sarà perduta. Non sapete se l\'uccisione della strega causerà il Richiamo, ma sapete che non lascerete questo cortile finché lei sarà in vita."</string>
-	<string name="chp20_epi_1__a">"Con un ultimo colpo, la strega cade, lo scudo telecinetico ha finalmente fallito. I suoi occhi si allargano, inarca la schiena e lancia un terribile urlo di morte. Le onde sonore si abbattono sulla base del vostro cranio, facendovi cadere. Il naso sanguina e la vista comincia a sfocarsi, mentre ogni cellula del vostro corpo minaccia di andare in pezzi. L\'avete già sentito, una vita fa a Bastone. Il Richiamo. Improvvisamente la terra inizia a tremare. Non per il Richiamo, ma in risposta ad esso. In una cacofonia di ululati e ruggiti, uno sciame senza numero tuona dal Cuore di Tenebra verso la Torre del Corvo. Ha funzionato!
+	<string name="chp20_epi_1__a">"Con un ultimo colpo, la strega cade, lo scudo telecinetico ha finalmente fallito. I suoi occhi si allargano, inarca la schiena e lancia un terribile urlo di morte. Le onde sonore si abbattono sulla base del vostro cranio, facendovi cadere. Il naso sanguina e la vista comincia a sfocarsi, mentre ogni cellula del vostro corpo minaccia di andare in pezzi. L\'avete già sentito, una vita fa a Bastone. Il Richiamo. Improvvisamente la terra inizia a tremare. Non per il Richiamo, ma in risposta ad esso. In una cacofonia di ululati e ruggiti, uno sciame senza numero tuona dal Cuore di Tenebra verso il Forte del Corvo. Ha funzionato!
 
 Non perdete tempo e vi precipitate nel tunnel che sapete vi condurrà all\'esterno. Al di là di esso, la strada è aperta verso il Cuore di Tenebra e la fine del vostro viaggio."</string>
-	<string name="chp21_1_10__c">"Di nuovo, mi vengono in mente le parole del vostro giuramento
+	<string name="chp21_1_10__c">"Di nuovo, vi vengono in mente le parole del vostro giuramento
 
 Noi non ci sottrarremo.
 
@@ -8251,7 +8251,7 @@ Eppure la morte conoscerà il nostro nome.
 
 Siamo Oathsworn.
 
-Ventisei parole che ora vi definiscono. Insieme, vi riportano in superficie e voi inspirate l'aria. Il tunnel è rimasto com\'era, la visione è passata. Guardando avanti, il tunnel è terminato e davanti a voi c\'è una vasta caverna."</string>
+Ventitre parole che ora vi definiscono. Insieme, vi riportano in superficie e voi inspirate l'aria. Il tunnel è rimasto com\'era, la visione è passata. Guardando avanti, il tunnel è terminato e davanti a voi c\'è una vasta caverna."</string>
 	<string name="chp21_1_11__a">"Allucinazioni terrificanti assalgono la vostra mente, le ossessionanti illusioni minacciano di farvi impazzire. L\'angoscia e la disperazione si fanno strada e crescono fino a quando... le parole del vostro Giuramento tornano alla mente.
 
 Noi non ci spezzeremo.
@@ -8266,43 +8266,30 @@ Eppure la morte conoscerà il nostro nome.
 
 Siamo Oathsworn.
 
-Ventisei parole che ora vi definiscono. Insieme, vi riportano in superficie e voi inspirate l'aria. Il tunnel è rimasto com\'era, la visione è passata. Guardando avanti, il tunnel è terminato e davanti a voi c\'è una vasta caverna."</string>
-	<string name="chp21_1_1__a">"L\'urlo lamentoso della strega vi insegue nel tunnel sotto la Torre del Corvo, offuscandovi la vista e rendendo ogni passo un\'impresa di equilibrio. Il Richiamo ha funzionato come speravate e ogni mostro a portata del suo grido di morte ha risposto al suo richiamo. Potete sentire gli artigli ed il pesante calpestio delle bestie sopra di voi sopra l\'urlo che vi fa saltare le orecchie
+Ventitre parole che ora vi definiscono. Insieme, vi riportano in superficie e voi inspirate l'aria. Il tunnel è rimasto com\'era, la visione è passata. Guardando avanti, il tunnel è terminato e davanti a voi c\'è una vasta caverna."</string>
+	<string name="chp21_1_1__a">"L\'urlo lamentoso della strega vi insegue nel tunnel sotto il Forte del Corvo, offuscandovi la vista e rendendo ogni passo un\'impresa di equilibrio. Il Richiamo ha funzionato come speravate e ogni mostro a portata del suo grido di morte ha risposto al suo richiamo. Potete sentire gli artigli ed il pesante calpestio delle bestie sovrastare l\'urlo che vi fa saltare le orecchie
 
 Poco dopo aver percorso la strada, tagliate le travi di sostegno che tengono aperto il passaggio, per bloccare le creature che vi inseguono. Tonnellate di roccia e sporcizia precipitano e all\'ultimo momento vedete una creatura simile a un lupo, che stava silenziosamente inseguendo la vostra fuga, inghiottita dalle macerie. Un raro colpo di fortuna. Sapete che vi resta poco tempo prima che gli effetti del Richiamo svaniscano e riprendete rapidamente la ricerca dell\'uscita del tunnel.
 
-Percorrendo il passaggio dimenticato, trovate decine di cadaveri putrefatti: gli ultimi difensori umani della Torre del Corvo. La tomba è un tesoro di antiche armature e armi finemente forgiate. Vi prendete un momento per assicurarvi di essere il più possibile armati. Sapete che dovrete essere presenti dove state andando."</string>
-	<string name="chp21_1_2__a">"Davanti a voi, un puntino di luce vi guida finalmente verso un\'uscita nel Bosco Profondo. Emergendo, vi voltate a guardare la fortezza caduta. Non si sentono più le urla della Strega Traciana, ma un mare di carne, pellicce e ossa continua a lambire le mura di pietra in disfacimento, artigliandosi e scattando l\'uno contro l\'altro nel disperato tentativo di rispondere al richiamo del Richiamo. In qualche modo i suoi effetti non si sono ancora esauriti. Tuttavia, le bestie ululano e gridano in una cacofonia di morte che le parole non possono descrivere. All\'improvviso, si sente un tuono e vedete una fila di alberi in lontananza rovesciarsi mentre emerge la Rovina di Bastone. La sua forma grigia da tempesta attraversa il muro orientale della fortezza, polverizzando le difese che erano rimaste in piedi per secoli. Con l\'apparizione della gigantesca bestia, sapete che la strada è libera verso il Cuore di Tenebra. Dovete muovervi subito!
+Percorrendo il passaggio dimenticato, trovate decine di cadaveri putrefatti: gli ultimi difensori umani del Forte del Corvo. La tomba è un tesoro di antiche armature e armi finemente forgiate. Vi prendete un momento per assicurarvi di essere il più possibile armati. Sapete che dovrete essere pronti dove state andando."</string>
+	<string name="chp21_1_2__a">"Davanti a voi, un puntino di luce vi guida finalmente verso un\'uscita nel Bosco Profondo. Emergendo, vi voltate a guardare la fortezza caduta. Non si sentono più le urla della Strega Traciana, ma un mare di carne, pellicce e ossa continua a lambire le mura di pietra in disfacimento, artigliandosi e scattando l\'uno contro l\'altro nel disperato tentativo di rispondere al suono del Richiamo. In qualche modo i suoi effetti non si sono ancora esauriti. Tuttavia, le bestie ululano e gridano in una cacofonia di morte che le parole non possono descrivere. All\'improvviso, si sente un tuono e vedete una fila di alberi in lontananza rovesciarsi mentre emerge la Rovina di Bastone. La sua forma grigia da tempesta attraversa il muro orientale della fortezza, polverizzando le difese che erano rimaste in piedi per secoli. Con l\'apparizione della gigantesca bestia, sapete che la strada è libera verso il Cuore di Tenebra. Dovete muovervi subito!
 
-Attraversando il Bosco Profondo, il suono della funerea campana alla Torre del Corvo è attutito dagli alberi fitti e nauseabondi, e vi è concesso un raro momento di tregua. Solo pochi giorni fa, quasi trecento soldati hanno lasciato Verum e ora siete rimasti solo voi, una sola Libera Compagnia. Una sola Libera Compagnia e un\'ultima possibilità
+Attraversando il Bosco Profondo, il suono della funerea campana al Forte del Corvo è attutito dagli alberi fitti e nauseabondi, e vi è concesso un raro momento di tregua. Solo pochi giorni fa, quasi trecento soldati hanno lasciato Verum e ora siete rimasti solo voi, una sola Libera Compagnia. Una sola Libera Compagnia e un\'ultima possibilità
 
 Poche centinaia di metri dopo, arrivate a una piccola radura e vedete il Cuore di Tenebra davanti a voi, come una cicatrice nera scavata nella terra. Mentre vi avvicinate alla caverna mortale, dolori acuti iniziano a trafiggervi le braccia. Abbassando lo sguardo, scoprite che le macchie nere sulla vostra pelle hanno iniziato a spuntare e a diffondersi. In qualche modo questo luogo sembra accelerare gli effetti della peste. Avete visto cosa succede a chi è nelle ultime fasi della malattia e questo pensiero vi disgusta. Vi sentite deboli e privi di speranza, ma sapete che dovete trovare un modo per resistere abbastanza a lungo da completare la vostra missione."</string>
-	<string name="chp21_1_3__a">"In piedi, sull\'orlo dell\'ingresso della caverna, vi scambiate uno sguardo con i vostri compagni. Non si può tornare indietro, per nessuno di voi ora. La sopravvivenza di Verum è nelle vostre mani. Accendete le vostre torce d\'ambra e muovete i primi passi nel cuore del Bosco Profondo.
+	<string name="chp21_1_3__a">"In piedi, sull\'orlo dell\'ingresso della caverna, vi scambiate uno sguardo con i vostri compagni. Non c'è ritorno, per nessuno di voi ormai. La sopravvivenza di Verum è nelle vostre mani. Accendete le vostre torce d\'ambra e muovete i primi passi nel cuore del Bosco Profondo.
 
 Le vostre torce trattengono a malapena l\'oscurità incombente. La poca illuminazione che avete cade su un sentiero di radici troppo cresciute e di frammenti d\'ambra frastagliati sepolti nel terreno denso. Le pareti sono vicine e l\'atmosfera è densa. Lottate per far entrare abbastanza aria nei vostri polmoni, mentre tagliate e scardinate il labirinto di sottobosco che rallenta la vostra avanzata."</string>
-	<string name="chp21_1_4__c">Con una determinazione cupa, vi spingete attraverso l\'infinita boscaglia. Un\'oscillazione dopo l\'altra non fa altro che rivelare altre radici e liane, mentre si ha la sensazione di scavarsi la fossa da soli.</string>
+	<string name="chp21_1_4__c">Con una determinazione cupa, vi spingete attraverso l\'infinita boscaglia. Un colpo dopo l\'altro non fa altro che rivelare altre radici e liane, mentre avete la sensazione di scavarvi la fossa da soli.</string>
 	<string name="chp21_1_5__a">Le braccia si indeboliscono presto per l\'infinito martellamento e sembra che il Bosco Profondo voglia seppellirvi qui sotto. Attingendo alle poche forze rimaste, continuate a spingervi più in là.</string>
-	<string name="chp21_1_6__a">"Scendendo in profondità, il tunnel diventa sempre più stretto e, dove prima si poteva camminare spalla a spalla, ora si è costretti a camminare in fila indiana. L\'aria fetida si fa ancora più densa e un senso di torpore offusca la mente. Mentre il mondo si muove e la vista si annebbia, un rumore di passi attira la vostra attenzione. Quando alzate la torcia per guardare davanti a voi, l\'oscurità vi sprigiona il terrore. Mostri che avete combattuto e cose che avete visto solo nei vostri incubi strisciano e strisciano verso di voi. Guardando la vostra pelle, vedete ogni ferita e cicatrice che avete subito aprirsi, lacerare nuovamente la vostra carne e spargere la vostra linfa vitale sulla terra. I vostri tentativi di abbattere le creature sono inutili, perché le vostre armi le attraversano senza problemi. Appaiono a centinaia e in pochi istanti l\'oscurità vi avvolge.
+	<string name="chp21_1_6__a">"Scendendo in profondità, il tunnel diventa sempre più stretto e, dove prima si poteva camminare spalla a spalla, ora si è costretti a camminare in fila indiana. L\'aria fetida si fa ancora più densa e un senso di torpore offusca la mente. Mentre il mondo si muove e la vista si annebbia, un rumore di passi attira la vostra attenzione. Quando alzate la torcia per guardare davanti a voi, l\'oscurità riempie di terrore. Mostri che avete combattuto e cose che avete visto solo nei vostri incubi si protraggono e strisciano verso di voi. Guardando la vostra pelle, vedete ogni ferita e cicatrice che avete subito aprirsi, lacerare nuovamente la vostra carne e spargere la vostra linfa vitale sulla terra. I vostri tentativi di abbattere le creature sono inutili, perché le vostre armi le attraversano senza problemi. Appaiono a centinaia e in pochi istanti l\'oscurità vi avvolge.
 
 Nel nero, una leggerezza eterea prende piede. I ricordi turbinano nella vostra mente
 
 Siete già morti. Il vostro funerale è stato molto tempo fa. La notte prima di partire per il Filo per prestare giuramento, fu accesa una pira per voi. Lì avete tagliato tutti i legami con la vostra vecchia vita e avete assunto il nome di 'aspiranti'. Avete trascorso un giorno e una notte nel Bosco Profondo per raggiungere la Pietra del Giuramento. Il viaggio che uccide molti non vi ha scoraggiato e avete trovato il cerchio di pietra. Lì LUI vi aspettava e fu pronunciato un Giuramento."</string>
 	<string name="chp21_1_7__c">"Ve lo scrollate di dosso. Questa è solo un\'illusione, un incubo. Qualunque sia la forza in gioco, non vi lascerete dominare. Le parole pronunciate il giorno in cui avete prestato giuramento risuonano nella vostra testa come il battito di un tamburo di guerra, dandovi chiarezza e scopo.
 
-Oggi prendete posizione.
-
-Oggi vi unite alla linea.
-
-La prima e l\'ultima linea.
-
-La linea dei morti gloriosi.
-
-Nessuno l\'ha spezzata.
-
-Sarai tu il primo?"</string>
-	<string name="chp21_1_8__a">"Il panico sale, minacciando di sopraffarvi. Ma mentre la follia avvolge le sue dita gelide intorno alla vostra mente, le parole del Giuramento risuonano nella vostra testa come il battito dei tamburi di guerra, dandovi chiarezza e scopo.
-
-Oggi prendete posizione.
+Oggi ti ergi.
 
 Oggi ti unisci alla linea.
 
@@ -8312,20 +8299,33 @@ La linea dei morti gloriosi.
 
 Nessuno l\'ha spezzata.
 
-Sarai tu il primo?
+Sarai forse tu il primo?"</string>
+	<string name="chp21_1_8__a">"Il panico sale, minacciando di sopraffarvi. Ma mentre la follia avvolge le sue dita gelide intorno alla vostra mente, le parole del Giuramento risuonano nella vostra testa come il battito dei tamburi di guerra, dandovi chiarezza e scopo.
+
+Oggi ti ergi.
+
+Oggi ti unisci alla linea.
+
+La prima e l\'ultima linea.
+
+La linea dei morti gloriosi.
+
+Nessuno l\'ha spezzata.
+
+Sarai forse tu il primo?
 
 No, non sarete i primi. Questa è solo un\'illusione, un incubo. Qualunque sia la forza in gioco, non vi lascerete dominare."</string>
-	<string name="chp21_1_9__a">"Tornati in sé, scambiate uno sguardo con i vostri compagni. Sembra che tutti abbiano avuto la stessa visione. Senza dire una parola, continuate a scendere nel tunnel. Dopo un po\', la discesa diventa estremamente ripida e una crescita ancora più fitta di radici e viti vi sbarra la strada. Qui non c\'è scelta. Non c\'è destra o sinistra, ma solo avanti, sempre più in profondità nel claustrofobico passaggio
+	<string name="chp21_1_9__a">"Tornati in sé, scambiate uno sguardo con i vostri compagni. Sembra che tutti abbiano avuto la stessa visione. Senza dire una parola, continuate a scendere nel tunnel. Dopo un po\', la discesa diventa estremamente ripida e una crescita ancora più fitta di radici e viticci vi sbarra la strada. Qui non c\'è scelta. Non c\'è destra o sinistra, ma solo avanti, sempre più in profondità nel claustrofobico passaggio
 
 Una terribile sensazione di malessere e corruzione vi investe, mentre il mondo improvvisamente si contorce. Le pareti iniziano a chiudersi intorno a voi, mentre le radici si allungano per legarvi le braccia e stringervi il petto, insinuandosi negli occhi e nella bocca. Sentite l\'albero malato dentro di voi, che vi schiaccia e vi soffoca, strangolandovi dall\'interno."</string>
 	<string name="chp21_2_10__a">\"È pietoso quanto sia ignara la vostra razza, che si aggira nel buio, incapace di guardare verso la luce,\" Samil dice con un ghigno. \"Non è sempre stato così. Avete dimenticato il vero modo di fare le cose. L\'Animus risponde al richiamo della vostra volontà. Un mare con le sue correnti, un regno con le sue leggi, dove la grande marea delle possibilità si infrange contro le coste delle aspettative. Una realtà in cui la scelta senza limiti regna su tutto. Il segreto del velo, la chiave per vivere di nuovo. Tutto è pronto per voi, la porta non può essere aperta dall\'interno ma voi potete aprirla dall\'esterno.</string>
-	<string name="chp21_2_11__a">"Samil sorride, scrollando le spalle. \"Forse eri il più intelligente? Il più coraggioso? Il più forte? Forse vi siete guadagnati il posto qui, avete dimostrato di essere degni? O forse è semplice: siete gli unici ad aver raggiunto questo posto?\"
+	<string name="chp21_2_11__a">"Samil sorride, scrollando le spalle. \"Forse eravate i più intelligenti? I più coraggiosi? I più forti? Forse vi siete guadagnati il posto qui, avete dimostrato di essere degni? O forse è semplice: siete gli unici ad aver raggiunto questo posto?\"
 
-I suoi occhi maligni osservano e attendono minacciosi sopra un ghigno sinistro. \"No,\" risponde infine. \"Vi ho portato qui attraverso la morte e la malattia, salvandovi la vita più volte per una sola ragione. Ho visto chi sei. E so che farai la scelta giusta.\""</string>
-	<string name="chp21_2_12__a">\"Sono certo che ormai sapete che la peste è collegata a Kharnus e Kharnus ad essa. Egli ha potere su tutta la flora e la fauna del Bosco Profondo, ma non sono mai stato in grado di dirigere la sua follia o di controllare gli esseri umani. Così, con un po\' di aiuto, è stata scoperta una soluzione per rimediare a questa limitazione. I risultati sono stati molto più incoraggianti di quanto sperato. Dopo tutto, possono essere piuttosto inventivi a modo loro. Vedete, un\'altra parte è terribilmente interessata alle vostre piccole città. Si dà il caso che i loro desideri servano ai miei scopi. La follia ha i suoi usi, come potete vedere, ma è solo la malizia che può creare la sofferenza che cerco. Ahimè, che tutto questo non vi riguardi. Non vivrete abbastanza a lungo per incontrarli.\"</string>
+I suoi occhi maligni osservano e attendono minacciosi sopra un ghigno sinistro. \"No\", risponde infine. \"Vi ho portato qui attraverso la morte e la malattia, salvandovi la vita più volte per una sola ragione. Ho visto chi siete. E so che farete la scelta giusta.\""</string>
+	<string name="chp21_2_12__a">\"Sono certo che ormai sapete che la peste è collegata a Kharnus e Kharnus ad essa. Egli ha potere su tutta la flora e la fauna del Bosco Profondo, ma non sono mai stato in grado di dirigere la sua follia o di controllare gli esseri umani. Così, con un po\' di aiuto, è stata scoperta una soluzione per rimediare a questa limitazione. I risultati sono stati molto più incoraggianti di quanto sperato. Dopo tutto, possono essere piuttosto inventivi a modo loro. Vedete, un\'altra parte è terribilmente interessata alle vostre piccole città. Si dà il caso che i loro desideri servano ai miei scopi. La follia ha la sua utilità, come potete vedere, ma è solo la malizia che può creare la sofferenza che cerco. Tuttavia non preoccupativi di tutto ciò. Non vivrete abbastanza a lungo per incontrarli.\"</string>
 	<string name="chp21_2_13__a">"Il sorriso di Samil vacilla mentre vi considera con più attenzione. \"Ah, capite! Ecco perché mi piacete. Sempre alla ricerca del vantaggio. Le creature non rispondono al mio richiamo,\" dice, guardando il grande A\'Dendri. \"Ma ho imparato a cavalcare la sua follia e persino a guidarne il corso, a volte. Suppongo che potrei fare un tentativo per conto vostro. Dopotutto, sarebbe uno spreco avervi fatto fare tutta questa strada per poi farvi morire prima che abbiate potuto fare la scelta più importante della vostra vita.\"
 
-Samil chiude gli occhi e vedete le creature che si nascondono nell\'ombra iniziare a fremere, come se lottassero per resistere alla loro volontà e ai loro desideri istintivi. Samil sembra sforzarsi per lo sforzo, quando all\'improvviso i suoi occhi si riaprono. \"Ecco. Vi ho fatto guadagnare un po\' di tempo. Usalo saggiamente, Oathsworn.\""</string>
+Samil chiude gli occhi e vedete le creature che si nascondono nell\'ombra iniziare a fremere, come se lottassero per resistere alla loro volontà e ai loro desideri istintivi. Samil sembra affaticarsi per lo sforzo, quando all\'improvviso i suoi occhi si riaprono. \"Ecco. Vi ho fatto guadagnare un po\' di tempo. Usalo saggiamente, Oathsworn.\""</string>
 	<string name="chp21_2_14__a">"\"Come ho detto, non sono me stesso, né l\'uomo che vedete davanti a voi. Un velo è steso tra noi. Se desiderate veramente conoscermi, dovete solo scegliere di liberarmi. In quel momento, tutto sarà rivelato. Vi prometto che non dico il falso quando dico di essere la vostra salvezza.\"
 
 Chiunque sia Samil, è chiaro che non vi sta dicendo tutto quello che sa. Le \'regole\' di questa scelta possono costringerlo a dire la verità, ma questo non sembra obbligarlo a rivelare tutto."</string>
@@ -8340,27 +8340,27 @@ Ha ragione. Non c\'è nessuno scenario in cui voi possiate immaginare di uscirne
 	<string name="chp21_2_17__a">\"Morte,\" Samil risponde in modo categorico. \"La vostra e quella di innumerevoli altri. La Peste devasterà la città ed il Bosco Profondo si ingozzerà. E voi... non lascerete mai questo posto. Migliaia di bocche affamate, desiderose di saziarsi della vostra carne, si stanno facendo strada attraverso il tunnel mentre parliamo. Non sarò in grado di trattenerli ancora a lungo e non c\'è altro modo per fuggire da questa tomba se non attraverso di loro.\"</string>
 	<string name="chp21_2_19__a">"Il ruggito dell\'orda di bestie che si precipita nel tunnel si fa sempre più forte. Vi precipitate verso l\'ingresso della caverna e vi accanite contro la pietra, la terra e le radici, facendo crollare il tunnel e sigillandovi all\'interno. Siete riusciti a guadagnare tempo. All\'improvviso, un pugno grande come un macigno si abbatte sul terreno dietro di voi e un ruggito senza bocca vi scuote le ossa. Kharnus, il padre degli A\'Dendri e creatore del Bosco Profondo, impazzito e sigillato in questa tomba vivente per centinaia di anni, si risveglia!
 
-\"È arrivato il vostro momento, Oathsworn, grida\" Samil. \"Ucciderai Kharnus e mi libererai, dando inizio alla fine del Bosco Profondo e alla morte della peste? O rifiuterai e morirai, condannando la città solo per tenermi rinchiuso in questa prigione?\"
+\"È arrivato il vostro momento, Oathsworn\", grida Samil. \"Ucciderai Kharnus e mi libererai, dando inizio alla fine del Bosco Profondo e alla morte della peste? O rifiuterai e morirai, condannando la città solo per tenermi rinchiuso in questa prigione?\"
 
-\"Vedi, si è sempre trattato di te!\" Dice Samil, guardando proprio te. \"Seduti a quel tavolo, settimana dopo settimana. Le vostre scelte hanno formato questo mondo, ogni scelta vi ha portati qui. Ora è il momento. Sciprirete l\'ultimo mistero? Mi libererete... mi libererete... mi libererete..\"
+\"Vedete, si è sempre trattato di voi!\" Dice Samil, guardandovi. \"Seduti a quel tavolo, settimana dopo settimana. Le vostre scelte hanno formato questo mondo, ogni scelta vi ha portati qui. Ora è il momento. Scoprirete l\'ultimo mistero? Mi libererete... mi libererete... mi libererete...\"
 
 Le parole di Samil rimbombano nella caverna, spostando e deformando il tessuto stesso della realtà. Le pareti sembrano allungarsi e contorcersi mentre cercate disperatamente altre opzioni oltre a quella presentata da Samil. Non ne trovate nessuna
 
-Kharnus si contorce tormentosamente, lottando contro i suoi legami e artigliando il pavimento, nel disperato tentativo di liberarsi. Non c\'è più tempo. La morte è sempre una certezza, questa è la sorte di tutti i Nipoti. L\'unica cosa che conta ora è che sia una buona morte.
+Kharnus si contorce tormentosamente, lottando contro i suoi legami e artigliando il pavimento, nel disperato tentativo di liberarsi. Non c\'è più tempo. La morte è sempre una certezza, questa è la sorte di tutti gli Oathsworn. L\'unica cosa che conta ora è che sia una buona morte.
 
 L\'opportunità di porre fine alla peste e di distruggere il Bosco Profondo è davanti a voi. Tutto ciò che dovete fare è uccidere Kharnus. Ma così facendo, scatenerete nel mondo qualsiasi cosa sia Samil. Qualcosa di primordiale in voi vi mette in guardia da questo, ma potreste perdere Verum per fermarlo? È chiaramente un essere di immenso potere. Se, con una sola bugia, è riuscito a provocare la distruzione del mondo, di cosa sarebbe capace, libero dalla sua schiavitù? Perdere Verum potrebbe significare salvare il resto del mondo? Guardate negli occhi di Samil, alla ricerca di un segno di umanità, di un motivo per consolarvi se decideste di liberarlo, ma lui non si sta nascondendo a voi ora. I suoi occhi sono pozzi neri e in essi vedete solo la morte che vi fissa.
 
 La caverna tace, mentre il mondo oscilla sul filo del rasoio.
 
 
-Scegliete. Una. Ultima. Volta!"</string>
+Scegliete. Un. Ultima. Volta!"</string>
 	<string name="chp21_2_1__a">"Entrate in un\'enorme caverna a cupola di terra e radici. Grandi pilastri spessi come alberi del Bosco Profondo si ergono dal pavimento e si mescolano a una fitta rete di viti che sostengono il soffitto. Un tenue bagliore ambrato scorre nelle loro vene, tracciando le pareti della caverna e percorrendo il terreno. La luce ambrata pulsa al ritmo di un cuore che batte nelle profondità della terra. Questo è l\'epicentro del sistema di gallerie, il Cuore di Tenebra.
 
 Più avanti si percepisce qualcosa che si muove. Qualcosa di grande. Avanzate con cautela, tenendo le torce in alto per avere una visione più chiara davanti a voi. Ciò che vedete vi blocca.
 
 Parzialmente sommerso dalla terra e legato alle pareti della caverna da decine di spesse radici pulsanti, dorme un essere colossale. La figura massiccia si agita e si contorce come se fosse afflitta da incubi. La parte della creatura non sepolta sotto terra deve essere due volte più grande di qualsiasi cosa abbiate mai affrontato. Un tempo era chiaramente un A\'Dendri, anche se ora si è gonfiato fino a raggiungere proporzioni gigantesche. Contorta e deformata, ogni radice e vite della caverna riconduce a questa creatura, formando la sua stessa prigione. Infine, dal suo petto sporge un enorme masso d\'ambra che pulsa in sincronia con le vene sulle pareti. Guardando da vicino,vedete qualcosa muoversi sotto la sua superficie arancione vitrea.
 
-\"Magnifico, vero?\" una voce fin troppo familiare vi chiede. Voltandovi di scatto, trovate Samil al vostro fianco, che fissa il gigante addormentato. Rivolgendo le armi verso di lui, Samil si limita a sorridere. \"Prego. Dopo tutto quello che abbiamo passato insieme?\" sorride, passando in rassegna le armi come se non ci fossero. \"Queste non vi serviranno... non ancora, comunque. Dovete prima imparare perché le impugnate. Ogni cosa deve accadere a suo tempo.\"
+\"Magnifico, vero?\" una voce fin troppo familiare vi chiede. Voltandovi di scatto, trovate Samil al vostro fianco, che fissa il gigante addormentato. Rivolgendo le armi verso di lui, Samil si limita a sorridere. \"Per cortesia, dopo tutto quello che abbiamo passato insieme?\" sorride, passando in rassegna le armi come se non ci fossero. \"Queste non vi serviranno... non ancora, comunque. Dovete prima imparare perché le impugnate. Ogni cosa deve accadere a suo tempo.\"
 
 
 Scegliete un\'opzione:"</string>
@@ -8368,16 +8368,16 @@ Scegliete un\'opzione:"</string>
 
 Un sorriso si estende lentamente sul volto di Samil, più ampio di quanto qualsiasi umano sia in grado di fare. Una risata malvagia e rimbombante inizia a levarsi dappertutto. Gli occhi di Samil non lasciano mai i vostri mentre scompare lentamente dalla vostra vista
 
-Il Sognatore Folle, Kharnus, ruggisce in segno di sfida. Si dimena da una parte all\'altra, strattonando le grandi liane che lo legano alla terra. È come se fosse consapevole della vostra decisione e volesse negarvela. Le spesse viti che incatenano il suo braccio destro si spezzano improvvisamente. Si sta liberando! Davanti a voi, la grande testa cornea di Kharnus rotola in avanti, fissando su di voi i suoi grandi occhi folli. È giunto il momento di adempiere al vostro giuramento."</string>
+Il Sognatore Folle, Kharnus, ruggisce in segno di sfida. Si dimena da una parte all\'altra, strattonando le grandi liane che lo legano alla terra. È come se fosse consapevole della vostra decisione e volesse negarvela. Le spesse viti che incatenano il suo braccio destro si spezzano improvvisamente. Si sta liberando! Davanti a voi, la grande testa cornuta di Kharnus rotola in avanti, fissando su di voi i suoi grandi occhi folli. È giunto il momento di adempiere al vostro giuramento."</string>
 	<string name="chp21_2_21__c">"La parola esce ferma e vera dalle vostre labbra, \"No.\"
 
 Samil trema di rabbia, l\'odio puro gli consuma il volto. Avete dedicato la vostra vita a mettere sotto terra demoni e orrori, non permetterai a questo di fuggiere. Lo senti nelle ossa: Samil è troppo pericoloso
 
-Il peso della vostra scelta non ti sfugge. La speranza di migliaia di vite è stata spenta da essa. Ma questo è il vostro fardello da portare, la vostra responsabilità. Un fardello più pesante della morte stessa. Verum può cadere, ma altre città sopravviveranno. La gente è sopravvissuta per mille anni al Bosco Profondo e potrebbe farlo per altri mille". Guardando negli occhi di Samil, tuttavia, nonvedete alcun futuro. Tutto potrebbe essere perduto se venisse liberato. Samil emette un ruggito profondo e pieno di rabbia, inveendo contro gli anni trascorsi nella sua prigione. Mentre la caverna trema, Samil scompare lentamente dalla vista, ma i suoi occhi pieni di odio non lasciano mai i vostri
+Il peso della vostra scelta non ti sfugge. La speranza di migliaia di vite è stata spenta da essa. Ma questo è il vostro fardello da portare, la vostra responsabilità. Un fardello più pesante della morte stessa. Verum può cadere, ma altre città sopravviveranno. La gente è sopravvissuta per mille anni al Bosco Profondo e potrebbe farlo per altri mille". Guardando negli occhi di Samil, tuttavia, nonvedete alcun futuro. Tutto potrebbe essere perduto se venisse liberato. Samil emette un ruggito profondo e pieno di rabbia, inveendo contro gli anni trascorsi nella sua prigione. Mentre la caverna trema, Samil scompare lentamente dalla vista, ma i suoi occhi pieni di odio non lasciano mai i vostri.
 
 Il Sognatore Folle, Kharnus, ruggisce nella sua follia. Si agita da una parte all\'altra, strattonando le grandi liane che lo legano alla terra. Vi distruggerà sicuramente in questo spazio ristretto e la vostra scelta vi impedisce di ucciderlo. È giunto il momento di affrontare finalmente la propria morte, di deporre le armi in questa tomba senza nome nelle profondità della terra. Poi lo vedete. Mentre Kharnus agita i suoi possenti pugni in modo selvaggio, distrugge la parete della caverna, mandando a terra grandi zolle di terra e pietra. I vostri occhi si dirigono verso i pilastri simili ad alberi che sorreggono il tetto e vi viene in mente una cosa. Se non potete ucciderlo, la soluzione migliore è seppellirlo. Se riuscite a ferire abbastanza l\'antico signore degli A\'Dendri, nella sua rabbia potrebbe far crollare l\'intera grotta su di sé. Vi seppellirete insieme a lui, ma almeno questo sacrificio impedirà a chiunque altro di essere attirato qui da Samil. Potreste sigillare la sua prigione per sempre
 
-Le spesse viti che incatenano il braccio destro di Kharnus si spezzano improvvisamente. Si sta liberando! Davanti a voi, la grande testa cornea di Kharnus rotola in avanti, fissando su di voi i suoi grandi occhi folli. È giunto il momento di adempiere al vostro ultimo giuramento."</string>
+Le spesse viti che incatenano il braccio destro di Kharnus si spezzano improvvisamente. Si sta liberando! Davanti a voi, la grande testa cornuta di Kharnus rotola in avanti, fissando su di voi i suoi grandi occhi folli. È giunto il momento di adempiere al vostro ultimo giuramento."</string>
 	<string name="chp21_2_2__a">"Riportando lo sguardo sull\'enorme essere, Samil parla con un tenero sorriso, \"Poverino. Una volta era il padre di un intero popolo. Un re che stava perdendo una guerra contro gli Uccisori di Alberi. Desiderava sconfiggere i suoi nemici. Così gli dissi come fare. Non ero che un sussurro quando venne da me per la prima volta. Niente di più che un tarlo nell\'orecchio. Gli diedi quello che mi aveva chiesto. Anche se non proprio nel modo in cui aveva voluto.\" Un sorriso si allarga sul volto di Samil mentre si volta verso di voi. \"Ora è il padre di un regno molto più grande,\" dice, alzando le mani per indicare l\'intero Bosco Profondo.
 
 Ricordate il racconto che avete letto nel diario del Sorvegliante. La storia della guerra con gli A\'Dendri per il \'Donatore di Vita\'. Diceva che gli A\'Dendri stavano perdendo la guerra quando arrivò la follia, che spazzò via la loro città e, in punto di morte, il Bosco Profondo la seguì. Se quello che dice Samil è vero, l\'enorme A\'Dendri sepolto qui sotto la terra deve essere la causa di tutto. I nomi di Soonari e Kharnus riaffiorano nella vostra mente. Erano madre e padre del popolo A\'Dendri? Se è così, allora questo deve essere Kharnus, il progenitore della razza A\'Dendri e, a quanto pare, anche la fonte del Bosco Profondo. Tutto porta a lui. L\'uccisione di questa gigantesca creatura segnerebbe la fine del Bosco Profondo?"</string>
@@ -8387,7 +8387,7 @@ Ti guarda per un attimo, fissandoti con occhi ammalianti. \"Sono molte cose,\" c
 
 Samil appoggia una mano sul grande masso d\'ambra che si gonfia all\'interno del gigantesco A\'Dendri e avvicina il viso alla sua superficie. Qualcosa all\'interno lo fissa. Improvvisamente, il sorriso di Samil evapora e i suoi occhi diventano pozzi neri di odio. \"Per eoni ho aspettato qui nelle profondità, ricordato solo dalla terra. A malapena un\'eco del mio vecchio io. Lasciato a marcire in questa prigione. Storpio. Legato. Spezzato.\"
 
-\"Ma ora non più,\" dice, tornando a sorridere. \"Il nostro amico qui mi ha aiutato a trovare una via d\'uscita. Le menzogne più potenti sono quelle che contengono la verità, e lui aveva un disperato bisogno che questa fosse vera.\" Un\'espressione di grande piacere si insinua sul volto di Samil. \"Ha bevuto dal Flusso di Vita. La Luce della Strega, come la chiamate voi, ed il mondo è morto. Un flusso infinito di anime tormentate si riversò su di lui, facendolo impazzire. Da allora, ogni morte mi ha nutrito. Tutto ciò che è stato consumato o reclamato, ogni singhiozzo spezzato, ogni incubo, ogni goccia di dolore ha trovato la strada per tornare qui, permettendomi di crescere dentro di lui e di diffondere il Bosco Profondo. Un tempio del potere della menzogna.\"
+\"Ma ora non più,\" dice, tornando a sorridere. \"Il nostro amico qui mi ha aiutato a trovare una via d\'uscita. Le menzogne più potenti sono quelle che contengono la verità, e lui aveva un disperato bisogno che questa fosse vera.\" Un\'espressione di grande piacere si insinua sul volto di Samil. \"Ha bevuto dal Flusso vitale o, come lo chiamate voi, la Luce della Strega, ed il mondo è morì. Un flusso infinito di anime tormentate si riversò su di lui, facendolo impazzire. Da allora, ogni morte mi ha nutrito. Tutto ciò che è stato consumato o reclamato, ogni singhiozzo spezzato, ogni incubo, ogni goccia di dolore ha trovato la strada per tornare qui, permettendomi di crescere dentro di lui e di diffondere il Bosco Profondo. Un tempio del potere della menzogna.\"
 
 Tornando a concentrarsi su di voi, Samil vi fissa con divertita soddisfazione. \"E ora tocca a voi. Perché, cosa più importante, io sono la vostra salvezza.\""</string>
 	<string name="chp21_2_4__a">"Mentre Samil è impegnato a parlare, voi valutate il gigante A\'Dendri addormentato per capire che tipo di minaccia rappresenta in combattimento. Forse ora è immobile, ma le sue braccia massicce potrebbero raggiungere qualsiasi punto della caverna ed il suo corpo è ben protetto da spesse placche di corteccia che sembrano in grado di respingere i colpi di qualsiasi arma. Guardando da vicino, tuttavia, notate piccole fessure nell\'armatura, dove una lama ben posizionata potrebbe perforare la carne fibrosa sottostante. La creatura emana un fetore corpuscolare di marciume e, a differenza degli altri A\'Dendri che avete visto, Kharnus è ricoperto di pustole ondulate e funghi. Se doveste affrontare il gigante, dovreste sicuramente fare i conti con le sue armi biologiche e con la sua immensa forza.
@@ -8405,14 +8405,14 @@ Rivolgete la domanda all\'entità che indossa il volto di Samil. Lui vi rivolge 
 
 Quando gli chiedete di spiegare a quale scelta si riferisce, Samil si gira lentamente e scruta la cosa che si contorce all\'interno della grande pietra d\'ambra sepolta nel petto di Kharnus. \"L\'unica scelta che sia mai stata importante, naturalmente. La scelta di liberarmi.\"
 
-Un gemito profondo emerge improvvisamente dal gigante assopito, facendo tremare la terra. Si sta lentamente svegliando! Nello stesso momento, sentite il suono graffiante della grande orda che torna dal suo banchetto alla Torre del Corvo. Presto saranno su di voi. Avete solo pochi minuti preziosi per imparare il più possibile dall\'essere travestito da Samil."</string>
-	<string name="chp21_epi_2__a">"Kharnus ruggisce di rabbia mentre la vostra Libera Compagnia lo attacca con tutto ciò che avete. Lavorando insieme, la vostra forma è impeccabile. Ondate di creature si abbattono su di voi, per poi essere respinte dai colpi mortali delle vostre armi. Quando uno di voi è minacciato, un altro si tuffa per proteggerlo, salvando vite e uccidendone altre. La caverna è un ossario di cadaveri, vegetazione marcia e caos. Onde di energia, del colore della Luce della Strega, si riversano dalle numerose ferite sul corpo di Kharnus. All\'interno della grande pietra d\'ambra, il volto di Samil si deforma e si contorce mentre il cristallo arancione inizia a rompersi. Denti digrignanti, artigli affilati e occhi assassini si abbattono su di voi a centinaia. È una marea di morte senza fine. Tuffandovi sotto il pugno di Kharnus, vi ritrovate accanto al torso del Sognatore Folle. È la vostra occasione. Con un ultimo potente colpo, sbattete la vostra arma contro la pietra d\'ambra che esplode.."</string>
-	<string name="chp21_epi_3__a">"Kharnus ruggisce di rabbia mentre la vostra Libera Compagnia lo attacca con tutto ciò che ha. Il gigante A\'Dendri sbatte i suoi pugni sul pavimento, sulle pareti e sul soffitto. Lavorando insieme, la vostra forma è impeccabile. Ondate di creature si abbattono su di voi, per poi essere respinte dai colpi mortali delle vostre armi. Quando uno di voi è minacciato, un altro si tuffa per proteggerlo, salvando vite e uccidendone altre. La caverna è un ossario di cadaveri, vegetazione marcia e caos. Onde di energia, del colore della Luce della Strega, si riversano dalle numerose ferite sul corpo di Kharnus, ma la sua immensa struttura resiste. Denti digrignanti, artigli affilati e occhi assassini si abbattono su di voi a centinaia. È una marea di morte senza fine. Dovete porre fine a tutto questo.
+Un gemito profondo emerge improvvisamente dal gigante assopito, facendo tremare la terra. Si sta lentamente svegliando! Nello stesso momento, sentite il suono graffiante della grande orda che torna dal suo banchetto al Forte del Corvo. Presto saranno su di voi. Avete solo pochi minuti preziosi per imparare il più possibile dall\'essere travestito da Samil."</string>
+	<string name="chp21_epi_2__a">"Kharnus ruggisce di rabbia mentre la vostra Libera Compagnia lo attacca con tutto ciò che avete. Lavorando insieme, la vostra azione è impeccabile. Ondate di creature si abbattono su di voi, per poi essere respinte dai colpi mortali delle vostre armi. Quando uno di voi è minacciato, un altro si tuffa per proteggerlo, salvando vite e uccidendone altre. La caverna è un ossario di cadaveri, vegetazione marcia e caos. Onde di energia, del colore della Luce della Strega, si riversano dalle numerose ferite sul corpo di Kharnus. All\'interno della grande pietra d\'ambra, il volto di Samil si deforma e si contorce mentre il cristallo arancione inizia a rompersi. Denti digrignanti, artigli affilati e occhi assassini si abbattono su di voi a centinaia. È una marea di morte senza fine. Tuffandovi sotto il pugno di Kharnus, vi ritrovate accanto al torso del Sognatore Folle. È la vostra occasione. Con un ultimo potente colpo, sbattete la vostra arma contro la pietra d\'ambra che esplode.."</string>
+	<string name="chp21_epi_3__a">"Kharnus ruggisce di rabbia mentre la vostra Libera Compagnia lo attacca con tutto ciò che ha. Il gigante A\'Dendri sbatte i suoi pugni sul pavimento, sulle pareti e sul soffitto. Lavorando insieme, la vostra azione è impeccabile. Ondate di creature si abbattono su di voi, per poi essere respinte dai colpi mortali delle vostre armi. Quando uno di voi è minacciato, un altro si tuffa per proteggerlo, salvando vite e uccidendone altre. La caverna è un ossario di cadaveri, vegetazione marcia e caos. Onde di energia, del colore della Luce della Strega, si riversano dalle numerose ferite sul corpo di Kharnus, ma la sua immensa struttura resiste. Denti digrignanti, artigli affilati e occhi assassini si abbattono su di voi a centinaia. È una marea di morte senza fine. Dovete porre fine a tutto questo.
 
 Tuffandovi sotto i pugni di Kharnus, vi ritrovate accanto a uno dei pilastri che si contorcono come alberi e che sorreggono il soffitto. È la vostra occasione. Lanciate la vostra arma contro il Sognatore Folle e lanciate un ruggito di sfida. Kharnus si avventa su di voi e vi sferra un grande e ampio manrovescio che sfreccia nell\'aria. Vi scansate all\'ultimo momento, il suo pugno vi supera appena e si schianta contro il grande pilastro. La vegetazione strettamente attorcigliata si deforma e si spezza sotto l\'incredibile forza, fratturando il pilastro in due."</string>
 	<string name="chp21_epi_4__a">"Gli occhi si aprono nel buio. Siete a terra, con la coscienza che rischia di sfuggirvi. Vi siete rotti diverse ossa, ora potete sentirle tutte. La luce ambra pulsante che illuminava la caverna si è fermata, il cuore del Bosco Profondo si è finalmente fermato. Non sentite i vostri compagni. Anzi, non sentite proprio nulla. Come se il mondo stesse trattenendo il respiro. Perché le creature non attaccano?
 
-La risposta arriva sotto forma di fuoco blu che incendia il cadavere di Kharnus. Le fiamme riempiono la caverna di luce azzurra e vedete le centinaia di occhi dell\'ospite fissarsi sulla fonte di luce, fissandola con cautela come un predatore che ne avverte un altro. All\'improvviso, si sente un coro di stridii, mentre ogni creatura si dirige verso i numerosi buchi sparsi sulle pareti della caverna, calpestandosi a vicenda nella fretta di fuggire. La forma imponente di Kharnus, signore del Wychwood e progenitore della razza A\'Dendri, esplode in fiamme blu e si divide in due. Dalla rovina esce l\'entità che un tempo si faceva chiamare Samil
+La risposta arriva sotto forma di fuoco blu che incendia il cadavere di Kharnus. Le fiamme riempiono la caverna di luce azzurra e vedete le centinaia di occhi dello sciame fissarsi sulla fonte di luce, fissandola con cautela come un predatore che ne avverte un altro. All\'improvviso, si sente un coro di stridii, mentre ogni creatura si dirige verso i numerosi buchi sparsi sulle pareti della caverna, calpestandosi a vicenda nella fretta di fuggire. La forma imponente di Kharnus, signore del Wychwood e progenitore della razza A\'Dendri, esplode in fiamme blu e si divide in due. Dalla rovina esce l\'entità che un tempo si faceva chiamare Samil
 
 L\'essere davanti a voi è impossibile da comprendere. Non ci sono parole per descriverlo. Ogni briciolo di ragione che avete vacilla di fronte a questa vista. L\'unica cosa chiara nella vostra mente è l\'istinto di sopravvivenza che vi urla di scappare. Improvvisamente, vi ricordate della profezia degli Avi. Vi era stato detto che ci sarebbe stata una scelta tra l\'oscurità e la morte. Guardando ciò che vi sta davanti, vi rendete conto di aver scelto la morte.
 
@@ -8424,7 +8424,7 @@ Greycane sorride, appoggiandosi alla sedia nella sala comune della nuova Quercia
 \"Erano loro, vero?\" chiede, sporgendosi. \"La Libera Compagnia che pose fine alla peste e fermò la crescita del Bosco Profondo?\" Greycane annuisce sorridendo. \"Com\'erano?\" continua, porgendo una pagliuzza di ferro come si usa fare per ricevere un racconto da un cantastorie
 
 \"Bene,\" dice Greycane, allontanando la mano dell\'uomo e rifiutando la moneta. \"Lasciate che vi racconti una storia..\""</string>
-	<string name="chp21_epi_6__a">"Atterrate pesantemente a una dozzina di metri di distanza. Mentre cercate disperatamente di risucchiare l\'aria nei polmoni, una bestia contorta di pelo e zanne vi piomba addosso. Non avendo un\'arma, si ricorre a colpire la bestia in faccia con i pugni nudi. I denti volano, ma la bestia è imperterrita. Mentre scardina la mascella per inghiottirvi la testa, un\'arma trafigge il cranio della creatura, la lama che sporge dalla bocca. Il cadavere scivola via dal vostro petto e la mano del vostro compagno lo sostituisce. Stringendovi forte, vi aiutate a mettervi in piedi. Quante volte vi siete salvati a vicenda in questo viaggio? Sfruttando uno dei vostri ultimi momenti preziosi, incontrate il loro sguardo e gli fate un ultimo cenno di ringraziamento.
+	<string name="chp21_epi_6__a">"Atterrate pesantemente a una dozzina di metri di distanza. Mentre cercate disperatamente di risucchiare l\'aria nei polmoni, una bestia contorta di pelo e zanne vi piomba addosso. Non avendo un\'arma, colpite la bestia in faccia con i pugni nudi. I denti volano, ma la bestia è imperterrita. Mentre scardina la mascella per inghiottirvi la testa, un\'arma trafigge il cranio della creatura, la lama che sporge dalla bocca. Il cadavere scivola via dal vostro petto e la mano del vostro compagno la sostituisce. Stringendovi forte, vi aiutate a mettervi in piedi. Quante volte vi siete salvati a vicenda in questo viaggio? Sfruttando uno dei vostri ultimi momenti preziosi, incontrate il loro sguardo e gli fate un ultimo cenno di ringraziamento.
 
 Guardando in alto, vedete che i pilastri iniziano a cadere mentre il soffitto si gonfia. Viti e radici serpeggianti iniziano a spezzarsi ed il mondo rimbomba mentre il cielo cade. Kharnus si ribella ai suoi legami, mentre un urlo assordante prorompe dalla pietra d\'ambra nel suo petto. Samil ha perso, il suo piano è stato sventato. Verrà sigillato qui dentro insieme a voi. Il Bosco Profondo continuerà a vivere e la peste si prenderà il suo tributo. Il mondo vi definirà dei falliti, ma se solo avessero visto ciò che avete visto nella mente di Samil, la penserebbero diversamente.
 
@@ -11553,17 +11553,17 @@ All\'improvviso, un getto d\'aria calda vi colpisce il viso ed il fumo vi punge 
 
 Senza alcun indizio, è impossibile dire se questa visione riguardi gli eventi in corso o quelli che devono ancora accadere. Prima di avvicinarsi, le fiamme scompaiono e davanti a voi si materializza un muro vuoto. Il suono dei bambini che cantano è più forte e più urgente.
 
-He is running through the fog
+Corre svelto nella nebbia
 
-To rest his head within the bog
+Per riposare la sua testa nella melma
 
-She is dancing on one leg
+Ella si erge col collo legato
 
-Hang her tightly by her neck
+Su una gamba sola danza in modo affannato
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
 Il vicolo alla vostra destra è fiancheggiato da lanterne che grondano sangue. Alla vostra sinistra, vedete centinaia di piccoli volti che vi fissano. Guardando meglio, vedete che sono giocattoli per bambini, bambole appese per il collo ai balconi.
 
@@ -11571,21 +11571,21 @@ Il vicolo alla vostra destra è fiancheggiato da lanterne che grondano sangue. A
 Scegliete un\'opzione:"</string>
 	<string name="chp8_15_3__c">"Seguendo il sentiero a destra, la nebbia si fa più fitta e non riuscite a orientarvi. Lentamente, davanti a voi cominciano a formarsi delle forme. Avvicinandovi, vi accorgete che le forme sono persone irrigidite dal Rigor Mortis e poste come statue sul sentiero.
 	
-Mentre camminate tra le statue dei cadaveri, riconoscete lo stile bastoniano dei loro abiti e vi si stringe il cuore alla vista delle catene che ognuno di loro porta al collo. Si tratta di rifugiati di Bastone che avevano cercato di seguirvi a Verum. I volti martoriati e la pelle scorticata sono i segni rivelatori di una vittima della Tribù della Cicatrice. Il loro viaggio si è concluso qui perché non siete riusciti a salvarli in tempo."</string>
+Mentre camminate tra le statue dei cadaveri, riconoscete lo stile dei loro abiti tipico di Bastone e vi si stringe il cuore alla vista delle catene che ognuno di loro porta al collo. Si tratta di rifugiati di Bastone che avevano cercato di seguirvi a Verum. I volti martoriati e la pelle scorticata sono i segni rivelatori di una vittima della Tribù della Cicatrice. Il loro viaggio si è concluso qui perché non siete riusciti a salvarli in tempo."</string>
 	<string name="chp8_15_4__a">Il gruppo con cui siete fuggiti da Bastone era semplicemente troppo numeroso per viaggiare in sicurezza attraverso il Bosco Profondo. Non c\'era modo di salvarli tutti. Avete salvato quelli che potevate.</string>
 	<string name="chp8_15_6__a">"Il suono del canto dei bambini si fa sempre più vicino e più forte: è pressante.
 
-He is running through the fog
+Corre svelto nella nebbia
 
-To rest his head within the bog
+Per riposare la sua testa nella melma
 
-She is dancing on one leg
+Ella si erge col collo legato
 
-Hang her tightly by her neck
+Su una gamba sola danza in modo affannato
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
 Non volendo soffermarsi qui, proseguite sul sentiero e raggiungete un altro bivio. Alla vostra destra, il sentiero fangoso scompare nella palude. Rocce e piccole isole sparse nella palude possono permettervi di attraversare il terreno se siete abbastanza agili.
 
@@ -11874,17 +11874,17 @@ Se il risultato è superiore agli attuali PUNTI FERITA del ragno, scegliere l\'o
 	<string name="chp8_25_12__c">Mentre proseguite lungo il sentiero, una vista familiare si staglia davanti a voi: la strada del filo. Il suo spesso cavo di ferro vi ha sempre condotto al sicuro e, quando lo afferrate, vi sentite pervasi da un senso di rinnovato proposito.</string>
 	<string name="chp8_25_1__c">"Questo tratto di sentiero è meno paludoso, la terra è più compatta. Intorno a voi, le voci dei bambini si fanno più forti. Sembra che urlino cantino più che cantare.
 
-He is running through the fog
+Corre svelto nella nebbia
 
-To rest his head within the bog
+Per riposare la sua testa nella melma
 
-She is dancing on one leg
+Ella si erge col collo legato
 
-Hang her tightly by her neck
+Su una gamba sola danza in modo affannato
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
 Quando il sentiero si apre in un\'ampia radura, si intravedono due sentieri divergenti. Alla vostra destra, c\'è un cartello con un cavallo di legno rotto appoggiato alla sua base. A sinistra, una fitta nebbia che impedisce di vedere cosa c\'è oltre.
 
@@ -11896,7 +11896,7 @@ Un rumore di spruzzi alle vostre spalle mette in allarme la vostra compagnia. Vi
 	<string name="chp8_25_3__a">Per la prima volta da quando siete arrivati in questo luogo folle, cominciate a stancarvi. Il terreno solido della radura sembra un buon posto per il necessario riposo.</string>
 	<string name="chp8_25_3__c">"Nonostante il canto incessante dei bambini nella vostra mente, riuscite a dormire qualche istante.
 	
-Al risveglio, la decisione sul percorso da seguire è ancora in sospeso. A destra, un cartello con sotto un cavallo giocattolo rotto. A sinistra, solo una fitta nebbia.
+Al risveglio, la decisione sul percorso da seguire è ancora in sospeso. A destra, un cartello con sotto un cavallo giocattolo in legno, rotto. A sinistra, solo una fitta nebbia.
 
 
 Scegliete un\'opzione:"</string>
@@ -11913,19 +11913,19 @@ Scegliete un\'opzione:"</string>
 	<string name="chp8_25_6__a">Questi devono essere gli uomini che sono stati dispersi dal Bloatfly. Conoscevano i rischi che comportava il lavoro. Non avete potuto salvarli, ma li avete vendicati.</string>
 	<string name="chp8_25_8__a">"Ne avete abbastanza di questi spettri del passato. Le parole del vostro Giuramento risuonano nella vostra mente, rafforzando la vostra determinazione, mentre continuate a lottare contro il costante ronzio della canzone dei bambini.
 
-He is running through the fog
+Corre svelto nella nebbia
 
-To rest his head within the bog
+Per riposare la sua testa nella melma
 
-She is dancing on one leg
+Ella si erge col collo legato
 
-Hang her tightly by her neck
+Su una gamba sola danza in modo affannato
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
-Il sentiero si divide di nuovo, per quella che si spera sia l\'ultima volta. A destra, un cartello con sotto un cavallo giocattolo rotto. A sinistra, solo una fitta nebbia.
+Il sentiero si divide di nuovo, per quella che si spera sia l\'ultima volta. A destra, un cartello con sotto un cavallo giocattolo in legno, rotto. A sinistra, solo una fitta nebbia.
 
 
 Scegliete un\'opzione:"</string>
@@ -12017,43 +12017,43 @@ Da qualche parte, nell\'oscurità e nel buio, si sente il canto flebile di un ba
 	
 Più in profondità nella valle il canto si fa più forte e vi rendete conto che non si tratta di un solo bambino, ma di un intero coro. La canzone sembra la versione contorta di una filastrocca.
 
-He is coming, won't be long.
+Sta arrivando, non andrà via
 
-Good children do right not wrong.
+I bravi bimbi seguono la retta via
 
-Tie a ribbon on the tree
+Per non perderti usa un fiocco
 
-Do not stray or run or flee.
+Non correre giù nel bosco
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
-Attraverso la nebbia, vedete due sfere arancioni in lontananza. Avvicinandovi, scoprite che sono un paio di lanterne ambrate avvolte in ferro che ondeggiano sopra un palo con due cartelli. Nessuno dei due cartelli ha una scritta e ognuno indica la direzione opposta.
+Attraverso la nebbia, vedete due sfere arancioni in lontananza. Avvicinandovi, scoprite che sono un paio di lanterne ambrate avvolte in ferro che ondeggiano sopra un palo con due cartelli. Nessuno dei due cartelli ha una scritta e ognuno indica la direzione opposta. La strada a destra presenta varie curve mentre la strada a destra sembra procedere in linea retta.
 
 Mentre vi chiedete da che parte andare, i bambini continuano a cantare la filastrocca.
 
 
 Scegliete un\'opzione:"</string>
-	<string name="chp8_3_4__a">"Seguite il sentiero a destra e alla fine arrivate a un massiccio cancello di legno. Improvvisamente vi ritrovate a Bastone - ma non può essere? Si sente un ruggito in lontananza e la terra trema. La creatura sta attraversando i vicoli, distruggendo la città, edificio dopo edificio.
+	<string name="chp8_3_4__a">"Seguite il sentiero a destra ed alla fine arrivate a un massiccio cancello di legno. Improvvisamente vi ritrovate a Bastone - ma non può essere? Si sente un ruggito in lontananza e la terra trema. La creatura sta attraversando i vicoli, distruggendo la città, edificio dopo edificio.
 	
 È già successo, non può essere vero. Mentre pensate questo e vi voltate, vedete di nuovo la palude davanti a voi e sentite la filastrocca che viene cantata.
 
-He is coming, won't be long.
+Sta arrivando, non andrà via
 
-Good children do right not wrong.
+I bravi bimbi seguono la retta via
 
-Tie a ribbon on the tree
+Per non perderti usa un fiocco
 
-Do not stray or run or flee.
+Non correre dentro al bosco
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
 Continuate il cammino, lasciandovi alle spalle il doloroso ricordo di Bastone. Non passa molto tempo prima di incontrare un altro bivio.
 
-Anche in questo caso, un paio di cartelli bianchi indicano la direzione opposta, ma questi due sono unici. Segni di artigli, come cicatrici, attraversano il cartello di destra, mentre un fiocco color del sangue è legato in modo disordinato al cartello di sinistra. Alla base del palo, qualcuno ha deposto un monumento commemorativo fatto di ramoscelli e ossa.
+In questo caso, un paio di cartelli bianchi indicano la direzione opposta, ma questi due sono unici. Segni di artigli, come cicatrici, attraversano il cartello di destra, mentre un fiocco color del sangue è legato in modo disordinato al cartello di sinistra. Alla base del palo, qualcuno ha deposto un monumento commemorativo fatto di ramoscelli e ossa.
 
 
 Scegliete un\'opzione:"</string>
@@ -12063,17 +12063,17 @@ All\'inizio di un vicolo, si trova il cadavere di una giovane donna. A giudicare
 	<string name="chp8_3_6__a">"Chiudete delicatamente gli occhi della donna. Forse non avete salvato questa donna, ma ne avete salvate molte altre il giorno in cui avete ucciso la Nutrice."</string>
 	<string name="chp8_3_8__a">"In un batter d\'occhio, vi trovate di nuovo nella palude nebbiosa davanti al massiccio cancello di legno. La canzone dei bambini ritorna, il suo coro inquietante si fa beffe di voi.
 
-He is coming, won't be long.
+Sta arrivando, non andrà via
 
-Good children do right not wrong.
+I bravi bimbi seguono la retta via
 
-Tie a ribbon on the tree
+Per non perderti usa un fiocco
 
-Do not stray or run or flee.
+Non correre dentro al bosco
 
-See a shadow, hear the thud. 
+Vedi uno spettro, senti il tonfo
 
-Hear the silence, see your blood.
+Poi il silenzio, con il sangue sul tuo petto
 
 Decidete di proseguire il cammino, lasciandovi alle spalle il doloroso ricordo di Bastone. Non passa molto tempo prima di incontrare un altro bivio. Anche in questo caso, un paio di cartelli bianchi indicano direzioni opposte, ma questi due sono unici. Segni di artigli, come cicatrici, attraversano il cartello di destra, mentre un fiocco color del sangue è legato in modo disordinato al cartello di sinistra. Alla base del palo, qualcuno ha deposto un monumento commemorativo fatto di ramoscelli e ossa.
 
@@ -15243,13 +15243,122 @@ CONTEGGIO DEL LIVELLO, DEL BOTTINO E DELLE PERDITE."</string>
 
 FORMARE LE SQUADRE REGOLARI:
 
-PRENDETE 10 DADI DA PUNTI FERITA NON UTILIZZATI, POSIZIONATELI VICINI E GIRATELI IN MODO CHE IL TOTALE DEI PIPS A FACCIA IN SU SIA UGUALE AL NUMERO DI SOLDATI CHE AVETE REGISTRATO SULLA SCHEDA DELLA LIBERA COMPAGNIA. DISTRIBUIRE I PUNTI FERITA IL PIÙ UNIFORMEMENTE POSSIBILE SUI DADI. OGNI DADO RAPPRESENTA UN SQUADRONE. ESEMPIO: JAMES HA 25 SOLDATI, QUINDI TRASFORMA I 10 DADI IN 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2 PER UN TOTALE DI 25.
+PRENDETE 10 DADI DA PUNTI FERITA NON UTILIZZATI, POSIZIONATELI VICINI E GIRATELI IN MODO CHE IL TOTALE A FACCIA IN SU SIA UGUALE AL NUMERO DI SOLDATI CHE AVETE REGISTRATO SULLA SCHEDA DELLA LIBERA COMPAGNIA. DISTRIBUIRE I PUNTI FERITA IL PIÙ UNIFORMEMENTE POSSIBILE SUI DADI. OGNI DADO RAPPRESENTA UN SQUADRONE. ESEMPIO: JAMES HA 25 SOLDATI, QUINDI TRASFORMA I 10 DADI IN 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2 PER UN TOTALE DI 25.
 
 FORMARE SQUADRE DI COMPAGNIE LIBERE:
 
-PIAZZATE IL NUMERO DI CARTE ALLEATO DA COMBATTIMENTO CHE VOLETE ACCANTO ALLA SCHEDA GIOCATORE/COMPAGNO DI OGNI OATHSWORN (IGNORATE GLI UOMINI D\'ARME, LE CARTE PROMO E GLI ALLEATI NON DA COMBATTIMENTO). IL PERSONAGGIO OATHSWORN E GLI ALLEATI SCELTI DIVENTANO UNA SQUADRA DI LIBERA COMPAGNIA. CI SARANNO 4 SQUADRE DI COMPAGNIA LIBERE IN TOTALE, UNA PER OGNI OATHSWORN.
+PIAZZATE IL NUMERO DI CARTE ALLEATO DA COMBATTIMENTO CHE VOLETE ACCANTO ALLA SCHEDA GIOCATORE/COMPAGNO DI OGNI OATHSWORN (IGNORATE I MERCENARI (MEN AT ARMS), LE CARTE PROMO E GLI ALLEATI NON DA COMBATTIMENTO). IL PERSONAGGIO OATHSWORN E GLI ALLEATI SCELTI DIVENTANO UNA SQUADRA DI LIBERA COMPAGNIA. CI SARANNO 4 SQUADRE DI COMPAGNIE LIBERE IN TOTALE, UNA PER OGNI OATHSWORN.
 
-APRITE IL DIARIO ALLE PAGINE 72-76 E LEGGETE LE REGOLE DELL\'ASSEDIO."</string>
+APRITE IL DIARIO ALLE PAGINE 72-76 E LEGGETE LE REGOLE DELL\'ASSEDIO. IL CONTENUTO DELLE REGOLE È ANCHE RIPORTATO DI SEGUITO
+
+
+Difendete il Forte del Corvo da diverse ondate di nemici finché la pira non sarà completa. Questo avviene quando 14 Cubi Might sono stati posizionati vicino alla pira sulla mappa.
+Durante l'assedio si applicano le seguenti regole:
+
+
+-Squadre regolari 
+
+I dadi Punti Ferita rappresentano le squadre di soldati che combatteranno per difendere Raven's Reach. Ogni Dado rappresenta una squadra di soldati regolari con un numero di soldati pari al valore sul dado. I soldati non lasceranno mai una squadra regolare una volta formata. 
+
+
+-Squadre di Compagnie Libere 
+
+I vostri Oathsworn si divideranno e formeranno squadre di Compagnie Libere per difendere il Forte del Corvo. Ciascuna squadra delle Compagnie Libere è rappresentata dalla miniatura dell'Oathsworn. L'intera squadra è rappresentata dalla miniatura. Gli alleati possono lasciare una squadra della Compagnie Libere solo per rinforzare altre squadre delle Compagnie Libere. Vi verrà detto quando potrete farlo.
+
+
+-Schieramento e ridispiegamento delle squadre 
+
+Durante il Capitolo, vi verrà detto di "schierare" o "ridisporre" le squadre. In questo caso, è possibile spostare un numero qualsiasi di Squadre in qualsiasi punto non violato della mappa. Le squadre possono essere ridispiegate da un luogo all'altro dopo l'ondata 1. È possibile schierare più squadre nella stesso luogo. Nessuna squadra può essere assegnata a un luogo violato.
+Se si sceglie di schierare una o più squadre in un luogo, è necessario posizionare almeno la quantità minima indicata sullo scudo stampato vicino al luogo. Se il numero di persone in un luogo si riduce al di sotto del minimo a causa di un assalto, i sopravvissuti possono rimanere lì fino al successivo riposizionamento.
+Ogni luogo ha uno scudo stampato sopra  di esso con un numero minimo e massimo di persone che possono difendere o attivare quel luogo. Ogni punto su un dado squadra e ogni individuo in una squadra di Compagnie Libere conta come una singola persona.
+È possibile posizionare un numero di persone superiore al massimo in un luogo, ma sarà possibile difendere/attivare quel luogo solo con il massimo consentito. 
+Eventuali persone in più non possono aggiungere alla difesa o attivare il luogo. 
+
+
+
+-Luoghi violati 
+
+Il nemico attaccherà e violerà i luoghi rendendoli inutilizzabili per il giocatore. Contrassegnare un luogo violato con un Cubo Might rosso o nero (il colore non ha importanza). Le brecce aggiungono +1 forza d'assalto a tutti i luoghi a cui sono collegate da frecce rosse. Il collegamento va in una sola direzione, quella in cui punta la freccia. 
+
+
+-Assalto 
+
+Diverse volte durante ogni ondata vi verrà detto che una luogo è in fase di assalto. Quando ciò accade, eseguite la relativa fase di assalto (1, 2 o 3) qui di seguito:
+
+1-Se ci sono squadre nel luogo assaltato: 
+
+Eseguire l'azione "Respingere un assalto" (vedi sotto). Questo fermerà l'assalto.
+
+2-Se non ci sono squadre nella luogo assaltato e questa non è ancora stata violata:
+
+Il luogo assaltata diventa violata. Quindi, assaltate la luogo successiva in direzione della 
+freccia rossa eseguendo la relativa fase di assalto (1, 2 o 3). L'assalto continua finché non raggiunge 
+una squadra o non fa breccia nella pira.
+
+3- Se il luogo assaltata è già stata violata:
+
+Assaltate il luogo successiva in direzione della freccia rossa eseguendo la fase d'assalto 
+corrispondente (1, 2 o 3). L'assalto continua finché non raggiunge una squadra o non sfonda la pira.
+
+
+Esempio: La Storia afferma che c'è un assalto al luogo 18. Il luogo 18 è già stata violata (fase 3), quindi il luogo 9 viene assaltata. Il luogo 9 non è difeso (fase 2), quindi diventerà violata (aggiungendo un cubo) e il luogo 8 sarà assaltato. Il luogo 8 è difeso (fase 1), quindi viene effettuata l'azione "Respingere un assalto" e l'assalto viene fermato. 
+
+
+-Respingere un assalto 
+
+Quando un luogo viene assaltato, si eseguono i seguenti 8 passi in ordine: 
+
+1. Calcolare la forza dell'assalto. Si calcola la forza dell'assalto prendendo la forza base descritta nella storia e aggiungendo +1 per ogni luogo violato che conduce al luogo assaltato in una linea ininterrotta di brecce nella direzione delle frecce rosse. 
+
+Esempio: Il luogo 8 viene assaltato. La storia afferma che la forza dell'assalto è 10. Sia il Foregate che il Northern Battlement sono stati violati (rappresentato dai cubi might). Entrambi sono collegati al luogo 8 da una freccia rossa, quindi viene aggiunto +2 alla forza dell'assalto, rendendo l'assalto di forza 12. Anche il Postern Gate a est è stato violato, ma poiché il luogo 9 non è stata violato, la linea di brecce viene interrotta e il bonus di forza non viene aggiunto all'assalto al luogo 8. 
+
+2. Pescate le carte in base ai tipi di persone nelle squadre presenti nel luogo: 1 Carta Nera per ogni Oathsworn. 1 Carta Gialla per alleato assieme ad un Oathsworn. 1 Carta Potere Bianca per ogni soldato. Pescare 2 o più carte vuote non fa fallire il respingimento, ma semplicemente non conta per il totale. Le carte possono comunque essere Critiche. Non si possono pescare carte extra a volontà (a differenza di una normale prova). Si possono usare i segnalini di Redraw su qualsiasi carta di questa pescata. La quantità massima di carte che si possono pescare (esclusi i ritiri e i critici) è pari al numero massimo stampato nello scudo sopra al luogo assaltato. 
+
+3. Sacrificare gli Alleati - Dopo aver rivelato il risultato, un numero qualsiasi di Alleati presenti può sacrificarsi (essere perso) per aggiungere una carta Nera al risultato.
+
+4. Confrontate il vostro risultato con la forza dell'assalto. Se il risultato è uguale o superiore alla forza d'assalto, perdete 2 persone. Se il risultato è da 1 a 4 inferiore alla forza d'assalto, perdete 4 persone. Se il risultato è 5 o più inferiore alla forza d'assalto perdete 6 persone. 
+
+5. Perdere persone - In questa fase, si perdono soldati abbassando i punti su un dado punti ferita, si perdono alleati e si perdono HP dai propri Oathsworn. Potete distribuire le perdite come desiderata: Perdere un soldato o un alleato equivale a 1 persona persa. 1 perdita di HP da parte di un Oathsworn equivale a 2 persone perse. Ogni Oathsworn può perdere solo 1 HP per assalto, anche se è da solo e rimane un eccesso di danni. Se un Oathsworn viene ridotto a 0 HP, viene immediatamente rimosso dal tabellone e non può più partecipare all'assedio in alcun modo. Nota: non è consigliabile perdere troppi HP in questo modo, poiché sarà comunque necessario combattere in un incontro dopo l'assedio. 
+
+6. Controllare la breccia - Se non ci sono più squadre in questo luogo, esso viene violato (posizionare un cubo rosso o nero su di esso). Ricordate che anche se il luogo è stato violato, l'assalto è stato comunque fermato. 
+
+7. Ritirata - Dopo la fase "Controlla la breccia", se uno o più Oathsworn hano perso HP durante l'assalto, allora si ritirano. Rimuovere le loro Miniature dalla mappa per il resto di questa ondata. Potranno essere schierati di nuovo nella prossima ondata. 
+
+8. Archiviate le carte alleato di coloro che sono stati persi durante l'assalto. 
+
+Esempio: 
+
+ASSALTO AL LUOGO 18 CON UNA FORZA PARI A 10. 
+Jimmy ha un Oathsworn al luogo 8, che ha 4 alleati nella sua Squadra di Compagnia Libera. Dato che il luogo 18 è stato violato, e così anche la 9, l'assalto si sposta al luogo 8. 
+
+1.La forza calcolata è 10 + 2 (da 2 brecce collegate), per un totale di 12.
+2. Jimmy pesca 1 Carta Potere Nera per l'Oathsworn e 4 Carte Potere Gialle per gli Alleati, per un totale di 9 carte. 
+3. Jimmy sacrifica 1 alleato per un'ulteriore carta Potere nera e pesca un 5. Il suo nuovo risultato è 14. 
+4. Poiché 14 è uguale o superiore a 12, Jimmy deve perdere 2 persone. 
+5. Jimmy decide di perdere altri 2 alleati. 
+6. Jimmy ha ancora una squadra sul luogo, quindi il luogo non viene violato. 
+7. Poiché l'Oathsworn di Jimmy non ha perso punti ferita, non si ritira. 
+8. Jimmy archivia l'alleato sacrificato e i due alleati persi. 
+
+
+Luoghi speciali 
+
+-La pira: Alla fine di ogni ondata, per ogni persona assegnata alla pira, vi verrà detto di aggiungere dei Cubi Might (fino ad un massimo di 4) al cerchio vicino alla pira, per rappresentare la sua costruzione. Quando 14 cubi saranno aggiunti a questo cerchio, avrete completato il vostro obiettivo. 
+
+-Torre del cannone: Una volta per ondata, dopo aver pescato le carte Potere, potete aggiungere +2 per persona in questo luogo al totale di respingimento di qualsiasi altro luogo (fino a un massimo di +10).
+
+-Vedetta: Dà un bonus per individuare la direzione dell'attacco prima di un'ondata. Ogni persona dà un bonus di +1. 
+
+-Armeria: A ogni ondata, le squadre in questo luogo cercano oggetti utili per rafforzare le difese. Più persone sono presenti, più alta è la possibilità di trovare qualcosa di utile. 
+
+Ogni volta che si ottiene uno di questi oggetti, si usa un Segnalino Numberato per indicare quali oggetti sono stati ottenuti. Gli oggetti possono essere conservati tra le ondate e utilizzati quando specificato di seguito. Non è necessario specificare quale squadra possiede un particolare oggetto. 
+
+-Segnalino Numerato 1. Mina: Posizionare il Segnalino Numerato 1 su un luogo non violato durante la fase di "schieramento delle squadre". Se il luogo viene assaltato, l'assalto si ferma immediatamente e viene respinto con successo anche se il luogo viene poi violato.
+
+-Segnalino Numerato 2. Olio Ardente: Può essere usato quando un alleato si "sacrifica". Si guadagna il bonus per il sacrificio senza perdere l'alleato. 
+
+-Segnalino Numerato 3. Sfera di luce: Può essere usata prima di pescare le carte per 'respingere un assalto'.  Raddoppia il danno estratto.
+"</string>
 	<string name="pop20_0_13__b">OGNI OATHSWORN PUÒ RIMETTERE UNA CARTA FERITA NEL MAZZO DELLE FERITE. POI RIMESCOLA IL MAZZO FERITE.</string>
 	<string name="pop20_0_13__d">ARCHIVIA LA CARTA ALLEATO 20/48 (FINNIAN).</string>
 	<string name="pop20_0_15__b">ARCHIVIA LA CARTA ALLEATO 1 (MIDGE).</string>
@@ -15265,7 +15374,7 @@ PIAZZARE UN SEGNALINO EMPOWERED X3 SULLA POSIZONE 10.
 
 PIAZZARE UN SEGNALINO DIFESA SULLA POSIZONE 22.
 
-OGNI OATHSWORN OTTERRÀ QUESTI GETTONI SE I LUOGHI IN QUESTIONE NON SONO STATI VIOLATI ALLA FINE DELLA PARTE NARRATIVA DEL CAPITOLO."</string>
+OGNI OATHSWORN OTTERRÀ QUESTI GETTONI SE I LUOGHI IN QUESTIONE NON SONO STATI SFONDATI ALLA FINE DELLA PARTE NARRATIVA DEL CAPITOLO."</string>
 	<string name="pop20_1_1__d">"DISPIEGARE TUTTE LE SQUADRE NELLE POSTAZIONI.
 
 RICORDARSI DI NON LASCIARE ALCUN PERCORSO NON DIFESO VERSO LA PIRA
@@ -15322,7 +15431,7 @@ SE AVETE SACRIFICATO DEGLI ALLEATI, ANDATE ALLE PAGINE 78-81 DEL DIARIO E LEGGET
 	<string name="pop20_2_13__b">RIMUOVERE I CUBI DI BRECCIA DALLE POSTAZIONI 1 E 3.</string>
 	<string name="pop20_2_1__b">"ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4). AGGIUNGERE 1 PER OGNI SQUADRONE SULLA POSIZIONE 9 (TORRE DI VEDETTA). MIGLIORE SARÀ IL RISULTATO DI QUESTO CONTROLLO, MAGGIORI SARANNO LE INFORMAZIONI OTTENUTE
 
-SE È PRESENTE UN OATHSWORN, I TRATTI GRATUITI DELLA COMPAGNIA POSSONO ESSERE UTILIZZATI PER QUESTO CONTROLLO."</string>
+SE È PRESENTE UN OATHSWORN, I TRATTI DELLA COMPAGNIA LIBERA POSSONO ESSERE UTILIZZATI PER QUESTO CONTROLLO."</string>
 	<string name="pop20_2_2__b">"SI POSSONO SPOSTARE LIBERAMENTE GLI ALLEATI TRA LE SQUADRE DI COMPAGNIE LIBERE.
 
 SI POSSONO RIDISPORRE TUTTI GLI SQUADRONI IN NUOVE POSIZIONI."</string>
@@ -15376,7 +15485,7 @@ SE AVETE SACRIFICATO DEGLI ALLEATI, ANDATE ALLE PAGINE 78-81 DEL DIARIO E LEGGET
 	<string name="pop20_3_17__b">RIMUOVERE I CUBI DI BRECCIA DALLE POSTAZIONI 1 E 3.</string>
 	<string name="pop20_3_1__b">"ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4). AGGIUNGERE 1 AL RISULTATO PER OGNI PERSONA CHE SI TROVA SUL LUOGO 9 (TORRE DI VEDETTA). MIGLIORE SARÀ IL RISULTATO DI QUESTO CONTROLLO, MAGGIORI SARANNO LE INFORMAZIONI OTTENUTE
 
-SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI GRATUITI DELLA COMPAGNIA PER QUESTO CONTROLLO."</string>
+SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI DELLA LIBERA COMPAGNIA PER QUESTO CONTROLLO."</string>
 	<string name="pop20_3_2__b">"SI POSSONO SPOSTARE LIBERAMENTE GLI ALLEATI TRA LE SQUADRE DELLA LIBERA COMPAGNIA.
 
 SI POSSONO RIDISPORRE TUTTI GLI SQUADRONI IN NUOVE POSIZIONI.
@@ -15420,7 +15529,7 @@ SE AVETE PERSO O SACRIFICATO DEGLI ALLEATI, ANDATE ALLE PAGINE 78-81 DEL DIARIO 
 	<string name="pop20_4_12__b">AGGIUNGETE UN CUBO MIGHT GIALLO AL CERCHIO VICINO ALLA PIRA PER OGNI PERSONA PRESENTE ALLA PIRA (MASSIMO 4).</string>
 	<string name="pop20_4_13__b">"ESEGUIRE UNA PROVA DI RICERCA (SEARCH CHECK, DIFFICOLTÀ 6). AGGIUNGERE 1 AL RISULTATO PER OGNI PERSONA CHE SI TROVA NEL LUOGO 4 (ARMERIA)
 
-SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI DI LIBERA COMPAGNIA PER QUESTO CONTROLLO.
+SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI DI COMPAGNIA LIBERA PER QUESTO CONTROLLO.
 
 SE AVETE SUCCESSO, TIRATE UN DADO PUNTI FERITA NON UTILIZZATO E OTTENETE IL SEGUENTE OGGETTO:
 
@@ -15437,7 +15546,7 @@ SE AVETE SACRIFICATO DEGLI ALLEATI, ANDATE ALLE PAGINE 78-81 DEL DIARIO E LEGGET
 	<string name="pop20_4_15__b">RIMUOVERE I CUBI DI BRECCIA DALLE POSTAZIONI 1 E 3.</string>
 	<string name="pop20_4_1__b">"ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4). AGGIUNGERE 1 AL RISULTATO PER OGNI PERSONA CHE SI TROVA SUL LUOGO 9 (TORRE DI VEDETTA). MIGLIORE SARÀ IL RISULTATO DI QUESTO CONTROLLO, MAGGIORI SARANNO LE INFORMAZIONI OTTENUTE
 
-SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI GRATUITI DELLA COMPAGNIA PER QUESTO CONTROLLO."</string>
+SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI DELLA COMPAGNIA LIBERA PER QUESTO CONTROLLO."</string>
 	<string name="pop20_4_2__b">"SI POSSONO SPOSTARE LIBERAMENTE GLI ALLEATI TRA LE SQUADRE DI COMPAGNIE LIBERE.
 
 SI POSSONO RIDISPORRE TUTTI GLI SQUADRONI IN NUOVE POSIZIONI."</string>
@@ -15466,7 +15575,7 @@ SE AVETE PERSO O SACRIFICATO DEGLI ALLEATI, ANDATE ALLE PAGINE 78-81 DEL DIARIO 
 	<string name="pop20_5_11__b">AGGIUNGETE UN CUBO MIGHT GIALLO AL CERCHIO VICINO ALLA PIRA PER OGNI PERSONA PRESENTE ALLA PIRA (MASSIMO 4).</string>
 	<string name="pop20_5_1__b">"ESEGUIRE UNA PROVA DI INDIVIDUAZIONE (SPOT CHECK, DIFFICOLTÀ 4). AGGIUNGERE 1 AL RISULTATO PER OGNI PERSONA CHE SI TROVA SUL LUOGO 9 (TORRE DI VEDETTA). MIGLIORE SARÀ IL RISULTATO DI QUESTO CONTROLLO, MAGGIORI SARANNO LE INFORMAZIONI OTTENUTE
 
-SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI GRATUITI DELLA COMPAGNIA PER QUESTO CONTROLLO."</string>
+SE È PRESENTE UN OATHSWORN, SI POSSONO USARE I TRATTI DELLA COMPAGNIA LIBERA PER QUESTO CONTROLLO."</string>
 	<string name="pop20_5_2__b">"SI POSSONO SPOSTARE LIBERAMENTE GLI ALLEATI TRA LE SQUADRE DI COMPAGNIE LIBERE.
 
 SI POSSONO RIDISPORRE TUTTI GLI SQUADRONI IN NUOVE POSIZIONI."</string>
@@ -15550,64 +15659,64 @@ PROCEDERE ALL\'INCONTRO DEL CAPITOLO 21 NEL LIBRO DEGLI INCONTRI."</string>
 	<string name="pop21_2_6__b">ESEGUIRE UNA PROVA DI RAGIONAMENTO (REASONING CHECK, DIFFICOLTÀ 4).</string>
 	<string name="pop21_epi_5__b">"QUESTA È LA FINE DI OATHSWORN: INTO THE DEEPWOOD.
 
-CONTATE IL PUNTEGGIO FINALE DELLA VOSTRA CAMPAGNA E SCOPRITE COME SARETE RICORDATI. CONTATE IL NUMERO DI KNOCKOUT DELLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E ANDATE ALLA VOCE DEL DIARIO CHE CORRISPONDE AL VOSTRO NUMERO. UTILIZZARE UNO SPECCHIO O LA FOTOCAMERA DEL TELEFONO PER LEGGERE IL TESTO INVERTITO IN FONDO ALLA PAGINA.
+CONTATE IL PUNTEGGIO FINALE DELLA VOSTRA CAMPAGNA E SCOPRITE COME SARETE RICORDATI. CONTATE IL NUMERO DI KNOCKOUT DELLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E ANDATE ALLA VOCE DEL DIARIO CHE CORRISPONDE AL VOSTRO NUMERO. UTILIZZARE UNO SPECCHIO O LA FOTOCAMERA DEL TELEFONO PER LEGGERE IL TESTO SPECCHIATO IN FONDO ALLA PAGINA.
 
 
-Numero sulla pista ad eliminazione diretta:
+Numero sulla tracciato di Knockout:
 
-0 - Andate a pagina 13 del Diario e leggete il testo invertito.
+0 - Andate a pagina 13 del Diario e leggete il testo specchiato.
 
-1-2 - Andare a pagina 7 del Diario e leggere il testo invertito.
+1-2 - Andare a pagina 7 del Diario e leggere il testo specchiato.
 
-3-4 - Andare a pagina 27 del Diario e leggere il testo invertito.
+3-4 - Andare a pagina 27 del Diario e leggere il testo specchiato.
 
-5-9 - Andare a pagina 17 del Diario e leggere il testo invertito.
+5-9 - Andare a pagina 17 del Diario e leggere il testo specchiato.
 
-10-19 - Andare a pagina 9 del Diario e leggere il testo invertito.
+10-19 - Andare a pagina 9 del Diario e leggere il testo specchiato.
 
-20-29 - Andare a pagina 19 del Diario e leggere il testo invertito.
+20-29 - Andare a pagina 19 del Diario e leggere il testo specchiato.
 
-30-39 - Andare a pagina 25 del Diario e leggere il testo invertito.
+30-39 - Andare a pagina 25 del Diario e leggere il testo specchiato.
 
-40-49 - Andare a pagina 29 del Diario e leggere il testo invertito.
+40-49 - Andare a pagina 29 del Diario e leggere il testo specchiato.
 
-50-59 - Andare a pagina 11 del Diario e leggere il testo invertito.
+50-59 - Andare a pagina 11 del Diario e leggere il testo specchiato.
 
-60-79 - Andare a pagina 21 del Diario e leggere il testo invertito.
+60-79 - Andare a pagina 21 del Diario e leggere il testo specchiato.
 
-80-99 - Andare a pagina 15 del Diario e leggere il testo invertito.
+80-99 - Andare a pagina 15 del Diario e leggere il testo specchiato.
 
-100+ - Andare a pagina 23 del Diario e leggere il testo invertito."</string>
+100+ - Andare a pagina 23 del Diario e leggere il testo specchiato."</string>
 	<string name="pop21_epi_6__b">"QUESTA È LA FINE DI OATHSWORN: INTO THE DEEPWOOD.
 
-CONTATE IL PUNTEGGIO FINALE DELLA VOSTRA CAMPAGNA E SCOPRITE COME SARETE RICORDATI. CONTATE IL NUMERO DI KNOCKOUT DELLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E ANDATE ALLA PAGINA DEL DIARIO CHE CORRISPONDE AL VOSTRO NUMERO. UTILIZZARE UNO SPECCHIO O LA FOTOCAMERA DEL TELEFONO PER LEGGERE IL TESTO INVERTITO IN FONDO ALLA PAGINA.
+CONTATE IL PUNTEGGIO FINALE DELLA VOSTRA CAMPAGNA E SCOPRITE COME SARETE RICORDATI. CONTATE IL NUMERO DI KNOCKOUT DELLA VOSTRA SCHEDA DELLA LIBERA COMPAGNIA E ANDATE ALLA PAGINA DEL DIARIO CHE CORRISPONDE AL VOSTRO NUMERO. UTILIZZARE UNO SPECCHIO O LA FOTOCAMERA DEL TELEFONO PER LEGGERE IL TESTO SPECCHIATO IN FONDO ALLA PAGINA.
 
 
-Numero sulla pista ad eliminazione diretta:
+Numero sulla tracciato di Knockout:
 
-0 - Andate a pagina 13 del Diario e leggete il testo invertito.
+0 - Andate a pagina 13 del Diario e leggete il testo specchiato.
 
-1-2 - Andare a pagina 7 del Diario e leggere il testo invertito.
+1-2 - Andare a pagina 7 del Diario e leggere il testo specchiato.
 
-3-4 - Andare a pagina 27 del Diario e leggere il testo invertito.
+3-4 - Andare a pagina 27 del Diario e leggere il testo specchiato.
 
-5-9 - Andare a pagina 17 del Diario e leggere il testo invertito.
+5-9 - Andare a pagina 17 del Diario e leggere il testo specchiato.
 
-10-19 - Andare a pagina 9 del Diario e leggere il testo invertito.
+10-19 - Andare a pagina 9 del Diario e leggere il testo specchiato.
 
-20-29 - Andare a pagina 19 del Diario e leggere il testo invertito.
+20-29 - Andare a pagina 19 del Diario e leggere il testo specchiato.
 
-30-39 - Andare a pagina 25 del Diario e leggere il testo invertito.
+30-39 - Andare a pagina 25 del Diario e leggere il testo specchiato.
 
-40-49 - Andare a pagina 29 del Diario e leggere il testo invertito.
+40-49 - Andare a pagina 29 del Diario e leggere il testo specchiato.
 
-50-59 - Andare a pagina 11 del Diario e leggere il testo invertito.
+50-59 - Andare a pagina 11 del Diario e leggere il testo specchiato.
 
-60-79 - Andare a pagina 21 del Diario e leggere il testo invertito.
+60-79 - Andare a pagina 21 del Diario e leggere il testo specchiato.
 
-80-99 - Andare a pagina 15 del Diario e leggere il testo invertito.
+80-99 - Andare a pagina 15 del Diario e leggere il testo specchiato.
 
-100+ - Andare a pagina 23 del Diario e leggere il testo invertito."</string>
+100+ - Andare a pagina 23 del Diario e leggere il testo specchiato."</string>
 	<string name="pop2_10_3__b">LA STREGA PERDE 1 PUNTO FERITA.</string>
 	<string name="pop2_10_6__b">"ACCETTERETE DI DARE LA CACCIA AL PIFFERAIO O INDAGHERETE SUI VOSTRI SOGNI?
 
